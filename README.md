@@ -1,5 +1,7 @@
 # Research Software
 
+[**submit**](https://forms.gle/P8kx8o994FhRBuCXA) research software.
+
 What is research software? Simply stated, research software exists to support
 research. If we want to pursue better research, we then must understand it [3].
 This leads us to ask some basic question:
@@ -44,3 +46,20 @@ community that utilizes it. If we can better characterize this community to
 better understand how its needs map to research software, we can again better support scientific discovery.
 
 [3] C. Goble, "Better Software, Better Research," in IEEE Internet Computing, vol. 18, no. 5, pp. 4-8, Sept.-Oct. 2014, doi: 10.1109/MIC.2014.88.
+
+
+# Development Work
+
+The taxonomy, list of software, and criteria should be developed at the same time,
+and open to community contribution. The original lists are [derived from the original document](https://docs.google.com/document/d/1wDb0udH9OrFWrMBsAVb8RrUMCKKRHoyEep7yveJ1d0k/edit) and represented here.
+
+ - [software](software) database development.
+ - [taxonomy](taxonomy) development.
+ 
+Separate software will be developed for interacting with these entities.
+
+## Taxonomy Development
+
+Before creating a programmatic representation of a taxonomy, we might develop categories
+based on a thought experiment of attempting to classify a set of well known software libraries.
+In fact, 
