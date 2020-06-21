@@ -1,6 +1,6 @@
 # Research Software
 
-[**submit**](https://forms.gle/P8kx8o994FhRBuCXA) research software.
+[**annotate**](https://rseng.github.io/rse/tutorials/annotation/) this research software.
 
 What is research software? Simply stated, research software exists to support
 research. If we want to pursue better research, we then must understand it [3].
@@ -52,7 +52,7 @@ better understand how its needs map to research software, we can again better su
 
 ## Database
 
-Using the [rseng/rse](https://github.com/rseng.rse) library we can run an automated nightly
+Using the [rseng/rse](https://github.com/rseng/rse) library we can run an automated nightly
 job to update our software database, located under [database](database) and represented
 with the configuraiton file [rse.ini](rse.ini). This nightly job will also automatically
 update an interface that deploys a static API for it (under development).
