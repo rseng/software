@@ -47,6 +47,12 @@ better understand how its needs map to research software, we can again better su
 
 [3] C. Goble, "Better Software, Better Research," in IEEE Internet Computing, vol. 18, no. 5, pp. 4-8, Sept.-Oct. 2014, doi: 10.1109/MIC.2014.88.
 
+## How does it work?
+
+ 1. **Taxonomy and Criteria** are served programaticaly from the [Research Software Engineering (rseng)](https://rseng.github.io/rseng) repository. If you want to contribute to either of those, that's the repository you should contribute to.
+ 2. **Database**: the [Research Software Encyclopedia](https://github.com/rseng/rse) drives generation and update of the database here.
+ 3. **Update** is automated using [GitHub Workflows](.github/workflows) that are run on a weekly bases.
+ 4. **Annotate** via the command line or web interface by cloning the repository to and following instructions in the [annotate docs](https://rseng.github.io/rse/tutorials/annotation/). Your contribution is recorded in the git history, and your avatar is added to the contributor graphic. Other methods of annotation will also be available.
 
 # Development Work
 
