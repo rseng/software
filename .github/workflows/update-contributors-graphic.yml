@@ -1,7 +1,6 @@
 name: update-contributors-graphic
 
 on:
-  pull_request: []
   schedule:
     # Monthly
     - cron: 0 0 1 * *
@@ -33,7 +32,7 @@ jobs:
         BRANCH_AGAINST: "master"
       run: |
         printf "GitHub Actor: ${GITHUB_ACTOR}\n"
-        export BRANCH_FROM="update/sourcecred-$(date '+%Y-%m-%d')"
+        export BRANCH_FROM="update/contributors-graphic-$(date '+%Y-%m-%d')"
         git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
         git branch
         git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
