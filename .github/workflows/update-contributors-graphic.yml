@@ -51,7 +51,7 @@ jobs:
            git commit -m "Automated deployment to update contributors.svg $(date '+%Y-%m-%d')"
            git push origin "${BRANCH_FROM}"
         fi
-        echo "::set-env name=BRANCH_PREFIX::${BRANCH_FROM}"
+        echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
 
     - name: Open Pull Request
       uses: vsoch/pull-request-action@1.0.6
