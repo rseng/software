@@ -1,0 +1,63 @@
+name: update-software
+
+on:
+  pull_request: []
+  schedule:
+    # Weekly
+    - cron: 0 0 * * 0
+
+jobs:
+  UpdateSoftware:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v1
+    - name: Install Research Software Encyclopedia
+      run: |
+        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools git
+        git clone -b fix/deps https://github.com/rseng/rse
+        cd rse
+        sudo pip3 install -e .[all]
+        # sudo pip3 install rse[all]
+        rse --version
+    - name: Run Latest Scrapers
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+          rse scrape joss
+          rse scrape rsnl
+          rse scrape biotools
+          rse scrape hal
+          rse export repos.txt
+
+    - name: Checkout New Branch
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_AGAINST: "master"
+      run: |
+        printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+        export BRANCH_FROM="update/software-$(date '+%Y-%m-%d')"
+        git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git branch
+        git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
+        git branch
+
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+
+        git add database/*
+
+        if git diff-index --quiet HEAD --; then
+           printf "No changes\n"
+        else
+           printf "Changes\n"
+           git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
+           git push origin "${BRANCH_FROM}"
+        fi
+        echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
+
+    - name: Open Pull Request
+      uses: vsoch/pull-request-action@1.0.6
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PULL_REQUEST_BRANCH: "master"
