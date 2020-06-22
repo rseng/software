@@ -21,7 +21,9 @@ jobs:
           printf "Removing previous docs folder...\n"
           rm -rf docs/
           printf "Exporting site...\n"
-          rse export --type static-web docs/
+          rse export --type static-web docs/ &&
+          sleep 20
+          exit 0
 
     - name: Checkout New Branch
       env:
