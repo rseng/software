@@ -5,7 +5,6 @@ on:
 
 jobs:
   UpdateStaticWeb:
-    runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
@@ -17,13 +16,11 @@ jobs:
         sudo pip3 install -e .[all]
         rse --version
     - name: Export site to docs/
-      run: |
-          printf "Removing previous docs folder...\n"
-          rm -rf docs/
-          printf "Exporting site...\n"
-          rse export --type static-web docs/ &&
-          sleep 20
-          exit 0
+      uses: rseng/rse-action@0.0.1
+      with:        
+        config: rse.ini
+        export_dir: docs
+        force: true
 
     - name: Checkout New Branch
       env:
