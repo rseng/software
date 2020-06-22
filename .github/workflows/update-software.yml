@@ -27,11 +27,12 @@ jobs:
           rse export repos.txt
 
     - name: Export site to docs/
-      uses: rseng/rse-action@0.0.1
+      uses: rseng/rse-action@0.0.11
       with:        
         config: rse.ini
         export_dir: docs
         force: true
+        prefix: software
 
     - name: Checkout New Branch
       env:
