@@ -1,38 +1,35 @@
-name: update-contributors-graphic
+name: update-static-site-export
 
 on:
-  schedule:
-    # Monthly
-    - cron: 0 0 1 * *
+  pull_request: []
 
 jobs:
-  UpdateGraphic:
+  UpdateStaticWeb:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
-    - name: Cache Data
-      id: cache-data
-      uses: actions/cache@v1
-      with:
-        path: sourcecred_data
-        key: ${{ runner.os }}-sourcecred_data
-    - name: Build the Docker image
-      env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install Research Software Encyclopedia
       run: |
-        mkdir -p sourcecred_data
-        SOURCECRED_GITHUB_TOKEN=${TOKEN} docker run -i -v $PWD/sourcecred_data:/data -e SOURCECRED_GITHUB_TOKEN sourcecred/sourcecred:dev load ${GITHUB_REPOSITORY}
-        SOURCECRED_GITHUB_TOKEN=${TOKEN} docker run -i -v $PWD/sourcecred_data:/data sourcecred/sourcecred:dev scores ${GITHUB_REPOSITORY} > scores.json
-        SOURCECRED_GITHUB_TOKEN=${TOKEN} docker run -i -e SOURCECRED_GITHUB_TOKEN sourcecred/widgets < scores.json > contributors.svg
-        cat contributors.svg
+        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools git
+        git clone -b add/flask-export https://github.com/rseng/rse
+        cd rse
+        sudo pip3 install -e .[all]
+        rse --version
+    - name: Export site to docs/
+      uses: rseng/rse-action@0.0.1
+      with:        
+        config: rse.ini
+        export_dir: docs
+        force: true
+
     - name: Checkout New Branch
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH_AGAINST: "master"
       run: |
         printf "GitHub Actor: ${GITHUB_ACTOR}\n"
-        export BRANCH_FROM="update/contributors-graphic-$(date '+%Y-%m-%d')"
+        export BRANCH_FROM="docs/update-$(date '+%Y-%m-%d')"
         git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
         git branch
         git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
@@ -41,13 +38,13 @@ jobs:
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@users.noreply.github.com"
 
-        git add contributors.svg
+        git add docs/*
 
         if git diff-index --quiet HEAD --; then
            printf "No changes\n"
         else
            printf "Changes\n"
-           git commit -m "Automated deployment to update contributors.svg $(date '+%Y-%m-%d')"
+           git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
            git push origin "${BRANCH_FROM}"
         fi
         echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
