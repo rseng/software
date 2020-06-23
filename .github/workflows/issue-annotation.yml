@@ -2,7 +2,7 @@ name: issue-annotation
 
 on:
   issues:
-    types: [opened]
+    types: [opened, edited]
 
 jobs:
   AnnotateIssue:
@@ -17,7 +17,10 @@ jobs:
         rse --version
     - name: Parse Comment
       run: |
-          echo "Comment: ${{ github.event.comment }}"
-          echo "Action: ${{ github.event.action }}"
-          echo "Changes: ${{ github.event.changes }}"
-          echo "Sender: ${{ github.event.sender }}"
+          echo "Title: ${{ github.event.issue.title }}"
+          echo "Body: ${{ github.event.issue.body }}"
+          echo "User: ${{ github.event.issue.user.login }}"
+          echo "Sender: ${{ github.event.issue.sender.login }}"
+          echo "Number: ${{ github.event.issue.number }}"
+          echo "URL: ${{ github.event.issue.html_url }}"
+          echo "Label: ${{ github.event.label }}"
