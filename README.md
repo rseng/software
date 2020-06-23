@@ -1,6 +1,7 @@
 # Research Software
 
-[**annotate**](https://rseng.github.io/rse/tutorials/annotation/) this research software.
+ - [**annotate**](https://rseng.github.io/rse/tutorials/annotation/) this research software.
+ - [**view**](https://rseng.github.io/software/) this research software.
 
 What is research software? Simply stated, research software exists to support
 research. If we want to pursue better research, we then must understand it [3].
@@ -54,27 +55,20 @@ better understand how its needs map to research software, we can again better su
  3. **Update** is automated using [GitHub Workflows](.github/workflows) that are run on a weekly bases.
  4. **Annotate** via the command line or web interface by cloning the repository to and following instructions in the [annotate docs](https://rseng.github.io/rse/tutorials/annotation/). Your contribution is recorded in the git history, and your avatar is added to the contributor graphic. Other methods of annotation will also be available.
 
+## Web Interface
+
+A static web interface of the software database is generated automatically and served
+by the repository at [https://rseng.github.io/software/](https://rseng.github.io/software/). If you want to generate this
+manually you can do:
+
+```bash
+rse export --type static-web docs/
+rse export --type static-web docs/ --force # if exists
+```
+
+Further, a static API is exported to [https://rseng.github.io/software/data.json](https://rseng.github.io/software/data.json) that provides a listing of your software repositories
+for some programmatic usage.
+
 # Development Work
 
-## Database
-
-Using the [rseng/rse](https://github.com/rseng/rse) library we can run an automated nightly
-job to update our software database, located under [database](database) and represented
-with the configuraiton file [rse.ini](rse.ini). This nightly job will also automatically
-update an interface that deploys a static API for it (under development).
-
-## Taxonomy and Criteria
-
-The taxonomy, list of software, and criteria should be developed at the same time,
-and open to community contribution. The original lists are [derived from the original document](https://docs.google.com/document/d/1wDb0udH9OrFWrMBsAVb8RrUMCKKRHoyEep7yveJ1d0k/edit) and represented here.
-
- - [software](software) database development.
- - [taxonomy](taxonomy) development.
- 
-Separate software will be developed for interacting with these entities.
-
-## Taxonomy Development
-
-Before creating a programmatic representation of a taxonomy, we might develop categories
-based on a thought experiment of attempting to classify a set of well known software libraries.
-In fact, 
+For previous development work, see the [devel](devel) folder.
