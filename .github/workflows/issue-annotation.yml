@@ -18,11 +18,24 @@ jobs:
         sudo pip3 install -e .[all]
         #sudo pip3 install rse[all]
         rse --version
-    - name: Parse Comment
+    - name: Parse Criteria Issue
+      if: github.event.label.name == 'criteria'
       run: |
           echo "${{ github.event.issue.body }}" > new-issue.txt
-          echo "Label: ${{ github.event.issue.labels[0].name }}"
-          echo "Label: ${{ github.event.issue.label }}"
+          echo "Label1: ${{ github.event.issue.labels[0].name }}"
+          echo "Label2: ${{ github.event.issue.label }}"
+          echo "Label3: ${{ github.event.label.name }}"
           # rse annotate (criteria|taxonomy) --file (filename) --username (user)
-          echo "rse annotate ${{ github.event.issue.label }} --file new-issue.txt --username ${{ github.event.issue.user.login }}"
-          rse annotate "${{ github.event.issue.label }}" --file new-issue.txt --username "${{ github.event.issue.user.login }}"
+          echo "rse annotate criteria --file new-issue.txt --username ${{ github.event.issue.user.login }}"
+          rse annotate criteria --file new-issue.txt --username "${{ github.event.issue.user.login }}"
+
+    - name: Parse Taxonomy Issue
+      if: github.event.label.name == 'taxonomy'
+      run: |
+          echo "${{ github.event.issue.body }}" > new-issue.txt
+          echo "Label1: ${{ github.event.issue.labels[0].name }}"
+          echo "Label2: ${{ github.event.issue.label }}"
+          echo "Label3: ${{ github.event.label.name }}"
+          # rse annotate (criteria|taxonomy) --file (filename) --username (user)
+          echo "rse annotate taxonomy --file new-issue.txt --username ${{ github.event.issue.user.login }}"
+          rse annotate taxonomy --file new-issue.txt --username "${{ github.event.issue.user.login }}"
