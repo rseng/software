@@ -4,6 +4,7 @@ about: Select this template to annotate software with taxonomy categories
 title: "[TAXONOMY]"
 labels: ''
 assignees: ''
+
 ---
 
 ## Repository
@@ -65,5 +66,3 @@ Software to support research >> Incidentally used for research >> Text editors a
 
  - [ ] RSE-taxonomy-communication-tools
 Software to support research >> Incidentally used for research >> Communication tools or platforms
-
-

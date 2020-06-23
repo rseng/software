@@ -2,8 +2,9 @@
 name: Annotate Criteria
 about: Select this template to annotate criteria for a software repository
 title: "[CRITERIA]"
-labels: ''
+labels: criteria
 assignees: ''
+
 ---
 
 ## Repository
@@ -32,4 +33,3 @@ Has the software been used by researchers?
 
  - [ ] criteria-RSE-absence
 Would taking away the software be a detriment to research?
-
