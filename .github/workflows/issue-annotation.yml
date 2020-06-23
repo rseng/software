@@ -1,0 +1,23 @@
+name: issue-annotation
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  AnnotateIssue:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+    - name: Install Research Software Encyclopedia
+      run: |
+        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools
+        sudo pip3 install rse[all]
+        rse --version
+    - name: Parse Comment
+      run: |
+          echo "Comment: ${{ github.event.comment }}"
+          echo "Action: ${{ github.event.action }}"
+          echo "Changes: ${{ github.event.changes }}"
+          echo "Sender: ${{ github.event.sender }}"
