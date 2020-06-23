@@ -28,4 +28,39 @@ jobs:
           rse annotate ${GITHUB_LABEL} --file new-issue.txt --username "${{ github.event.issue.user.login }}"
 
 
-# TODO add checkout new branch with taxonomy, etc. here
+# TODO this will need to update interface when annotate rendered there
+
+    - name: Checkout New Branch
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_AGAINST: "master"
+        GITHUB_LABEL: ${{ github.event.issue.labels[0].name }}
+        GITHUB_USER: "{{ github.event.issue.user.login }}"
+      run: |
+        printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+        export BRANCH_FROM="annotate/${GITHUB_LABEL}-${GITHUB_USER}-$(date '+%Y-%m-%d')"
+        git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git branch
+        git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
+        git branch
+
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+
+        git add database/*
+        git add docs/*
+
+        if git diff-index --quiet HEAD --; then
+           printf "No changes\n"
+        else
+           printf "Changes\n"
+           git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
+           git push origin "${BRANCH_FROM}"
+        fi
+        echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
+
+    - name: Open Pull Request
+      uses: vsoch/pull-request-action@1.0.6
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PULL_REQUEST_BRANCH: "master"
