@@ -25,7 +25,7 @@ Software to directly conduct research >> Domain-specific software >> Domain-spec
  - [ ] RSE-taxonomy-analysis
 Software to directly conduct research >> Domain-specific software >> Domain-specific analysis software
 
- - [ ] RSE-taxonomy-numerical libraries
+ - [ ] RSE-taxonomy-numerical-libraries
 Software to directly conduct research >> General software >> Numerical libraries
 
  - [ ] RSE-taxonomy-data-collection
