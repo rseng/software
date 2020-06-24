@@ -45,7 +45,7 @@ jobs:
         GITHUB_USER: "${{ github.event.issue.user.login }}"
       run: |
         printf "GitHub Actor: ${GITHUB_ACTOR}\n"
-        export BRANCH_FROM="annotate/${GITHUB_LABEL}-${GITHUB_USER}"
+        export BRANCH_FROM="annotate/${GITHUB_LABEL}-${GITHUB_USER}-$(date '+%Y-%m-%d/%H-%M-%S')"
         git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
         # Test if branch exists in remote

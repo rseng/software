@@ -5,7 +5,7 @@
   <title>The Research Software Encyclopedia</title>
   <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
   <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
-  <link rel="stylesheet" href="/software/static/css/style.css">
+  <link rel="stylesheet" href="//static/css/style.css">
   <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"></link>
@@ -61,6 +61,12 @@
             <button v-on:click="viewRow" class="btn btn-default" title="View">
               <span class="glyphicon glyphicon-eye-open"></span>
             </button>
+            <button v-on:click="annotateCriteriaRow" class="btn btn-default btn-sm" title="Annotate Criteria">
+              ✔️
+            </button>
+            <button v-on:click="annotateTaxonomyRow" class="btn btn-default btn-sm" title="Annotate Taxonomy">
+              🦉️
+            </button>
           </div>
         </td>
       </tr>
@@ -71,7 +77,7 @@
        <div class="controls">
          <button class="btn btn-sm" :disabled="!hasPage(-1)" @click="prevPage">←</button> 
          <button class="btn btn-sm" :disabled="!hasPage(1)"  @click="nextPage">→</button>
-         <span style="float:right; margin-right:30px; margin-top:20px" class="badge badge-primary">database: filesystem</span><a href="/api"><span style="float:right; margin-right:30px; margin-top:20px" class="badge badge-primary">api</span></a>
+         <span style="float:right; margin-right:30px; margin-top:20px" class="badge badge-primary">database: filesystem</span><a href="//api/repos"><span style="float:right; margin-right:30px; margin-top:20px" class="badge badge-primary">api</span></a>
 
          <hr>
          </div>
@@ -336,7 +342,7 @@ $('input[type="search"] + .search-cancel-button').hide($(this).prev('input').val
 
 const app = new Vue({
   data: () => ({
-    rows: [{"id": "github/scikit-learn/scikit-learn"},{"id": "github/tensorflow/tensorflow"},{"id": "github/mlpack/mlpack"},{"id": "github/BartoszBartmanski/StoSpa2"},{"id": "github/InsightSoftwareConsortium/ITK"},{"id": "github/zarr-developers/zarr-python"},{"id": "github/pandas-dev/pandas"},{"id": "github/QuantEcon/QuantEcon.py"},{"id": "github/scipy/scipy"},{"id": "github/snakemake/snakemake"},{"id": "github/Alcampopiano/hypothesize"},{"id": "github/weecology/retriever"},{"id": "github/hpcng/singularity"},{"id": "github/libdynd/dynd-python"},{"id": "github/bokeh/bokeh"},{"id": "github/cb-geo/mpm"},{"id": "github/spyder-ide/spyder"},{"id": "github/cupy/cupy"},{"id": "github/qpv-research-group/solcore5"},{"id": "github/LiberTEM/LiberTEM"},{"id": "github/SchedMD/slurm"},{"id": "github/HajkD/LTRpred"},{"id": "github/timoast/signac"},{"id": "github/numpy/numpy"},{"id": "github/clawpack/clawpack"},{"id": "github/clawpack/pyclaw"},{"id": "github/Effective-Quadratures/Effective-Quadratures"},{"id": "github/scikit-image/scikit-image"},{"id": "github/numba/numba"},{"id": "github/arviz-devs/arviz"},{"id": "github/pvlib/pvlib-python"},{"id": "github/linqs/psl"},{"id": "github/biocore/scikit-bio"},{"id": "github/MDAnalysis/mdanalysis"},{"id": "github/anmolter/XLUR"},{"id": "github/RaRe-Technologies/gensim"},{"id": "github/FEniCS/ffcx"},{"id": "github/pysal/pysal"},{"id": "github/KVSlab/turtleFSI"},{"id": "github/DistrictDataLabs/yellowbrick"},{"id": "github/qutip/qutip"},{"id": "github/Cantera/cantera"},{"id": "github/pydata/xarray"},{"id": "github/cython/cython"},{"id": "github/JuliaOpt/JuMP.jl"},{"id": "github/networkx/networkx"},{"id": "github/jupyter/notebook"},{"id": "github/nextflow-io/nextflow"},{"id": "github/rgmyr/corebreakout"},{"id": "github/spack/spack"},{"id": "github/ipython/ipython"},{"id": "github/colour-science/colour"},{"id": "github/Theano/Theano"},{"id": "github/biolab/orange3"},{"id": "github/Blosc/c-blosc"},{"id": "github/matplotlib/matplotlib"},{"id": "github/aiidateam/aiida-core"},{"id": "github/dask/dask"},{"id": "github/JuliaLang/julia"},{"id": "github/pymc-devs/pymc3"},{"id": "github/conda/conda"},{"id": "github/geopandas/geopandas"},{"id": "github/ropensci/drake"},{"id": "github/ropensci/plotly"},{"id": "github/ropensci/opentripplanner"},{"id": "github/mzy2240/ESA"},{"id": "github/plotly/dash"},{"id": "github/devitocodes/devito"},{"id": "github/broadinstitute/cromwell"},{"id": "github/econ-ark/HARK"},{"id": "github/conda-forge/conda-smithy"},{"id": "github/astropy/astropy"},{"id": "github/jmschrei/pomegranate"},{"id": "github/openjournals/joss"},{"id": "github/statsmodels/statsmodels"},{"id": "github/sunpy/sunpy"},{"id": "github/coljac/sensie"},{"id": "github/stan-dev/stan"},{"id": "github/mathjax/MathJax"},{"id": "github/samhforbes/PupillometryR"},{"id": "github/optuna/optuna"},{"id": "github/singularityhub/sregistry"},{"id": "github/singularityhub/singularity-compose"},{"id": "github/PyTables/PyTables"}],
+    rows: [{"id": "github/scikit-learn/scikit-learn"},{"id": "github/tensorflow/tensorflow"},{"id": "github/mlpack/mlpack"},{"id": "github/BartoszBartmanski/StoSpa2"},{"id": "github/InsightSoftwareConsortium/ITK"},{"id": "github/zarr-developers/zarr-python"},{"id": "github/pandas-dev/pandas"},{"id": "github/QuantEcon/QuantEcon.py"},{"id": "github/scipy/scipy"},{"id": "github/snakemake/snakemake"},{"id": "github/Alcampopiano/hypothesize"},{"id": "github/weecology/retriever"},{"id": "github/hpcng/singularity"},{"id": "github/libdynd/dynd-python"},{"id": "github/bokeh/bokeh"},{"id": "github/cb-geo/mpm"},{"id": "github/spyder-ide/spyder"},{"id": "github/cupy/cupy"},{"id": "github/qpv-research-group/solcore5"},{"id": "github/LiberTEM/LiberTEM"},{"id": "github/SchedMD/slurm"},{"id": "github/HajkD/LTRpred"},{"id": "github/timoast/signac"},{"id": "github/numpy/numpy"},{"id": "github/clawpack/clawpack"},{"id": "github/clawpack/pyclaw"},{"id": "github/Effective-Quadratures/Effective-Quadratures"},{"id": "github/scikit-image/scikit-image"},{"id": "github/numba/numba"},{"id": "github/arviz-devs/arviz"},{"id": "github/pvlib/pvlib-python"},{"id": "github/linqs/psl"},{"id": "github/biocore/scikit-bio"},{"id": "github/MDAnalysis/mdanalysis"},{"id": "github/anmolter/XLUR"},{"id": "github/RaRe-Technologies/gensim"},{"id": "github/FEniCS/ffcx"},{"id": "github/pysal/pysal"},{"id": "github/KVSlab/turtleFSI"},{"id": "github/DistrictDataLabs/yellowbrick"},{"id": "github/qutip/qutip"},{"id": "github/Cantera/cantera"},{"id": "github/pydata/xarray"},{"id": "github/cython/cython"},{"id": "github/JuliaOpt/JuMP.jl"},{"id": "github/networkx/networkx"},{"id": "github/jupyter/notebook"},{"id": "github/nextflow-io/nextflow"},{"id": "github/rgmyr/corebreakout"},{"id": "github/spack/spack"},{"id": "github/ipython/ipython"},{"id": "github/colour-science/colour"},{"id": "github/Theano/Theano"},{"id": "github/biolab/orange3"},{"id": "github/Blosc/c-blosc"},{"id": "github/matplotlib/matplotlib"},{"id": "github/aiidateam/aiida-core"},{"id": "github/dask/dask"},{"id": "github/JuliaLang/julia"},{"id": "github/pymc-devs/pymc3"},{"id": "github/conda/conda"},{"id": "github/geopandas/geopandas"},{"id": "github/ropensci/drake"},{"id": "github/ropensci/plotly"},{"id": "github/ropensci/opentripplanner"},{"id": "github/CLARIAH/grlc"},{"id": "github/mzy2240/ESA"},{"id": "github/plotly/dash"},{"id": "github/devitocodes/devito"},{"id": "github/broadinstitute/cromwell"},{"id": "github/econ-ark/HARK"},{"id": "github/conda-forge/conda-smithy"},{"id": "github/astropy/astropy"},{"id": "github/jmschrei/pomegranate"},{"id": "github/openjournals/joss"},{"id": "github/statsmodels/statsmodels"},{"id": "github/sunpy/sunpy"},{"id": "github/coljac/sensie"},{"id": "github/stan-dev/stan"},{"id": "github/vsoch/gridtest"},{"id": "github/mathjax/MathJax"},{"id": "github/samhforbes/PupillometryR"},{"id": "github/optuna/optuna"},{"id": "github/singularityhub/sregistry"},{"id": "github/singularityhub/singularity-compose"},{"id": "github/PyTables/PyTables"}],
     newRow: { name: '', command: '' },
     sort: 'id',
     sortDir:'asc',
@@ -352,7 +358,17 @@ const app = new Vue({
 
     viewRow: function(event) {
         var uid = $(event.target).closest('tr').find('td:first').text()
-        document.location = "/software/repository/" + uid
+        document.location = "/repository/" + uid
+    },
+
+    annotateTaxonomyRow: function(event) {
+        var uid = $(event.target).closest('tr').find('td:first').text()
+        document.location = "/repository/" + uid + "/annotate-taxonomy"
+    },
+
+    annotateCriteriaRow: function(event) {
+        var uid = $(event.target).closest('tr').find('td:first').text()
+        document.location = "/repository/" + uid + "/annotate-criteria"
     },
 
     sortBy: function(s) {
