@@ -42,7 +42,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH_AGAINST: "master"
-        GITHUB_LABEL: ${{ github.event.issue.labels[0].name }}
         GITHUB_USER: "${{ github.event.issue.user.login }}"
       run: |
         printf "GitHub Actor: ${GITHUB_ACTOR}\n"
@@ -81,7 +80,6 @@ jobs:
 
     - name: Open Pull Request
       uses: vsoch/pull-request-action@1.0.6
-      id: pr
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PULL_REQUEST_BRANCH: "master"
