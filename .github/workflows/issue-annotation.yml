@@ -10,25 +10,33 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
+    - name: Parse Criteria or Taxonomy Issue
+      run: |
+          echo "${{ github.event.issue.body }}" > new-issue.txt
+
+          GITHUB_LABEL=undefined
+          if grep -q "RSE-taxonomy" "new-issue.txt"; then
+              GITHUB_LABEL=taxonomy
+          else if grep -q "criteria-RSE" "new-issue.txt"; then
+              GITHUB_LABEL=criteria
+          fi
+          if [[ "${GITHUB_LABEL}" == "undefined" ]]; then
+              printf "This issue is not for taxonomy or criteria items.\n"
+              exit 1;
+          fi
+          echo "::set-env name=GITHUB_LABEL::${GITHUB_LABEL}"
+
     - name: Install Research Software Encyclopedia
       run: |
         sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools
         sudo pip3 install rse[all]
         rse --version
-    - name: Parse Criteria or Taxonomy Issue
-      env:
-        GITHUB_LABEL: ${{ github.event.issue.labels[0].name }}
+
+    - name: Parse Criteria or Taxonomy
       run: |
-          echo "${{ github.event.issue.body }}" > new-issue.txt
-
-          GITHUB_LABEL=criteria
-          if grep -q "RSE-taxonomy" "new-issue.txt"; then
-              GITHUB_LABEL=taxonomy
-          fi
-
-          # rse annotate (criteria|taxonomy) --file (filename) --username (user)
-          echo "rse annotate ${GITHUB_LABEL} --file new-issue.txt --username ${{ github.event.issue.user.login }}"
-          rse annotate ${GITHUB_LABEL} --file new-issue.txt --username "${{ github.event.issue.user.login }}"
+        # rse annotate (criteria|taxonomy) --file (filename) --username (user)
+        echo "rse annotate ${GITHUB_LABEL} --file new-issue.txt --username ${{ github.event.issue.user.login }}"
+        rse annotate ${GITHUB_LABEL} --file new-issue.txt --username "${{ github.event.issue.user.login }}"
 
     - name: Checkout New Branch
       env:
