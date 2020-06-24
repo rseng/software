@@ -1,8 +1,8 @@
 # Research Software
 
- - [**annotate**](https://github.com/rseng/software/issues/new/choose) a repository by opening an issue.
- - [**annotate**](https://rseng.github.io/rse/tutorials/annotation/) this research software via an interface on local machine.
- - [**view**](https://rseng.github.io/software/) this research software.
+ - [**annotate**](https://rseng.github.io/software/) a repository in the static web interface or by [opening an issue](https://github.com/rseng/software/issues/new/choose) or in bulk [on your local machine](https://rseng.github.io/rse/tutorials/annotation/) 
+ - [**view**](https://rseng.github.io/software/) this research software, taxonomy, and criteria
+ - Use the **api** to see [repos](https://rseng.github.io/software/api/repos/index.json), [taxonomy](https://rseng.github.io/software/api/taxonomy/index.json), and [criteria](https://rseng.github.io/software/api/criteria/index.json)
 
 **coming soon** annotate statically on the GitHub pages here, and automated weekly annotation prompts on social media and slack.
 
