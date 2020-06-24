@@ -12,11 +12,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Install Research Software Encyclopedia
       run: |
-        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools git
-        git clone https://github.com/rseng/rse
-        cd rse
-        sudo pip3 install -e .[all]
-        #sudo pip3 install rse[all]
+        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools
+        sudo pip3 install rse[all]
         rse --version
     - name: Parse Criteria or Taxonomy Issue
       env:
