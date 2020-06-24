@@ -85,5 +85,5 @@ jobs:
         ISSUE_URL: https://github.com/${GITHUB_REPOSITORY}${{ steps.pr.outputs.pull_request_number }}
       uses: marocchino/sticky-pull-request-comment@v1.1.0
       with:
-        message: 'Relevant issue is at ${{ ISSUE_URL }}'
+        message: 'Relevant issue is at ${ISSUE_URL}'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
