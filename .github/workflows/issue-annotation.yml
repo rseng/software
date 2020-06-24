@@ -17,7 +17,7 @@ jobs:
           GITHUB_LABEL=undefined
           if grep -q "RSE-taxonomy" "new-issue.txt"; then
               GITHUB_LABEL=taxonomy
-          else if grep -q "criteria-RSE" "new-issue.txt"; then
+          elif grep -q "criteria-RSE" "new-issue.txt"; then
               GITHUB_LABEL=criteria
           fi
           if [[ "${GITHUB_LABEL}" == "undefined" ]]; then
