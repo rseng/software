@@ -2,7 +2,7 @@
 name: Annotate Taxonomy
 about: Select this template to annotate software with taxonomy categories
 title: "[TAXONOMY]"
-labels: ''
+labels: taxonomy
 assignees: ''
 
 ---
