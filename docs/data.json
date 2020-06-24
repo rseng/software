@@ -2,602 +2,602 @@
     {
         "uid": "github/scikit-learn/scikit-learn",
         "url": "https://github.com/scikit-learn/scikit-learn",
-        "rel": "/repository/github/scikit-learn/scikit-learn",
+        "rel": "/software/repository/github/scikit-learn/scikit-learn",
         "avatar": "https://avatars2.githubusercontent.com/u/365630?v=4",
         "description": "scikit-learn: machine learning in Python"
     },
     {
         "uid": "github/tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
-        "rel": "/repository/github/tensorflow/tensorflow",
+        "rel": "/software/repository/github/tensorflow/tensorflow",
         "avatar": "https://avatars1.githubusercontent.com/u/15658638?v=4",
         "description": "An Open Source Machine Learning Framework for Everyone"
     },
     {
         "uid": "github/mlpack/mlpack",
         "url": "https://github.com/mlpack/mlpack",
-        "rel": "/repository/github/mlpack/mlpack",
+        "rel": "/software/repository/github/mlpack/mlpack",
         "avatar": "https://avatars0.githubusercontent.com/u/10216045?v=4",
         "description": "mlpack: a scalable C++ machine learning library -- "
     },
     {
         "uid": "github/BartoszBartmanski/StoSpa2",
         "url": "https://github.com/BartoszBartmanski/StoSpa2",
-        "rel": "/repository/github/BartoszBartmanski/StoSpa2",
+        "rel": "/software/repository/github/BartoszBartmanski/StoSpa2",
         "avatar": "https://avatars2.githubusercontent.com/u/16625050?v=4",
         "description": "A C++ software package for stochastic simulations of spatially extended systems"
     },
     {
         "uid": "github/InsightSoftwareConsortium/ITK",
         "url": "https://github.com/InsightSoftwareConsortium/ITK",
-        "rel": "/repository/github/InsightSoftwareConsortium/ITK",
+        "rel": "/software/repository/github/InsightSoftwareConsortium/ITK",
         "avatar": "https://avatars2.githubusercontent.com/u/319479?v=4",
         "description": "Insight Toolkit (ITK) -- Official Repository"
     },
     {
         "uid": "github/zarr-developers/zarr-python",
         "url": "https://github.com/zarr-developers/zarr-python",
-        "rel": "/repository/github/zarr-developers/zarr-python",
+        "rel": "/software/repository/github/zarr-developers/zarr-python",
         "avatar": "https://avatars0.githubusercontent.com/u/35050297?v=4",
         "description": "An implementation of chunked, compressed, N-dimensional arrays for Python."
     },
     {
         "uid": "github/pandas-dev/pandas",
         "url": "https://github.com/pandas-dev/pandas",
-        "rel": "/repository/github/pandas-dev/pandas",
+        "rel": "/software/repository/github/pandas-dev/pandas",
         "avatar": "https://avatars2.githubusercontent.com/u/21206976?v=4",
         "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
     },
     {
         "uid": "github/QuantEcon/QuantEcon.py",
         "url": "https://github.com/QuantEcon/QuantEcon.py",
-        "rel": "/repository/github/QuantEcon/QuantEcon.py",
+        "rel": "/software/repository/github/QuantEcon/QuantEcon.py",
         "avatar": "https://avatars1.githubusercontent.com/u/8703060?v=4",
         "description": "A community based Python library for quantitative economics"
     },
     {
         "uid": "github/scipy/scipy",
         "url": "https://github.com/scipy/scipy",
-        "rel": "/repository/github/scipy/scipy",
+        "rel": "/software/repository/github/scipy/scipy",
         "avatar": "https://avatars2.githubusercontent.com/u/288277?v=4",
         "description": "Scipy library main repository"
     },
     {
         "uid": "github/snakemake/snakemake",
         "url": "https://github.com/snakemake/snakemake",
-        "rel": "/repository/github/snakemake/snakemake",
+        "rel": "/software/repository/github/snakemake/snakemake",
         "avatar": "https://avatars1.githubusercontent.com/u/33450111?v=4",
         "description": "This is the development home of the workflow management system Snakemake. For general information, see"
     },
     {
         "uid": "github/Alcampopiano/hypothesize",
         "url": "https://github.com/Alcampopiano/hypothesize",
-        "rel": "/repository/github/Alcampopiano/hypothesize",
+        "rel": "/software/repository/github/Alcampopiano/hypothesize",
         "avatar": "https://avatars1.githubusercontent.com/u/4624246?v=4",
         "description": "Robust statistics in Python"
     },
     {
         "uid": "github/weecology/retriever",
         "url": "https://github.com/weecology/retriever",
-        "rel": "/repository/github/weecology/retriever",
+        "rel": "/software/repository/github/weecology/retriever",
         "avatar": "https://avatars3.githubusercontent.com/u/1156696?v=4",
         "description": "Quickly download, clean up, and install public datasets into a database management system"
     },
     {
         "uid": "github/hpcng/singularity",
         "url": "https://github.com/hpcng/singularity",
-        "rel": "/repository/github/hpcng/singularity",
+        "rel": "/software/repository/github/hpcng/singularity",
         "avatar": "https://avatars1.githubusercontent.com/u/62959980?v=4",
         "description": "Singularity: Application containers for Linux"
     },
     {
         "uid": "github/libdynd/dynd-python",
         "url": "https://github.com/libdynd/dynd-python",
-        "rel": "/repository/github/libdynd/dynd-python",
+        "rel": "/software/repository/github/libdynd/dynd-python",
         "avatar": "https://avatars1.githubusercontent.com/u/10065955?v=4",
         "description": "Python exposure of dynd"
     },
     {
         "uid": "github/bokeh/bokeh",
         "url": "https://github.com/bokeh/bokeh",
-        "rel": "/repository/github/bokeh/bokeh",
+        "rel": "/software/repository/github/bokeh/bokeh",
         "avatar": "https://avatars2.githubusercontent.com/u/8440965?v=4",
         "description": "Interactive Data Visualization in the browser, from  Python"
     },
     {
         "uid": "github/cb-geo/mpm",
         "url": "https://github.com/cb-geo/mpm",
-        "rel": "/repository/github/cb-geo/mpm",
+        "rel": "/software/repository/github/cb-geo/mpm",
         "avatar": "https://avatars2.githubusercontent.com/u/7850930?v=4",
         "description": "CB-Geo High-Performance Material Point Method"
     },
     {
         "uid": "github/spyder-ide/spyder",
         "url": "https://github.com/spyder-ide/spyder",
-        "rel": "/repository/github/spyder-ide/spyder",
+        "rel": "/software/repository/github/spyder-ide/spyder",
         "avatar": "https://avatars1.githubusercontent.com/u/1284937?v=4",
         "description": "Official repository for Spyder - The Scientific Python Development Environment"
     },
     {
         "uid": "github/cupy/cupy",
         "url": "https://github.com/cupy/cupy",
-        "rel": "/repository/github/cupy/cupy",
+        "rel": "/software/repository/github/cupy/cupy",
         "avatar": "https://avatars2.githubusercontent.com/u/23187665?v=4",
         "description": "NumPy-like API accelerated with CUDA"
     },
     {
         "uid": "github/qpv-research-group/solcore5",
         "url": "https://github.com/qpv-research-group/solcore5",
-        "rel": "/repository/github/qpv-research-group/solcore5",
+        "rel": "/software/repository/github/qpv-research-group/solcore5",
         "avatar": "https://avatars0.githubusercontent.com/u/48552948?v=4",
         "description": "A multi-scale, python-based library for the modelling of solar cells and semiconductor materials"
     },
     {
         "uid": "github/LiberTEM/LiberTEM",
         "url": "https://github.com/LiberTEM/LiberTEM",
-        "rel": "/repository/github/LiberTEM/LiberTEM",
+        "rel": "/software/repository/github/LiberTEM/LiberTEM",
         "avatar": "https://avatars0.githubusercontent.com/u/35299996?v=4",
         "description": "Open pixelated STEM framework"
     },
     {
         "uid": "github/SchedMD/slurm",
         "url": "https://github.com/SchedMD/slurm",
-        "rel": "/repository/github/SchedMD/slurm",
+        "rel": "/software/repository/github/SchedMD/slurm",
         "avatar": "https://avatars1.githubusercontent.com/u/740245?v=4",
         "description": "Slurm: A Highly Scalable Workload Manager"
     },
     {
         "uid": "github/HajkD/LTRpred",
         "url": "https://github.com/HajkD/LTRpred",
-        "rel": "/repository/github/HajkD/LTRpred",
+        "rel": "/software/repository/github/HajkD/LTRpred",
         "avatar": "https://avatars3.githubusercontent.com/u/4355251?v=4",
         "description": "De novo annotation of intact retrotransposons"
     },
     {
         "uid": "github/timoast/signac",
         "url": "https://github.com/timoast/signac",
-        "rel": "/repository/github/timoast/signac",
+        "rel": "/software/repository/github/timoast/signac",
         "avatar": "https://avatars2.githubusercontent.com/u/4591688?v=4",
         "description": "R toolkit for the analysis of single-cell chromatin data"
     },
     {
         "uid": "github/numpy/numpy",
         "url": "https://github.com/numpy/numpy",
-        "rel": "/repository/github/numpy/numpy",
+        "rel": "/software/repository/github/numpy/numpy",
         "avatar": "https://avatars2.githubusercontent.com/u/288276?v=4",
         "description": "The fundamental package for scientific computing with Python."
     },
     {
         "uid": "github/clawpack/clawpack",
         "url": "https://github.com/clawpack/clawpack",
-        "rel": "/repository/github/clawpack/clawpack",
+        "rel": "/software/repository/github/clawpack/clawpack",
         "avatar": "https://avatars3.githubusercontent.com/u/725474?v=4",
         "description": "Package for solving hyperbolic systems of partial differential equations"
     },
     {
         "uid": "github/clawpack/pyclaw",
         "url": "https://github.com/clawpack/pyclaw",
-        "rel": "/repository/github/clawpack/pyclaw",
+        "rel": "/software/repository/github/clawpack/pyclaw",
         "avatar": "https://avatars3.githubusercontent.com/u/725474?v=4",
         "description": "PyClaw is a Python-based interface to the algorithms of Clawpack and SharpClaw.  It also contains the PetClaw package, which adds parallelism through PETSc."
     },
     {
         "uid": "github/Effective-Quadratures/Effective-Quadratures",
         "url": "https://github.com/Effective-Quadratures/Effective-Quadratures",
-        "rel": "/repository/github/Effective-Quadratures/Effective-Quadratures",
+        "rel": "/software/repository/github/Effective-Quadratures/Effective-Quadratures",
         "avatar": "https://avatars3.githubusercontent.com/u/20475765?v=4",
         "description": null
     },
     {
         "uid": "github/scikit-image/scikit-image",
         "url": "https://github.com/scikit-image/scikit-image",
-        "rel": "/repository/github/scikit-image/scikit-image",
+        "rel": "/software/repository/github/scikit-image/scikit-image",
         "avatar": "https://avatars0.githubusercontent.com/u/897180?v=4",
         "description": "Image processing in Python"
     },
     {
         "uid": "github/numba/numba",
         "url": "https://github.com/numba/numba",
-        "rel": "/repository/github/numba/numba",
+        "rel": "/software/repository/github/numba/numba",
         "avatar": "https://avatars2.githubusercontent.com/u/1628082?v=4",
         "description": "NumPy aware dynamic Python compiler using LLVM"
     },
     {
         "uid": "github/arviz-devs/arviz",
         "url": "https://github.com/arviz-devs/arviz",
-        "rel": "/repository/github/arviz-devs/arviz",
+        "rel": "/software/repository/github/arviz-devs/arviz",
         "avatar": "https://avatars2.githubusercontent.com/u/13554846?v=4",
         "description": "Exploratory analysis of Bayesian models with Python"
     },
     {
         "uid": "github/pvlib/pvlib-python",
         "url": "https://github.com/pvlib/pvlib-python",
-        "rel": "/repository/github/pvlib/pvlib-python",
+        "rel": "/software/repository/github/pvlib/pvlib-python",
         "avatar": "https://avatars3.githubusercontent.com/u/11037261?v=4",
         "description": "A set of documented functions for simulating the performance of photovoltaic energy systems."
     },
     {
         "uid": "github/linqs/psl",
         "url": "https://github.com/linqs/psl",
-        "rel": "/repository/github/linqs/psl",
+        "rel": "/software/repository/github/linqs/psl",
         "avatar": "https://avatars1.githubusercontent.com/u/918327?v=4",
         "description": "The PSL software from the University of Maryland and the University of California Santa Cruz"
     },
     {
         "uid": "github/biocore/scikit-bio",
         "url": "https://github.com/biocore/scikit-bio",
-        "rel": "/repository/github/biocore/scikit-bio",
+        "rel": "/software/repository/github/biocore/scikit-bio",
         "avatar": "https://avatars3.githubusercontent.com/u/6241857?v=4",
         "description": "scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics."
     },
     {
         "uid": "github/MDAnalysis/mdanalysis",
         "url": "https://github.com/MDAnalysis/mdanalysis",
-        "rel": "/repository/github/MDAnalysis/mdanalysis",
+        "rel": "/software/repository/github/MDAnalysis/mdanalysis",
         "avatar": "https://avatars1.githubusercontent.com/u/11445951?v=4",
         "description": "MDAnalysis is a Python library to analyze molecular dynamics trajectories."
     },
     {
         "uid": "github/anmolter/XLUR",
         "url": "https://github.com/anmolter/XLUR",
-        "rel": "/repository/github/anmolter/XLUR",
+        "rel": "/software/repository/github/anmolter/XLUR",
         "avatar": "https://avatars3.githubusercontent.com/u/34544873?v=4",
         "description": "A Python toolbox for ArcGIS Pro  that enables the development and application of land use regression models."
     },
     {
         "uid": "github/RaRe-Technologies/gensim",
         "url": "https://github.com/RaRe-Technologies/gensim",
-        "rel": "/repository/github/RaRe-Technologies/gensim",
+        "rel": "/software/repository/github/RaRe-Technologies/gensim",
         "avatar": "https://avatars3.githubusercontent.com/u/12515886?v=4",
         "description": "Topic Modelling for Humans"
     },
     {
         "uid": "github/FEniCS/ffcx",
         "url": "https://github.com/FEniCS/ffcx",
-        "rel": "/repository/github/FEniCS/ffcx",
+        "rel": "/software/repository/github/FEniCS/ffcx",
         "avatar": "https://avatars2.githubusercontent.com/u/3868708?v=4",
         "description": "Next generation FEniCS Form Compiler"
     },
     {
         "uid": "github/pysal/pysal",
         "url": "https://github.com/pysal/pysal",
-        "rel": "/repository/github/pysal/pysal",
+        "rel": "/software/repository/github/pysal/pysal",
         "avatar": "https://avatars1.githubusercontent.com/u/3769919?v=4",
         "description": "PySAL: Python Spatial Analysis Library Meta-Package"
     },
     {
         "uid": "github/KVSlab/turtleFSI",
         "url": "https://github.com/KVSlab/turtleFSI",
-        "rel": "/repository/github/KVSlab/turtleFSI",
+        "rel": "/software/repository/github/KVSlab/turtleFSI",
         "avatar": "https://avatars3.githubusercontent.com/u/42640986?v=4",
         "description": "Monolithic Fluid-Structure Interaction (FSI) solver"
     },
     {
         "uid": "github/DistrictDataLabs/yellowbrick",
         "url": "https://github.com/DistrictDataLabs/yellowbrick",
-        "rel": "/repository/github/DistrictDataLabs/yellowbrick",
+        "rel": "/software/repository/github/DistrictDataLabs/yellowbrick",
         "avatar": "https://avatars2.githubusercontent.com/u/7107115?v=4",
         "description": "Visual analysis and diagnostic tools to facilitate machine learning model selection."
     },
     {
         "uid": "github/qutip/qutip",
         "url": "https://github.com/qutip/qutip",
-        "rel": "/repository/github/qutip/qutip",
+        "rel": "/software/repository/github/qutip/qutip",
         "avatar": "https://avatars0.githubusercontent.com/u/2517630?v=4",
         "description": "QuTiP: Quantum Toolbox in Python"
     },
     {
         "uid": "github/Cantera/cantera",
         "url": "https://github.com/Cantera/cantera",
-        "rel": "/repository/github/Cantera/cantera",
+        "rel": "/software/repository/github/Cantera/cantera",
         "avatar": "https://avatars2.githubusercontent.com/u/817698?v=4",
         "description": "Chemical kinetics, thermodynamics, and transport tool suite"
     },
     {
         "uid": "github/pydata/xarray",
         "url": "https://github.com/pydata/xarray",
-        "rel": "/repository/github/pydata/xarray",
+        "rel": "/software/repository/github/pydata/xarray",
         "avatar": "https://avatars0.githubusercontent.com/u/1284191?v=4",
         "description": "N-D labeled arrays and datasets in Python"
     },
     {
         "uid": "github/cython/cython",
         "url": "https://github.com/cython/cython",
-        "rel": "/repository/github/cython/cython",
+        "rel": "/software/repository/github/cython/cython",
         "avatar": "https://avatars3.githubusercontent.com/u/486082?v=4",
         "description": "The most widely used Python to C compiler"
     },
     {
         "uid": "github/JuliaOpt/JuMP.jl",
         "url": "https://github.com/jump-dev/JuMP.jl",
-        "rel": "/repository/github/JuliaOpt/JuMP.jl",
+        "rel": "/software/repository/github/JuliaOpt/JuMP.jl",
         "avatar": "https://avatars3.githubusercontent.com/u/48496332?v=4",
         "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)"
     },
     {
         "uid": "github/networkx/networkx",
         "url": "https://github.com/networkx/networkx",
-        "rel": "/repository/github/networkx/networkx",
+        "rel": "/software/repository/github/networkx/networkx",
         "avatar": "https://avatars2.githubusercontent.com/u/388785?v=4",
         "description": "Official NetworkX source code repository.  "
     },
     {
         "uid": "github/jupyter/notebook",
         "url": "https://github.com/jupyter/notebook",
-        "rel": "/repository/github/jupyter/notebook",
+        "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook"
     },
     {
         "uid": "github/nextflow-io/nextflow",
         "url": "https://github.com/nextflow-io/nextflow",
-        "rel": "/repository/github/nextflow-io/nextflow",
+        "rel": "/software/repository/github/nextflow-io/nextflow",
         "avatar": "https://avatars3.githubusercontent.com/u/6698688?v=4",
         "description": "A DSL for data-driven computational pipelines"
     },
     {
         "uid": "github/rgmyr/corebreakout",
         "url": "https://github.com/rgmyr/corebreakout",
-        "rel": "/repository/github/rgmyr/corebreakout",
+        "rel": "/software/repository/github/rgmyr/corebreakout",
         "avatar": "https://avatars1.githubusercontent.com/u/31017405?v=4",
         "description": "Segmentation and depth-alignment of geological core sample image columns via Mask-RCNN"
     },
     {
         "uid": "github/spack/spack",
         "url": "https://github.com/spack/spack",
-        "rel": "/repository/github/spack/spack",
+        "rel": "/software/repository/github/spack/spack",
         "avatar": "https://avatars2.githubusercontent.com/u/25539161?v=4",
         "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
     },
     {
         "uid": "github/ipython/ipython",
         "url": "https://github.com/ipython/ipython",
-        "rel": "/repository/github/ipython/ipython",
+        "rel": "/software/repository/github/ipython/ipython",
         "avatar": "https://avatars3.githubusercontent.com/u/230453?v=4",
         "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
     },
     {
         "uid": "github/colour-science/colour",
         "url": "https://github.com/colour-science/colour",
-        "rel": "/repository/github/colour-science/colour",
+        "rel": "/software/repository/github/colour-science/colour",
         "avatar": "https://avatars3.githubusercontent.com/u/8414607?v=4",
         "description": "Colour Science for Python"
     },
     {
         "uid": "github/Theano/Theano",
         "url": "https://github.com/Theano/Theano",
-        "rel": "/repository/github/Theano/Theano",
+        "rel": "/software/repository/github/Theano/Theano",
         "avatar": "https://avatars2.githubusercontent.com/u/970517?v=4",
         "description": "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation."
     },
     {
         "uid": "github/biolab/orange3",
         "url": "https://github.com/biolab/orange3",
-        "rel": "/repository/github/biolab/orange3",
+        "rel": "/software/repository/github/biolab/orange3",
         "avatar": "https://avatars0.githubusercontent.com/u/555189?v=4",
         "description": "\ud83c\udf4a :bar_chart: :bulb: Orange: Interactive data analysis https://orange.biolab.si"
     },
     {
         "uid": "github/Blosc/c-blosc",
         "url": "https://github.com/Blosc/c-blosc",
-        "rel": "/repository/github/Blosc/c-blosc",
+        "rel": "/software/repository/github/Blosc/c-blosc",
         "avatar": "https://avatars3.githubusercontent.com/u/6469856?v=4",
         "description": "A blocking, shuffling and loss-less compression library that can be faster than `memcpy()`."
     },
     {
         "uid": "github/matplotlib/matplotlib",
         "url": "https://github.com/matplotlib/matplotlib",
-        "rel": "/repository/github/matplotlib/matplotlib",
+        "rel": "/software/repository/github/matplotlib/matplotlib",
         "avatar": "https://avatars0.githubusercontent.com/u/215947?v=4",
         "description": "matplotlib: plotting with Python"
     },
     {
         "uid": "github/aiidateam/aiida-core",
         "url": "https://github.com/aiidateam/aiida-core",
-        "rel": "/repository/github/aiidateam/aiida-core",
+        "rel": "/software/repository/github/aiidateam/aiida-core",
         "avatar": "https://avatars3.githubusercontent.com/u/22181836?v=4",
         "description": "The official repository for the AiiDA code"
     },
     {
         "uid": "github/dask/dask",
         "url": "https://github.com/dask/dask",
-        "rel": "/repository/github/dask/dask",
+        "rel": "/software/repository/github/dask/dask",
         "avatar": "https://avatars1.githubusercontent.com/u/17131925?v=4",
         "description": "Parallel computing with task scheduling"
     },
     {
         "uid": "github/JuliaLang/julia",
         "url": "https://github.com/JuliaLang/julia",
-        "rel": "/repository/github/JuliaLang/julia",
+        "rel": "/software/repository/github/JuliaLang/julia",
         "avatar": "https://avatars0.githubusercontent.com/u/743164?v=4",
         "description": "The Julia Language: A fresh approach to technical computing."
     },
     {
         "uid": "github/pymc-devs/pymc3",
         "url": "https://github.com/pymc-devs/pymc3",
-        "rel": "/repository/github/pymc-devs/pymc3",
+        "rel": "/software/repository/github/pymc-devs/pymc3",
         "avatar": "https://avatars3.githubusercontent.com/u/81121?v=4",
         "description": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano"
     },
     {
         "uid": "github/conda/conda",
         "url": "https://github.com/conda/conda",
-        "rel": "/repository/github/conda/conda",
+        "rel": "/software/repository/github/conda/conda",
         "avatar": "https://avatars0.githubusercontent.com/u/6392739?v=4",
         "description": "OS-agnostic, system-level binary package manager and ecosystem"
     },
     {
         "uid": "github/geopandas/geopandas",
         "url": "https://github.com/geopandas/geopandas",
-        "rel": "/repository/github/geopandas/geopandas",
+        "rel": "/software/repository/github/geopandas/geopandas",
         "avatar": "https://avatars2.githubusercontent.com/u/8130715?v=4",
         "description": "Python tools for geographic data"
     },
     {
         "uid": "github/ropensci/drake",
         "url": "https://github.com/ropensci/drake",
-        "rel": "/repository/github/ropensci/drake",
+        "rel": "/software/repository/github/ropensci/drake",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "An R-focused pipeline toolkit for reproducibility and high-performance computing"
     },
     {
         "uid": "github/ropensci/plotly",
         "url": "https://github.com/ropensci/plotly",
-        "rel": "/repository/github/ropensci/plotly",
+        "rel": "/software/repository/github/ropensci/plotly",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "An interactive graphing library for R"
     },
     {
         "uid": "github/ropensci/opentripplanner",
         "url": "https://github.com/ropensci/opentripplanner",
-        "rel": "/repository/github/ropensci/opentripplanner",
+        "rel": "/software/repository/github/ropensci/opentripplanner",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "An API wrapper for OpenTripPlanner (OTP) as an R package"
     },
     {
         "uid": "github/CLARIAH/grlc",
         "url": "https://github.com/CLARIAH/grlc",
-        "rel": "/repository/github/CLARIAH/grlc",
+        "rel": "/software/repository/github/CLARIAH/grlc",
         "avatar": "https://avatars0.githubusercontent.com/u/15210767?v=4",
         "description": "grlc builds Web APIs using shared SPARQL queries"
     },
     {
         "uid": "github/mzy2240/ESA",
         "url": "https://github.com/mzy2240/ESA",
-        "rel": "/repository/github/mzy2240/ESA",
+        "rel": "/software/repository/github/mzy2240/ESA",
         "avatar": "https://avatars0.githubusercontent.com/u/18620336?v=4",
         "description": "Easy SimAuto (ESA): An easy-to-use Python connector to PowerWorld Simulator Automation Server (SimAuto)"
     },
     {
         "uid": "github/plotly/dash",
         "url": "https://github.com/plotly/dash",
-        "rel": "/repository/github/plotly/dash",
+        "rel": "/software/repository/github/plotly/dash",
         "avatar": "https://avatars2.githubusercontent.com/u/5997976?v=4",
         "description": "Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required."
     },
     {
         "uid": "github/devitocodes/devito",
         "url": "https://github.com/devitocodes/devito",
-        "rel": "/repository/github/devitocodes/devito",
+        "rel": "/software/repository/github/devitocodes/devito",
         "avatar": "https://avatars1.githubusercontent.com/u/10018551?v=4",
         "description": "Code generation framework for automated finite difference computation"
     },
     {
         "uid": "github/broadinstitute/cromwell",
         "url": "https://github.com/broadinstitute/cromwell",
-        "rel": "/repository/github/broadinstitute/cromwell",
+        "rel": "/software/repository/github/broadinstitute/cromwell",
         "avatar": "https://avatars0.githubusercontent.com/u/393552?v=4",
         "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments"
     },
     {
         "uid": "github/econ-ark/HARK",
         "url": "https://github.com/econ-ark/HARK",
-        "rel": "/repository/github/econ-ark/HARK",
+        "rel": "/software/repository/github/econ-ark/HARK",
         "avatar": "https://avatars2.githubusercontent.com/u/19330676?v=4",
         "description": "Heterogenous Agents Resources & toolKit"
     },
     {
         "uid": "github/conda-forge/conda-smithy",
         "url": "https://github.com/conda-forge/conda-smithy",
-        "rel": "/repository/github/conda-forge/conda-smithy",
+        "rel": "/software/repository/github/conda-forge/conda-smithy",
         "avatar": "https://avatars3.githubusercontent.com/u/11897326?v=4",
         "description": "The tool for managing conda-forge feedstocks."
     },
     {
         "uid": "github/astropy/astropy",
         "url": "https://github.com/astropy/astropy",
-        "rel": "/repository/github/astropy/astropy",
+        "rel": "/software/repository/github/astropy/astropy",
         "avatar": "https://avatars0.githubusercontent.com/u/847984?v=4",
         "description": "Repository for the Astropy core package"
     },
     {
         "uid": "github/jmschrei/pomegranate",
         "url": "https://github.com/jmschrei/pomegranate",
-        "rel": "/repository/github/jmschrei/pomegranate",
+        "rel": "/software/repository/github/jmschrei/pomegranate",
         "avatar": "https://avatars2.githubusercontent.com/u/3916816?v=4",
         "description": "Fast, flexible and easy to use probabilistic modelling in Python."
     },
     {
         "uid": "github/openjournals/joss",
         "url": "https://github.com/openjournals/joss",
-        "rel": "/repository/github/openjournals/joss",
+        "rel": "/software/repository/github/openjournals/joss",
         "avatar": "https://avatars3.githubusercontent.com/u/9032431?v=4",
         "description": "The Journal of Open Source Software"
     },
     {
         "uid": "github/statsmodels/statsmodels",
         "url": "https://github.com/statsmodels/statsmodels",
-        "rel": "/repository/github/statsmodels/statsmodels",
+        "rel": "/software/repository/github/statsmodels/statsmodels",
         "avatar": "https://avatars3.githubusercontent.com/u/717666?v=4",
         "description": "Statsmodels: statistical modeling and econometrics in Python"
     },
     {
         "uid": "github/sunpy/sunpy",
         "url": "https://github.com/sunpy/sunpy",
-        "rel": "/repository/github/sunpy/sunpy",
+        "rel": "/software/repository/github/sunpy/sunpy",
         "avatar": "https://avatars0.githubusercontent.com/u/963197?v=4",
         "description": "SunPy - Python for Solar Physics"
     },
     {
         "uid": "github/coljac/sensie",
         "url": "https://github.com/coljac/sensie",
-        "rel": "/repository/github/coljac/sensie",
+        "rel": "/software/repository/github/coljac/sensie",
         "avatar": "https://avatars3.githubusercontent.com/u/191407?v=4",
         "description": "Toolset for probing the sensitivity of a deep neural network model to various properties of the data."
     },
     {
         "uid": "github/stan-dev/stan",
         "url": "https://github.com/stan-dev/stan",
-        "rel": "/repository/github/stan-dev/stan",
+        "rel": "/software/repository/github/stan-dev/stan",
         "avatar": "https://avatars2.githubusercontent.com/u/3374820?v=4",
         "description": "Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.  "
     },
     {
         "uid": "github/vsoch/gridtest",
         "url": "https://github.com/vsoch/gridtest",
-        "rel": "/repository/github/vsoch/gridtest",
+        "rel": "/software/repository/github/vsoch/gridtest",
         "avatar": "https://avatars0.githubusercontent.com/u/814322?v=4",
         "description": "grid parameters and testing for Python modules and functions"
     },
     {
         "uid": "github/mathjax/MathJax",
         "url": "https://github.com/mathjax/MathJax",
-        "rel": "/repository/github/mathjax/MathJax",
+        "rel": "/software/repository/github/mathjax/MathJax",
         "avatar": "https://avatars1.githubusercontent.com/u/252187?v=4",
         "description": "Beautiful math in all browsers"
     },
     {
         "uid": "github/samhforbes/PupillometryR",
         "url": "https://github.com/samhforbes/PupillometryR",
-        "rel": "/repository/github/samhforbes/PupillometryR",
+        "rel": "/software/repository/github/samhforbes/PupillometryR",
         "avatar": "https://avatars3.githubusercontent.com/u/18288098?v=4",
         "description": "An R package for preparing and analysing pupillometry data"
     },
     {
         "uid": "github/optuna/optuna",
         "url": "https://github.com/optuna/optuna",
-        "rel": "/repository/github/optuna/optuna",
+        "rel": "/software/repository/github/optuna/optuna",
         "avatar": "https://avatars3.githubusercontent.com/u/57251745?v=4",
         "description": "A hyperparameter optimization framework"
     },
     {
         "uid": "github/singularityhub/sregistry",
         "url": "https://github.com/singularityhub/sregistry",
-        "rel": "/repository/github/singularityhub/sregistry",
+        "rel": "/software/repository/github/singularityhub/sregistry",
         "avatar": "https://avatars1.githubusercontent.com/u/24552884?v=4",
         "description": "server for storage and management of singularity images"
     },
     {
         "uid": "github/singularityhub/singularity-compose",
         "url": "https://github.com/singularityhub/singularity-compose",
-        "rel": "/repository/github/singularityhub/singularity-compose",
+        "rel": "/software/repository/github/singularityhub/singularity-compose",
         "avatar": "https://avatars1.githubusercontent.com/u/24552884?v=4",
         "description": "orchestration for singularity containers (under development)"
     },
     {
         "uid": "github/PyTables/PyTables",
         "url": "https://github.com/PyTables/PyTables",
-        "rel": "/repository/github/PyTables/PyTables",
+        "rel": "/software/repository/github/PyTables/PyTables",
         "avatar": "https://avatars1.githubusercontent.com/u/828302?v=4",
         "description": "A Python package to manage extremely large amounts of data"
     }
