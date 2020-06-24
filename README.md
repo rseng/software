@@ -1,7 +1,10 @@
 # Research Software
 
- - [**annotate**](https://rseng.github.io/rse/tutorials/annotation/) this research software.
+ - [**annotate**](https://github.com/rseng/software/issues/new/choose) a repository by opening an issue.
+ - [**annotate**](https://rseng.github.io/rse/tutorials/annotation/) this research software via an interface on local machine.
  - [**view**](https://rseng.github.io/software/) this research software.
+
+**coming soon** annotate statically on the GitHub pages here, and automated weekly annotation prompts on social media and slack.
 
 What is research software? Simply stated, research software exists to support
 research. If we want to pursue better research, we then must understand it [3].
