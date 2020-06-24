@@ -23,7 +23,7 @@ jobs:
         GITHUB_LABEL: ${{ github.event.issue.labels[0].name }}
       run: |
           if [[ "${GITHUB_LABEL}" != "taxonomy" ]] || [[ "${GITHUB_LABEL}" != "criteria" ]]; then 
-              printf "A label of taxonomy or criteria is required.;
+              printf "A label of taxonomy or criteria is required.";
               exit 1;
           fi
 
