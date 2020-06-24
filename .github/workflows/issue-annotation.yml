@@ -22,12 +22,17 @@ jobs:
       env:
         GITHUB_LABEL: ${{ github.event.issue.labels[0].name }}
       run: |
-          if [[ "${GITHUB_LABEL}" != "taxonomy" ]] || [[ "${GITHUB_LABEL}" != "criteria" ]]; then 
-              printf "A label of taxonomy or criteria is required.";
-              exit 1;
+          echo "${{ github.event.issue.body }}" > new-issue.txt
+
+          cat new-issue.txt | grep RSE-taxonomy
+          retval=$?
+
+          if [[ "$retval" == "0" ]]; then
+              GITHUB_LABEL="taxonomy"
+          else
+              GITHUB_LABEL="criteria"
           fi
 
-          echo "${{ github.event.issue.body }}" > new-issue.txt
           # rse annotate (criteria|taxonomy) --file (filename) --username (user)
           echo "rse annotate ${GITHUB_LABEL} --file new-issue.txt --username ${{ github.event.issue.user.login }}"
           rse annotate ${GITHUB_LABEL} --file new-issue.txt --username "${{ github.event.issue.user.login }}"
