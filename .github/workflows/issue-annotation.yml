@@ -76,7 +76,7 @@ jobs:
            git push origin "${BRANCH_FROM}"
         fi
         echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
-        echo "::set-env name=PULL_REQUEST_BODY::https://github.com/${GITHUB_REPOSITORY}${{ github.event.issue.number }}"
+        echo "::set-env name=PULL_REQUEST_BODY::Fixes https://github.com/${GITHUB_REPOSITORY}${{ github.event.issue.number }}"
         
     - name: Open Pull Request
       uses: vsoch/pull-request-action@1.0.6
