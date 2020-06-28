@@ -1,6 +1,7 @@
 name: update-software
 
 on:
+  pull_request: []
   schedule:
     # Weekly
     - cron: 0 0 * * 0
@@ -18,7 +19,7 @@ jobs:
         rse --version
     - name: Run Latest Scrapers
       env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        RSE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
           rse scrape joss
           rse scrape rsnl
