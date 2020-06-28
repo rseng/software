@@ -143,7 +143,20 @@
     <hr>
   </div>
   <div class='col-sm-4'>
-    <h1 style="margin-left:5px; padding-top:90px"><b>Categories</b> 🦉️</h1>
+    <br>
+    <div class="form-horizontal">
+        <div class='form-group has-feedback'>
+          <div class='col-sm-12'>
+              <form action="/software/search" method="get">
+                 <input class="form-control" placeholder="Search site..." name="q" type='search'>
+                 <span class='glyphicon glyphicon-remove form-control-feedback search-cancel-button'></span>
+                 <input type="submit" value="Search" style="display: none;">
+              </form>
+          </div>
+        </div>
+      <br>
+    </div>
+    <h1 style="margin-left:5px;"><b>Categories</b> 🦉️</h1>
          <hr>
           <table class="table">
     <thead>
