@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Repository Software</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="/software/static/css/style.css">
+  <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"></link>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+</head>
+<body>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <br>
+      <div class="form-horizontal">
+        <div class="form-group has-feedback">
+          <div class='col-sm-12'>
+            <input class='form-control table-sortable-search' placeholder="Press Enter to Search..." type='search'>
+            <span class='glyphicon glyphicon-remove form-control-feedback search-cancel-button'></span>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class='panel panel-default'>
+        <div class='table-responsive' id="app">
+          <h2 style="margin-left:5px">> github/CrowdTruth/CrowdTruth</h2>
+          <hr> 
+          <div class="row">
+            <div class="col-md-3">
+              <div class="panel panel-default panel-with-sidebar">
+                <section>
+                  <div class="panel-heading"><span class="badge badge-blue">Data</span></div>
+                  <div class="panel-body">
+			  <table class="table table-sortable">
+			    <thead>
+			      <tr>
+				<th>Key</th>
+				<th>Value</th>
+			      </tr>
+			    </thead>
+			    <tbody>
+			      <tr>
+				<td>Parser</td>
+				<td>github</td>
+			      </tr>
+			      <tr>
+				<td>Description</td>
+				<td>Version 1.0 of the CrowdTruth Framework for crowdsourcing ground truth data, for training and evaluation of cognitive computing systems. Check out also version 2.0 at https://github.com/CrowdTruth/CrowdTruth-core. Data collected with CrowdTruth methodology: http://data.crowdtruth.org/. Our papers: http://crowdtruth.org/papers/</td>
+			      </tr>
+			      <tr>
+				<td>Repository</td>
+				<td><a href="https://github.com/CrowdTruth/CrowdTruth" target="_blank">https://github.com/CrowdTruth/CrowdTruth</a></td>
+			      </tr>
+			      <tr>
+				<td>Homepage</td>
+				<td><a href="http://crowdtruth.org" target="_blank">http://crowdtruth.org</a></td>
+			      </tr>
+			      
+			      <tr>
+				<td>Stars</td>
+				<td>60 ⭐️</td>
+			      </tr>
+			      <tr>
+				<td>Watchers</td>
+				<td>60 👀️</td>
+			      </tr>
+			      <tr>
+				<td>Entry Updated</td>
+				<td>2020-06-28 08:44:59.095917</td>
+			      </tr>
+			    </tbody>
+			  </table>
+                  </div>
+                </section>
+                <section>
+                 <a href="https://github.com/CrowdTruth/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/8793398?v=4" style="max-width:95%"></a><br>
+                 <a href="/"><button style="margin:10px" type="button" class="btn btn-primary">< Back</button></a>
+                </section>
+              </div>
+            </div>
+            <div class="col-md-9">
+            <div class="panel panel-default panel-with-sidebar">
+              <section>
+                <div class="panel-heading"><span class="badge badge-green">Metadata</span></div>
+                  <div style="display: none" id="hidden-output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:59.095917<br>
+                  
+                    <strong>id</strong>: 19739006<br>
+                  
+                  
+                    <strong>name</strong>: CrowdTruth<br>
+                  
+                    <strong>full_name</strong>: CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>description</strong>: Version 1.0 of the CrowdTruth Framework for crowdsourcing ground truth data, for training and evaluation of cognitive computing systems. Check out also version 2.0 at https://github.com/CrowdTruth/CrowdTruth-core. Data collected with CrowdTruth methodology: http://data.crowdtruth.org/. Our papers: http://crowdtruth.org/papers/<br>
+                  
+                    <strong>fork</strong>: False<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/deployments<br>
+                  
+                    <strong>created_at</strong>: 2014-05-13T12:56:25Z<br>
+                  
+                    <strong>updated_at</strong>: 2020-01-20T11:46:10Z<br>
+                  
+                    <strong>pushed_at</strong>: 2018-08-30T12:25:50Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/CrowdTruth/CrowdTruth.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:CrowdTruth/CrowdTruth.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/CrowdTruth/CrowdTruth.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>homepage</strong>: http://crowdtruth.org<br>
+                  
+                    <strong>size</strong>: 103661<br>
+                  
+                    <strong>stargazers_count</strong>: 60<br>
+                  
+                    <strong>watchers_count</strong>: 60<br>
+                  
+                    <strong>language</strong>: JavaScript<br>
+                  
+                    <strong>has_issues</strong>: True<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 16<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 33<br>
+                  
+                    <strong>license</strong>: None<br>
+                  
+                    <strong>forks</strong>: 16<br>
+                  
+                    <strong>open_issues</strong>: 33<br>
+                  
+                    <strong>watchers</strong>: 60<br>
+                  
+                    <strong>default_branch</strong>: dev<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>network_count</strong>: 16<br>
+                  
+                    <strong>subscribers_count</strong>: 18<br>
+                  </div>
+                  <div class="panel-body" id="output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:59.095917<br>
+                  
+                    <strong>id</strong>: 19739006<br>
+                  
+                  
+                    <strong>name</strong>: CrowdTruth<br>
+                  
+                    <strong>full_name</strong>: CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>description</strong>: Version 1.0 of the CrowdTruth Framework for crowdsourcing ground truth data, for training and evaluation of cognitive computing systems. Check out also version 2.0 at https://github.com/CrowdTruth/CrowdTruth-core. Data collected with CrowdTruth methodology: http://data.crowdtruth.org/. Our papers: http://crowdtruth.org/papers/<br>
+                  
+                    <strong>fork</strong>: False<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/CrowdTruth/CrowdTruth/deployments<br>
+                  
+                    <strong>created_at</strong>: 2014-05-13T12:56:25Z<br>
+                  
+                    <strong>updated_at</strong>: 2020-01-20T11:46:10Z<br>
+                  
+                    <strong>pushed_at</strong>: 2018-08-30T12:25:50Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/CrowdTruth/CrowdTruth.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:CrowdTruth/CrowdTruth.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/CrowdTruth/CrowdTruth.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/CrowdTruth/CrowdTruth<br>
+                  
+                    <strong>homepage</strong>: http://crowdtruth.org<br>
+                  
+                    <strong>size</strong>: 103661<br>
+                  
+                    <strong>stargazers_count</strong>: 60<br>
+                  
+                    <strong>watchers_count</strong>: 60<br>
+                  
+                    <strong>language</strong>: JavaScript<br>
+                  
+                    <strong>has_issues</strong>: True<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 16<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 33<br>
+                  
+                    <strong>license</strong>: None<br>
+                  
+                    <strong>forks</strong>: 16<br>
+                  
+                    <strong>open_issues</strong>: 33<br>
+                  
+                    <strong>watchers</strong>: 60<br>
+                  
+                    <strong>default_branch</strong>: dev<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>network_count</strong>: 16<br>
+                  
+                    <strong>subscribers_count</strong>: 18<br>
+                  
+                 </div>
+              </section>
+            </div>
+            </div>
+	</div>
+
+  <div class="controls">
+    <span style="float:right; margin-right:30px" class="badge badge-primary">database: filesystem</span>
+  </div>
+  <hr>
+</div>
+
+
+  
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js'></script>
+  
+<script>
+
+$(document).on('keypress',function(e) {
+});
+
+$('input[type="search"]').on('keypress',function(e) {
+  // Do search on pressing enter
+  if(e.which == 13) {
+    var t = $(this);
+    var value = t.val();
+    var content = $("#hidden-output").html();
+    content = content.replace(value, '<span style="background-color:yellow">' + value + '</span>');
+    $("#output").html(content);
+  }  
+});
+
+$('input[type="search"] + .search-cancel-button').hide($(this).prev('input').val()).click(function () {
+  $(this).prev('input').val('').focus();
+  $(this).hide();
+});
+
+</script>
+
+
+</body>
+</html>

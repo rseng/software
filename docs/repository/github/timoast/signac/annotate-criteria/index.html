@@ -151,7 +151,7 @@ $("form").submit(function(event) {
    
    body = "%23%23%20Repository%20%0A" + encodeURIComponent(repo_id) + "%0A%0A" + body 
    console.log(body)
-   url = "https://github.com/rseng/software-example/issues/new?labels=criteria&title=[CRITERIA]&body=" + body
+   url = "https://github.com/rseng/software/issues/new?labels=criteria&title=[CRITERIA]&body=" + body
    console.log(url)
    document.location = url
    event.preventDefault();

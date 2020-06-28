@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Repository Software</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="/software/static/css/style.css">
+  <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"></link>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+</head>
+<body>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <br>
+      <div class="form-horizontal">
+        <div class="form-group has-feedback">
+          <div class='col-sm-12'>
+            <input class='form-control table-sortable-search' placeholder="Press Enter to Search..." type='search'>
+            <span class='glyphicon glyphicon-remove form-control-feedback search-cancel-button'></span>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class='panel panel-default'>
+        <div class='table-responsive' id="app">
+          <h2 style="margin-left:5px">> github/NLeSC/osmium</h2>
+          <hr> 
+          <div class="row">
+            <div class="col-md-3">
+              <div class="panel panel-default panel-with-sidebar">
+                <section>
+                  <div class="panel-heading"><span class="badge badge-blue">Data</span></div>
+                  <div class="panel-body">
+			  <table class="table table-sortable">
+			    <thead>
+			      <tr>
+				<th>Key</th>
+				<th>Value</th>
+			      </tr>
+			    </thead>
+			    <tbody>
+			      <tr>
+				<td>Parser</td>
+				<td>github</td>
+			      </tr>
+			      <tr>
+				<td>Description</td>
+				<td>Xenon Job Webservice</td>
+			      </tr>
+			      <tr>
+				<td>Repository</td>
+				<td><a href="https://github.com/xenon-middleware/osmium" target="_blank">https://github.com/xenon-middleware/osmium</a></td>
+			      </tr>
+			      
+			      
+			      <tr>
+				<td>Stars</td>
+				<td>0 ⭐️</td>
+			      </tr>
+			      <tr>
+				<td>Watchers</td>
+				<td>0 👀️</td>
+			      </tr>
+			      <tr>
+				<td>Entry Updated</td>
+				<td>2020-06-28 08:44:54.163562</td>
+			      </tr>
+			    </tbody>
+			  </table>
+                  </div>
+                </section>
+                <section>
+                 <a href="https://github.com/xenon-middleware/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/48052855?v=4" style="max-width:95%"></a><br>
+                 <a href="/"><button style="margin:10px" type="button" class="btn btn-primary">< Back</button></a>
+                </section>
+              </div>
+            </div>
+            <div class="col-md-9">
+            <div class="panel panel-default panel-with-sidebar">
+              <section>
+                <div class="panel-heading"><span class="badge badge-green">Metadata</span></div>
+                  <div style="display: none" id="hidden-output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:54.163562<br>
+                  
+                    <strong>id</strong>: 9696045<br>
+                  
+                  
+                    <strong>name</strong>: osmium<br>
+                  
+                    <strong>full_name</strong>: xenon-middleware/osmium<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/xenon-middleware/osmium<br>
+                  
+                    <strong>description</strong>: Xenon Job Webservice<br>
+                  
+                    <strong>fork</strong>: True<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/xenon-middleware/osmium<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/deployments<br>
+                  
+                    <strong>created_at</strong>: 2013-04-26T13:38:07Z<br>
+                  
+                    <strong>updated_at</strong>: 2019-02-28T14:55:13Z<br>
+                  
+                    <strong>pushed_at</strong>: 2018-03-23T09:59:25Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/xenon-middleware/osmium.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:xenon-middleware/osmium.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/xenon-middleware/osmium.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/xenon-middleware/osmium<br>
+                  
+                    <strong>homepage</strong>: <br>
+                  
+                    <strong>size</strong>: 593<br>
+                  
+                    <strong>stargazers_count</strong>: 0<br>
+                  
+                    <strong>watchers_count</strong>: 0<br>
+                  
+                    <strong>language</strong>: Java<br>
+                  
+                    <strong>has_issues</strong>: True<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 0<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 8<br>
+                  
+                    <strong>license</strong>: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}<br>
+                  
+                    <strong>forks</strong>: 0<br>
+                  
+                    <strong>open_issues</strong>: 8<br>
+                  
+                    <strong>watchers</strong>: 0<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>parent</strong>: {&#39;id&#39;: 9525698, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk5NTI1Njk4&#39;, &#39;name&#39;: &#39;octopus-job-ws&#39;, &#39;full_name&#39;: &#39;sverhoeven/octopus-job-ws&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;sverhoeven&#39;, &#39;id&#39;: 1713488, &#39;node_id&#39;: &#39;MDQ6VXNlcjE3MTM0ODg=&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/1713488?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/sverhoeven&#39;, &#39;html_url&#39;: &#39;https://github.com/sverhoeven&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/sverhoeven/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/sverhoeven/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/sverhoeven/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/sverhoeven/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/sverhoeven/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/sverhoeven/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/sverhoeven/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/sverhoeven/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/sverhoeven/received_events&#39;, &#39;type&#39;: &#39;User&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;description&#39;: &#39;Octopus Job Webservice&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/deployments&#39;, &#39;created_at&#39;: &#39;2013-04-18T15:56:21Z&#39;, &#39;updated_at&#39;: &#39;2014-05-03T02:16:11Z&#39;, &#39;pushed_at&#39;: &#39;2015-08-20T07:43:24Z&#39;, &#39;git_url&#39;: &#39;git://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:sverhoeven/octopus-job-ws.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;homepage&#39;: None, &#39;size&#39;: 492, &#39;stargazers_count&#39;: 0, &#39;watchers_count&#39;: 0, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 1, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 1, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 1, &#39;open_issues&#39;: 1, &#39;watchers&#39;: 0, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>source</strong>: {&#39;id&#39;: 9525698, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk5NTI1Njk4&#39;, &#39;name&#39;: &#39;octopus-job-ws&#39;, &#39;full_name&#39;: &#39;sverhoeven/octopus-job-ws&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;sverhoeven&#39;, &#39;id&#39;: 1713488, &#39;node_id&#39;: &#39;MDQ6VXNlcjE3MTM0ODg=&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/1713488?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/sverhoeven&#39;, &#39;html_url&#39;: &#39;https://github.com/sverhoeven&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/sverhoeven/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/sverhoeven/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/sverhoeven/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/sverhoeven/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/sverhoeven/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/sverhoeven/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/sverhoeven/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/sverhoeven/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/sverhoeven/received_events&#39;, &#39;type&#39;: &#39;User&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;description&#39;: &#39;Octopus Job Webservice&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/deployments&#39;, &#39;created_at&#39;: &#39;2013-04-18T15:56:21Z&#39;, &#39;updated_at&#39;: &#39;2014-05-03T02:16:11Z&#39;, &#39;pushed_at&#39;: &#39;2015-08-20T07:43:24Z&#39;, &#39;git_url&#39;: &#39;git://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:sverhoeven/octopus-job-ws.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;homepage&#39;: None, &#39;size&#39;: 492, &#39;stargazers_count&#39;: 0, &#39;watchers_count&#39;: 0, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 1, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 1, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 1, &#39;open_issues&#39;: 1, &#39;watchers&#39;: 0, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>network_count</strong>: 1<br>
+                  
+                    <strong>subscribers_count</strong>: 2<br>
+                  </div>
+                  <div class="panel-body" id="output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:54.163562<br>
+                  
+                    <strong>id</strong>: 9696045<br>
+                  
+                  
+                    <strong>name</strong>: osmium<br>
+                  
+                    <strong>full_name</strong>: xenon-middleware/osmium<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/xenon-middleware/osmium<br>
+                  
+                    <strong>description</strong>: Xenon Job Webservice<br>
+                  
+                    <strong>fork</strong>: True<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/xenon-middleware/osmium<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/xenon-middleware/osmium/deployments<br>
+                  
+                    <strong>created_at</strong>: 2013-04-26T13:38:07Z<br>
+                  
+                    <strong>updated_at</strong>: 2019-02-28T14:55:13Z<br>
+                  
+                    <strong>pushed_at</strong>: 2018-03-23T09:59:25Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/xenon-middleware/osmium.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:xenon-middleware/osmium.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/xenon-middleware/osmium.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/xenon-middleware/osmium<br>
+                  
+                    <strong>homepage</strong>: <br>
+                  
+                    <strong>size</strong>: 593<br>
+                  
+                    <strong>stargazers_count</strong>: 0<br>
+                  
+                    <strong>watchers_count</strong>: 0<br>
+                  
+                    <strong>language</strong>: Java<br>
+                  
+                    <strong>has_issues</strong>: True<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 0<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 8<br>
+                  
+                    <strong>license</strong>: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}<br>
+                  
+                    <strong>forks</strong>: 0<br>
+                  
+                    <strong>open_issues</strong>: 8<br>
+                  
+                    <strong>watchers</strong>: 0<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>parent</strong>: {&#39;id&#39;: 9525698, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk5NTI1Njk4&#39;, &#39;name&#39;: &#39;octopus-job-ws&#39;, &#39;full_name&#39;: &#39;sverhoeven/octopus-job-ws&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;sverhoeven&#39;, &#39;id&#39;: 1713488, &#39;node_id&#39;: &#39;MDQ6VXNlcjE3MTM0ODg=&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/1713488?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/sverhoeven&#39;, &#39;html_url&#39;: &#39;https://github.com/sverhoeven&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/sverhoeven/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/sverhoeven/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/sverhoeven/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/sverhoeven/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/sverhoeven/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/sverhoeven/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/sverhoeven/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/sverhoeven/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/sverhoeven/received_events&#39;, &#39;type&#39;: &#39;User&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;description&#39;: &#39;Octopus Job Webservice&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/deployments&#39;, &#39;created_at&#39;: &#39;2013-04-18T15:56:21Z&#39;, &#39;updated_at&#39;: &#39;2014-05-03T02:16:11Z&#39;, &#39;pushed_at&#39;: &#39;2015-08-20T07:43:24Z&#39;, &#39;git_url&#39;: &#39;git://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:sverhoeven/octopus-job-ws.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;homepage&#39;: None, &#39;size&#39;: 492, &#39;stargazers_count&#39;: 0, &#39;watchers_count&#39;: 0, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 1, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 1, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 1, &#39;open_issues&#39;: 1, &#39;watchers&#39;: 0, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>source</strong>: {&#39;id&#39;: 9525698, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk5NTI1Njk4&#39;, &#39;name&#39;: &#39;octopus-job-ws&#39;, &#39;full_name&#39;: &#39;sverhoeven/octopus-job-ws&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;sverhoeven&#39;, &#39;id&#39;: 1713488, &#39;node_id&#39;: &#39;MDQ6VXNlcjE3MTM0ODg=&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/1713488?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/sverhoeven&#39;, &#39;html_url&#39;: &#39;https://github.com/sverhoeven&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/sverhoeven/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/sverhoeven/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/sverhoeven/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/sverhoeven/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/sverhoeven/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/sverhoeven/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/sverhoeven/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/sverhoeven/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/sverhoeven/received_events&#39;, &#39;type&#39;: &#39;User&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;description&#39;: &#39;Octopus Job Webservice&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/sverhoeven/octopus-job-ws/deployments&#39;, &#39;created_at&#39;: &#39;2013-04-18T15:56:21Z&#39;, &#39;updated_at&#39;: &#39;2014-05-03T02:16:11Z&#39;, &#39;pushed_at&#39;: &#39;2015-08-20T07:43:24Z&#39;, &#39;git_url&#39;: &#39;git://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:sverhoeven/octopus-job-ws.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/sverhoeven/octopus-job-ws&#39;, &#39;homepage&#39;: None, &#39;size&#39;: 492, &#39;stargazers_count&#39;: 0, &#39;watchers_count&#39;: 0, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 1, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 1, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 1, &#39;open_issues&#39;: 1, &#39;watchers&#39;: 0, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>network_count</strong>: 1<br>
+                  
+                    <strong>subscribers_count</strong>: 2<br>
+                  
+                 </div>
+              </section>
+            </div>
+            </div>
+	</div>
+
+  <div class="controls">
+    <span style="float:right; margin-right:30px" class="badge badge-primary">database: filesystem</span>
+  </div>
+  <hr>
+</div>
+
+
+  
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js'></script>
+  
+<script>
+
+$(document).on('keypress',function(e) {
+});
+
+$('input[type="search"]').on('keypress',function(e) {
+  // Do search on pressing enter
+  if(e.which == 13) {
+    var t = $(this);
+    var value = t.val();
+    var content = $("#hidden-output").html();
+    content = content.replace(value, '<span style="background-color:yellow">' + value + '</span>');
+    $("#output").html(content);
+  }  
+});
+
+$('input[type="search"] + .search-cancel-button').hide($(this).prev('input').val()).click(function () {
+  $(this).prev('input').val('').focus();
+  $(this).hide();
+});
+
+</script>
+
+
+</body>
+</html>

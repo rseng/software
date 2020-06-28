@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Repository Software</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="/software/static/css/style.css">
+  <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"></link>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+</head>
+<body>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <br>
+      <div class="form-horizontal">
+        <div class="form-group has-feedback">
+          <div class='col-sm-12'>
+            <input class='form-control table-sortable-search' placeholder="Press Enter to Search..." type='search'>
+            <span class='glyphicon glyphicon-remove form-control-feedback search-cancel-button'></span>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class='panel panel-default'>
+        <div class='table-responsive' id="app">
+          <h2 style="margin-left:5px">> github/gijut/gnucash</h2>
+          <hr> 
+          <div class="row">
+            <div class="col-md-3">
+              <div class="panel panel-default panel-with-sidebar">
+                <section>
+                  <div class="panel-heading"><span class="badge badge-blue">Data</span></div>
+                  <div class="panel-body">
+			  <table class="table table-sortable">
+			    <thead>
+			      <tr>
+				<th>Key</th>
+				<th>Value</th>
+			      </tr>
+			    </thead>
+			    <tbody>
+			      <tr>
+				<td>Parser</td>
+				<td>github</td>
+			      </tr>
+			      <tr>
+				<td>Description</td>
+				<td>Public Mirror of code.gnucash.org/gnucash</td>
+			      </tr>
+			      <tr>
+				<td>Repository</td>
+				<td><a href="https://github.com/gijut/gnucash" target="_blank">https://github.com/gijut/gnucash</a></td>
+			      </tr>
+			      <tr>
+				<td>Homepage</td>
+				<td><a href="www.gnucash.org" target="_blank">www.gnucash.org</a></td>
+			      </tr>
+			      
+			      <tr>
+				<td>Stars</td>
+				<td>0 ⭐️</td>
+			      </tr>
+			      <tr>
+				<td>Watchers</td>
+				<td>0 👀️</td>
+			      </tr>
+			      <tr>
+				<td>Entry Updated</td>
+				<td>2020-06-28 08:45:20.478679</td>
+			      </tr>
+			    </tbody>
+			  </table>
+                  </div>
+                </section>
+                <section>
+                 <a href="https://github.com/gijut/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/12998308?v=4" style="max-width:95%"></a><br>
+                 <a href="/"><button style="margin:10px" type="button" class="btn btn-primary">< Back</button></a>
+                </section>
+              </div>
+            </div>
+            <div class="col-md-9">
+            <div class="panel panel-default panel-with-sidebar">
+              <section>
+                <div class="panel-heading"><span class="badge badge-green">Metadata</span></div>
+                  <div style="display: none" id="hidden-output">
+                    <strong>timestamp</strong>: 2020-06-28 08:45:20.478679<br>
+                  
+                    <strong>id</strong>: 50429692<br>
+                  
+                  
+                    <strong>name</strong>: gnucash<br>
+                  
+                    <strong>full_name</strong>: gijut/gnucash<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/gijut/gnucash<br>
+                  
+                    <strong>description</strong>: Public Mirror of code.gnucash.org/gnucash<br>
+                  
+                    <strong>fork</strong>: True<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/gijut/gnucash<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/gijut/gnucash/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/gijut/gnucash/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/gijut/gnucash/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/gijut/gnucash/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/gijut/gnucash/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/gijut/gnucash/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/gijut/gnucash/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/gijut/gnucash/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/gijut/gnucash/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/gijut/gnucash/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/gijut/gnucash/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/gijut/gnucash/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/gijut/gnucash/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/gijut/gnucash/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/gijut/gnucash/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/gijut/gnucash/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/gijut/gnucash/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/gijut/gnucash/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/gijut/gnucash/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/gijut/gnucash/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/gijut/gnucash/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/gijut/gnucash/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/gijut/gnucash/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/gijut/gnucash/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/gijut/gnucash/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/gijut/gnucash/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/gijut/gnucash/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/gijut/gnucash/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/gijut/gnucash/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/gijut/gnucash/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/gijut/gnucash/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/gijut/gnucash/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/gijut/gnucash/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/gijut/gnucash/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/gijut/gnucash/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/gijut/gnucash/deployments<br>
+                  
+                    <strong>created_at</strong>: 2016-01-26T13:17:43Z<br>
+                  
+                    <strong>updated_at</strong>: 2016-01-26T13:17:55Z<br>
+                  
+                    <strong>pushed_at</strong>: 2016-02-02T13:12:38Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/gijut/gnucash.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:gijut/gnucash.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/gijut/gnucash.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/gijut/gnucash<br>
+                  
+                    <strong>homepage</strong>: www.gnucash.org<br>
+                  
+                    <strong>size</strong>: 165935<br>
+                  
+                    <strong>stargazers_count</strong>: 0<br>
+                  
+                    <strong>watchers_count</strong>: 0<br>
+                  
+                    <strong>language</strong>: C<br>
+                  
+                    <strong>has_issues</strong>: False<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: False<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 0<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 0<br>
+                  
+                    <strong>license</strong>: {&#39;key&#39;: &#39;other&#39;, &#39;name&#39;: &#39;Other&#39;, &#39;spdx_id&#39;: &#39;NOASSERTION&#39;, &#39;url&#39;: None, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTA=&#39;}<br>
+                  
+                    <strong>forks</strong>: 0<br>
+                  
+                    <strong>open_issues</strong>: 0<br>
+                  
+                    <strong>watchers</strong>: 0<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                    <strong>parent</strong>: {&#39;id&#39;: 7966650, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk3OTY2NjUw&#39;, &#39;name&#39;: &#39;gnucash&#39;, &#39;full_name&#39;: &#39;Gnucash/gnucash&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;Gnucash&#39;, &#39;id&#39;: 544952, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU0NDk1Mg==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/544952?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/Gnucash&#39;, &#39;html_url&#39;: &#39;https://github.com/Gnucash&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/Gnucash/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/Gnucash/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/Gnucash/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/Gnucash/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/Gnucash/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/Gnucash/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/Gnucash/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/Gnucash/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/Gnucash/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;description&#39;: &#39;GnuCash Double-Entry Accounting Program.&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/deployments&#39;, &#39;created_at&#39;: &#39;2013-02-01T21:22:29Z&#39;, &#39;updated_at&#39;: &#39;2020-06-27T21:56:54Z&#39;, &#39;pushed_at&#39;: &#39;2020-06-28T01:33:10Z&#39;, &#39;git_url&#39;: &#39;git://github.com/Gnucash/gnucash.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:Gnucash/gnucash.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/Gnucash/gnucash.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;homepage&#39;: &#39;http://www.gnucash.org&#39;, &#39;size&#39;: 236642, &#39;stargazers_count&#39;: 1604, &#39;watchers_count&#39;: 1604, &#39;language&#39;: &#39;C&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 519, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 23, &#39;license&#39;: {&#39;key&#39;: &#39;other&#39;, &#39;name&#39;: &#39;Other&#39;, &#39;spdx_id&#39;: &#39;NOASSERTION&#39;, &#39;url&#39;: None, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTA=&#39;}, &#39;forks&#39;: 519, &#39;open_issues&#39;: 23, &#39;watchers&#39;: 1604, &#39;default_branch&#39;: &#39;maint&#39;}<br>
+                  
+                    <strong>source</strong>: {&#39;id&#39;: 7966650, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk3OTY2NjUw&#39;, &#39;name&#39;: &#39;gnucash&#39;, &#39;full_name&#39;: &#39;Gnucash/gnucash&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;Gnucash&#39;, &#39;id&#39;: 544952, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU0NDk1Mg==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/544952?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/Gnucash&#39;, &#39;html_url&#39;: &#39;https://github.com/Gnucash&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/Gnucash/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/Gnucash/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/Gnucash/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/Gnucash/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/Gnucash/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/Gnucash/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/Gnucash/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/Gnucash/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/Gnucash/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;description&#39;: &#39;GnuCash Double-Entry Accounting Program.&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/deployments&#39;, &#39;created_at&#39;: &#39;2013-02-01T21:22:29Z&#39;, &#39;updated_at&#39;: &#39;2020-06-27T21:56:54Z&#39;, &#39;pushed_at&#39;: &#39;2020-06-28T01:33:10Z&#39;, &#39;git_url&#39;: &#39;git://github.com/Gnucash/gnucash.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:Gnucash/gnucash.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/Gnucash/gnucash.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;homepage&#39;: &#39;http://www.gnucash.org&#39;, &#39;size&#39;: 236642, &#39;stargazers_count&#39;: 1604, &#39;watchers_count&#39;: 1604, &#39;language&#39;: &#39;C&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 519, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 23, &#39;license&#39;: {&#39;key&#39;: &#39;other&#39;, &#39;name&#39;: &#39;Other&#39;, &#39;spdx_id&#39;: &#39;NOASSERTION&#39;, &#39;url&#39;: None, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTA=&#39;}, &#39;forks&#39;: 519, &#39;open_issues&#39;: 23, &#39;watchers&#39;: 1604, &#39;default_branch&#39;: &#39;maint&#39;}<br>
+                  
+                    <strong>network_count</strong>: 519<br>
+                  
+                    <strong>subscribers_count</strong>: 1<br>
+                  </div>
+                  <div class="panel-body" id="output">
+                    <strong>timestamp</strong>: 2020-06-28 08:45:20.478679<br>
+                  
+                    <strong>id</strong>: 50429692<br>
+                  
+                  
+                    <strong>name</strong>: gnucash<br>
+                  
+                    <strong>full_name</strong>: gijut/gnucash<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/gijut/gnucash<br>
+                  
+                    <strong>description</strong>: Public Mirror of code.gnucash.org/gnucash<br>
+                  
+                    <strong>fork</strong>: True<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/gijut/gnucash<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/gijut/gnucash/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/gijut/gnucash/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/gijut/gnucash/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/gijut/gnucash/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/gijut/gnucash/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/gijut/gnucash/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/gijut/gnucash/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/gijut/gnucash/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/gijut/gnucash/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/gijut/gnucash/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/gijut/gnucash/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/gijut/gnucash/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/gijut/gnucash/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/gijut/gnucash/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/gijut/gnucash/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/gijut/gnucash/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/gijut/gnucash/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/gijut/gnucash/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/gijut/gnucash/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/gijut/gnucash/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/gijut/gnucash/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/gijut/gnucash/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/gijut/gnucash/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/gijut/gnucash/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/gijut/gnucash/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/gijut/gnucash/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/gijut/gnucash/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/gijut/gnucash/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/gijut/gnucash/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/gijut/gnucash/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/gijut/gnucash/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/gijut/gnucash/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/gijut/gnucash/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/gijut/gnucash/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/gijut/gnucash/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/gijut/gnucash/deployments<br>
+                  
+                    <strong>created_at</strong>: 2016-01-26T13:17:43Z<br>
+                  
+                    <strong>updated_at</strong>: 2016-01-26T13:17:55Z<br>
+                  
+                    <strong>pushed_at</strong>: 2016-02-02T13:12:38Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/gijut/gnucash.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:gijut/gnucash.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/gijut/gnucash.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/gijut/gnucash<br>
+                  
+                    <strong>homepage</strong>: www.gnucash.org<br>
+                  
+                    <strong>size</strong>: 165935<br>
+                  
+                    <strong>stargazers_count</strong>: 0<br>
+                  
+                    <strong>watchers_count</strong>: 0<br>
+                  
+                    <strong>language</strong>: C<br>
+                  
+                    <strong>has_issues</strong>: False<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: False<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 0<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 0<br>
+                  
+                    <strong>license</strong>: {&#39;key&#39;: &#39;other&#39;, &#39;name&#39;: &#39;Other&#39;, &#39;spdx_id&#39;: &#39;NOASSERTION&#39;, &#39;url&#39;: None, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTA=&#39;}<br>
+                  
+                    <strong>forks</strong>: 0<br>
+                  
+                    <strong>open_issues</strong>: 0<br>
+                  
+                    <strong>watchers</strong>: 0<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                    <strong>parent</strong>: {&#39;id&#39;: 7966650, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk3OTY2NjUw&#39;, &#39;name&#39;: &#39;gnucash&#39;, &#39;full_name&#39;: &#39;Gnucash/gnucash&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;Gnucash&#39;, &#39;id&#39;: 544952, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU0NDk1Mg==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/544952?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/Gnucash&#39;, &#39;html_url&#39;: &#39;https://github.com/Gnucash&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/Gnucash/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/Gnucash/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/Gnucash/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/Gnucash/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/Gnucash/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/Gnucash/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/Gnucash/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/Gnucash/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/Gnucash/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;description&#39;: &#39;GnuCash Double-Entry Accounting Program.&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/deployments&#39;, &#39;created_at&#39;: &#39;2013-02-01T21:22:29Z&#39;, &#39;updated_at&#39;: &#39;2020-06-27T21:56:54Z&#39;, &#39;pushed_at&#39;: &#39;2020-06-28T01:33:10Z&#39;, &#39;git_url&#39;: &#39;git://github.com/Gnucash/gnucash.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:Gnucash/gnucash.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/Gnucash/gnucash.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;homepage&#39;: &#39;http://www.gnucash.org&#39;, &#39;size&#39;: 236642, &#39;stargazers_count&#39;: 1604, &#39;watchers_count&#39;: 1604, &#39;language&#39;: &#39;C&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 519, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 23, &#39;license&#39;: {&#39;key&#39;: &#39;other&#39;, &#39;name&#39;: &#39;Other&#39;, &#39;spdx_id&#39;: &#39;NOASSERTION&#39;, &#39;url&#39;: None, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTA=&#39;}, &#39;forks&#39;: 519, &#39;open_issues&#39;: 23, &#39;watchers&#39;: 1604, &#39;default_branch&#39;: &#39;maint&#39;}<br>
+                  
+                    <strong>source</strong>: {&#39;id&#39;: 7966650, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk3OTY2NjUw&#39;, &#39;name&#39;: &#39;gnucash&#39;, &#39;full_name&#39;: &#39;Gnucash/gnucash&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;Gnucash&#39;, &#39;id&#39;: 544952, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU0NDk1Mg==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/544952?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/Gnucash&#39;, &#39;html_url&#39;: &#39;https://github.com/Gnucash&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/Gnucash/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/Gnucash/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/Gnucash/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/Gnucash/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/Gnucash/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/Gnucash/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/Gnucash/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/Gnucash/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/Gnucash/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;description&#39;: &#39;GnuCash Double-Entry Accounting Program.&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/Gnucash/gnucash/deployments&#39;, &#39;created_at&#39;: &#39;2013-02-01T21:22:29Z&#39;, &#39;updated_at&#39;: &#39;2020-06-27T21:56:54Z&#39;, &#39;pushed_at&#39;: &#39;2020-06-28T01:33:10Z&#39;, &#39;git_url&#39;: &#39;git://github.com/Gnucash/gnucash.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:Gnucash/gnucash.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/Gnucash/gnucash.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/Gnucash/gnucash&#39;, &#39;homepage&#39;: &#39;http://www.gnucash.org&#39;, &#39;size&#39;: 236642, &#39;stargazers_count&#39;: 1604, &#39;watchers_count&#39;: 1604, &#39;language&#39;: &#39;C&#39;, &#39;has_issues&#39;: False, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: False, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 519, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 23, &#39;license&#39;: {&#39;key&#39;: &#39;other&#39;, &#39;name&#39;: &#39;Other&#39;, &#39;spdx_id&#39;: &#39;NOASSERTION&#39;, &#39;url&#39;: None, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTA=&#39;}, &#39;forks&#39;: 519, &#39;open_issues&#39;: 23, &#39;watchers&#39;: 1604, &#39;default_branch&#39;: &#39;maint&#39;}<br>
+                  
+                    <strong>network_count</strong>: 519<br>
+                  
+                    <strong>subscribers_count</strong>: 1<br>
+                  
+                 </div>
+              </section>
+            </div>
+            </div>
+	</div>
+
+  <div class="controls">
+    <span style="float:right; margin-right:30px" class="badge badge-primary">database: filesystem</span>
+  </div>
+  <hr>
+</div>
+
+
+  
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js'></script>
+  
+<script>
+
+$(document).on('keypress',function(e) {
+});
+
+$('input[type="search"]').on('keypress',function(e) {
+  // Do search on pressing enter
+  if(e.which == 13) {
+    var t = $(this);
+    var value = t.val();
+    var content = $("#hidden-output").html();
+    content = content.replace(value, '<span style="background-color:yellow">' + value + '</span>');
+    $("#output").html(content);
+  }  
+});
+
+$('input[type="search"] + .search-cancel-button').hide($(this).prev('input').val()).click(function () {
+  $(this).prev('input').val('').focus();
+  $(this).hide();
+});
+
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Repository Software</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="/software/static/css/style.css">
+  <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"></link>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+</head>
+<body>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <br>
+      <div class="form-horizontal">
+        <div class="form-group has-feedback">
+          <div class='col-sm-12'>
+            <input class='form-control table-sortable-search' placeholder="Press Enter to Search..." type='search'>
+            <span class='glyphicon glyphicon-remove form-control-feedback search-cancel-button'></span>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class='panel panel-default'>
+        <div class='table-responsive' id="app">
+          <h2 style="margin-left:5px">> github/candYgene/QTM</h2>
+          <hr> 
+          <div class="row">
+            <div class="col-md-3">
+              <div class="panel panel-default panel-with-sidebar">
+                <section>
+                  <div class="panel-heading"><span class="badge badge-blue">Data</span></div>
+                  <div class="panel-body">
+			  <table class="table table-sortable">
+			    <thead>
+			      <tr>
+				<th>Key</th>
+				<th>Value</th>
+			      </tr>
+			    </thead>
+			    <tbody>
+			      <tr>
+				<td>Parser</td>
+				<td>github</td>
+			      </tr>
+			      <tr>
+				<td>Description</td>
+				<td>QTLTableMiner++ tool for mining tables in scientific articles</td>
+			      </tr>
+			      <tr>
+				<td>Repository</td>
+				<td><a href="https://github.com/candYgene/QTM" target="_blank">https://github.com/candYgene/QTM</a></td>
+			      </tr>
+			      <tr>
+				<td>Homepage</td>
+				<td><a href="https://www.research-software.nl/software/qtl-tableminer" target="_blank">https://www.research-software.nl/software/qtl-tableminer</a></td>
+			      </tr>
+			      
+			      <tr>
+				<td>Stars</td>
+				<td>0 ⭐️</td>
+			      </tr>
+			      <tr>
+				<td>Watchers</td>
+				<td>0 👀️</td>
+			      </tr>
+			      <tr>
+				<td>Entry Updated</td>
+				<td>2020-06-28 08:44:56.237350</td>
+			      </tr>
+			    </tbody>
+			  </table>
+                  </div>
+                </section>
+                <section>
+                 <a href="https://github.com/candYgene/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/27219573?v=4" style="max-width:95%"></a><br>
+                 <a href="/"><button style="margin:10px" type="button" class="btn btn-primary">< Back</button></a>
+                </section>
+              </div>
+            </div>
+            <div class="col-md-9">
+            <div class="panel panel-default panel-with-sidebar">
+              <section>
+                <div class="panel-heading"><span class="badge badge-green">Metadata</span></div>
+                  <div style="display: none" id="hidden-output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:56.237350<br>
+                  
+                    <strong>id</strong>: 204893579<br>
+                  
+                  
+                    <strong>name</strong>: QTM<br>
+                  
+                    <strong>full_name</strong>: candYgene/QTM<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/candYgene/QTM<br>
+                  
+                    <strong>description</strong>: QTLTableMiner++ tool for mining tables in scientific articles<br>
+                  
+                    <strong>fork</strong>: True<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/candYgene/QTM<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/candYgene/QTM/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/candYgene/QTM/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/candYgene/QTM/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/candYgene/QTM/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/candYgene/QTM/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/candYgene/QTM/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/candYgene/QTM/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/candYgene/QTM/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/candYgene/QTM/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/candYgene/QTM/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/candYgene/QTM/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/candYgene/QTM/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/candYgene/QTM/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/candYgene/QTM/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/candYgene/QTM/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/candYgene/QTM/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/candYgene/QTM/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/candYgene/QTM/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/candYgene/QTM/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/candYgene/QTM/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/candYgene/QTM/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/candYgene/QTM/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/candYgene/QTM/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/candYgene/QTM/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/candYgene/QTM/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/candYgene/QTM/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/candYgene/QTM/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/candYgene/QTM/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/candYgene/QTM/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/candYgene/QTM/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/candYgene/QTM/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/candYgene/QTM/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/candYgene/QTM/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/candYgene/QTM/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/candYgene/QTM/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/candYgene/QTM/deployments<br>
+                  
+                    <strong>created_at</strong>: 2019-08-28T09:17:12Z<br>
+                  
+                    <strong>updated_at</strong>: 2019-09-04T11:21:57Z<br>
+                  
+                    <strong>pushed_at</strong>: 2019-09-04T11:21:55Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/candYgene/QTM.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:candYgene/QTM.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/candYgene/QTM.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/candYgene/QTM<br>
+                  
+                    <strong>homepage</strong>: https://www.research-software.nl/software/qtl-tableminer<br>
+                  
+                    <strong>size</strong>: 387387<br>
+                  
+                    <strong>stargazers_count</strong>: 0<br>
+                  
+                    <strong>watchers_count</strong>: 0<br>
+                  
+                    <strong>language</strong>: Java<br>
+                  
+                    <strong>has_issues</strong>: False<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 0<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 0<br>
+                  
+                    <strong>license</strong>: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}<br>
+                  
+                    <strong>forks</strong>: 0<br>
+                  
+                    <strong>open_issues</strong>: 0<br>
+                  
+                    <strong>watchers</strong>: 0<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>parent</strong>: {&#39;id&#39;: 85691450, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk4NTY5MTQ1MA==&#39;, &#39;name&#39;: &#39;QTM&#39;, &#39;full_name&#39;: &#39;PBR/QTM&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;PBR&#39;, &#39;id&#39;: 565076, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU2NTA3Ng==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/565076?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/PBR&#39;, &#39;html_url&#39;: &#39;https://github.com/PBR&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/PBR/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/PBR/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/PBR/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/PBR/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/PBR/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/PBR/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/PBR/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/PBR/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/PBR/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;description&#39;: &#39;QTLTableMiner++ tool for mining tables in scientific articles&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/PBR/QTM&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/deployments&#39;, &#39;created_at&#39;: &#39;2017-03-21T10:58:25Z&#39;, &#39;updated_at&#39;: &#39;2019-12-14T10:05:51Z&#39;, &#39;pushed_at&#39;: &#39;2019-09-04T11:22:02Z&#39;, &#39;git_url&#39;: &#39;git://github.com/PBR/QTM.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:PBR/QTM.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/PBR/QTM.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;homepage&#39;: &#39;https://www.research-software.nl/software/qtl-tableminer&#39;, &#39;size&#39;: 387387, &#39;stargazers_count&#39;: 4, &#39;watchers_count&#39;: 4, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: True, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: True, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 5, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 2, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 5, &#39;open_issues&#39;: 2, &#39;watchers&#39;: 4, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>source</strong>: {&#39;id&#39;: 85691450, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk4NTY5MTQ1MA==&#39;, &#39;name&#39;: &#39;QTM&#39;, &#39;full_name&#39;: &#39;PBR/QTM&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;PBR&#39;, &#39;id&#39;: 565076, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU2NTA3Ng==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/565076?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/PBR&#39;, &#39;html_url&#39;: &#39;https://github.com/PBR&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/PBR/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/PBR/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/PBR/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/PBR/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/PBR/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/PBR/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/PBR/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/PBR/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/PBR/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;description&#39;: &#39;QTLTableMiner++ tool for mining tables in scientific articles&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/PBR/QTM&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/deployments&#39;, &#39;created_at&#39;: &#39;2017-03-21T10:58:25Z&#39;, &#39;updated_at&#39;: &#39;2019-12-14T10:05:51Z&#39;, &#39;pushed_at&#39;: &#39;2019-09-04T11:22:02Z&#39;, &#39;git_url&#39;: &#39;git://github.com/PBR/QTM.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:PBR/QTM.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/PBR/QTM.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;homepage&#39;: &#39;https://www.research-software.nl/software/qtl-tableminer&#39;, &#39;size&#39;: 387387, &#39;stargazers_count&#39;: 4, &#39;watchers_count&#39;: 4, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: True, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: True, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 5, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 2, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 5, &#39;open_issues&#39;: 2, &#39;watchers&#39;: 4, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>network_count</strong>: 5<br>
+                  
+                    <strong>subscribers_count</strong>: 0<br>
+                  </div>
+                  <div class="panel-body" id="output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:56.237350<br>
+                  
+                    <strong>id</strong>: 204893579<br>
+                  
+                  
+                    <strong>name</strong>: QTM<br>
+                  
+                    <strong>full_name</strong>: candYgene/QTM<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/candYgene/QTM<br>
+                  
+                    <strong>description</strong>: QTLTableMiner++ tool for mining tables in scientific articles<br>
+                  
+                    <strong>fork</strong>: True<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/candYgene/QTM<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/candYgene/QTM/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/candYgene/QTM/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/candYgene/QTM/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/candYgene/QTM/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/candYgene/QTM/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/candYgene/QTM/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/candYgene/QTM/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/candYgene/QTM/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/candYgene/QTM/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/candYgene/QTM/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/candYgene/QTM/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/candYgene/QTM/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/candYgene/QTM/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/candYgene/QTM/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/candYgene/QTM/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/candYgene/QTM/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/candYgene/QTM/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/candYgene/QTM/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/candYgene/QTM/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/candYgene/QTM/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/candYgene/QTM/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/candYgene/QTM/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/candYgene/QTM/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/candYgene/QTM/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/candYgene/QTM/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/candYgene/QTM/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/candYgene/QTM/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/candYgene/QTM/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/candYgene/QTM/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/candYgene/QTM/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/candYgene/QTM/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/candYgene/QTM/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/candYgene/QTM/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/candYgene/QTM/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/candYgene/QTM/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/candYgene/QTM/deployments<br>
+                  
+                    <strong>created_at</strong>: 2019-08-28T09:17:12Z<br>
+                  
+                    <strong>updated_at</strong>: 2019-09-04T11:21:57Z<br>
+                  
+                    <strong>pushed_at</strong>: 2019-09-04T11:21:55Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/candYgene/QTM.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:candYgene/QTM.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/candYgene/QTM.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/candYgene/QTM<br>
+                  
+                    <strong>homepage</strong>: https://www.research-software.nl/software/qtl-tableminer<br>
+                  
+                    <strong>size</strong>: 387387<br>
+                  
+                    <strong>stargazers_count</strong>: 0<br>
+                  
+                    <strong>watchers_count</strong>: 0<br>
+                  
+                    <strong>language</strong>: Java<br>
+                  
+                    <strong>has_issues</strong>: False<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 0<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 0<br>
+                  
+                    <strong>license</strong>: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}<br>
+                  
+                    <strong>forks</strong>: 0<br>
+                  
+                    <strong>open_issues</strong>: 0<br>
+                  
+                    <strong>watchers</strong>: 0<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>parent</strong>: {&#39;id&#39;: 85691450, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk4NTY5MTQ1MA==&#39;, &#39;name&#39;: &#39;QTM&#39;, &#39;full_name&#39;: &#39;PBR/QTM&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;PBR&#39;, &#39;id&#39;: 565076, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU2NTA3Ng==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/565076?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/PBR&#39;, &#39;html_url&#39;: &#39;https://github.com/PBR&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/PBR/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/PBR/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/PBR/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/PBR/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/PBR/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/PBR/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/PBR/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/PBR/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/PBR/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;description&#39;: &#39;QTLTableMiner++ tool for mining tables in scientific articles&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/PBR/QTM&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/deployments&#39;, &#39;created_at&#39;: &#39;2017-03-21T10:58:25Z&#39;, &#39;updated_at&#39;: &#39;2019-12-14T10:05:51Z&#39;, &#39;pushed_at&#39;: &#39;2019-09-04T11:22:02Z&#39;, &#39;git_url&#39;: &#39;git://github.com/PBR/QTM.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:PBR/QTM.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/PBR/QTM.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;homepage&#39;: &#39;https://www.research-software.nl/software/qtl-tableminer&#39;, &#39;size&#39;: 387387, &#39;stargazers_count&#39;: 4, &#39;watchers_count&#39;: 4, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: True, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: True, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 5, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 2, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 5, &#39;open_issues&#39;: 2, &#39;watchers&#39;: 4, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>source</strong>: {&#39;id&#39;: 85691450, &#39;node_id&#39;: &#39;MDEwOlJlcG9zaXRvcnk4NTY5MTQ1MA==&#39;, &#39;name&#39;: &#39;QTM&#39;, &#39;full_name&#39;: &#39;PBR/QTM&#39;, &#39;private&#39;: False, &#39;owner&#39;: {&#39;login&#39;: &#39;PBR&#39;, &#39;id&#39;: 565076, &#39;node_id&#39;: &#39;MDEyOk9yZ2FuaXphdGlvbjU2NTA3Ng==&#39;, &#39;avatar_url&#39;: &#39;https://avatars1.githubusercontent.com/u/565076?v=4&#39;, &#39;gravatar_id&#39;: &#39;&#39;, &#39;url&#39;: &#39;https://api.github.com/users/PBR&#39;, &#39;html_url&#39;: &#39;https://github.com/PBR&#39;, &#39;followers_url&#39;: &#39;https://api.github.com/users/PBR/followers&#39;, &#39;following_url&#39;: &#39;https://api.github.com/users/PBR/following{/other_user}&#39;, &#39;gists_url&#39;: &#39;https://api.github.com/users/PBR/gists{/gist_id}&#39;, &#39;starred_url&#39;: &#39;https://api.github.com/users/PBR/starred{/owner}{/repo}&#39;, &#39;subscriptions_url&#39;: &#39;https://api.github.com/users/PBR/subscriptions&#39;, &#39;organizations_url&#39;: &#39;https://api.github.com/users/PBR/orgs&#39;, &#39;repos_url&#39;: &#39;https://api.github.com/users/PBR/repos&#39;, &#39;events_url&#39;: &#39;https://api.github.com/users/PBR/events{/privacy}&#39;, &#39;received_events_url&#39;: &#39;https://api.github.com/users/PBR/received_events&#39;, &#39;type&#39;: &#39;Organization&#39;, &#39;site_admin&#39;: False}, &#39;html_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;description&#39;: &#39;QTLTableMiner++ tool for mining tables in scientific articles&#39;, &#39;fork&#39;: False, &#39;url&#39;: &#39;https://api.github.com/repos/PBR/QTM&#39;, &#39;forks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/forks&#39;, &#39;keys_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/keys{/key_id}&#39;, &#39;collaborators_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/collaborators{/collaborator}&#39;, &#39;teams_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/teams&#39;, &#39;hooks_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/hooks&#39;, &#39;issue_events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/events{/number}&#39;, &#39;events_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/events&#39;, &#39;assignees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/assignees{/user}&#39;, &#39;branches_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/branches{/branch}&#39;, &#39;tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/tags&#39;, &#39;blobs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/blobs{/sha}&#39;, &#39;git_tags_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/tags{/sha}&#39;, &#39;git_refs_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/refs{/sha}&#39;, &#39;trees_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/trees{/sha}&#39;, &#39;statuses_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/statuses/{sha}&#39;, &#39;languages_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/languages&#39;, &#39;stargazers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/stargazers&#39;, &#39;contributors_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contributors&#39;, &#39;subscribers_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscribers&#39;, &#39;subscription_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/subscription&#39;, &#39;commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/commits{/sha}&#39;, &#39;git_commits_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/git/commits{/sha}&#39;, &#39;comments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/comments{/number}&#39;, &#39;issue_comment_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues/comments{/number}&#39;, &#39;contents_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/contents/{+path}&#39;, &#39;compare_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/compare/{base}...{head}&#39;, &#39;merges_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/merges&#39;, &#39;archive_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/{archive_format}{/ref}&#39;, &#39;downloads_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/downloads&#39;, &#39;issues_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/issues{/number}&#39;, &#39;pulls_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/pulls{/number}&#39;, &#39;milestones_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/milestones{/number}&#39;, &#39;notifications_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/notifications{?since,all,participating}&#39;, &#39;labels_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/labels{/name}&#39;, &#39;releases_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/releases{/id}&#39;, &#39;deployments_url&#39;: &#39;https://api.github.com/repos/PBR/QTM/deployments&#39;, &#39;created_at&#39;: &#39;2017-03-21T10:58:25Z&#39;, &#39;updated_at&#39;: &#39;2019-12-14T10:05:51Z&#39;, &#39;pushed_at&#39;: &#39;2019-09-04T11:22:02Z&#39;, &#39;git_url&#39;: &#39;git://github.com/PBR/QTM.git&#39;, &#39;ssh_url&#39;: &#39;git@github.com:PBR/QTM.git&#39;, &#39;clone_url&#39;: &#39;https://github.com/PBR/QTM.git&#39;, &#39;svn_url&#39;: &#39;https://github.com/PBR/QTM&#39;, &#39;homepage&#39;: &#39;https://www.research-software.nl/software/qtl-tableminer&#39;, &#39;size&#39;: 387387, &#39;stargazers_count&#39;: 4, &#39;watchers_count&#39;: 4, &#39;language&#39;: &#39;Java&#39;, &#39;has_issues&#39;: True, &#39;has_projects&#39;: True, &#39;has_downloads&#39;: True, &#39;has_wiki&#39;: True, &#39;has_pages&#39;: False, &#39;forks_count&#39;: 5, &#39;mirror_url&#39;: None, &#39;archived&#39;: False, &#39;disabled&#39;: False, &#39;open_issues_count&#39;: 2, &#39;license&#39;: {&#39;key&#39;: &#39;apache-2.0&#39;, &#39;name&#39;: &#39;Apache License 2.0&#39;, &#39;spdx_id&#39;: &#39;Apache-2.0&#39;, &#39;url&#39;: &#39;https://api.github.com/licenses/apache-2.0&#39;, &#39;node_id&#39;: &#39;MDc6TGljZW5zZTI=&#39;}, &#39;forks&#39;: 5, &#39;open_issues&#39;: 2, &#39;watchers&#39;: 4, &#39;default_branch&#39;: &#39;master&#39;}<br>
+                  
+                    <strong>network_count</strong>: 5<br>
+                  
+                    <strong>subscribers_count</strong>: 0<br>
+                  
+                 </div>
+              </section>
+            </div>
+            </div>
+	</div>
+
+  <div class="controls">
+    <span style="float:right; margin-right:30px" class="badge badge-primary">database: filesystem</span>
+  </div>
+  <hr>
+</div>
+
+
+  
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js'></script>
+  
+<script>
+
+$(document).on('keypress',function(e) {
+});
+
+$('input[type="search"]').on('keypress',function(e) {
+  // Do search on pressing enter
+  if(e.which == 13) {
+    var t = $(this);
+    var value = t.val();
+    var content = $("#hidden-output").html();
+    content = content.replace(value, '<span style="background-color:yellow">' + value + '</span>');
+    $("#output").html(content);
+  }  
+});
+
+$('input[type="search"] + .search-cancel-button').hide($(this).prev('input').val()).click(function () {
+  $(this).prev('input').val('').focus();
+  $(this).hide();
+});
+
+</script>
+
+
+</body>
+</html>

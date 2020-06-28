@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Repository Software</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="/software/static/css/style.css">
+  <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"></link>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+</head>
+<body>
+<div class='container-fluid'>
+  <div class='row'>
+    <div class='col-sm-12'>
+      <br>
+      <div class="form-horizontal">
+        <div class="form-group has-feedback">
+          <div class='col-sm-12'>
+            <input class='form-control table-sortable-search' placeholder="Press Enter to Search..." type='search'>
+            <span class='glyphicon glyphicon-remove form-control-feedback search-cancel-button'></span>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class='panel panel-default'>
+        <div class='table-responsive' id="app">
+          <h2 style="margin-left:5px">> github/NLeSC/PattyData</h2>
+          <hr> 
+          <div class="row">
+            <div class="col-md-3">
+              <div class="panel panel-default panel-with-sidebar">
+                <section>
+                  <div class="panel-heading"><span class="badge badge-blue">Data</span></div>
+                  <div class="panel-body">
+			  <table class="table table-sortable">
+			    <thead>
+			      <tr>
+				<th>Key</th>
+				<th>Value</th>
+			      </tr>
+			    </thead>
+			    <tbody>
+			      <tr>
+				<td>Parser</td>
+				<td>github</td>
+			      </tr>
+			      <tr>
+				<td>Description</td>
+				<td>None</td>
+			      </tr>
+			      <tr>
+				<td>Repository</td>
+				<td><a href="https://github.com/NLeSC/PattyData" target="_blank">https://github.com/NLeSC/PattyData</a></td>
+			      </tr>
+			      
+			      
+			      <tr>
+				<td>Stars</td>
+				<td>7 ⭐️</td>
+			      </tr>
+			      <tr>
+				<td>Watchers</td>
+				<td>7 👀️</td>
+			      </tr>
+			      <tr>
+				<td>Entry Updated</td>
+				<td>2020-06-28 08:44:54.456501</td>
+			      </tr>
+			    </tbody>
+			  </table>
+                  </div>
+                </section>
+                <section>
+                 <a href="https://github.com/NLeSC/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/1705862?v=4" style="max-width:95%"></a><br>
+                 <a href="/"><button style="margin:10px" type="button" class="btn btn-primary">< Back</button></a>
+                </section>
+              </div>
+            </div>
+            <div class="col-md-9">
+            <div class="panel panel-default panel-with-sidebar">
+              <section>
+                <div class="panel-heading"><span class="badge badge-green">Metadata</span></div>
+                  <div style="display: none" id="hidden-output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:54.456501<br>
+                  
+                    <strong>id</strong>: 24712841<br>
+                  
+                  
+                    <strong>name</strong>: PattyData<br>
+                  
+                    <strong>full_name</strong>: NLeSC/PattyData<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/NLeSC/PattyData<br>
+                  
+                    <strong>description</strong>: None<br>
+                  
+                    <strong>fork</strong>: False<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/NLeSC/PattyData<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/NLeSC/PattyData/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/NLeSC/PattyData/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/NLeSC/PattyData/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/NLeSC/PattyData/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/NLeSC/PattyData/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/NLeSC/PattyData/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/NLeSC/PattyData/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/NLeSC/PattyData/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/NLeSC/PattyData/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/NLeSC/PattyData/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/NLeSC/PattyData/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/NLeSC/PattyData/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/NLeSC/PattyData/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/NLeSC/PattyData/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/NLeSC/PattyData/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/NLeSC/PattyData/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/NLeSC/PattyData/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/NLeSC/PattyData/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/NLeSC/PattyData/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/NLeSC/PattyData/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/NLeSC/PattyData/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/NLeSC/PattyData/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/NLeSC/PattyData/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/NLeSC/PattyData/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/NLeSC/PattyData/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/NLeSC/PattyData/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/NLeSC/PattyData/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/NLeSC/PattyData/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/NLeSC/PattyData/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/NLeSC/PattyData/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/NLeSC/PattyData/deployments<br>
+                  
+                    <strong>created_at</strong>: 2014-10-02T09:02:17Z<br>
+                  
+                    <strong>updated_at</strong>: 2020-05-30T18:05:17Z<br>
+                  
+                    <strong>pushed_at</strong>: 2017-03-28T12:17:32Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/NLeSC/PattyData.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:NLeSC/PattyData.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/NLeSC/PattyData.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/NLeSC/PattyData<br>
+                  
+                    <strong>homepage</strong>: None<br>
+                  
+                    <strong>size</strong>: 25561<br>
+                  
+                    <strong>stargazers_count</strong>: 7<br>
+                  
+                    <strong>watchers_count</strong>: 7<br>
+                  
+                    <strong>language</strong>: HTML<br>
+                  
+                    <strong>has_issues</strong>: True<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 2<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 2<br>
+                  
+                    <strong>license</strong>: None<br>
+                  
+                    <strong>forks</strong>: 2<br>
+                  
+                    <strong>open_issues</strong>: 2<br>
+                  
+                    <strong>watchers</strong>: 7<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>network_count</strong>: 2<br>
+                  
+                    <strong>subscribers_count</strong>: 5<br>
+                  </div>
+                  <div class="panel-body" id="output">
+                    <strong>timestamp</strong>: 2020-06-28 08:44:54.456501<br>
+                  
+                    <strong>id</strong>: 24712841<br>
+                  
+                  
+                    <strong>name</strong>: PattyData<br>
+                  
+                    <strong>full_name</strong>: NLeSC/PattyData<br>
+                  
+                    <strong>private</strong>: False<br>
+                  
+                  
+                    <strong>html_url</strong>: https://github.com/NLeSC/PattyData<br>
+                  
+                    <strong>description</strong>: None<br>
+                  
+                    <strong>fork</strong>: False<br>
+                  
+                    <strong>url</strong>: https://api.github.com/repos/NLeSC/PattyData<br>
+                  
+                    <strong>forks_url</strong>: https://api.github.com/repos/NLeSC/PattyData/forks<br>
+                  
+                    <strong>keys_url</strong>: https://api.github.com/repos/NLeSC/PattyData/keys{/key_id}<br>
+                  
+                    <strong>collaborators_url</strong>: https://api.github.com/repos/NLeSC/PattyData/collaborators{/collaborator}<br>
+                  
+                    <strong>teams_url</strong>: https://api.github.com/repos/NLeSC/PattyData/teams<br>
+                  
+                    <strong>hooks_url</strong>: https://api.github.com/repos/NLeSC/PattyData/hooks<br>
+                  
+                    <strong>issue_events_url</strong>: https://api.github.com/repos/NLeSC/PattyData/issues/events{/number}<br>
+                  
+                    <strong>events_url</strong>: https://api.github.com/repos/NLeSC/PattyData/events<br>
+                  
+                    <strong>assignees_url</strong>: https://api.github.com/repos/NLeSC/PattyData/assignees{/user}<br>
+                  
+                    <strong>branches_url</strong>: https://api.github.com/repos/NLeSC/PattyData/branches{/branch}<br>
+                  
+                    <strong>tags_url</strong>: https://api.github.com/repos/NLeSC/PattyData/tags<br>
+                  
+                    <strong>blobs_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/blobs{/sha}<br>
+                  
+                    <strong>git_tags_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/tags{/sha}<br>
+                  
+                    <strong>git_refs_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/refs{/sha}<br>
+                  
+                    <strong>trees_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/trees{/sha}<br>
+                  
+                    <strong>statuses_url</strong>: https://api.github.com/repos/NLeSC/PattyData/statuses/{sha}<br>
+                  
+                    <strong>languages_url</strong>: https://api.github.com/repos/NLeSC/PattyData/languages<br>
+                  
+                    <strong>stargazers_url</strong>: https://api.github.com/repos/NLeSC/PattyData/stargazers<br>
+                  
+                    <strong>contributors_url</strong>: https://api.github.com/repos/NLeSC/PattyData/contributors<br>
+                  
+                    <strong>subscribers_url</strong>: https://api.github.com/repos/NLeSC/PattyData/subscribers<br>
+                  
+                    <strong>subscription_url</strong>: https://api.github.com/repos/NLeSC/PattyData/subscription<br>
+                  
+                    <strong>commits_url</strong>: https://api.github.com/repos/NLeSC/PattyData/commits{/sha}<br>
+                  
+                    <strong>git_commits_url</strong>: https://api.github.com/repos/NLeSC/PattyData/git/commits{/sha}<br>
+                  
+                    <strong>comments_url</strong>: https://api.github.com/repos/NLeSC/PattyData/comments{/number}<br>
+                  
+                    <strong>issue_comment_url</strong>: https://api.github.com/repos/NLeSC/PattyData/issues/comments{/number}<br>
+                  
+                    <strong>contents_url</strong>: https://api.github.com/repos/NLeSC/PattyData/contents/{+path}<br>
+                  
+                    <strong>compare_url</strong>: https://api.github.com/repos/NLeSC/PattyData/compare/{base}...{head}<br>
+                  
+                    <strong>merges_url</strong>: https://api.github.com/repos/NLeSC/PattyData/merges<br>
+                  
+                    <strong>archive_url</strong>: https://api.github.com/repos/NLeSC/PattyData/{archive_format}{/ref}<br>
+                  
+                    <strong>downloads_url</strong>: https://api.github.com/repos/NLeSC/PattyData/downloads<br>
+                  
+                    <strong>issues_url</strong>: https://api.github.com/repos/NLeSC/PattyData/issues{/number}<br>
+                  
+                    <strong>pulls_url</strong>: https://api.github.com/repos/NLeSC/PattyData/pulls{/number}<br>
+                  
+                    <strong>milestones_url</strong>: https://api.github.com/repos/NLeSC/PattyData/milestones{/number}<br>
+                  
+                    <strong>notifications_url</strong>: https://api.github.com/repos/NLeSC/PattyData/notifications{?since,all,participating}<br>
+                  
+                    <strong>labels_url</strong>: https://api.github.com/repos/NLeSC/PattyData/labels{/name}<br>
+                  
+                    <strong>releases_url</strong>: https://api.github.com/repos/NLeSC/PattyData/releases{/id}<br>
+                  
+                    <strong>deployments_url</strong>: https://api.github.com/repos/NLeSC/PattyData/deployments<br>
+                  
+                    <strong>created_at</strong>: 2014-10-02T09:02:17Z<br>
+                  
+                    <strong>updated_at</strong>: 2020-05-30T18:05:17Z<br>
+                  
+                    <strong>pushed_at</strong>: 2017-03-28T12:17:32Z<br>
+                  
+                    <strong>git_url</strong>: git://github.com/NLeSC/PattyData.git<br>
+                  
+                    <strong>ssh_url</strong>: git@github.com:NLeSC/PattyData.git<br>
+                  
+                    <strong>clone_url</strong>: https://github.com/NLeSC/PattyData.git<br>
+                  
+                    <strong>svn_url</strong>: https://github.com/NLeSC/PattyData<br>
+                  
+                    <strong>homepage</strong>: None<br>
+                  
+                    <strong>size</strong>: 25561<br>
+                  
+                    <strong>stargazers_count</strong>: 7<br>
+                  
+                    <strong>watchers_count</strong>: 7<br>
+                  
+                    <strong>language</strong>: HTML<br>
+                  
+                    <strong>has_issues</strong>: True<br>
+                  
+                    <strong>has_projects</strong>: True<br>
+                  
+                    <strong>has_downloads</strong>: True<br>
+                  
+                    <strong>has_wiki</strong>: True<br>
+                  
+                    <strong>has_pages</strong>: False<br>
+                  
+                    <strong>forks_count</strong>: 2<br>
+                  
+                    <strong>mirror_url</strong>: None<br>
+                  
+                    <strong>archived</strong>: False<br>
+                  
+                    <strong>disabled</strong>: False<br>
+                  
+                    <strong>open_issues_count</strong>: 2<br>
+                  
+                    <strong>license</strong>: None<br>
+                  
+                    <strong>forks</strong>: 2<br>
+                  
+                    <strong>open_issues</strong>: 2<br>
+                  
+                    <strong>watchers</strong>: 7<br>
+                  
+                    <strong>default_branch</strong>: master<br>
+                  
+                    <strong>permissions</strong>: {&#39;admin&#39;: False, &#39;push&#39;: False, &#39;pull&#39;: False}<br>
+                  
+                    <strong>temp_clone_token</strong>: <br>
+                  
+                  
+                    <strong>network_count</strong>: 2<br>
+                  
+                    <strong>subscribers_count</strong>: 5<br>
+                  
+                 </div>
+              </section>
+            </div>
+            </div>
+	</div>
+
+  <div class="controls">
+    <span style="float:right; margin-right:30px" class="badge badge-primary">database: filesystem</span>
+  </div>
+  <hr>
+</div>
+
+
+  
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js'></script>
+  
+<script>
+
+$(document).on('keypress',function(e) {
+});
+
+$('input[type="search"]').on('keypress',function(e) {
+  // Do search on pressing enter
+  if(e.which == 13) {
+    var t = $(this);
+    var value = t.val();
+    var content = $("#hidden-output").html();
+    content = content.replace(value, '<span style="background-color:yellow">' + value + '</span>');
+    $("#output").html(content);
+  }  
+});
+
+$('input[type="search"] + .search-cancel-button').hide($(this).prev('input').val()).click(function () {
+  $(this).prev('input').val('').focus();
+  $(this).hide();
+});
+
+</script>
+
+
+</body>
+</html>
