@@ -33,5 +33,6 @@
             "login": "ropensci",
             "type": "Organization"
         }
-    }
+    },
+    "doi": "10.21105/joss.01829"
 }
