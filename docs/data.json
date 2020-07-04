@@ -319,7 +319,7 @@
         "url": "https://github.com/networkx/networkx",
         "rel": "/software/repository/github/networkx/networkx",
         "avatar": "https://avatars2.githubusercontent.com/u/388785?v=4",
-        "description": "Official NetworkX source code repository.  "
+        "description": "Network Analysis in Python"
     },
     {
         "uid": "github/jupyter/notebook",
@@ -439,6 +439,13 @@
         "rel": "/software/repository/github/ropensci/drake",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "An R-focused pipeline toolkit for reproducibility and high-performance computing"
+    },
+    {
+        "uid": "github/ropensci/rtweet",
+        "url": "https://github.com/ropensci/rtweet",
+        "rel": "/software/repository/github/ropensci/rtweet",
+        "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
+        "description": "\ud83d\udc26 R client for interacting with Twitter's [stream and REST] APIs"
     },
     {
         "uid": "github/ropensci/plotly",

@@ -206,7 +206,7 @@ $("form").submit(function(event) {
    } else {
        body = "%23%23%20Repository%20%0A" + encodeURIComponent(repo_id) + "%0A%0A" + body 
        console.log(body)
-       url = "https://github.com/rseng/software-example/issues/new?labels=taxonomy&title=[TAXONOMY]&body=" + body
+       url = "https://github.com/rseng/software/issues/new?labels=taxonomy&title=[TAXONOMY]&body=" + body
        console.log(url)
        document.location = url
    }
