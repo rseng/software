@@ -33,5 +33,6 @@
             "login": "spack",
             "type": "Organization"
         }
-    }
+    },
+    "doi": "https://doi.org/10.1145/2807591.2807623"
 }
