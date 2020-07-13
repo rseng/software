@@ -13,7 +13,7 @@ jobs:
     - name: Parse Criteria or Taxonomy Issue
       run: |
           echo "${{ github.event.issue.body }}" > new-issue.txt
-
+          cat new-issue.txt
           GITHUB_LABEL=undefined
           if grep -q "RSE-taxonomy" "new-issue.txt"; then
               GITHUB_LABEL=taxonomy
