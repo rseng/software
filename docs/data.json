@@ -42,6 +42,13 @@
         "description": "csWeb, short for common sense Web, is a userfriendly web application for showing (GIS) data on a map. It allows you to apply multiple filters to filter your data, and to style it, so you can immediately see what's important."
     },
     {
+        "uid": "github/darioizzo/dcgp",
+        "url": "https://github.com/darioizzo/dcgp",
+        "rel": "/software/repository/github/darioizzo/dcgp",
+        "avatar": "https://avatars3.githubusercontent.com/u/3327087?v=4",
+        "description": "Implementation of a differentiable CGP (Cartesian Genetic Programming)"
+    },
+    {
         "uid": "github/mzy2240/ESA",
         "url": "https://github.com/mzy2240/ESA",
         "rel": "/software/repository/github/mzy2240/ESA",
@@ -68,6 +75,13 @@
         "rel": "/software/repository/github/weecology/retriever",
         "avatar": "https://avatars3.githubusercontent.com/u/1156696?v=4",
         "description": "Quickly download, clean up, and install public datasets into a database management system"
+    },
+    {
+        "uid": "github/davidebolo1993/TRiCoLOR",
+        "url": "https://github.com/davidebolo1993/TRiCoLOR",
+        "rel": "/software/repository/github/davidebolo1993/TRiCoLOR",
+        "avatar": "https://avatars3.githubusercontent.com/u/39052119?v=4",
+        "description": "Tadem Repeats Caller for LOng Reads"
     },
     {
         "uid": "github/sap218/jabberwocky",
@@ -364,6 +378,13 @@
         "description": "A Python toolbox for ArcGIS Pro  that enables the development and application of land use regression models."
     },
     {
+        "uid": "github/cbrueffer/tophat-recondition",
+        "url": "https://github.com/cbrueffer/tophat-recondition",
+        "rel": "/software/repository/github/cbrueffer/tophat-recondition",
+        "avatar": "https://avatars3.githubusercontent.com/u/2705287?v=4",
+        "description": "Post-processor for TopHat unmapped.bam files making them useable by downstream software."
+    },
+    {
         "uid": "github/cosmo-epfl/chemiscope",
         "url": "https://github.com/cosmo-epfl/chemiscope",
         "rel": "/software/repository/github/cosmo-epfl/chemiscope",
@@ -539,6 +560,13 @@
         "description": "NLP pipeline software using common workflow language"
     },
     {
+        "uid": "github/easystats/correlation",
+        "url": "https://github.com/easystats/correlation",
+        "rel": "/software/repository/github/easystats/correlation",
+        "avatar": "https://avatars1.githubusercontent.com/u/47102598?v=4",
+        "description": ":link: Methods for Correlation Analysis"
+    },
+    {
         "uid": "github/geopandas/geopandas",
         "url": "https://github.com/geopandas/geopandas",
         "rel": "/software/repository/github/geopandas/geopandas",
@@ -621,6 +649,13 @@
         "rel": "/software/repository/github/biolab/orange3",
         "avatar": "https://avatars0.githubusercontent.com/u/555189?v=4",
         "description": "\ud83c\udf4a :bar_chart: :bulb: Orange: Interactive data analysis https://orange.biolab.si"
+    },
+    {
+        "uid": "github/giswqs/geemap",
+        "url": "https://github.com/giswqs/geemap",
+        "rel": "/software/repository/github/giswqs/geemap",
+        "avatar": "https://avatars1.githubusercontent.com/u/5016453?v=4",
+        "description": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets"
     },
     {
         "uid": "github/GooglingTheCancerGenome/sv-gen",
@@ -740,6 +775,13 @@
         "rel": "/software/repository/github/dask/dask",
         "avatar": "https://avatars1.githubusercontent.com/u/17131925?v=4",
         "description": "Parallel computing with task scheduling"
+    },
+    {
+        "uid": "github/JonasRieger/ldaPrototype",
+        "url": "https://github.com/JonasRieger/ldaPrototype",
+        "rel": "/software/repository/github/JonasRieger/ldaPrototype",
+        "avatar": "https://avatars0.githubusercontent.com/u/23215382?v=4",
+        "description": "Determine a Prototype from a number of runs of Latent Dirichlet Allocation (LDA) measuring its similarities with S-CLOP: A procedure to select the LDA run with highest mean pairwise similarity, which is measured by S-CLOP (Similarity of multiple sets by Clustering with Local Pruning), to all other runs."
     },
     {
         "uid": "github/BartoszBartmanski/StoSpa2",
@@ -1505,6 +1547,13 @@
         "description": "The fundamental package for scientific computing with Python."
     },
     {
+        "uid": "github/r-spatial/rgee",
+        "url": "https://github.com/r-spatial/rgee",
+        "rel": "/software/repository/github/r-spatial/rgee",
+        "avatar": "https://avatars3.githubusercontent.com/u/25086656?v=4",
+        "description": "Google Earth Engine for R"
+    },
+    {
         "uid": "github/pvlib/pvlib-python",
         "url": "https://github.com/pvlib/pvlib-python",
         "rel": "/software/repository/github/pvlib/pvlib-python",
@@ -1554,6 +1603,13 @@
         "description": "An implementation of chunked, compressed, N-dimensional arrays for Python."
     },
     {
+        "uid": "github/herrsalmi/FConverter",
+        "url": "https://github.com/herrsalmi/FConverter",
+        "rel": "/software/repository/github/herrsalmi/FConverter",
+        "avatar": "https://avatars0.githubusercontent.com/u/5948256?v=4",
+        "description": "File format converter for FImpute2"
+    },
+    {
         "uid": "github/snowformatics/macrobot",
         "url": "https://github.com/snowformatics/macrobot",
         "rel": "/software/repository/github/snowformatics/macrobot",
@@ -1580,6 +1636,13 @@
         "rel": "/software/repository/github/drwaseemsheikh/audiometry",
         "avatar": "https://avatars1.githubusercontent.com/u/56233110?v=4",
         "description": "Audiometry is an application framework written in C# and based on WPF and .NET that enables accurate digital recording, search, analysis, graphical visualization, and reproduction of human audio-vestibular impairment test data to assist in hearing loss or disability diagnosis."
+    },
+    {
+        "uid": "github/humanfactors/FIPS",
+        "url": "https://github.com/humanfactors/FIPS",
+        "rel": "/software/repository/github/humanfactors/FIPS",
+        "avatar": "https://avatars2.githubusercontent.com/u/16096044?v=4",
+        "description": "The Fatigue Impairment Prediction Suite (for R)"
     },
     {
         "uid": "github/ipython/ipython",
