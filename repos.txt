@@ -1,6 +1,7 @@
 gitlab/LouisLab/PiVR
 github/kkjawz/coref-ee
 github/era-urban/wrfpy
+github/ynop/audiomate
 github/scikit-learn/scikit-learn
 github/nlesc-dirac/sagecal
 github/tensorflow/tensorflow
@@ -26,6 +27,7 @@ github/InsightSoftwareConsortium/ITK
 github/zarr-developers/zarr-python
 github/SCM-NV/qmflows-namd
 github/SCM-NV/qmflows
+github/stemangiola/tidyHeatmap
 github/EOSC-LOFAR/lofar-ld
 github/pandas-dev/pandas
 github/martibosch/detectree
@@ -58,6 +60,7 @@ github/danhey/maelstrom
 github/online-behaviour/find-journalists
 github/online-behaviour/machine-learning
 github/hpcng/singularity
+github/afeinstein20/stella
 github/libdynd/dynd-python
 github/bokeh/bokeh
 github/cb-geo/mpm
@@ -68,6 +71,7 @@ github/kendomaniac/rCASC
 github/cupy/cupy
 github/qpv-research-group/solcore5
 github/ADAH-EviDENce/evidence
+github/berenslab/MorphoPy
 github/LiberTEM/LiberTEM
 github/SchedMD/slurm
 github/HajkD/LTRpred
@@ -91,6 +95,7 @@ github/multiscale/muscle3
 github/darioizzo/dcgp
 github/c-martinez/BeyondTheBook
 github/scikit-image/scikit-image
+github/yanzhanglab/Graph2GO
 github/numba/numba
 github/arviz-devs/arviz
 github/ShixiangWang/sigminer
@@ -108,6 +113,7 @@ github/RaRe-Technologies/gensim
 github/TomKellyGenetics/graphsim
 github/sap218/jabberwocky
 github/edwardoughton/itmlogic
+github/big-data-lab-team/spot
 github/genotoul-bioinfo/dgenies
 github/FEniCS/ffcx
 github/tobiasrausch/alfred
@@ -120,9 +126,11 @@ github/davidebolo1993/TRiCoLOR
 github/qutip/qutip
 github/yatiml/yatiml
 github/Cantera/cantera
+github/ECSHackWeek/impedance.py
 github/pydata/xarray
 github/linbox-team/linbox
 github/rhenanbartels/hrv
+github/sandmanns/CopyDetective
 github/cython/cython
 github/JuliaOpt/JuMP.jl
 github/cosmo-epfl/chemiscope
@@ -153,6 +161,7 @@ github/DreamCloud-Project/AMALTHEA-SimGrid
 github/humanfactors/FIPS
 github/EC-Earth/ece2cmor3
 github/Theano/Theano
+github/NicolasHug/Surprise
 github/3D-e-Chem/3D-e-Chem-VM
 github/3D-e-Chem/sygma
 github/3D-e-Chem/knime-testflow
@@ -177,6 +186,7 @@ github/Blosc/c-blosc
 github/SMI/SmiServices
 github/matplotlib/matplotlib
 github/aiidateam/aiida-core
+github/aiidateam/kiwipy
 github/sverhoeven/docker-cartodb
 github/klho/FLAM
 github/dask/dask
@@ -254,6 +264,7 @@ github/CLARIAH/grlc
 github/mzy2240/ESA
 github/KBNLresearch/ochre
 github/plotly/dash
+github/OpenWaterAnalytics/pyswmm
 github/devitocodes/devito
 github/keurfonluu/toughio
 github/broadinstitute/cromwell
