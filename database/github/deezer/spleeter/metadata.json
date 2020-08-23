@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/deezer/spleeter",
-    "url": "https://github.com/deezer/spleeter",
+    "url": "https://api.github.com/repos/deezer/spleeter",
     "data": {
         "timestamp": "2020-07-05 00:17:05.188641",
         "name": "spleeter",
@@ -34,5 +34,45 @@
             "type": "Organization"
         }
     },
-    "doi": "https://doi.org/10.5281/zenodo.3906389"
+    "doi": "https://doi.org/10.5281/zenodo.3906389",
+    "name": "spleeter",
+    "full_name": "deezer/spleeter",
+    "html_url": "https://github.com/deezer/spleeter",
+    "private": false,
+    "description": "Deezer source separation library including pretrained models.",
+    "created_at": "2019-09-26T15:40:46Z",
+    "updated_at": "2020-08-23T16:38:06Z",
+    "clone_url": "https://github.com/deezer/spleeter.git",
+    "homepage": "https://research.deezer.com/projects/spleeter.html",
+    "size": 9038,
+    "stargazers_count": 13818,
+    "watchers_count": 13818,
+    "language": "Python",
+    "open_issues_count": 93,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "subscribers_count": 319,
+    "owner": {
+        "html_url": "https://github.com/deezer",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/4393583?v=4",
+        "login": "deezer",
+        "type": "Organization"
+    },
+    "topics": [
+        "deezer",
+        "python",
+        "tensorflow",
+        "audio-processing",
+        "pretrained-models",
+        "bass",
+        "drums",
+        "vocals",
+        "deep-learning",
+        "model"
+    ]
 }

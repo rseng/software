@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/OpenWaterAnalytics/pyswmm",
-    "url": "https://github.com/OpenWaterAnalytics/pyswmm",
+    "url": "https://api.github.com/repos/OpenWaterAnalytics/pyswmm",
     "data": {
         "timestamp": "2020-08-09 00:18:50.535633",
         "name": "pyswmm",
@@ -34,5 +34,41 @@
             "type": "Organization"
         }
     },
-    "doi": "https://doi.org/10.5281/zenodo.3972214"
+    "doi": "https://doi.org/10.5281/zenodo.3972214",
+    "name": "pyswmm",
+    "full_name": "OpenWaterAnalytics/pyswmm",
+    "html_url": "https://github.com/OpenWaterAnalytics/pyswmm",
+    "private": false,
+    "description": "Python Wrappers for SWMM",
+    "created_at": "2014-05-12T13:30:03Z",
+    "updated_at": "2020-08-19T06:31:02Z",
+    "clone_url": "https://github.com/OpenWaterAnalytics/pyswmm.git",
+    "homepage": null,
+    "size": 14423,
+    "stargazers_count": 114,
+    "watchers_count": 114,
+    "language": "Python",
+    "open_issues_count": 35,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "subscribers_count": 30,
+    "owner": {
+        "html_url": "https://github.com/OpenWaterAnalytics",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2392819?v=4",
+        "login": "OpenWaterAnalytics",
+        "type": "Organization"
+    },
+    "topics": [
+        "swmm5",
+        "hydraulic-modeling",
+        "stormwater",
+        "hydrology-stormwater-analysis",
+        "python",
+        "swmm"
+    ]
 }

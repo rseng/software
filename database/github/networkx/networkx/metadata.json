@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/networkx/networkx",
-    "url": "https://github.com/networkx/networkx",
+    "url": "https://api.github.com/repos/networkx/networkx",
     "data": {
         "timestamp": "2020-07-04 13:22:28.232907",
         "name": "networkx",
@@ -33,5 +33,42 @@
             "login": "networkx",
             "type": "Organization"
         }
-    }
+    },
+    "name": "networkx",
+    "full_name": "networkx/networkx",
+    "html_url": "https://github.com/networkx/networkx",
+    "private": false,
+    "description": "Network Analysis in Python",
+    "created_at": "2010-09-06T00:53:44Z",
+    "updated_at": "2020-08-23T05:15:39Z",
+    "clone_url": "https://github.com/networkx/networkx.git",
+    "homepage": "http://networkx.github.io",
+    "size": 15573,
+    "stargazers_count": 7774,
+    "watchers_count": 7774,
+    "language": "Python",
+    "open_issues_count": 211,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "subscribers_count": 270,
+    "owner": {
+        "html_url": "https://github.com/networkx",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/388785?v=4",
+        "login": "networkx",
+        "type": "Organization"
+    },
+    "topics": [
+        "python",
+        "complex-networks",
+        "graph-theory",
+        "graph-algorithms",
+        "graph-analysis",
+        "graph-generation",
+        "graph-visualization"
+    ]
 }

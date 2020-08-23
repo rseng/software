@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/CLARIAH/grlc",
-    "url": "https://github.com/CLARIAH/grlc",
+    "url": "https://api.github.com/repos/CLARIAH/grlc",
     "data": {
         "timestamp": "2020-07-04 13:22:39.072176",
         "name": "grlc",
@@ -33,5 +33,42 @@
             "login": "CLARIAH",
             "type": "Organization"
         }
-    }
+    },
+    "name": "grlc",
+    "full_name": "CLARIAH/grlc",
+    "html_url": "https://github.com/CLARIAH/grlc",
+    "private": false,
+    "description": "grlc builds Web APIs using shared SPARQL queries",
+    "created_at": "2015-11-13T15:49:10Z",
+    "updated_at": "2020-08-23T02:04:04Z",
+    "clone_url": "https://github.com/CLARIAH/grlc.git",
+    "homepage": "http://grlc.io",
+    "size": 2293,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Python",
+    "open_issues_count": 21,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "subscribers_count": 11,
+    "owner": {
+        "html_url": "https://github.com/CLARIAH",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/15210767?v=4",
+        "login": "CLARIAH",
+        "type": "Organization"
+    },
+    "topics": [
+        "swagger-ui",
+        "sparql",
+        "linked-data",
+        "semantic-web",
+        "api",
+        "linked-data-api",
+        "open-api"
+    ]
 }

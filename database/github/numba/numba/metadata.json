@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/numba/numba",
-    "url": "https://github.com/numba/numba",
+    "url": "https://api.github.com/repos/numba/numba",
     "data": {
         "timestamp": "2020-07-04 13:22:19.857861",
         "name": "numba",
@@ -33,5 +33,42 @@
             "login": "numba",
             "type": "Organization"
         }
-    }
+    },
+    "name": "numba",
+    "full_name": "numba/numba",
+    "html_url": "https://github.com/numba/numba",
+    "private": false,
+    "description": "NumPy aware dynamic Python compiler using LLVM",
+    "created_at": "2012-03-08T11:12:43Z",
+    "updated_at": "2020-08-23T12:36:00Z",
+    "clone_url": "https://github.com/numba/numba.git",
+    "homepage": "http://numba.pydata.org/",
+    "size": 59422,
+    "stargazers_count": 5564,
+    "watchers_count": 5564,
+    "language": "Python",
+    "open_issues_count": 1311,
+    "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdx_id": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "node_id": "MDc6TGljZW5zZTQ="
+    },
+    "subscribers_count": 216,
+    "owner": {
+        "html_url": "https://github.com/numba",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/1628082?v=4",
+        "login": "numba",
+        "type": "Organization"
+    },
+    "topics": [
+        "python",
+        "numpy",
+        "llvm",
+        "compiler",
+        "cuda",
+        "rocm",
+        "parallel"
+    ]
 }

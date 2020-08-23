@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/openjournals/joss",
-    "url": "https://github.com/openjournals/joss",
+    "url": "https://api.github.com/repos/openjournals/joss",
     "data": {
         "timestamp": "2020-07-04 13:22:43.456847",
         "name": "joss",
@@ -33,5 +33,42 @@
             "login": "openjournals",
             "type": "Organization"
         }
-    }
+    },
+    "name": "joss",
+    "full_name": "openjournals/joss",
+    "html_url": "https://github.com/openjournals/joss",
+    "private": false,
+    "description": "The Journal of Open Source Software",
+    "created_at": "2016-01-24T23:34:35Z",
+    "updated_at": "2020-08-22T17:30:23Z",
+    "clone_url": "https://github.com/openjournals/joss.git",
+    "homepage": "https://joss.theoj.org",
+    "size": 29387,
+    "stargazers_count": 666,
+    "watchers_count": 666,
+    "language": "Ruby",
+    "open_issues_count": 98,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "subscribers_count": 67,
+    "owner": {
+        "html_url": "https://github.com/openjournals",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/9032431?v=4",
+        "login": "openjournals",
+        "type": "Organization"
+    },
+    "topics": [
+        "journal",
+        "open-access",
+        "scientific-journals",
+        "scientific-software",
+        "publishing",
+        "academia",
+        "academic"
+    ]
 }

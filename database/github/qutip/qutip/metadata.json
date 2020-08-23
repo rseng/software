@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/qutip/qutip",
-    "url": "https://github.com/qutip/qutip",
+    "url": "https://api.github.com/repos/qutip/qutip",
     "data": {
         "timestamp": "2020-07-04 13:22:25.581709",
         "name": "qutip",
@@ -33,5 +33,43 @@
             "login": "qutip",
             "type": "Organization"
         }
-    }
+    },
+    "name": "qutip",
+    "full_name": "qutip/qutip",
+    "html_url": "https://github.com/qutip/qutip",
+    "private": false,
+    "description": "QuTiP: Quantum Toolbox in Python",
+    "created_at": "2012-10-09T06:20:46Z",
+    "updated_at": "2020-08-22T22:38:44Z",
+    "clone_url": "https://github.com/qutip/qutip.git",
+    "homepage": "http://qutip.org",
+    "size": 20948,
+    "stargazers_count": 876,
+    "watchers_count": 876,
+    "language": "Python",
+    "open_issues_count": 149,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "subscribers_count": 77,
+    "owner": {
+        "html_url": "https://github.com/qutip",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2517630?v=4",
+        "login": "qutip",
+        "type": "Organization"
+    },
+    "topics": [
+        "qutip",
+        "python",
+        "quantum-toolbox",
+        "quantum",
+        "quantum-computing",
+        "quantum-mechanics",
+        "quantum-information",
+        "quantum-optics"
+    ]
 }
