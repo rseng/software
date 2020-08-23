@@ -154,6 +154,13 @@
         "description": "Python library for fuzzy comparison of mass spectrum data and other Python objects"
     },
     {
+        "uid": "github/DorianDepriester/mtex2Gmsh",
+        "url": "https://github.com/DorianDepriester/MTEX2Gmsh",
+        "rel": "/software/repository/github/DorianDepriester/mtex2Gmsh",
+        "avatar": "https://avatars3.githubusercontent.com/u/7643875?v=4",
+        "description": "Matlab toolbox for generating 2D meshes from EBSD data"
+    },
+    {
         "uid": "github/astropy/astropy",
         "url": "https://github.com/astropy/astropy",
         "rel": "/software/repository/github/astropy/astropy",
@@ -175,11 +182,25 @@
         "description": "R toolkit for the analysis of single-cell chromatin data"
     },
     {
+        "uid": "github/akcochrane/TEfits",
+        "url": "https://github.com/akcochrane/TEfits",
+        "rel": "/software/repository/github/akcochrane/TEfits",
+        "avatar": "https://avatars2.githubusercontent.com/u/56330575?v=4",
+        "description": "R package for streamlined nonlinear regression"
+    },
+    {
         "uid": "github/darioizzo/dcgp",
         "url": "https://github.com/darioizzo/dcgp",
         "rel": "/software/repository/github/darioizzo/dcgp",
         "avatar": "https://avatars3.githubusercontent.com/u/3327087?v=4",
         "description": "Implementation of a differentiable CGP (Cartesian Genetic Programming)"
+    },
+    {
+        "uid": "github/cadop/seg1d",
+        "url": "https://github.com/cadop/seg1d",
+        "rel": "/software/repository/github/cadop/seg1d",
+        "avatar": "https://avatars0.githubusercontent.com/u/11399119?v=4",
+        "description": "Automated segmentation of one-dimensional (1D) data"
     },
     {
         "uid": "github/arviz-devs/arviz",
@@ -238,6 +259,13 @@
         "description": "Open pixelated STEM framework"
     },
     {
+        "uid": "github/cicirello/Chips-n-Salsa",
+        "url": "https://github.com/cicirello/Chips-n-Salsa",
+        "rel": "/software/repository/github/cicirello/Chips-n-Salsa",
+        "avatar": "https://avatars3.githubusercontent.com/u/762030?v=4",
+        "description": "Chips-n-Salsa - A Java library of customizable, hybridizable, iterative, parallel, stochastic, and self-adaptive local search algorithms"
+    },
+    {
         "uid": "github/Theano/Theano",
         "url": "https://github.com/Theano/Theano",
         "rel": "/software/repository/github/Theano/Theano",
@@ -273,6 +301,13 @@
         "description": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets"
     },
     {
+        "uid": "github/WGLab/InterVar",
+        "url": "https://github.com/WGLab/InterVar",
+        "rel": "/software/repository/github/WGLab/InterVar",
+        "avatar": "https://avatars1.githubusercontent.com/u/5926337?v=4",
+        "description": "A bioinformatics software tool for clinical interpretation of genetic variants by the 2015 ACMG-AMP guideline"
+    },
+    {
         "uid": "github/biocore/scikit-bio",
         "url": "https://github.com/biocore/scikit-bio",
         "rel": "/software/repository/github/biocore/scikit-bio",
@@ -284,6 +319,13 @@
         "url": "https://github.com/sambit-giri/tools21cm",
         "rel": "/software/repository/github/sambit-giri/tools21cm",
         "avatar": "https://avatars0.githubusercontent.com/u/16431442?v=4",
+        "description": null
+    },
+    {
+        "uid": "github/Sulstice/cocktail-shaker",
+        "url": "https://github.com/Sulstice/cocktail-shaker",
+        "rel": "/software/repository/github/Sulstice/cocktail-shaker",
+        "avatar": "https://avatars0.githubusercontent.com/u/11812946?v=4",
         "description": null
     },
     {
@@ -530,6 +572,13 @@
         "rel": "/software/repository/github/candYgene/pbg-ld",
         "avatar": "https://avatars2.githubusercontent.com/u/27219573?v=4",
         "description": "Linked Data Platform for Plant Breeding & Genomics"
+    },
+    {
+        "uid": "github/kinnala/scikit-fem",
+        "url": "https://github.com/kinnala/scikit-fem",
+        "rel": "/software/repository/github/kinnala/scikit-fem",
+        "avatar": "https://avatars2.githubusercontent.com/u/973268?v=4",
+        "description": "Simple finite element assemblers for Python"
     },
     {
         "uid": "github/numpy/numpy",
@@ -1099,6 +1148,20 @@
         "description": "Jupyter Interactive Notebook"
     },
     {
+        "uid": "github/monarch-initiative/loinc2hpo",
+        "url": "https://github.com/monarch-initiative/loinc2hpo",
+        "rel": "/software/repository/github/monarch-initiative/loinc2hpo",
+        "avatar": "https://avatars1.githubusercontent.com/u/5161984?v=4",
+        "description": "Java library to map LOINC-encoded test results to Human Phenotype Ontology"
+    },
+    {
+        "uid": "github/hope-data-science/tidyfst",
+        "url": "https://github.com/hope-data-science/tidyfst",
+        "rel": "/software/repository/github/hope-data-science/tidyfst",
+        "avatar": "https://avatars1.githubusercontent.com/u/32947502?v=4",
+        "description": "Tidy Verbs for Fast Data Manipulation"
+    },
+    {
         "uid": "github/anmolter/XLUR",
         "url": "https://github.com/anmolter/XLUR",
         "rel": "/software/repository/github/anmolter/XLUR",
@@ -1309,6 +1372,13 @@
         "description": "The PSL software from the University of Maryland and the University of California Santa Cruz"
     },
     {
+        "uid": "github/PfizerRD/sit2standpy",
+        "url": "https://github.com/PfizerRD/sit2standpy",
+        "rel": "/software/repository/github/PfizerRD/sit2standpy",
+        "avatar": "https://avatars1.githubusercontent.com/u/19213564?v=4",
+        "description": "Python based module framework for detecting sit-to-stand transitions"
+    },
+    {
         "uid": "github/potree/PotreeConverter",
         "url": "https://github.com/potree/PotreeConverter",
         "rel": "/software/repository/github/potree/PotreeConverter",
@@ -1321,6 +1391,13 @@
         "rel": "/software/repository/github/compomics/DeepLC",
         "avatar": "https://avatars0.githubusercontent.com/u/11630937?v=4",
         "description": "DeepLC: Retention time prediction for (modified) peptides using Deep Learning."
+    },
+    {
+        "uid": "github/compomics/xilmass",
+        "url": "https://github.com/compomics/xilmass",
+        "rel": "/software/repository/github/compomics/xilmass",
+        "avatar": "https://avatars0.githubusercontent.com/u/11630937?v=4",
+        "description": "An algorithm to identify cross-linked peptides"
     },
     {
         "uid": "github/compomics/COSS",
@@ -2091,6 +2168,13 @@
         "rel": "/software/repository/github/wadpac/GGIR",
         "avatar": "https://avatars0.githubusercontent.com/u/27425925?v=4",
         "description": "Code corresponding to R package GGIR"
+    },
+    {
+        "uid": "github/mackelab/sbi",
+        "url": "https://github.com/mackelab/sbi",
+        "rel": "/software/repository/github/mackelab/sbi",
+        "avatar": "https://avatars0.githubusercontent.com/u/9674966?v=4",
+        "description": "Simulation-based inference in PyTorch"
     },
     {
         "uid": "github/rajeshrinet/pystokes",
