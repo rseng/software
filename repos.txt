@@ -286,6 +286,7 @@ github/econ-ark/HARK
 github/DorianDepriester/mtex2Gmsh
 github/ihrke/pypillometry
 github/swiftsim/swiftsimio
+github/codidact/qpixel
 github/hrwakeford/ExoTiC-ISM
 github/hope-data-science/tidyfst
 github/FastMLC/fMLC

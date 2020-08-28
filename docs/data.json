@@ -2016,6 +2016,13 @@
         "description": "Python library for reading SWIFT data. Uses unyt and h5py."
     },
     {
+        "uid": "github/codidact/qpixel",
+        "url": "https://github.com/codidact/qpixel",
+        "rel": "/software/repository/github/codidact/qpixel",
+        "avatar": "https://avatars2.githubusercontent.com/u/57011216?v=4",
+        "description": "Q&A-based community knowledge-sharing software"
+    },
+    {
         "uid": "github/hrwakeford/ExoTiC-ISM",
         "url": "https://github.com/hrwakeford/ExoTiC-ISM",
         "rel": "/software/repository/github/hrwakeford/ExoTiC-ISM",
