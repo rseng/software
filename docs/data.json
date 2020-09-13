@@ -189,6 +189,13 @@
         "description": "The Julia Language: A fresh approach to technical computing."
     },
     {
+        "uid": "github/auranic/ClinTrajan",
+        "url": "https://github.com/auranic/ClinTrajan",
+        "rel": "/software/repository/github/auranic/ClinTrajan",
+        "avatar": "https://avatars0.githubusercontent.com/u/15074578?v=4",
+        "description": "Finding trajectories, bifurcations and quantifying pseudotime in large clinical datasets"
+    },
+    {
         "uid": "github/KBNLresearch/ochre",
         "url": "https://github.com/KBNLresearch/ochre",
         "rel": "/software/repository/github/KBNLresearch/ochre",
@@ -348,6 +355,13 @@
         "rel": "/software/repository/github/cbrueffer/tophat-recondition",
         "avatar": "https://avatars3.githubusercontent.com/u/2705287?v=4",
         "description": "Post-processor for TopHat unmapped.bam files making them useable by downstream software."
+    },
+    {
+        "uid": "github/easystats/parameters",
+        "url": "https://github.com/easystats/parameters",
+        "rel": "/software/repository/github/easystats/parameters",
+        "avatar": "https://avatars1.githubusercontent.com/u/47102598?v=4",
+        "description": ":bar_chart: Computation and processing of models' parameters"
     },
     {
         "uid": "github/easystats/correlation",
@@ -705,6 +719,13 @@
         "rel": "/software/repository/github/spack/spack",
         "avatar": "https://avatars2.githubusercontent.com/u/25539161?v=4",
         "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
+    },
+    {
+        "uid": "github/flintproject/Flint",
+        "url": "https://github.com/flintproject/Flint",
+        "rel": "/software/repository/github/flintproject/Flint",
+        "avatar": "https://avatars2.githubusercontent.com/u/11284249?v=4",
+        "description": "A simulator for biological and physiological models"
     },
     {
         "uid": "github/OpenDA-Association/OpenDA",
@@ -2128,6 +2149,13 @@
         "description": "Scripts for manipulating Arabic texts"
     },
     {
+        "uid": "github/saeyslab/CytoNorm_Figures",
+        "url": "https://github.com/saeyslab/CytoNorm_Figures",
+        "rel": "/software/repository/github/saeyslab/CytoNorm_Figures",
+        "avatar": "https://avatars0.githubusercontent.com/u/18485264?v=4",
+        "description": "Scripts to replicate the figures reported in the CytofNorm publication. "
+    },
+    {
         "uid": "github/saeyslab/nichenetr",
         "url": "https://github.com/saeyslab/nichenetr",
         "rel": "/software/repository/github/saeyslab/nichenetr",
@@ -2245,6 +2273,13 @@
         "rel": "/software/repository/github/ylab-hi/ScanITD",
         "avatar": "https://avatars0.githubusercontent.com/u/44730433?v=4",
         "description": null
+    },
+    {
+        "uid": "github/kegiljarhus/pyBEMT",
+        "url": "https://github.com/kegiljarhus/pyBEMT",
+        "rel": "/software/repository/github/kegiljarhus/pyBEMT",
+        "avatar": "https://avatars3.githubusercontent.com/u/19799448?v=4",
+        "description": "Implementation of the Blade Element Momentum Theory for turbines and propellers in Python"
     },
     {
         "uid": "github/snowformatics/macrobot",
