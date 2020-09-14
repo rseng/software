@@ -1,4 +1,5 @@
 gitlab/LouisLab/PiVR
+gitlab/davidtourigny/dynamic-fba
 github/kkjawz/coref-ee
 github/wdecoster/nanopack
 github/era-urban/wrfpy
@@ -13,6 +14,7 @@ github/eScatter/pyelsepa
 github/amusecode/amuse
 github/c3s-magic/c3s-magic-wps
 github/entangled/entangled
+github/flintproject/Flint
 github/cadop/seg1d
 github/ylab-hi/ScanITD
 github/donaldRwilliams/BGGM
@@ -23,15 +25,18 @@ github/WGLab/InterVar
 github/nlesc-ave/ave-rest-service
 github/Sulstice/cocktail-shaker
 github/rajeshrinet/pystokes
+github/auranic/ClinTrajan
 github/meenakshi-kushwaha/mmaqshiny
 github/research-software-directory/research-software-directory
 github/mlpack/mlpack
+github/qMRLab/qMRLab
 github/compomics/DeepLC
 github/compomics/COSS
 github/compomics/xilmass
 github/BartoszBartmanski/StoSpa2
 github/InsightSoftwareConsortium/ITK
 github/saeyslab/nichenetr
+github/saeyslab/CytoNorm_Figures
 github/zarr-developers/zarr-python
 github/SCM-NV/qmflows-namd
 github/SCM-NV/qmflows
@@ -40,7 +45,9 @@ github/EOSC-LOFAR/lofar-ld
 github/pandas-dev/pandas
 github/martibosch/detectree
 github/OpenDA-Association/OpenDA
+github/easystats/parameters
 github/easystats/correlation
+github/Parsl/parsl
 github/UUDigitalHumanitieslab/texcavator
 github/r-spatial/rgee
 github/QuantEcon/QuantEcon.py
@@ -105,7 +112,9 @@ github/multiscale/muscle3
 github/darioizzo/dcgp
 github/c-martinez/BeyondTheBook
 github/scikit-image/scikit-image
+github/kegiljarhus/pyBEMT
 github/yanzhanglab/Graph2GO
+github/gridap/Gridap.jl
 github/numba/numba
 github/arviz-devs/arviz
 github/ShixiangWang/sigminer
@@ -115,6 +124,8 @@ github/pvlib/pvlib-python
 github/nlesc/embodied-emotions-scripts
 github/nlesc/scriptcwl
 github/linqs/psl
+github/STEllAR-GROUP/hpx
+github/CFSAN-Biostatistics/SeroTools
 github/ComtekAdvancedStructures/cmstatr
 github/biocore/scikit-bio
 github/MDAnalysis/mdanalysis
@@ -125,6 +136,7 @@ github/sap218/jabberwocky
 github/edwardoughton/itmlogic
 github/big-data-lab-team/spot
 github/genotoul-bioinfo/dgenies
+github/MikeHeiber/Excimontec
 github/FEniCS/ffcx
 github/tobiasrausch/alfred
 github/scottleedavis/googleearthtoolbox
@@ -158,6 +170,7 @@ github/CrowdTruth/CrowdTruth
 github/nlesc-nano/swan
 github/spack/spack
 github/potree/PotreeConverter
+github/sjvrijn/mf2
 github/ipython/ipython
 github/cbirdferrer/collatrix
 github/colour-science/colour
@@ -207,6 +220,7 @@ github/drwaseemsheikh/audiometry
 github/pymc-devs/pymc3
 github/conda/conda
 github/herrsalmi/FConverter
+github/statOmics/tradeSeqPaper
 github/eWaterCycle/eWaterleaf
 github/eWaterCycle/grpc4bmi
 github/eWaterCycle/setup-grpc
@@ -214,9 +228,11 @@ github/eWaterCycle/Cesium-NcWMS
 github/eWaterCycle/experiment-launcher
 github/eWaterCycle/setup-singularity
 github/eWaterCycle/jupyterlab_thredds
+github/soedinglab/hh-suite
 github/PfizerRD/sit2standpy
 github/pierrepo/autoclassweb
 github/geopandas/geopandas
+github/teamPSG/kNN_Sleep_Scorer_kNNSS
 github/ropensci/chirps
 github/ropensci/drake
 github/ropensci/UCSCXenaTools
@@ -288,6 +304,7 @@ github/ihrke/pypillometry
 github/swiftsim/swiftsimio
 github/codidact/qpixel
 github/hrwakeford/ExoTiC-ISM
+github/kerkelae/disimpy
 github/hope-data-science/tidyfst
 github/FastMLC/fMLC
 github/conda-forge/conda-smithy
@@ -295,11 +312,13 @@ github/recipy/recipy
 github/astropy/astropy
 github/votca/xtp
 github/jmschrei/pomegranate
+github/biboyd/SALSA
 github/eEcoLiDAR/laserchicken
 github/openjournals/joss
 github/HEML/HEML
 github/DynaSlum/satsense
 github/nlppln/nlppln
+github/actris-cloudnet/cloudnetpy
 github/statsmodels/statsmodels
 github/sambit-giri/tools21cm
 github/ImproPhoto/pymicmac
@@ -322,7 +341,9 @@ github/samhforbes/PupillometryR
 github/abrupt-climate/hyper-canny
 github/caselawanalytics/CaseLawAnalytics
 github/adbar/htmldate
+github/euroargodev/argopy
 github/optuna/optuna
+github/vibbits/phyd3
 github/singularityhub/sregistry
 github/singularityhub/singularity-compose
 github/csdms/bmi
