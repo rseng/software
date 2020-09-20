@@ -16,6 +16,7 @@ github/c3s-magic/c3s-magic-wps
 github/entangled/entangled
 github/flintproject/Flint
 github/cadop/seg1d
+github/mdsteiner/EFAtools
 github/ylab-hi/ScanITD
 github/donaldRwilliams/BGGM
 github/MD-Studio/MDStudio
@@ -27,6 +28,7 @@ github/Sulstice/cocktail-shaker
 github/rajeshrinet/pystokes
 github/auranic/ClinTrajan
 github/meenakshi-kushwaha/mmaqshiny
+github/mazzalab/pyntacle
 github/research-software-directory/research-software-directory
 github/mlpack/mlpack
 github/qMRLab/qMRLab
@@ -50,6 +52,7 @@ github/easystats/correlation
 github/Parsl/parsl
 github/UUDigitalHumanitieslab/texcavator
 github/r-spatial/rgee
+github/fair-software/howfairis
 github/QuantEcon/QuantEcon.py
 github/scipy/scipy
 github/zdelrosario/py_grama
@@ -128,6 +131,7 @@ github/STEllAR-GROUP/hpx
 github/CFSAN-Biostatistics/SeroTools
 github/ComtekAdvancedStructures/cmstatr
 github/biocore/scikit-bio
+github/joglekara/VlaPy
 github/MDAnalysis/mdanalysis
 github/anmolter/XLUR
 github/RaRe-Technologies/gensim
@@ -171,6 +175,7 @@ github/nlesc-nano/swan
 github/spack/spack
 github/potree/PotreeConverter
 github/sjvrijn/mf2
+github/jeffcsauer/arcos_arcospy_information
 github/ipython/ipython
 github/cbirdferrer/collatrix
 github/colour-science/colour
@@ -185,6 +190,8 @@ github/DreamCloud-Project/AMALTHEA-SimGrid
 github/humanfactors/FIPS
 github/EC-Earth/ece2cmor3
 github/Theano/Theano
+github/esa/pagmo2-paper
+github/easybuilders/easybuild
 github/NicolasHug/Surprise
 github/3D-e-Chem/3D-e-Chem-VM
 github/3D-e-Chem/sygma
@@ -228,6 +235,7 @@ github/eWaterCycle/Cesium-NcWMS
 github/eWaterCycle/experiment-launcher
 github/eWaterCycle/setup-singularity
 github/eWaterCycle/jupyterlab_thredds
+github/google/caliban
 github/soedinglab/hh-suite
 github/PfizerRD/sit2standpy
 github/pierrepo/autoclassweb
@@ -342,6 +350,7 @@ github/abrupt-climate/hyper-canny
 github/caselawanalytics/CaseLawAnalytics
 github/adbar/htmldate
 github/euroargodev/argopy
+github/AlgoLab/shark
 github/optuna/optuna
 github/vibbits/phyd3
 github/singularityhub/sregistry
