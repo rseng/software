@@ -1,4 +1,6 @@
+gitlab/cosmograil/PyCS3
 gitlab/LouisLab/PiVR
+gitlab/ampere2/metalwalls
 gitlab/davidtourigny/dynamic-fba
 github/kkjawz/coref-ee
 github/wdecoster/nanopack
@@ -22,6 +24,7 @@ github/donaldRwilliams/BGGM
 github/MD-Studio/MDStudio
 github/MD-Studio/cerulean
 github/MD-Studio/cerise
+github/climate-machine/Oceananigans.jl
 github/WGLab/InterVar
 github/nlesc-ave/ave-rest-service
 github/Sulstice/cocktail-shaker
@@ -60,6 +63,7 @@ github/JonasRieger/ldaPrototype
 github/giswqs/geemap
 github/snakemake/snakemake
 github/BrianAronson/birankr
+github/yuansliu/minirmd
 github/Alcampopiano/hypothesize
 github/AA-ALERT/AMBER
 github/AA-ALERT/AstroData
@@ -78,12 +82,14 @@ github/mackelab/sbi
 github/danhey/maelstrom
 github/online-behaviour/find-journalists
 github/online-behaviour/machine-learning
+github/bblodfon/emba
 github/hpcng/singularity
 github/afeinstein20/stella
 github/libdynd/dynd-python
 github/bokeh/bokeh
 github/cb-geo/mpm
 github/spyder-ide/spyder
+github/JamesPaynter/PyGRB
 github/akcochrane/TEfits
 github/matchms/matchms
 github/kendomaniac/docker4seq
@@ -103,6 +109,7 @@ github/xenon-middleware/xenon
 github/xenon-middleware/pyxenon
 github/numpy/numpy
 github/gijut/gnucash
+github/tlverse/hal9001
 github/clawpack/clawpack
 github/clawpack/pyclaw
 github/snowformatics/macrobot
@@ -149,6 +156,7 @@ github/monarch-initiative/loinc2hpo
 github/KVSlab/turtleFSI
 github/DistrictDataLabs/yellowbrick
 github/tidyverse/glue
+github/KarrLab/de_sim
 github/davidebolo1993/TRiCoLOR
 github/qutip/qutip
 github/yatiml/yatiml
@@ -174,6 +182,7 @@ github/CrowdTruth/CrowdTruth
 github/nlesc-nano/swan
 github/spack/spack
 github/potree/PotreeConverter
+github/mpievolbio-scicomp/cancer_sim
 github/sjvrijn/mf2
 github/jeffcsauer/arcos_arcospy_information
 github/ipython/ipython
@@ -238,6 +247,7 @@ github/eWaterCycle/jupyterlab_thredds
 github/google/caliban
 github/soedinglab/hh-suite
 github/PfizerRD/sit2standpy
+github/landlab/landlab
 github/pierrepo/autoclassweb
 github/geopandas/geopandas
 github/teamPSG/kNN_Sleep_Scorer_kNNSS
