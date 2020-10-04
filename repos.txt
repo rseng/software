@@ -12,6 +12,7 @@ github/nlesc-dirac/sagecal
 github/tensorflow/tensorflow
 github/deezer/spleeter
 github/surf-eds/one-button-compute
+github/MrMinimal64/multivar_horner
 github/eScatter/pyelsepa
 github/amusecode/amuse
 github/c3s-magic/c3s-magic-wps
@@ -21,6 +22,7 @@ github/cadop/seg1d
 github/mdsteiner/EFAtools
 github/ylab-hi/ScanITD
 github/donaldRwilliams/BGGM
+github/mpc-bioinformatics/CalibraCurve
 github/MD-Studio/MDStudio
 github/MD-Studio/cerulean
 github/MD-Studio/cerise
@@ -129,12 +131,14 @@ github/numba/numba
 github/arviz-devs/arviz
 github/ShixiangWang/sigminer
 github/lkmklsmn/DrivAER
+github/wilsonrljr/sysidentpy
 github/ewatercycle/era5cli
 github/pvlib/pvlib-python
 github/nlesc/embodied-emotions-scripts
 github/nlesc/scriptcwl
 github/linqs/psl
 github/STEllAR-GROUP/hpx
+github/eweitz/ideogram
 github/CFSAN-Biostatistics/SeroTools
 github/ComtekAdvancedStructures/cmstatr
 github/biocore/scikit-bio
@@ -176,6 +180,7 @@ github/rgmyr/corebreakout
 github/iomega/zenodo-upload
 github/iomega/paired-data-form
 github/iomega/spec2vec
+github/bethgelab/foolbox
 github/dellytools/delly
 github/wadpac/GGIR
 github/CrowdTruth/CrowdTruth
@@ -186,6 +191,7 @@ github/mpievolbio-scicomp/cancer_sim
 github/sjvrijn/mf2
 github/jeffcsauer/arcos_arcospy_information
 github/ipython/ipython
+github/s-goldman/Dusty-Evolved-Star-Kit
 github/cbirdferrer/collatrix
 github/colour-science/colour
 github/DeepRank/pdb2sql
@@ -200,6 +206,7 @@ github/humanfactors/FIPS
 github/EC-Earth/ece2cmor3
 github/Theano/Theano
 github/esa/pagmo2-paper
+github/htjb/maxsmooth
 github/easybuilders/easybuild
 github/NicolasHug/Surprise
 github/3D-e-Chem/3D-e-Chem-VM
@@ -249,6 +256,7 @@ github/soedinglab/hh-suite
 github/PfizerRD/sit2standpy
 github/landlab/landlab
 github/pierrepo/autoclassweb
+github/czbiohub/cerebra
 github/geopandas/geopandas
 github/teamPSG/kNN_Sleep_Scorer_kNNSS
 github/ropensci/chirps
