@@ -1,15 +1,18 @@
 gitlab/cosmograil/PyCS3
 gitlab/LouisLab/PiVR
+gitlab/project-dare/dare-platform
 gitlab/ampere2/metalwalls
 gitlab/davidtourigny/dynamic-fba
 github/kkjawz/coref-ee
 github/wdecoster/nanopack
+github/upb-lea/openmodelica-microgrid-gym
 github/era-urban/wrfpy
 github/ynop/audiomate
 github/scikit-learn/scikit-learn
 github/kinnala/scikit-fem
 github/nlesc-dirac/sagecal
 github/tensorflow/tensorflow
+github/tbrown122387/pf
 github/deezer/spleeter
 github/surf-eds/one-button-compute
 github/MrMinimal64/multivar_horner
@@ -52,6 +55,7 @@ github/EOSC-LOFAR/lofar-ld
 github/pandas-dev/pandas
 github/martibosch/detectree
 github/OpenDA-Association/OpenDA
+github/morphometry/papaya2
 github/easystats/parameters
 github/easystats/correlation
 github/Parsl/parsl
@@ -92,6 +96,7 @@ github/bokeh/bokeh
 github/cb-geo/mpm
 github/spyder-ide/spyder
 github/JamesPaynter/PyGRB
+github/marieBvr/virAnnot
 github/akcochrane/TEfits
 github/matchms/matchms
 github/kendomaniac/docker4seq
@@ -111,10 +116,12 @@ github/xenon-middleware/xenon
 github/xenon-middleware/pyxenon
 github/numpy/numpy
 github/gijut/gnucash
+github/pymatting/pymatting
 github/tlverse/hal9001
 github/clawpack/clawpack
 github/clawpack/pyclaw
 github/snowformatics/macrobot
+github/mortonne/psifr
 github/ESMValGroup/ESMValCore
 github/ESMValGroup/ESMValTool
 github/Effective-Quadratures/Effective-Quadratures
@@ -125,6 +132,7 @@ github/darioizzo/dcgp
 github/c-martinez/BeyondTheBook
 github/scikit-image/scikit-image
 github/kegiljarhus/pyBEMT
+github/nhejazi/txshift
 github/yanzhanglab/Graph2GO
 github/gridap/Gridap.jl
 github/numba/numba
@@ -137,6 +145,7 @@ github/pvlib/pvlib-python
 github/nlesc/embodied-emotions-scripts
 github/nlesc/scriptcwl
 github/linqs/psl
+github/labsyspharm/minerva-story
 github/STEllAR-GROUP/hpx
 github/eweitz/ideogram
 github/CFSAN-Biostatistics/SeroTools
@@ -148,8 +157,10 @@ github/anmolter/XLUR
 github/RaRe-Technologies/gensim
 github/TomKellyGenetics/graphsim
 github/sap218/jabberwocky
+github/VU-BEAM-Lab/GENRE
 github/edwardoughton/itmlogic
 github/big-data-lab-team/spot
+github/jollejolles/pirecorder
 github/genotoul-bioinfo/dgenies
 github/MikeHeiber/Excimontec
 github/FEniCS/ffcx
@@ -162,8 +173,11 @@ github/DistrictDataLabs/yellowbrick
 github/tidyverse/glue
 github/KarrLab/de_sim
 github/davidebolo1993/TRiCoLOR
+github/arnikz/PIQMIe
+github/brainglobe/bg-atlasapi
 github/qutip/qutip
 github/yatiml/yatiml
+github/jboynyc/textnets
 github/Cantera/cantera
 github/ECSHackWeek/impedance.py
 github/pydata/xarray
@@ -186,6 +200,7 @@ github/wadpac/GGIR
 github/CrowdTruth/CrowdTruth
 github/nlesc-nano/swan
 github/spack/spack
+github/anwarbio/bioassays
 github/potree/PotreeConverter
 github/mpievolbio-scicomp/cancer_sim
 github/sjvrijn/mf2
@@ -197,6 +212,7 @@ github/colour-science/colour
 github/DeepRank/pdb2sql
 github/DeepRank/iScore
 github/DeepRank/pssmgen
+github/HIPS/autograd
 github/DreamCloud-Project/McSim-Cycle-accurate-NoC
 github/DreamCloud-Project/AMALTHEA-Microworkload-Generator
 github/DreamCloud-Project/McSim-Cycle-accurate-Xbar
@@ -238,6 +254,7 @@ github/sverhoeven/docker-cartodb
 github/klho/FLAM
 github/dask/dask
 github/JuliaLang/julia
+github/pyBRAvo/pyBRAvo
 github/cochran4/GEMB
 github/drwaseemsheikh/audiometry
 github/pymc-devs/pymc3
@@ -262,6 +279,7 @@ github/teamPSG/kNN_Sleep_Scorer_kNNSS
 github/ropensci/chirps
 github/ropensci/drake
 github/ropensci/UCSCXenaTools
+github/ropensci/medrxivr
 github/ropensci/rtweet
 github/ropensci/plotly
 github/ropensci/opentripplanner
@@ -321,7 +339,9 @@ github/KBNLresearch/ochre
 github/plotly/dash
 github/cbg-ethz/V-pipe
 github/OpenWaterAnalytics/pyswmm
+github/ramadatta/CPgeneProfiler
 github/devitocodes/devito
+github/kavonrtep/dante
 github/keurfonluu/toughio
 github/broadinstitute/cromwell
 github/econ-ark/HARK
@@ -337,6 +357,7 @@ github/conda-forge/conda-smithy
 github/recipy/recipy
 github/astropy/astropy
 github/votca/xtp
+github/NCAS-CMS/cfdm
 github/jmschrei/pomegranate
 github/biboyd/SALSA
 github/eEcoLiDAR/laserchicken
@@ -345,6 +366,7 @@ github/HEML/HEML
 github/DynaSlum/satsense
 github/nlppln/nlppln
 github/actris-cloudnet/cloudnetpy
+github/andyphilips/dynamac
 github/statsmodels/statsmodels
 github/sambit-giri/tools21cm
 github/ImproPhoto/pymicmac
