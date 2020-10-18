@@ -35,6 +35,13 @@
         "description": "The PSL software from the University of Maryland and the University of California Santa Cruz"
     },
     {
+        "uid": "github/jboynyc/textnets",
+        "url": "https://github.com/jboynyc/textnets",
+        "rel": "/software/repository/github/jboynyc/textnets",
+        "avatar": "https://avatars1.githubusercontent.com/u/2187261?v=4",
+        "description": "Text analysis with networks."
+    },
+    {
         "uid": "github/TomKellyGenetics/graphsim",
         "url": "https://github.com/TomKellyGenetics/graphsim",
         "rel": "/software/repository/github/TomKellyGenetics/graphsim",
@@ -488,6 +495,13 @@
         "rel": "/software/repository/github/hpcng/singularity",
         "avatar": "https://avatars1.githubusercontent.com/u/62959980?v=4",
         "description": "Singularity: Application containers for Linux"
+    },
+    {
+        "uid": "github/morphometry/papaya2",
+        "url": "https://github.com/morphometry/papaya2",
+        "rel": "/software/repository/github/morphometry/papaya2",
+        "avatar": "https://avatars1.githubusercontent.com/u/48016973?v=4",
+        "description": "compute 2D irreducible Minkowski tensors"
     },
     {
         "uid": "github/gridap/Gridap.jl",
@@ -973,6 +987,13 @@
         "description": "Python library for YAML type inference, schema checking and syntactic sugar"
     },
     {
+        "uid": "github/ramadatta/CPgeneProfiler",
+        "url": "https://github.com/ramadatta/CPgeneProfiler",
+        "rel": "/software/repository/github/ramadatta/CPgeneProfiler",
+        "avatar": "https://avatars3.githubusercontent.com/u/3212461?v=4",
+        "description": "CPgeneProfiler R package repository"
+    },
+    {
         "uid": "github/compomics/DeepLC",
         "url": "https://github.com/compomics/DeepLC",
         "rel": "/software/repository/github/compomics/DeepLC",
@@ -1062,6 +1083,13 @@
         "rel": "/software/repository/github/fair-software/howfairis",
         "avatar": "https://avatars0.githubusercontent.com/u/48952865?v=4",
         "description": "Command line tool to analyze a GitHub or GitLab repository's compliance with the fair-software.eu recommendations"
+    },
+    {
+        "uid": "github/pyBRAvo/pyBRAvo",
+        "url": "https://github.com/pyBRAvo/pyBRAvo",
+        "rel": "/software/repository/github/pyBRAvo/pyBRAvo",
+        "avatar": "https://avatars3.githubusercontent.com/u/71509894?v=4",
+        "description": null
     },
     {
         "uid": "github/ipython/ipython",
@@ -1421,6 +1449,13 @@
         "description": "SED-fitting python package for fitting evolved stars"
     },
     {
+        "uid": "github/pymatting/pymatting",
+        "url": "https://github.com/pymatting/pymatting",
+        "rel": "/software/repository/github/pymatting/pymatting",
+        "avatar": "https://avatars0.githubusercontent.com/u/59248113?v=4",
+        "description": "A Python library for alpha matting"
+    },
+    {
         "uid": "github/SMI/SmiServices",
         "url": "https://github.com/SMI/SmiServices",
         "rel": "/software/repository/github/SMI/SmiServices",
@@ -1701,6 +1736,13 @@
         "description": "Davidson eigensolver implemented in Fortran"
     },
     {
+        "uid": "github/arnikz/PIQMIe",
+        "url": "https://github.com/arnikz/PIQMIe",
+        "rel": "/software/repository/github/arnikz/PIQMIe",
+        "avatar": "https://avatars2.githubusercontent.com/u/7456848?v=4",
+        "description": "Proteomics Identifications & Quantitations Data Management & Integration Service"
+    },
+    {
         "uid": "github/networkx/networkx",
         "url": "https://github.com/networkx/networkx",
         "rel": "/software/repository/github/networkx/networkx",
@@ -1797,6 +1839,13 @@
         "rel": "/software/repository/github/Cantera/cantera",
         "avatar": "https://avatars2.githubusercontent.com/u/817698?v=4",
         "description": "Chemical kinetics, thermodynamics, and transport tool suite"
+    },
+    {
+        "uid": "github/labsyspharm/minerva-story",
+        "url": "https://github.com/labsyspharm/minerva-story",
+        "rel": "/software/repository/github/labsyspharm/minerva-story",
+        "avatar": "https://avatars2.githubusercontent.com/u/47149595?v=4",
+        "description": "Minerva Story is an image viewer that is designed specifically to make it easy for non-expert users to interact with complex tissue images."
     },
     {
         "uid": "github/meenakshi-kushwaha/mmaqshiny",
@@ -2128,6 +2177,13 @@
         "description": "A javascript library for interactive hierarchical visualization of 3D points (suitable for large hierarchical datasets) . Based on graphosaurus.js (https://github.com/frewsxcv/graphosaurus), which runs on Three.js. "
     },
     {
+        "uid": "github/marieBvr/virAnnot",
+        "url": "https://github.com/marieBvr/virAnnot",
+        "rel": "/software/repository/github/marieBvr/virAnnot",
+        "avatar": "https://avatars2.githubusercontent.com/u/20929578?v=4",
+        "description": null
+    },
+    {
         "uid": "github/votca/xtp",
         "url": "https://github.com/votca/xtp",
         "rel": "/software/repository/github/votca/xtp",
@@ -2189,6 +2245,13 @@
         "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook"
+    },
+    {
+        "uid": "github/NCAS-CMS/cfdm",
+        "url": "https://github.com/NCAS-CMS/cfdm",
+        "rel": "/software/repository/github/NCAS-CMS/cfdm",
+        "avatar": "https://avatars3.githubusercontent.com/u/31280705?v=4",
+        "description": "A Python reference implementation of the CF data model"
     },
     {
         "uid": "github/gijut/gnucash",
@@ -2329,6 +2392,13 @@
         "rel": "/software/repository/github/tlverse/hal9001",
         "avatar": "https://avatars0.githubusercontent.com/u/36939258?v=4",
         "description": "\ud83e\udd20 \ud83d\udcff The Highly Adaptive Lasso"
+    },
+    {
+        "uid": "github/mortonne/psifr",
+        "url": "https://github.com/mortonne/psifr",
+        "rel": "/software/repository/github/mortonne/psifr",
+        "avatar": "https://avatars3.githubusercontent.com/u/9086777?v=4",
+        "description": "Psifr: Analysis and visualization of free recall data"
     },
     {
         "uid": "github/OpenWaterAnalytics/pyswmm",
@@ -2679,6 +2749,13 @@
         "rel": "/software/repository/github/matchms/matchms",
         "avatar": "https://avatars0.githubusercontent.com/u/62389017?v=4",
         "description": "Python library for fuzzy comparison of mass spectrum data and other Python objects"
+    },
+    {
+        "uid": "gitlab/project-dare/dare-platform",
+        "url": "https://gitlab.com/project-dare/dare-platform",
+        "rel": "/software/repository/gitlab/project-dare/dare-platform",
+        "avatar": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/14873006/dare.png",
+        "description": ""
     },
     {
         "uid": "gitlab/davidtourigny/dynamic-fba",
