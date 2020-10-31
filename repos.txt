@@ -48,6 +48,7 @@ github/InsightSoftwareConsortium/ITK
 github/saeyslab/nichenetr
 github/saeyslab/CytoNorm_Figures
 github/zarr-developers/zarr-python
+github/reproducible-biomedical-modeling/Biosimulations
 github/SCM-NV/qmflows-namd
 github/SCM-NV/qmflows
 github/stemangiola/tidyHeatmap
@@ -149,6 +150,7 @@ github/labsyspharm/minerva-story
 github/STEllAR-GROUP/hpx
 github/eweitz/ideogram
 github/CFSAN-Biostatistics/SeroTools
+github/nicolet5/DiffCapAnalyzer
 github/ComtekAdvancedStructures/cmstatr
 github/biocore/scikit-bio
 github/joglekara/VlaPy
@@ -171,6 +173,7 @@ github/monarch-initiative/loinc2hpo
 github/KVSlab/turtleFSI
 github/DistrictDataLabs/yellowbrick
 github/tidyverse/glue
+github/dstansby/pfsspy
 github/KarrLab/de_sim
 github/davidebolo1993/TRiCoLOR
 github/arnikz/PIQMIe
@@ -179,6 +182,7 @@ github/qutip/qutip
 github/yatiml/yatiml
 github/jboynyc/textnets
 github/Cantera/cantera
+github/Nico-Curti/rFBP
 github/ECSHackWeek/impedance.py
 github/pydata/xarray
 github/linbox-team/linbox
@@ -186,6 +190,7 @@ github/rhenanbartels/hrv
 github/sandmanns/CopyDetective
 github/cython/cython
 github/JuliaOpt/JuMP.jl
+github/amrex-astro/Castro
 github/cosmo-epfl/chemiscope
 github/networkx/networkx
 github/jupyter/notebook
@@ -204,6 +209,7 @@ github/anwarbio/bioassays
 github/potree/PotreeConverter
 github/mpievolbio-scicomp/cancer_sim
 github/sjvrijn/mf2
+github/biosimulations/Biosimulations
 github/jeffcsauer/arcos_arcospy_information
 github/ipython/ipython
 github/s-goldman/Dusty-Evolved-Star-Kit
@@ -219,6 +225,7 @@ github/DreamCloud-Project/McSim-Cycle-accurate-Xbar
 github/DreamCloud-Project/McSim-TLM-NoC
 github/DreamCloud-Project/AMALTHEA-SimGrid
 github/humanfactors/FIPS
+github/mtsch/Ripserer.jl
 github/EC-Earth/ece2cmor3
 github/Theano/Theano
 github/esa/pagmo2-paper
@@ -257,6 +264,7 @@ github/JuliaLang/julia
 github/pyBRAvo/pyBRAvo
 github/cochran4/GEMB
 github/drwaseemsheikh/audiometry
+github/pmeier/pystiche
 github/pymc-devs/pymc3
 github/conda/conda
 github/herrsalmi/FConverter
@@ -338,17 +346,20 @@ github/mzy2240/ESA
 github/KBNLresearch/ochre
 github/plotly/dash
 github/cbg-ethz/V-pipe
+github/21cmFAST/21cmFAST
 github/OpenWaterAnalytics/pyswmm
 github/ramadatta/CPgeneProfiler
 github/devitocodes/devito
 github/kavonrtep/dante
 github/keurfonluu/toughio
+github/shaniAmare/long_read_tools
 github/broadinstitute/cromwell
 github/econ-ark/HARK
 github/DorianDepriester/mtex2Gmsh
 github/ihrke/pypillometry
 github/swiftsim/swiftsimio
 github/codidact/qpixel
+github/girder/viime
 github/hrwakeford/ExoTiC-ISM
 github/kerkelae/disimpy
 github/hope-data-science/tidyfst
@@ -384,6 +395,7 @@ github/ERA-URBAN/netcdf2littler
 github/cicirello/Chips-n-Salsa
 github/citation-file-format/cff-initializer-javascript
 github/citation-file-format/cff-converter-python
+github/erikbern/ann-benchmarks
 github/mathjax/MathJax
 github/samhforbes/PupillometryR
 github/abrupt-climate/hyper-canny
