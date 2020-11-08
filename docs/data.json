@@ -343,6 +343,13 @@
         "description": "ESMValTool Core: core functionalities for the ESMValTool"
     },
     {
+        "uid": "github/syasini/AstroPaint",
+        "url": "https://github.com/syasini/AstroPaint",
+        "rel": "/software/repository/github/syasini/AstroPaint",
+        "avatar": "https://avatars0.githubusercontent.com/u/47579697?v=4",
+        "description": "A python package for creating mock maps of astrophysical signals from a halo catalog"
+    },
+    {
         "uid": "github/Parsl/parsl",
         "url": "https://github.com/Parsl/parsl",
         "rel": "/software/repository/github/Parsl/parsl",
@@ -1120,6 +1127,13 @@
         "description": "Python bindings for the Xenon API"
     },
     {
+        "uid": "github/DeepRegNet/DeepReg",
+        "url": "https://github.com/DeepRegNet/DeepReg",
+        "rel": "/software/repository/github/DeepRegNet/DeepReg",
+        "avatar": "https://avatars2.githubusercontent.com/u/68382534?v=4",
+        "description": "Medical image registration using deep learning"
+    },
+    {
         "uid": "github/codidact/qpixel",
         "url": "https://github.com/codidact/qpixel",
         "rel": "/software/repository/github/codidact/qpixel",
@@ -1274,6 +1288,13 @@
         "description": "Salsa is a Python package for constructing synthetic absorber catalogs from astrophysical hydrodynamic simulations"
     },
     {
+        "uid": "github/bluesky/bluesky",
+        "url": "https://github.com/bluesky/bluesky",
+        "rel": "/software/repository/github/bluesky/bluesky",
+        "avatar": "https://avatars1.githubusercontent.com/u/47676189?v=4",
+        "description": "experiment orchestration and data acquisition"
+    },
+    {
         "uid": "github/cbirdferrer/collatrix",
         "url": "https://github.com/cbirdferrer/collatrix",
         "rel": "/software/repository/github/cbirdferrer/collatrix",
@@ -1358,6 +1379,13 @@
         "description": "An algorithm to identify cross-linked peptides"
     },
     {
+        "uid": "github/alan-turing-institute/MLJ.jl",
+        "url": "https://github.com/alan-turing-institute/MLJ.jl",
+        "rel": "/software/repository/github/alan-turing-institute/MLJ.jl",
+        "avatar": "https://avatars1.githubusercontent.com/u/18304793?v=4",
+        "description": "A Julia machine learning framework"
+    },
+    {
         "uid": "github/zdelrosario/py_grama",
         "url": "https://github.com/zdelrosario/py_grama",
         "rel": "/software/repository/github/zdelrosario/py_grama",
@@ -1440,6 +1468,13 @@
         "rel": "/software/repository/github/PfizerRD/sit2standpy",
         "avatar": "https://avatars1.githubusercontent.com/u/19213564?v=4",
         "description": "Python based module framework for detecting sit-to-stand transitions"
+    },
+    {
+        "uid": "github/cas-bioinf/rboAnalyzer",
+        "url": "https://github.com/cas-bioinf/rboAnalyzer",
+        "rel": "/software/repository/github/cas-bioinf/rboAnalyzer",
+        "avatar": "https://avatars1.githubusercontent.com/u/25302416?v=4",
+        "description": "Tool for analysing BLAST output for ncRNA sequences"
     },
     {
         "uid": "github/snowformatics/macrobot",
@@ -1594,6 +1629,13 @@
         "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook"
+    },
+    {
+        "uid": "github/bio-tools/biotoolsSum",
+        "url": "https://github.com/bio-tools/biotoolsSum",
+        "rel": "/software/repository/github/bio-tools/biotoolsSum",
+        "avatar": "https://avatars3.githubusercontent.com/u/15219975?v=4",
+        "description": "bio.tools interface with report generation features"
     },
     {
         "uid": "github/NLESC-JCER/EigenCuda",
@@ -2702,6 +2744,13 @@
         "description": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets"
     },
     {
+        "uid": "github/neuroanatomy/reorient",
+        "url": "https://github.com/neuroanatomy/reorient",
+        "rel": "/software/repository/github/neuroanatomy/reorient",
+        "avatar": "https://avatars1.githubusercontent.com/u/11254134?v=4",
+        "description": "A tool for reorienting and cropping MRI data"
+    },
+    {
         "uid": "github/spyder-ide/spyder",
         "url": "https://github.com/spyder-ide/spyder",
         "rel": "/software/repository/github/spyder-ide/spyder",
@@ -2966,6 +3015,34 @@
         "rel": "/software/repository/github/TNOCS/csWeb",
         "avatar": "https://avatars0.githubusercontent.com/u/7793389?v=4",
         "description": "csWeb, short for common sense Web, is a userfriendly web application for showing (GIS) data on a map. It allows you to apply multiple filters to filter your data, and to style it, so you can immediately see what's important."
+    },
+    {
+        "uid": "github/nlesc-nano/Moka",
+        "url": "https://github.com/nlesc-nano/Moka",
+        "rel": "/software/repository/github/nlesc-nano/Moka",
+        "avatar": "https://avatars0.githubusercontent.com/u/49066803?v=4",
+        "description": "command line interface to compute and molecular properties from a database"
+    },
+    {
+        "uid": "github/nlesc-nano/CAT",
+        "url": "https://github.com/nlesc-nano/CAT",
+        "rel": "/software/repository/github/nlesc-nano/CAT",
+        "avatar": "https://avatars0.githubusercontent.com/u/49066803?v=4",
+        "description": "A collection of tools designed for the automatic construction, and subsequent analysis, of chemical compounds."
+    },
+    {
+        "uid": "github/nlesc-nano/flamingo",
+        "url": "https://github.com/nlesc-nano/flamingo",
+        "rel": "/software/repository/github/nlesc-nano/flamingo",
+        "avatar": "https://avatars0.githubusercontent.com/u/49066803?v=4",
+        "description": "Computation and filtering of molecular properties"
+    },
+    {
+        "uid": "github/nlesc-nano/insilico-server",
+        "url": "https://github.com/nlesc-nano/insilico-server",
+        "rel": "/software/repository/github/nlesc-nano/insilico-server",
+        "avatar": "https://avatars0.githubusercontent.com/u/49066803?v=4",
+        "description": "web server to handle the properties"
     },
     {
         "uid": "github/nlesc-nano/swan",
