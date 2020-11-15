@@ -399,6 +399,13 @@
         "description": "Python library for fuzzy comparison of mass spectrum data and other Python objects"
     },
     {
+        "uid": "github/panoptes-organization/panoptes",
+        "url": "https://github.com/panoptes-organization/panoptes",
+        "rel": "/software/repository/github/panoptes-organization/panoptes",
+        "avatar": "https://avatars3.githubusercontent.com/u/57643851?v=4",
+        "description": "Monitor computational workflows in real time"
+    },
+    {
         "uid": "github/soedinglab/hh-suite",
         "url": "https://github.com/soedinglab/hh-suite",
         "rel": "/software/repository/github/soedinglab/hh-suite",
@@ -924,6 +931,13 @@
         "description": null
     },
     {
+        "uid": "github/chainsawriot/oolong",
+        "url": "https://github.com/chainsawriot/oolong",
+        "rel": "/software/repository/github/chainsawriot/oolong",
+        "avatar": "https://avatars1.githubusercontent.com/u/637269?v=4",
+        "description": "oolong \ud83c\udf75 : create and administrate validation tests for typical automated content analysis tools."
+    },
+    {
         "uid": "github/samhforbes/PupillometryR",
         "url": "https://github.com/samhforbes/PupillometryR",
         "rel": "/software/repository/github/samhforbes/PupillometryR",
@@ -1181,6 +1195,13 @@
         "rel": "/software/repository/github/JanCBrammer/biopeaks",
         "avatar": "https://avatars0.githubusercontent.com/u/30125107?v=4",
         "description": "biopeaks: a graphical user interface for feature extraction from heart- and breathing biosignals"
+    },
+    {
+        "uid": "github/Kuifje02/vrpy",
+        "url": "https://github.com/Kuifje02/vrpy",
+        "rel": "/software/repository/github/Kuifje02/vrpy",
+        "avatar": "https://avatars0.githubusercontent.com/u/19840033?v=4",
+        "description": "A python framework for solving the VRP and its variants with column generation."
     },
     {
         "uid": "github/caselawanalytics/CaseLawAnalytics",
@@ -1666,6 +1687,13 @@
         "description": "A python library for Argo data beginners and experts"
     },
     {
+        "uid": "github/Yomguithereal/talisman",
+        "url": "https://github.com/Yomguithereal/talisman",
+        "rel": "/software/repository/github/Yomguithereal/talisman",
+        "avatar": "https://avatars1.githubusercontent.com/u/2571951?v=4",
+        "description": "Straightforward fuzzy matching, information retrieval and NLP building blocks for JavaScript."
+    },
+    {
         "uid": "github/darioizzo/dcgp",
         "url": "https://github.com/darioizzo/dcgp",
         "rel": "/software/repository/github/darioizzo/dcgp",
@@ -1685,6 +1713,13 @@
         "rel": "/software/repository/github/KarrLab/de_sim",
         "avatar": "https://avatars3.githubusercontent.com/u/13785824?v=4",
         "description": "Python-based object-oriented discrete-event simulation tool for complex, data-driven modeling"
+    },
+    {
+        "uid": "github/xoopR/set6",
+        "url": "https://github.com/xoopR/set6",
+        "rel": "/software/repository/github/xoopR/set6",
+        "avatar": "https://avatars2.githubusercontent.com/u/62353263?v=4",
+        "description": "R6 object-oriented interface for mathematical sets."
     },
     {
         "uid": "github/tidyverse/glue",
@@ -2345,6 +2380,13 @@
         "description": "Detection threshold aware CNV Calling in NGS data"
     },
     {
+        "uid": "github/slzarate/parliament2",
+        "url": "https://github.com/slzarate/parliament2",
+        "rel": "/software/repository/github/slzarate/parliament2",
+        "avatar": "https://avatars0.githubusercontent.com/u/12899963?v=4",
+        "description": "Runs a combination of tools to generate structural variant calls on short-read whole-genome sequencing data"
+    },
+    {
         "uid": "github/dgarrimar/sqtlseeker2-nf",
         "url": "https://github.com/dgarrimar/sqtlseeker2-nf",
         "rel": "/software/repository/github/dgarrimar/sqtlseeker2-nf",
@@ -2882,6 +2924,13 @@
         "rel": "/software/repository/github/JonasRieger/ldaPrototype",
         "avatar": "https://avatars0.githubusercontent.com/u/23215382?v=4",
         "description": "Determine a Prototype from a number of runs of Latent Dirichlet Allocation (LDA) measuring its similarities with S-CLOP: A procedure to select the LDA run with highest mean pairwise similarity, which is measured by S-CLOP (Similarity of multiple sets by Clustering with Local Pruning), to all other runs."
+    },
+    {
+        "uid": "github/constantAmateur/SoupX",
+        "url": "https://github.com/constantAmateur/SoupX",
+        "rel": "/software/repository/github/constantAmateur/SoupX",
+        "avatar": "https://avatars2.githubusercontent.com/u/1410525?v=4",
+        "description": "R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data"
     },
     {
         "uid": "github/dellytools/delly",

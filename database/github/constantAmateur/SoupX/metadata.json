@@ -1,0 +1,32 @@
+{
+    "parser": "github",
+    "uid": "github/constantAmateur/SoupX",
+    "url": "https://github.com/constantAmateur/SoupX",
+    "data": {
+        "timestamp": "2020-11-15 00:20:03.176986",
+        "name": "SoupX",
+        "url": "https://api.github.com/repos/constantAmateur/SoupX",
+        "full_name": "constantAmateur/SoupX",
+        "html_url": "https://github.com/constantAmateur/SoupX",
+        "private": false,
+        "description": "R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data",
+        "created_at": "2018-04-12T11:38:03Z",
+        "updated_at": "2020-11-09T10:14:57Z",
+        "clone_url": "https://github.com/constantAmateur/SoupX.git",
+        "homepage": null,
+        "size": 164916,
+        "stargazers_count": 76,
+        "watchers_count": 76,
+        "language": "R",
+        "open_issues_count": 2,
+        "license": null,
+        "subscribers_count": 9,
+        "owner": {
+            "html_url": "https://github.com/constantAmateur",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1410525?v=4",
+            "login": "constantAmateur",
+            "type": "User"
+        },
+        "topics": []
+    }
+}
