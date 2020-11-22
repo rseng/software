@@ -1,6 +1,7 @@
 name: update-software
 
 on:
+  pull_request: []
   schedule:
     # Weekly
     - cron: 0 0 * * 0
@@ -60,10 +61,10 @@ jobs:
            git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
            git push origin "${BRANCH_FROM}"
         fi
-        echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
+        echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
 
     - name: Open Pull Request
-      uses: vsoch/pull-request-action@1.0.6
+      uses: vsoch/pull-request-action@1.0.12
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PULL_REQUEST_BRANCH: "master"
