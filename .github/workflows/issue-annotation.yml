@@ -24,7 +24,7 @@ jobs:
               printf "This issue is not for taxonomy or criteria items.\n"
               exit 1;
           fi
-          echo "::set-env name=GITHUB_LABEL::${GITHUB_LABEL}"
+          echo "GITHUB_LABEL=${GITHUB_LABEL}" >> $GITHUB_ENV
 
     - name: Install Research Software Encyclopedia
       run: |
@@ -59,7 +59,7 @@ jobs:
             printf "Branch already exists in remote.\n"
             echo 1
         fi
-        echo "::set-env name=BRANCH_EXISTS::${BRANCH_EXISTS}"
+        echo "BRANCH_EXISTS=${BRANCH_EXISTS}" >> $GITHUB_ENV
 
         git branch
         git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
@@ -78,11 +78,11 @@ jobs:
            git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
            git push origin "${BRANCH_FROM}"
         fi
-        echo "::set-env name=PULL_REQUEST_FROM_BRANCH::${BRANCH_FROM}"
-        echo "::set-env name=PULL_REQUEST_BODY::Fixes https://github.com/${GITHUB_REPOSITORY}/issues/${{ github.event.issue.number }}"
+        echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
+        echo "PULL_REQUEST_BODY=Fixes https://github.com/${GITHUB_REPOSITORY}/issues/${{ github.event.issue.number }}" >> $GITHUB_ENV
 
     - name: Open Pull Request
-      uses: vsoch/pull-request-action@1.0.6
+      uses: vsoch/pull-request-action@1.0.12
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PULL_REQUEST_BRANCH: "master"
