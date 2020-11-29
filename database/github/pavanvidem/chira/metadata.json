@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/pavanvidem/chira",
+    "url": "https://github.com/pavanvidem/chira",
+    "data": {
+        "timestamp": "2020-11-29 00:22:20.109586",
+        "name": "chira",
+        "url": "https://api.github.com/repos/pavanvidem/chira",
+        "full_name": "pavanvidem/chira",
+        "html_url": "https://github.com/pavanvidem/chira",
+        "private": false,
+        "description": "Chimeric Read Annotator",
+        "created_at": "2019-06-29T22:24:53Z",
+        "updated_at": "2020-08-15T21:06:28Z",
+        "clone_url": "https://github.com/pavanvidem/chira.git",
+        "homepage": null,
+        "size": 201,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/pavanvidem",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/5268277?v=4",
+            "login": "pavanvidem",
+            "type": "User"
+        },
+        "topics": []
+    }
+}

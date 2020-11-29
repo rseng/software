@@ -252,6 +252,20 @@
         "description": "A Python scikit for building and analyzing recommender systems"
     },
     {
+        "uid": "github/dmnfarrell/snpgenie",
+        "url": "https://github.com/dmnfarrell/snpgenie",
+        "rel": "/software/repository/github/dmnfarrell/snpgenie",
+        "avatar": "https://avatars0.githubusercontent.com/u/7859189?v=4",
+        "description": "command line and desktop tool for microbial variant calling"
+    },
+    {
+        "uid": "github/dmnfarrell/epitopepredict",
+        "url": "https://github.com/dmnfarrell/epitopepredict",
+        "rel": "/software/repository/github/dmnfarrell/epitopepredict",
+        "avatar": "https://avatars0.githubusercontent.com/u/7859189?v=4",
+        "description": "Python package  and command line tool for epitope prediction"
+    },
+    {
         "uid": "github/shaniAmare/long_read_tools",
         "url": "https://github.com/shaniAmare/long_read_tools",
         "rel": "/software/repository/github/shaniAmare/long_read_tools",
@@ -502,6 +516,13 @@
         "rel": "/software/repository/github/jollejolles/pirecorder",
         "avatar": "https://avatars3.githubusercontent.com/u/8775649?v=4",
         "description": "Controlled and automated image and video recording with the raspberry pi"
+    },
+    {
+        "uid": "github/atomneb/AtomNeb-py",
+        "url": "https://github.com/atomneb/AtomNeb-py",
+        "rel": "/software/repository/github/atomneb/AtomNeb-py",
+        "avatar": "https://avatars2.githubusercontent.com/u/23319970?v=4",
+        "description": "AtomNeb - Python Package for Atomic Data of Ionized Nebulae"
     },
     {
         "uid": "github/andyphilips/dynamac",
@@ -1022,6 +1043,13 @@
         "description": "A community based Python library for quantitative economics"
     },
     {
+        "uid": "github/asmusskar/ALVA",
+        "url": "https://github.com/asmusskar/ALVA",
+        "rel": "/software/repository/github/asmusskar/ALVA",
+        "avatar": "https://avatars2.githubusercontent.com/u/46743643?v=4",
+        "description": "ALVA is a MATLAB-package for advanced pavement modeling that is highly adaptive"
+    },
+    {
         "uid": "github/Theano/Theano",
         "url": "https://github.com/Theano/Theano",
         "rel": "/software/repository/github/Theano/Theano",
@@ -1307,6 +1335,13 @@
         "rel": "/software/repository/github/matchms/matchms",
         "avatar": "https://avatars0.githubusercontent.com/u/62389017?v=4",
         "description": "Python library for fuzzy comparison of mass spectrum data and other Python objects"
+    },
+    {
+        "uid": "github/equib/pyEQUIB",
+        "url": "https://github.com/equib/pyEQUIB",
+        "rel": "/software/repository/github/equib/pyEQUIB",
+        "avatar": "https://avatars3.githubusercontent.com/u/24842786?v=4",
+        "description": "pyEQUIB - Python Package for Plasma Diagnostics and Abundance Analysis"
     },
     {
         "uid": "github/CGAL/cgal",
@@ -1988,11 +2023,25 @@
         "description": "Insight Toolkit (ITK) -- Official Repository"
     },
     {
+        "uid": "github/hemanthpruthvi/PyAstroPol",
+        "url": "https://github.com/hemanthpruthvi/PyAstroPol",
+        "rel": "/software/repository/github/hemanthpruthvi/PyAstroPol",
+        "avatar": "https://avatars1.githubusercontent.com/u/69858702?v=4",
+        "description": "Instrumental Polarization Analysis of Astronomical Optics"
+    },
+    {
         "uid": "github/cbg-ethz/V-pipe",
         "url": "https://github.com/cbg-ethz/V-pipe",
         "rel": "/software/repository/github/cbg-ethz/V-pipe",
         "avatar": "https://avatars2.githubusercontent.com/u/12068026?v=4",
         "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes"
+    },
+    {
+        "uid": "github/cbg-ethz/PredictHaplo",
+        "url": "https://github.com/cbg-ethz/PredictHaplo",
+        "rel": "/software/repository/github/cbg-ethz/PredictHaplo",
+        "avatar": "https://avatars2.githubusercontent.com/u/12068026?v=4",
+        "description": "This software aims at reconstructing haplotypes from next-generation sequencing data."
     },
     {
         "uid": "github/JonasRieger/ldaPrototype",
@@ -2338,6 +2387,13 @@
         "description": "De novo annotation of intact retrotransposons"
     },
     {
+        "uid": "github/amanchokshi/EMBERS",
+        "url": "https://github.com/amanchokshi/EMBERS",
+        "rel": "/software/repository/github/amanchokshi/EMBERS",
+        "avatar": "https://avatars2.githubusercontent.com/u/40157844?v=4",
+        "description": "Experimental Measurement of BEam Responses with Satellites"
+    },
+    {
         "uid": "github/cython/cython",
         "url": "https://github.com/cython/cython",
         "rel": "/software/repository/github/cython/cython",
@@ -2562,6 +2618,13 @@
         "description": "Macrobot is an open source image analysis software for studying plant-pathogen interactions on macroscopic level."
     },
     {
+        "uid": "github/MolMeDB/MolMeDB",
+        "url": "https://github.com/MolMeDB/MolMeDB",
+        "rel": "/software/repository/github/MolMeDB/MolMeDB",
+        "avatar": "https://avatars3.githubusercontent.com/u/62621831?v=4",
+        "description": "MolMeDB is an open chemistry database about interactions of molecules with membranes."
+    },
+    {
         "uid": "github/bihealth/sodar_core",
         "url": "https://github.com/bihealth/sodar_core",
         "rel": "/software/repository/github/bihealth/sodar_core",
@@ -2688,6 +2751,13 @@
         "description": "Repository for mini-projects in the Data science for Sustainable development project "
     },
     {
+        "uid": "github/pavanvidem/chira",
+        "url": "https://github.com/pavanvidem/chira",
+        "rel": "/software/repository/github/pavanvidem/chira",
+        "avatar": "https://avatars2.githubusercontent.com/u/5268277?v=4",
+        "description": "Chimeric Read Annotator"
+    },
+    {
         "uid": "github/networkx/networkx",
         "url": "https://github.com/networkx/networkx",
         "rel": "/software/repository/github/networkx/networkx",
@@ -2735,6 +2805,13 @@
         "rel": "/software/repository/github/VU-BEAM-Lab/GENRE",
         "avatar": "https://avatars2.githubusercontent.com/u/64437600?v=4",
         "description": null
+    },
+    {
+        "uid": "github/IFB-ElixirFr/edam-browser",
+        "url": "https://github.com/IFB-ElixirFr/edam-browser",
+        "rel": "/software/repository/github/IFB-ElixirFr/edam-browser",
+        "avatar": "https://avatars3.githubusercontent.com/u/24292199?v=4",
+        "description": "Stand alone js browser for EDAM Ontology"
     },
     {
         "uid": "github/berenslab/MorphoPy",

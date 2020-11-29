@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/dmnfarrell/epitopepredict",
+    "url": "https://github.com/dmnfarrell/epitopepredict",
+    "data": {
+        "timestamp": "2020-11-29 00:22:19.834825",
+        "name": "epitopepredict",
+        "url": "https://api.github.com/repos/dmnfarrell/epitopepredict",
+        "full_name": "dmnfarrell/epitopepredict",
+        "html_url": "https://github.com/dmnfarrell/epitopepredict",
+        "private": false,
+        "description": "Python package  and command line tool for epitope prediction",
+        "created_at": "2015-01-06T14:27:27Z",
+        "updated_at": "2020-11-27T15:18:20Z",
+        "clone_url": "https://github.com/dmnfarrell/epitopepredict.git",
+        "homepage": "",
+        "size": 25252,
+        "stargazers_count": 21,
+        "watchers_count": 21,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 0,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/dmnfarrell",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/7859189?v=4",
+            "login": "dmnfarrell",
+            "type": "User"
+        },
+        "topics": [
+            "epitope-prediction-methods",
+            "immunology",
+            "bioinformatics"
+        ]
+    }
+}

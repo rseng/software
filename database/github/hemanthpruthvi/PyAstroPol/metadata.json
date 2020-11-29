@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/hemanthpruthvi/PyAstroPol",
+    "url": "https://github.com/hemanthpruthvi/PyAstroPol",
+    "data": {
+        "timestamp": "2020-11-29 00:22:13.194990",
+        "name": "PyAstroPol",
+        "url": "https://api.github.com/repos/hemanthpruthvi/PyAstroPol",
+        "full_name": "hemanthpruthvi/PyAstroPol",
+        "html_url": "https://github.com/hemanthpruthvi/PyAstroPol",
+        "private": false,
+        "description": "Instrumental Polarization Analysis of Astronomical Optics",
+        "created_at": "2020-08-18T14:40:04Z",
+        "updated_at": "2020-11-24T08:56:07Z",
+        "clone_url": "https://github.com/hemanthpruthvi/PyAstroPol.git",
+        "homepage": "",
+        "size": 9533,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/hemanthpruthvi",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/69858702?v=4",
+            "login": "hemanthpruthvi",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "https://doi.org/10.5281/zenodo.4285762"
+}
