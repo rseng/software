@@ -78,8 +78,9 @@ jobs:
            git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
            git push origin "${BRANCH_FROM}"
         fi
+        MESSAGE="Fixes https://github.com/${GITHUB_REPOSITORY}/issues/${{ github.event.issue.number }}"
         echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
-        echo 'PULL_REQUEST_BODY="Fixes https://github.com/${GITHUB_REPOSITORY}/issues/${{ github.event.issue.number }}"' >> $GITHUB_ENV
+        echo "PULL_REQUEST_BODY=${MESSAGE}" >> $GITHUB_ENV
 
     - name: Open Pull Request
       uses: vsoch/pull-request-action@1.0.12
