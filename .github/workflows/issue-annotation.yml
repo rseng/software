@@ -32,7 +32,6 @@ jobs:
         git clone https://github.com/rseng/rse
         cd rse
         sudo pip3 install .[all]
-        #sudo pip3 install rse[all]
         rse --version
 
     - name: Parse Criteria or Taxonomy
