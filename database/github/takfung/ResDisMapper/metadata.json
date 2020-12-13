@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/takfung/ResDisMapper",
+    "url": "https://github.com/takfung/ResDisMapper",
+    "data": {
+        "timestamp": "2020-12-13 00:25:25.629418",
+        "name": "ResDisMapper",
+        "url": "https://api.github.com/repos/takfung/ResDisMapper",
+        "full_name": "takfung/ResDisMapper",
+        "html_url": "https://github.com/takfung/ResDisMapper",
+        "private": false,
+        "description": null,
+        "created_at": "2018-10-03T05:07:47Z",
+        "updated_at": "2020-05-21T15:16:51Z",
+        "clone_url": "https://github.com/takfung/ResDisMapper.git",
+        "homepage": null,
+        "size": 4721,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "R",
+        "open_issues_count": 1,
+        "license": null,
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/takfung",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/40194137?v=4",
+            "login": "takfung",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1111/1755-0998.13127"
+}
