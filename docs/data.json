@@ -175,6 +175,13 @@
         "description": "Python exposure of dynd"
     },
     {
+        "uid": "github/abschneider/StrainHub",
+        "url": "https://github.com/abschneider/StrainHub",
+        "rel": "/software/repository/github/abschneider/StrainHub",
+        "avatar": "https://avatars0.githubusercontent.com/u/26801239?v=4",
+        "description": "Welcome to the StrainHub Repo - Files and Data - StrainHub Online:"
+    },
+    {
         "uid": "github/xenon-middleware/pyxenon",
         "url": "https://github.com/xenon-middleware/pyxenon",
         "rel": "/software/repository/github/xenon-middleware/pyxenon",
@@ -215,6 +222,13 @@
         "rel": "/software/repository/github/alan-turing-institute/MLJ.jl",
         "avatar": "https://avatars1.githubusercontent.com/u/18304793?v=4",
         "description": "A Julia machine learning framework"
+    },
+    {
+        "uid": "github/alan-turing-institute/DetectorChecker",
+        "url": "https://github.com/alan-turing-institute/DetectorChecker",
+        "rel": "/software/repository/github/alan-turing-institute/DetectorChecker",
+        "avatar": "https://avatars1.githubusercontent.com/u/18304793?v=4",
+        "description": " Project to develop software to assess developing detector screen damage (Web App based on the original DetectorChecker package)"
     },
     {
         "uid": "github/alan-turing-institute/monitoring-ecosystem-resilience",
@@ -595,6 +609,13 @@
         "description": null
     },
     {
+        "uid": "github/bhi-kimlab/StressGenePred",
+        "url": "https://github.com/bhi-kimlab/StressGenePred",
+        "rel": "/software/repository/github/bhi-kimlab/StressGenePred",
+        "avatar": "https://avatars0.githubusercontent.com/u/24263727?v=4",
+        "description": "Stress predicting framework with microarray data based on CMCL and logical correlation model"
+    },
+    {
         "uid": "github/STEllAR-GROUP/hpx",
         "url": "https://github.com/STEllAR-GROUP/hpx",
         "rel": "/software/repository/github/STEllAR-GROUP/hpx",
@@ -798,6 +819,13 @@
         "description": null
     },
     {
+        "uid": "github/dpseidel/stmove",
+        "url": "https://github.com/dpseidel/stmove",
+        "rel": "/software/repository/github/dpseidel/stmove",
+        "avatar": "https://avatars1.githubusercontent.com/u/16724456?v=4",
+        "description": "Build reproducible reports for spatial-temporal animal movement analysis"
+    },
+    {
         "uid": "github/eWaterCycle/jupyterlab_thredds",
         "url": "https://github.com/eWaterCycle/jupyterlab_thredds",
         "rel": "/software/repository/github/eWaterCycle/jupyterlab_thredds",
@@ -924,6 +952,13 @@
         "description": "Simulation-based inference in PyTorch"
     },
     {
+        "uid": "github/BackofenLab/StoatyDive",
+        "url": "https://github.com/BackofenLab/StoatyDive",
+        "rel": "/software/repository/github/BackofenLab/StoatyDive",
+        "avatar": "https://avatars2.githubusercontent.com/u/15155517?v=4",
+        "description": null
+    },
+    {
         "uid": "github/abrupt-climate/hyper-canny",
         "url": "https://github.com/abrupt-climate/hyper-canny",
         "rel": "/software/repository/github/abrupt-climate/hyper-canny",
@@ -1001,11 +1036,25 @@
         "description": "1D-1V Vlasov-Poisson(-Fokker-Planck) Plasma Physics Simulation Tool"
     },
     {
+        "uid": "github/ntcockroft/STarFish",
+        "url": "https://github.com/ntcockroft/STarFish",
+        "rel": "/software/repository/github/ntcockroft/STarFish",
+        "avatar": "https://avatars0.githubusercontent.com/u/9052387?v=4",
+        "description": "Tool for predicting the protein targets of bioactive small molecules"
+    },
+    {
         "uid": "github/jupyter/notebook",
         "url": "https://github.com/jupyter/notebook",
         "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook"
+    },
+    {
+        "uid": "github/icbm-iupui/STAFF",
+        "url": "https://github.com/icbm-iupui/STAFF",
+        "rel": "/software/repository/github/icbm-iupui/STAFF",
+        "avatar": "https://avatars3.githubusercontent.com/u/7242496?v=4",
+        "description": null
     },
     {
         "uid": "github/cochran4/GEMB",
@@ -1729,6 +1778,13 @@
         "description": "A DSL for data-driven computational pipelines"
     },
     {
+        "uid": "github/thomasdenecker/START-R",
+        "url": "https://github.com/thomasdenecker/START-R",
+        "rel": "/software/repository/github/thomasdenecker/START-R",
+        "avatar": "https://avatars2.githubusercontent.com/u/21334113?v=4",
+        "description": "Simple Tool for Analysis of Replication Timing with R"
+    },
+    {
         "uid": "github/JuliaDynamics/DrWatson.jl",
         "url": "https://github.com/JuliaDynamics/DrWatson.jl",
         "rel": "/software/repository/github/JuliaDynamics/DrWatson.jl",
@@ -2007,6 +2063,13 @@
         "rel": "/software/repository/github/ropensci/chirps",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "API Client for CHIRPS"
+    },
+    {
+        "uid": "github/ropensci/SymbiotaR2",
+        "url": "https://github.com/ropensci/SymbiotaR2",
+        "rel": "/software/repository/github/ropensci/SymbiotaR2",
+        "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
+        "description": "SymbiotaR2: an R package for accessing and downloading from Symbiota2 portals"
     },
     {
         "uid": "github/ropensci/plotly",
@@ -3045,6 +3108,13 @@
         "description": "A tool for quantitative analysis of differential capacity data! "
     },
     {
+        "uid": "github/Climdyn/qgs",
+        "url": "https://github.com/Climdyn/qgs",
+        "rel": "/software/repository/github/Climdyn/qgs",
+        "avatar": "https://avatars0.githubusercontent.com/u/17494336?v=4",
+        "description": "A 2-layer quasi-geostrophic atmospheric model in Python. Can be coupled to a simple land or shallow-water ocean component."
+    },
+    {
         "uid": "github/openjournals/joss",
         "url": "https://github.com/openjournals/joss",
         "rel": "/software/repository/github/openjournals/joss",
@@ -3190,6 +3260,13 @@
         "rel": "/software/repository/github/qpv-research-group/solcore5",
         "avatar": "https://avatars0.githubusercontent.com/u/48552948?v=4",
         "description": "A multi-scale, python-based library for the modelling of solar cells and semiconductor materials"
+    },
+    {
+        "uid": "github/easystats/effectsize",
+        "url": "https://github.com/easystats/effectsize",
+        "rel": "/software/repository/github/easystats/effectsize",
+        "avatar": "https://avatars1.githubusercontent.com/u/47102598?v=4",
+        "description": ":dragon: Compute and work with indices of effect size and standardized parameters"
     },
     {
         "uid": "github/easystats/correlation",
@@ -3367,6 +3444,13 @@
         "description": "Command Line Interface to download ERA5 from Copernicus Climate Data Service"
     },
     {
+        "uid": "github/jordanlab/STing",
+        "url": "https://github.com/jordanlab/STing",
+        "rel": "/software/repository/github/jordanlab/STing",
+        "avatar": "https://avatars2.githubusercontent.com/u/22896069?v=4",
+        "description": "Ultrafast sequence typing and gene detection from NGS raw reads"
+    },
+    {
         "uid": "github/biolab/orange3-network",
         "url": "https://github.com/biolab/orange3-network",
         "rel": "/software/repository/github/biolab/orange3-network",
@@ -3414,6 +3498,13 @@
         "rel": "/software/repository/github/matplotlib/matplotlib",
         "avatar": "https://avatars0.githubusercontent.com/u/215947?v=4",
         "description": "matplotlib: plotting with Python"
+    },
+    {
+        "uid": "github/staphopia/staphopia-paper",
+        "url": "https://github.com/staphopia/staphopia-paper",
+        "rel": "/software/repository/github/staphopia/staphopia-paper",
+        "avatar": "https://avatars0.githubusercontent.com/u/9426738?v=4",
+        "description": "Code used for Staphopia manuscript"
     },
     {
         "uid": "github/snowformatics/macrobot",
