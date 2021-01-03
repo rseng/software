@@ -945,6 +945,13 @@
         "description": "PyClaw is a Python-based interface to the algorithms of Clawpack and SharpClaw.  It also contains the PetClaw package, which adds parallelism through PETSc."
     },
     {
+        "uid": "github/benjaminbolling/DynaGUI",
+        "url": "https://github.com/benjaminbolling/DynaGUI",
+        "rel": "/software/repository/github/benjaminbolling/DynaGUI",
+        "avatar": "https://avatars2.githubusercontent.com/u/56224950?v=4",
+        "description": "A Dynamic Graphical User Interface package, which gives users a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner combined with diagnostics tools (with advance 1D and 2D plotting methods)."
+    },
+    {
         "uid": "github/mackelab/sbi",
         "url": "https://github.com/mackelab/sbi",
         "rel": "/software/repository/github/mackelab/sbi",
@@ -1265,6 +1272,13 @@
         "rel": "/software/repository/github/davidhoksza/traveler",
         "avatar": "https://avatars1.githubusercontent.com/u/73171224?v=4",
         "description": "Template-based RNA secondary structure visualization"
+    },
+    {
+        "uid": "github/wangjun1996/VisFeature",
+        "url": "https://github.com/wangjun1996/VisFeature",
+        "rel": "/software/repository/github/wangjun1996/VisFeature",
+        "avatar": "https://avatars0.githubusercontent.com/u/43462056?v=4",
+        "description": "A stand-alone program for visualizing and analyzing statistical features of biological sequences"
     },
     {
         "uid": "github/3D-e-Chem/knime-kripodb",
@@ -1720,6 +1734,13 @@
         "rel": "/software/repository/github/davidebolo1993/TRiCoLOR",
         "avatar": "https://avatars3.githubusercontent.com/u/39052119?v=4",
         "description": "Tadem Repeats Caller for LOng Reads"
+    },
+    {
+        "uid": "github/davidebolo1993/VISOR",
+        "url": "https://github.com/davidebolo1993/VISOR",
+        "rel": "/software/repository/github/davidebolo1993/VISOR",
+        "avatar": "https://avatars3.githubusercontent.com/u/39052119?v=4",
+        "description": "VarIant SimulatOR for short, long and linked reads"
     },
     {
         "uid": "github/qutip/qutip",
@@ -2315,6 +2336,13 @@
         "rel": "/software/repository/github/NLESC-JCER/EigenCuda",
         "avatar": "https://avatars3.githubusercontent.com/u/44467875?v=4",
         "description": "Offload Eigen operations to GPUs"
+    },
+    {
+        "uid": "github/lifs-tools/jmzTab-m",
+        "url": "https://github.com/lifs-tools/jmzTab-m",
+        "rel": "/software/repository/github/lifs-tools/jmzTab-m",
+        "avatar": "https://avatars1.githubusercontent.com/u/43466647?v=4",
+        "description": "Reference implementation for mzTab-M 2.0 for metabolomics"
     },
     {
         "uid": "github/mathjax/MathJax",
