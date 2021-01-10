@@ -7,6 +7,13 @@
         "description": ""
     },
     {
+        "uid": "gitlab/gims-developers/gims",
+        "url": "https://gitlab.com/gims-developers/gims",
+        "rel": "/software/repository/gitlab/gims-developers/gims",
+        "avatar": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/16358286/GIMSLogo.png",
+        "description": "GIMS -- Graphical Interface for Materials Simulations --  is an open-source, browser-based toolbox for electronic structure codes. Try it here: [gims.ms1p.org](https://gims.ms1p.org)"
+    },
+    {
         "uid": "gitlab/davidtourigny/dynamic-fba",
         "url": "https://gitlab.com/davidtourigny/dynamic-fba",
         "rel": "/software/repository/gitlab/davidtourigny/dynamic-fba",
@@ -19,6 +26,13 @@
         "rel": "/software/repository/gitlab/LouisLab/PiVR",
         "avatar": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/9212004/PiVR_logo.png",
         "description": "PiVR has been developed to track a variety of animals in real time and present them with light stimuli. Manual can be found at www.PiVR.org, scientific publication at  https://doi.org/10.1371/journal.pbio.3000712\r\n"
+    },
+    {
+        "uid": "gitlab/ztzou/phydl",
+        "url": "https://gitlab.com/ztzou/phydl",
+        "rel": "/software/repository/gitlab/ztzou/phydl",
+        "avatar": "https://gitlab.comNone",
+        "description": "Phylogenetics by Deep Learning. A residual neural network for inference of quartet phylogenetic tree topology."
     },
     {
         "uid": "gitlab/geekysquirrel/bigx",
@@ -273,6 +287,13 @@
         "description": "Toolbox for OCR post-correction"
     },
     {
+        "uid": "github/jbytecode/LinRegOutliers",
+        "url": "https://github.com/jbytecode/LinRegOutliers",
+        "rel": "/software/repository/github/jbytecode/LinRegOutliers",
+        "avatar": "https://avatars1.githubusercontent.com/u/8011702?v=4",
+        "description": "Direct and robust methods for outlier detection in linear regression"
+    },
+    {
         "uid": "github/Effective-Quadratures/Effective-Quadratures",
         "url": "https://github.com/Effective-Quadratures/Effective-Quadratures",
         "rel": "/software/repository/github/Effective-Quadratures/Effective-Quadratures",
@@ -320,6 +341,13 @@
         "rel": "/software/repository/github/ComtekAdvancedStructures/cmstatr",
         "avatar": "https://avatars3.githubusercontent.com/u/9559756?v=4",
         "description": "An R Package for Statistical Analysis of Composite Material Data"
+    },
+    {
+        "uid": "github/AlexanderLabWHOI/EUKulele",
+        "url": "https://github.com/AlexanderLabWHOI/EUKulele",
+        "rel": "/software/repository/github/AlexanderLabWHOI/EUKulele",
+        "avatar": "https://avatars0.githubusercontent.com/u/44212672?v=4",
+        "description": "Automatic eukaryotic taxonomic classification"
     },
     {
         "uid": "github/sonjageorgievska/CClusTera",
@@ -628,6 +656,13 @@
         "rel": "/software/repository/github/eweitz/ideogram",
         "avatar": "https://avatars1.githubusercontent.com/u/1334561?v=4",
         "description": "Chromosome visualization for the web"
+    },
+    {
+        "uid": "github/NeuralEnsemble/elephant",
+        "url": "https://github.com/NeuralEnsemble/elephant",
+        "rel": "/software/repository/github/NeuralEnsemble/elephant",
+        "avatar": "https://avatars3.githubusercontent.com/u/1540309?v=4",
+        "description": "Elephant is the Electrophysiology Analysis Toolkit"
     },
     {
         "uid": "github/spyder-ide/spyder",
@@ -994,6 +1029,13 @@
         "description": null
     },
     {
+        "uid": "github/Ramialison-Lab-ARMI/3DCardiomics",
+        "url": "https://github.com/Ramialison-Lab-ARMI/3DCardiomics",
+        "rel": "/software/repository/github/Ramialison-Lab-ARMI/3DCardiomics",
+        "avatar": "https://avatars2.githubusercontent.com/u/11384379?v=4",
+        "description": "A visual system for the exploration of cardiac transcriptome data"
+    },
+    {
         "uid": "github/ynop/audiomate",
         "url": "https://github.com/ynop/audiomate",
         "rel": "/software/repository/github/ynop/audiomate",
@@ -1034,6 +1076,13 @@
         "rel": "/software/repository/github/21cmFAST/21cmFAST",
         "avatar": "https://avatars1.githubusercontent.com/u/51762336?v=4",
         "description": "Official repository for 21cmFAST: a code for generating fast simulations of the cosmological 21cm signal"
+    },
+    {
+        "uid": "github/alvinxhan/Phydelity",
+        "url": "https://github.com/alvinxhan/Phydelity",
+        "rel": "/software/repository/github/alvinxhan/Phydelity",
+        "avatar": "https://avatars0.githubusercontent.com/u/17022871?v=4",
+        "description": "Inference of putative transmission phylogenetic clusters"
     },
     {
         "uid": "github/joglekara/VlaPy",
@@ -1617,6 +1666,13 @@
         "description": "Repository for the Astropy core package"
     },
     {
+        "uid": "github/tariks/peakachu",
+        "url": "https://github.com/tariks/peakachu",
+        "rel": "/software/repository/github/tariks/peakachu",
+        "avatar": "https://avatars3.githubusercontent.com/u/3433086?v=4",
+        "description": "Genome-wide contact analysis using sklearn"
+    },
+    {
         "uid": "github/MDAnalysis/mdanalysis",
         "url": "https://github.com/MDAnalysis/mdanalysis",
         "rel": "/software/repository/github/MDAnalysis/mdanalysis",
@@ -2051,6 +2107,13 @@
         "description": "An R-focused pipeline toolkit for reproducibility and high-performance computing"
     },
     {
+        "uid": "github/ropensci/rdataretriever",
+        "url": "https://github.com/ropensci/rdataretriever",
+        "rel": "/software/repository/github/ropensci/rdataretriever",
+        "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to the Data Retriever"
+    },
+    {
         "uid": "github/ropensci/UCSCXenaTools",
         "url": "https://github.com/ropensci/UCSCXenaTools",
         "rel": "/software/repository/github/ropensci/UCSCXenaTools",
@@ -2469,6 +2532,13 @@
         "rel": "/software/repository/github/htjb/maxsmooth",
         "avatar": "https://avatars3.githubusercontent.com/u/40355093?v=4",
         "description": "Constrained Derivative Function Optimisation"
+    },
+    {
+        "uid": "github/EMResearch/EvoMaster",
+        "url": "https://github.com/EMResearch/EvoMaster",
+        "rel": "/software/repository/github/EMResearch/EvoMaster",
+        "avatar": "https://avatars2.githubusercontent.com/u/29148026?v=4",
+        "description": "A tool for automatically generating system-level test cases. Currently targeting REST APIs."
     },
     {
         "uid": "github/vibbits/phyd3",
