@@ -448,6 +448,13 @@
         "description": "Detection threshold aware CNV Calling in NGS data"
     },
     {
+        "uid": "github/scikit-hep/pyhf",
+        "url": "https://github.com/scikit-hep/pyhf",
+        "rel": "/software/repository/github/scikit-hep/pyhf",
+        "avatar": "https://avatars.githubusercontent.com/u/23454624?v=4",
+        "description": "pure-Python HistFactory implementation with tensors and autodiff"
+    },
+    {
         "uid": "github/cython/cython",
         "url": "https://github.com/cython/cython",
         "rel": "/software/repository/github/cython/cython",
@@ -469,6 +476,13 @@
         "description": "GPP, a generic preprocessor"
     },
     {
+        "uid": "github/deepskies/deeplenstronomy",
+        "url": "https://github.com/deepskies/deeplenstronomy",
+        "rel": "/software/repository/github/deepskies/deeplenstronomy",
+        "avatar": "https://avatars.githubusercontent.com/u/30120253?v=4",
+        "description": "A pipeline for versatile strong lens sample simulations"
+    },
+    {
         "uid": "github/pmoulos/metaseqR2",
         "url": "https://github.com/pmoulos/metaseqR2",
         "rel": "/software/repository/github/pmoulos/metaseqR2",
@@ -481,6 +495,13 @@
         "rel": "/software/repository/github/atfrank/PyShifts",
         "avatar": "https://avatars.githubusercontent.com/u/5891136?v=4",
         "description": "Pyshifts: A Pymol Plugin for Chemical Shift-Based Analysis of Biomolecular Ensembles"
+    },
+    {
+        "uid": "github/rhayes777/PyAutoFit",
+        "url": "https://github.com/rhayes777/PyAutoFit",
+        "rel": "/software/repository/github/rhayes777/PyAutoFit",
+        "avatar": "https://avatars.githubusercontent.com/u/6361906?v=4",
+        "description": null
     },
     {
         "uid": "github/humanfactors/FIPS",
@@ -973,6 +994,13 @@
         "description": "Elephant is the Electrophysiology Analysis Toolkit"
     },
     {
+        "uid": "github/he2016012996/CABnet",
+        "url": "https://github.com/he2016012996/CABnet",
+        "rel": "/software/repository/github/he2016012996/CABnet",
+        "avatar": "https://avatars.githubusercontent.com/u/47880931?v=4",
+        "description": null
+    },
+    {
         "uid": "github/damienmarsic/Parent-map",
         "url": "https://github.com/damienmarsic/Parent-map",
         "rel": "/software/repository/github/damienmarsic/Parent-map",
@@ -1055,6 +1083,13 @@
         "rel": "/software/repository/github/biolab/orange3",
         "avatar": "https://avatars0.githubusercontent.com/u/555189?v=4",
         "description": "\ud83c\udf4a :bar_chart: :bulb: Orange: Interactive data analysis https://orange.biolab.si"
+    },
+    {
+        "uid": "github/asancpt/caffsim",
+        "url": "https://github.com/asancpt/caffsim",
+        "rel": "/software/repository/github/asancpt/caffsim",
+        "avatar": "https://avatars.githubusercontent.com/u/25226054?v=4",
+        "description": "R package for simulation of caffeine concentration <doi:10.12793/tcp.2017.25.3.141>. https://asancpt.github.io/caffsim"
     },
     {
         "uid": "github/curl/curl",
@@ -1286,6 +1321,13 @@
         "rel": "/software/repository/github/LBNL-ETA/MSWH",
         "avatar": "https://avatars1.githubusercontent.com/u/14825882?v=4",
         "description": "Multiscale Solar Water Heating"
+    },
+    {
+        "uid": "github/CAMI-challenge/CAMITAX",
+        "url": "https://github.com/CAMI-challenge/CAMITAX",
+        "rel": "/software/repository/github/CAMI-challenge/CAMITAX",
+        "avatar": "https://avatars.githubusercontent.com/u/8009060?v=4",
+        "description": "CAMITAX: Taxon labels for microbial genomes"
     },
     {
         "uid": "github/Oftatkofta/cellocity",
@@ -1573,6 +1615,13 @@
         "rel": "/software/repository/github/ShubhadeepSadhukhan1993/fastSF",
         "avatar": "https://avatars0.githubusercontent.com/u/60309103?v=4",
         "description": "A hybrid parallel C++ code to compute structure function of different order"
+    },
+    {
+        "uid": "github/algo-cancer/CAMMiQ",
+        "url": "https://github.com/algo-cancer/CAMMiQ",
+        "rel": "/software/repository/github/algo-cancer/CAMMiQ",
+        "avatar": "https://avatars.githubusercontent.com/u/42399598?v=4",
+        "description": "Metagenomics microbial abundance quantification"
     },
     {
         "uid": "github/eweitz/ideogram",
@@ -2156,6 +2205,13 @@
         "description": "Django-based framework for building scientific data management web apps."
     },
     {
+        "uid": "github/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP",
+        "url": "https://github.com/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP",
+        "rel": "/software/repository/github/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP",
+        "avatar": "https://avatars.githubusercontent.com/u/12696253?v=4",
+        "description": "The Cancer bioMarker Prediction Pipeline (CAMPP) "
+    },
+    {
         "uid": "github/OpenWaterAnalytics/pyswmm",
         "url": "https://github.com/OpenWaterAnalytics/pyswmm",
         "rel": "/software/repository/github/OpenWaterAnalytics/pyswmm",
@@ -2252,6 +2308,13 @@
         "rel": "/software/repository/github/adbar/htmldate",
         "avatar": "https://avatars0.githubusercontent.com/u/2125866?v=4",
         "description": "Fast and robust date extraction from web pages, from the command-line or within Python"
+    },
+    {
+        "uid": "github/twopin/CAMP",
+        "url": "https://github.com/twopin/CAMP",
+        "rel": "/software/repository/github/twopin/CAMP",
+        "avatar": "https://avatars.githubusercontent.com/u/22184602?v=4",
+        "description": "predicting peptide-protein interactions"
     },
     {
         "uid": "github/DeepRank/pdb2sql",
@@ -3274,6 +3337,13 @@
         "rel": "/software/repository/github/alvinxhan/Phydelity",
         "avatar": "https://avatars0.githubusercontent.com/u/17022871?v=4",
         "description": "Inference of putative transmission phylogenetic clusters"
+    },
+    {
+        "uid": "github/AlexMikes/AutoFunc",
+        "url": "https://github.com/AlexMikes/AutoFunc",
+        "rel": "/software/repository/github/AlexMikes/AutoFunc",
+        "avatar": "https://avatars.githubusercontent.com/u/24322176?v=4",
+        "description": "Data Mining for Automated Functional Representations"
     },
     {
         "uid": "github/JamesPaynter/PyGRB",
