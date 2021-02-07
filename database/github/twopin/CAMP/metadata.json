@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/twopin/CAMP",
+    "url": "https://github.com/twopin/CAMP",
+    "data": {
+        "timestamp": "2021-02-07 00:22:49.473570",
+        "name": "CAMP",
+        "url": "https://api.github.com/repos/twopin/CAMP",
+        "full_name": "twopin/CAMP",
+        "html_url": "https://github.com/twopin/CAMP",
+        "private": false,
+        "description": "predicting peptide-protein interactions",
+        "created_at": "2016-09-14T01:25:17Z",
+        "updated_at": "2021-01-22T12:28:39Z",
+        "clone_url": "https://github.com/twopin/CAMP.git",
+        "homepage": "",
+        "size": 57030,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/twopin",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22184602?v=4",
+            "login": "twopin",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1101/2020.11.16.384784"
+}
