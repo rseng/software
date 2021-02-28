@@ -182,6 +182,13 @@
         "description": "A stand-alone program for visualizing and analyzing statistical features of biological sequences"
     },
     {
+        "uid": "github/sahasuparna/DeMoS",
+        "url": "https://github.com/sahasuparna/DeMoS",
+        "rel": "/software/repository/github/sahasuparna/DeMoS",
+        "avatar": "https://avatars.githubusercontent.com/u/32774833?v=4",
+        "description": null
+    },
+    {
         "uid": "github/swiftsim/swiftsimio",
         "url": "https://github.com/SWIFTSIM/swiftsimio",
         "rel": "/software/repository/github/swiftsim/swiftsimio",
@@ -224,6 +231,13 @@
         "description": "Transcriptome long-read orientation with Deep Learning"
     },
     {
+        "uid": "github/Singh-Lab/DeMaSk",
+        "url": "https://github.com/Singh-Lab/DeMaSk",
+        "rel": "/software/repository/github/Singh-Lab/DeMaSk",
+        "avatar": "https://avatars.githubusercontent.com/u/21062767?v=4",
+        "description": "Prediction of protein substitution impact using a directional substitution matrix and homolog alignments"
+    },
+    {
         "uid": "github/upb-lea/openmodelica-microgrid-gym",
         "url": "https://github.com/upb-lea/openmodelica-microgrid-gym",
         "rel": "/software/repository/github/upb-lea/openmodelica-microgrid-gym",
@@ -264,6 +278,13 @@
         "rel": "/software/repository/github/pyomeca/biorbd",
         "avatar": "https://avatars.githubusercontent.com/u/36738416?v=4",
         "description": "Biomechanical add-ons to the RigidBody Dynamics Library"
+    },
+    {
+        "uid": "github/pyomeca/ezc3d",
+        "url": "https://github.com/pyomeca/ezc3d",
+        "rel": "/software/repository/github/pyomeca/ezc3d",
+        "avatar": "https://avatars.githubusercontent.com/u/36738416?v=4",
+        "description": "Easy to use C3D reader/writer for C++, Python and Matlab"
     },
     {
         "uid": "github/scikit-hep/pyhf",
@@ -574,6 +595,13 @@
         "description": "Straightforward fuzzy matching, information retrieval and NLP building blocks for JavaScript."
     },
     {
+        "uid": "github/learningsimulator/learningsimulator",
+        "url": "https://github.com/learningsimulator/learningsimulator",
+        "rel": "/software/repository/github/learningsimulator/learningsimulator",
+        "avatar": "https://avatars.githubusercontent.com/u/61417129?v=4",
+        "description": "Learning Simulator: A simulation software for animal and human learning"
+    },
+    {
         "uid": "github/openjournals/joss",
         "url": "https://github.com/openjournals/joss",
         "rel": "/software/repository/github/openjournals/joss",
@@ -684,6 +712,13 @@
         "rel": "/software/repository/github/curl/curl",
         "avatar": "https://avatars0.githubusercontent.com/u/16928085?v=4",
         "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features"
+    },
+    {
+        "uid": "github/lucian-ilie/DELPHI",
+        "url": "https://github.com/lucian-ilie/DELPHI",
+        "rel": "/software/repository/github/lucian-ilie/DELPHI",
+        "avatar": "https://avatars.githubusercontent.com/u/12052304?v=4",
+        "description": "Deep learning protein-protein binding sites prediction"
     },
     {
         "uid": "github/ADAH-EviDENce/evidence",
@@ -1575,6 +1610,13 @@
         "description": "An R package for the analysis, meta-analysis and result reporting of RNA-Seq gene expression data - Next Generation!"
     },
     {
+        "uid": "github/Computational-NeuroGenetics/deMeta-beta",
+        "url": "https://github.com/Computational-NeuroGenetics/deMeta-beta",
+        "rel": "/software/repository/github/Computational-NeuroGenetics/deMeta-beta",
+        "avatar": "https://avatars.githubusercontent.com/u/69991253?v=4",
+        "description": null
+    },
+    {
         "uid": "github/OpenDA-Association/OpenDA",
         "url": "https://github.com/OpenDA-Association/OpenDA",
         "rel": "/software/repository/github/OpenDA-Association/OpenDA",
@@ -1890,6 +1932,13 @@
         "description": "toolkit for those nonsensical ontologies"
     },
     {
+        "uid": "github/KULL-Centre/DEERpredict",
+        "url": "https://github.com/KULL-Centre/DEERpredict",
+        "rel": "/software/repository/github/KULL-Centre/DEERpredict",
+        "avatar": "https://avatars.githubusercontent.com/u/45874707?v=4",
+        "description": "Software for the prediction of DEER and PRE data from conformational ensembles."
+    },
+    {
         "uid": "github/pydata/xarray",
         "url": "https://github.com/pydata/xarray",
         "rel": "/software/repository/github/pydata/xarray",
@@ -2002,11 +2051,25 @@
         "description": "BAM Statistics, Feature Counting and Annotation"
     },
     {
+        "uid": "github/pencil-code/pencil-code",
+        "url": "https://github.com/pencil-code/pencil-code",
+        "rel": "/software/repository/github/pencil-code/pencil-code",
+        "avatar": "https://avatars.githubusercontent.com/u/11549701?v=4",
+        "description": "A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles"
+    },
+    {
         "uid": "github/cbrueffer/tophat-recondition",
         "url": "https://github.com/cbrueffer/tophat-recondition",
         "rel": "/software/repository/github/cbrueffer/tophat-recondition",
         "avatar": "https://avatars3.githubusercontent.com/u/2705287?v=4",
         "description": "Post-processor for TopHat unmapped.bam files making them useable by downstream software."
+    },
+    {
+        "uid": "github/zhouzilu/DENDRO",
+        "url": "https://github.com/zhouzilu/DENDRO",
+        "rel": "/software/repository/github/zhouzilu/DENDRO",
+        "avatar": "https://avatars.githubusercontent.com/u/26659843?v=4",
+        "description": "Genetic Heterogeneity Profiling by Single Cell RNA Sequencing "
     },
     {
         "uid": "github/Effective-Quadratures/Effective-Quadratures",
@@ -2441,6 +2504,13 @@
         "rel": "/software/repository/github/mtsch/Ripserer.jl",
         "avatar": "https://avatars0.githubusercontent.com/u/7646525?v=4",
         "description": "Ripser and Ripserer"
+    },
+    {
+        "uid": "github/richford/groupyr",
+        "url": "https://github.com/richford/groupyr",
+        "rel": "/software/repository/github/richford/groupyr",
+        "avatar": "https://avatars.githubusercontent.com/u/7978135?v=4",
+        "description": "groupyr: Sparse Group Lasso in Python"
     },
     {
         "uid": "github/kerkelae/disimpy",
@@ -2989,6 +3059,13 @@
         "description": "Tools for improving the sensitivity and specificity of genome alignments"
     },
     {
+        "uid": "github/fair-software/fairtally",
+        "url": "https://github.com/fair-software/fairtally",
+        "rel": "/software/repository/github/fair-software/fairtally",
+        "avatar": "https://avatars.githubusercontent.com/u/48952865?v=4",
+        "description": "Make a report based on howfairis results"
+    },
+    {
         "uid": "github/fair-software/howfairis",
         "url": "https://github.com/fair-software/howfairis",
         "rel": "/software/repository/github/fair-software/howfairis",
@@ -3430,6 +3507,20 @@
         "description": "MolMeDB is an open chemistry database about interactions of molecules with membranes."
     },
     {
+        "uid": "github/ClaudioZandonella/PRDA",
+        "url": "https://github.com/ClaudioZandonella/PRDA",
+        "rel": "/software/repository/github/ClaudioZandonella/PRDA",
+        "avatar": "https://avatars.githubusercontent.com/u/44664104?v=4",
+        "description": "Prospective and Retrospective Design Analysis"
+    },
+    {
+        "uid": "github/JannisHoch/copro",
+        "url": "https://github.com/JannisHoch/copro",
+        "rel": "/software/repository/github/JannisHoch/copro",
+        "avatar": "https://avatars.githubusercontent.com/u/10956703?v=4",
+        "description": "(ML) model for computing conflict risk from climate, environmental, and societal drivers."
+    },
+    {
         "uid": "github/CLARIAH/grlc",
         "url": "https://github.com/CLARIAH/grlc",
         "rel": "/software/repository/github/CLARIAH/grlc",
@@ -3563,6 +3654,13 @@
         "description": "The official repository for the AiiDA code"
     },
     {
+        "uid": "github/lzx325/DeeReCT-APA-repo",
+        "url": "https://github.com/lzx325/DeeReCT-APA-repo",
+        "rel": "/software/repository/github/lzx325/DeeReCT-APA-repo",
+        "avatar": "https://avatars.githubusercontent.com/u/18619553?v=4",
+        "description": null
+    },
+    {
         "uid": "github/HorvathLab/ReQTL",
         "url": "https://github.com/HorvathLab/ReQTL",
         "rel": "/software/repository/github/HorvathLab/ReQTL",
@@ -3605,6 +3703,13 @@
         "description": "Fast Radio Burst (FRB) Catalogue DB management"
     },
     {
+        "uid": "github/NREL/OpenOA",
+        "url": "https://github.com/NREL/OpenOA",
+        "rel": "/software/repository/github/NREL/OpenOA",
+        "avatar": "https://avatars.githubusercontent.com/u/1906800?v=4",
+        "description": "This library provides a framework for working with large timeseries data from wind plants, such as SCADA. Its development has been motivated by the WP3 Benchmarking (PRUF) project, which aims to provide a reference implementation for plant-level performance assessment."
+    },
+    {
         "uid": "github/soedinglab/hh-suite",
         "url": "https://github.com/soedinglab/hh-suite",
         "rel": "/software/repository/github/soedinglab/hh-suite",
@@ -3645,6 +3750,13 @@
         "rel": "/software/repository/github/gijut/gnucash",
         "avatar": "https://avatars2.githubusercontent.com/u/12998308?v=4",
         "description": "Public Mirror of code.gnucash.org/gnucash"
+    },
+    {
+        "uid": "github/jdber1/opendrop",
+        "url": "https://github.com/jdber1/opendrop",
+        "rel": "/software/repository/github/jdber1/opendrop",
+        "avatar": "https://avatars.githubusercontent.com/u/12245642?v=4",
+        "description": "OpenDrop pendant drop tensiometry software"
     },
     {
         "uid": "github/auranic/ClinTrajan",
