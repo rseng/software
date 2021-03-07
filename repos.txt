@@ -7,6 +7,7 @@ gitlab/vibes-developers/vibes
 gitlab/project-dare/dare-platform
 gitlab/ampere2/metalwalls
 gitlab/davidtourigny/dynamic-fba
+gitlab/vincent-sater/umigen
 gitlab/geekysquirrel/bigx
 github/twopin/CAMP
 github/kkjawz/coref-ee
@@ -76,6 +77,7 @@ github/saeyslab/nichenetr
 github/saeyslab/CytoNorm_Figures
 github/zarr-developers/zarr-python
 github/lrnv/cort
+github/lydialucchesi/Vizumap
 github/reproducible-biomedical-modeling/Biosimulations
 github/telatin/qax
 github/NCIP/visda
@@ -108,6 +110,7 @@ github/zdelrosario/py_grama
 github/JonasRieger/ldaPrototype
 github/Ramialison-Lab-ARMI/3DCardiomics
 github/giswqs/geemap
+github/giswqs/lidar
 github/bcgov/shinyssdtools
 github/snakemake/snakemake
 github/BrianAronson/birankr
@@ -139,6 +142,7 @@ github/online-behaviour/machine-learning
 github/bblodfon/emba
 github/hpcng/singularity
 github/afeinstein20/stella
+github/tool-bin/ukbcc
 github/EcoJulia/SimpleSDMLayers.jl
 github/libdynd/dynd-python
 github/bokeh/bokeh
@@ -154,6 +158,7 @@ github/marieBvr/virAnnot
 github/akcochrane/TEfits
 github/neuroanatomy/reorient
 github/matchms/matchms
+github/matchms/ms2deepscore
 github/kendomaniac/docker4seq
 github/kendomaniac/rCASC
 github/cupy/cupy
@@ -168,9 +173,11 @@ github/SchedMD/slurm
 github/atfrank/PyShifts
 github/HajkD/LTRpred
 github/timoast/signac
+github/symmy596/Polypy
 github/ClaudioZandonella/PRDA
 github/Oftatkofta/cellocity
 github/arabic-digital-humanities/adhtools
+github/pangeo-data/climpred
 github/NLESC-JCER/EigenCuda
 github/NLESC-JCER/Fortran_Davidson
 github/puregome/notebooks
@@ -179,6 +186,7 @@ github/xenon-middleware/xenon
 github/xenon-middleware/pyxenon
 github/krober10nd/SeismicMesh
 github/numpy/numpy
+github/ghislainv/forestatrisk
 github/gijut/gnucash
 github/asancpt/caffsim
 github/radifar/PyPLIF-HIPPOS
@@ -236,6 +244,7 @@ github/nicolet5/DiffCapAnalyzer
 github/medema-group/bigslice
 github/ComtekAdvancedStructures/cmstatr
 github/biocore/scikit-bio
+github/EpistasisLab/regens
 github/joglekara/VlaPy
 github/MDAnalysis/mdanalysis
 github/anmolter/XLUR
@@ -284,6 +293,7 @@ github/comprna/reorientexpress
 github/KULL-Centre/DEERpredict
 github/pydata/xarray
 github/Singh-Lab/DeMaSk
+github/Singh-Lab/uKIN
 github/linbox-team/linbox
 github/rhenanbartels/hrv
 github/sandmanns/CopyDetective
@@ -296,6 +306,7 @@ github/JuliaOpt/JuMP.jl
 github/Julian/jsonschema
 github/amrex-astro/Castro
 github/cosmo-epfl/chemiscope
+github/tzhu-bio/UMI-ATAC-seq
 github/networkx/networkx
 github/jupyter/notebook
 github/nextflow-io/nextflow
@@ -306,6 +317,7 @@ github/iomega/paired-data-form
 github/iomega/spec2vec
 github/bethgelab/foolbox
 github/dellytools/delly
+github/montilab/nf-gwas-pipeline
 github/wadpac/GGIR
 github/Dfam-consortium/RepeatModeler
 github/CrowdTruth/CrowdTruth
@@ -353,6 +365,7 @@ github/Theano/Theano
 github/LBNL-ETA/MSWH
 github/esa/pagmo2-paper
 github/htjb/maxsmooth
+github/skovaka/UNCALLED
 github/lnferris/ocean_data_tools
 github/easybuilders/easybuild
 github/NicolasHug/Surprise
@@ -500,11 +513,13 @@ github/plotly/dash
 github/cbg-ethz/V-pipe
 github/cbg-ethz/PredictHaplo
 github/21cmFAST/21cmFAST
+github/imr-framework/OCTOPUS
 github/ci-for-research/self-hosted-runners
 github/SuLab/Wikidata-phenomizer
 github/OpenWaterAnalytics/pyswmm
 github/ramadatta/CPgeneProfiler
 github/devitocodes/devito
+github/containers/podman
 github/damienmarsic/Parent-map
 github/kavonrtep/dante
 github/keurfonluu/toughio
