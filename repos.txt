@@ -28,6 +28,7 @@ github/bio-phys/BioEn
 github/tbrown122387/pf
 github/deezer/spleeter
 github/surf-eds/one-button-compute
+github/jbuisine/macop
 github/MrMinimal64/multivar_horner
 github/atomneb/AtomNeb-py
 github/eScatter/pyelsepa
@@ -49,6 +50,8 @@ github/wangjun1996/VisFeature
 github/ylab-hi/ScanITD
 github/donaldRwilliams/BGGM
 github/mpc-bioinformatics/CalibraCurve
+github/omuse-geoscience/omuse
+github/wvanzeist/riroriro
 github/MD-Studio/MDStudio
 github/MD-Studio/cerulean
 github/MD-Studio/cerise
@@ -83,6 +86,7 @@ github/telatin/qax
 github/NCIP/visda
 github/SCM-NV/qmflows-namd
 github/SCM-NV/qmflows
+github/Sydney-Informatics-Hub/OmixLitMiner
 github/stemangiola/tidyHeatmap
 github/bihealth/sodar_core
 github/curl/curl
@@ -224,6 +228,7 @@ github/JannisHoch/copro
 github/ShixiangWang/sigminer
 github/algo-cancer/CAMMiQ
 github/lkmklsmn/DrivAER
+github/jonschwenk/RivGraph
 github/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP
 github/wilsonrljr/sysidentpy
 github/ruanjue/wtdbg2
@@ -234,6 +239,7 @@ github/hemanthpruthvi/PyAstroPol
 github/nlesc/embodied-emotions-scripts
 github/nlesc/scriptcwl
 github/linqs/psl
+github/LINNAE-project/SFB-Annotator
 github/carlosborca/CrystaLattE
 github/labsyspharm/minerva-story
 github/deepskies/deeplenstronomy
@@ -276,6 +282,7 @@ github/pmkruyen/dearscholar
 github/staphopia/staphopia-paper
 github/KVSlab/turtleFSI
 github/DistrictDataLabs/yellowbrick
+github/fakedrtom/oncogemini
 github/tidyverse/glue
 github/dstansby/pfsspy
 github/KarrLab/de_sim
@@ -289,6 +296,7 @@ github/jboynyc/textnets
 github/Cantera/cantera
 github/Nico-Curti/rFBP
 github/ECSHackWeek/impedance.py
+github/cabb99/open3spn2
 github/comprna/reorientexpress
 github/KULL-Centre/DEERpredict
 github/pydata/xarray
@@ -299,6 +307,7 @@ github/rhenanbartels/hrv
 github/sandmanns/CopyDetective
 github/tariks/peakachu
 github/SwissClinicalTrialOrganisation/secuTrialR
+github/potassco/clingo
 github/refresh-bio/whisper
 github/ChengF-Lab/AOPEDF
 github/cython/cython
@@ -415,6 +424,7 @@ github/drwaseemsheikh/audiometry
 github/pmeier/pystiche
 github/rhayes777/PyAutoFit
 github/pymc-devs/pymc3
+github/radio1988/OneStopRNAseq
 github/conda/conda
 github/herrsalmi/FConverter
 github/statOmics/tradeSeqPaper
@@ -514,6 +524,7 @@ github/cbg-ethz/V-pipe
 github/cbg-ethz/PredictHaplo
 github/21cmFAST/21cmFAST
 github/imr-framework/OCTOPUS
+github/fumi-github/omicwas
 github/ci-for-research/self-hosted-runners
 github/SuLab/Wikidata-phenomizer
 github/OpenWaterAnalytics/pyswmm
@@ -547,6 +558,8 @@ github/hope-data-science/tidyfst
 github/FastMLC/fMLC
 github/IFB-ElixirFr/edam-browser
 github/shilpagarg/WHdenovo
+github/e-mental-health/data-processing
+github/e-mental-health/orange-hackathon
 github/syasini/AstroPaint
 github/rcarragh/c212
 github/conda-forge/conda-smithy
@@ -557,6 +570,7 @@ github/NCAS-CMS/cfdm
 github/jmschrei/pomegranate
 github/biboyd/SALSA
 github/eEcoLiDAR/laserchicken
+github/HUST-NingKang-Lab/ONN4MST
 github/idaholab/moose
 github/EMResearch/EvoMaster
 github/bio-tools/biotoolsSum
@@ -589,6 +603,7 @@ github/bluesky/bluesky
 github/cicirello/Chips-n-Salsa
 github/citation-file-format/cff-initializer-javascript
 github/citation-file-format/cff-converter-python
+github/shikhar249/OnionMHC
 github/chainsawriot/oolong
 github/sebhaan/geobo
 github/VincentAlcazer/StatAid
@@ -603,6 +618,7 @@ github/adbar/htmldate
 github/euroargodev/argopy
 github/pypeit/PypeIt
 github/AlgoLab/shark
+github/BDI-pathogens/OpenABM-Covid19-model-paper
 github/optuna/optuna
 github/vibbits/phyd3
 github/singularityhub/sregistry
