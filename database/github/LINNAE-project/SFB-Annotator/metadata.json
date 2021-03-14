@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/LINNAE-project/SFB-Annotator",
+    "url": "https://github.com/LINNAE-project/SFB-Annotator",
+    "data": {
+        "timestamp": "2021-03-14 00:22:46.147987",
+        "name": "SFB-Annotator",
+        "url": "https://api.github.com/repos/LINNAE-project/SFB-Annotator",
+        "full_name": "LINNAE-project/SFB-Annotator",
+        "html_url": "https://github.com/LINNAE-project/SFB-Annotator",
+        "private": false,
+        "description": "This web app is intended for demo purposes only!",
+        "created_at": "2020-05-11T12:37:46Z",
+        "updated_at": "2021-03-12T20:09:43Z",
+        "clone_url": "https://github.com/LINNAE-project/SFB-Annotator.git",
+        "homepage": "",
+        "size": 35069,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "JavaScript",
+        "open_issues_count": 19,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/LINNAE-project",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65170433?v=4",
+            "login": "LINNAE-project",
+            "type": "Organization"
+        },
+        "topics": []
+    },
+    "doi": "10.5281/zenodo.4602263"
+}
