@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/diCenzo-GC/Tn-Core-webserver",
+    "url": "https://github.com/diCenzo-GC/Tn-Core-webserver",
+    "data": {
+        "timestamp": "2021-03-21 00:23:11.386832",
+        "name": "Tn-Core-webserver",
+        "url": "https://api.github.com/repos/diCenzo-GC/Tn-Core-webserver",
+        "full_name": "diCenzo-GC/Tn-Core-webserver",
+        "html_url": "https://github.com/diCenzo-GC/Tn-Core-webserver",
+        "private": false,
+        "description": "Help files and sample data for the Tn-Core webserver. The code supporting the web server is also included.",
+        "created_at": "2019-03-07T10:20:20Z",
+        "updated_at": "2019-03-20T17:21:07Z",
+        "clone_url": "https://github.com/diCenzo-GC/Tn-Core-webserver.git",
+        "homepage": "",
+        "size": 501,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/diCenzo-GC",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32292590?v=4",
+            "login": "diCenzo-GC",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1007/978-1-0716-0822-7_15"
+}
