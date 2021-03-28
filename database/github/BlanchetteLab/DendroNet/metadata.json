@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/BlanchetteLab/DendroNet",
+    "url": "https://github.com/BlanchetteLab/DendroNet",
+    "data": {
+        "timestamp": "2021-03-28 02:28:40.435499",
+        "name": "DendroNet",
+        "url": "https://api.github.com/repos/BlanchetteLab/DendroNet",
+        "full_name": "BlanchetteLab/DendroNet",
+        "html_url": "https://github.com/BlanchetteLab/DendroNet",
+        "private": false,
+        "description": "Supervised learning on phylogeneticallydistributed data",
+        "created_at": "2020-04-22T22:36:00Z",
+        "updated_at": "2021-03-27T11:28:27Z",
+        "clone_url": "https://github.com/BlanchetteLab/DendroNet.git",
+        "homepage": null,
+        "size": 450,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "open_issues_count": 13,
+        "license": null,
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/BlanchetteLab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39597544?v=4",
+            "login": "BlanchetteLab",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1093/BIOINFORMATICS/BTAA842"
+}

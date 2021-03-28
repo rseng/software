@@ -1,0 +1,52 @@
+{
+    "parser": "github",
+    "uid": "github/google/deepvariant",
+    "url": "https://github.com/google/deepvariant",
+    "data": {
+        "timestamp": "2021-03-28 02:28:40.868874",
+        "name": "deepvariant",
+        "url": "https://api.github.com/repos/google/deepvariant",
+        "full_name": "google/deepvariant",
+        "html_url": "https://github.com/google/deepvariant",
+        "private": false,
+        "description": "DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.",
+        "created_at": "2017-11-23T01:56:22Z",
+        "updated_at": "2021-03-26T07:15:21Z",
+        "clone_url": "https://github.com/google/deepvariant.git",
+        "homepage": "",
+        "size": 177348,
+        "stargazers_count": 2227,
+        "watchers_count": 2227,
+        "language": "Python",
+        "open_issues_count": 3,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 164,
+        "owner": {
+            "html_url": "https://github.com/google",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4",
+            "login": "google",
+            "type": "Organization"
+        },
+        "topics": [
+            "tensorflow",
+            "deep-neural-network",
+            "genomics",
+            "science",
+            "dna",
+            "sequencing",
+            "genome",
+            "bioinformatics",
+            "deep-learning",
+            "ngs",
+            "deepvariant",
+            "machine-learning"
+        ]
+    },
+    "doi": "10.1093/BIOINFORMATICS/BTAA1081"
+}
