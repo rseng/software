@@ -287,6 +287,13 @@
         "description": "Cesium angular directive with ncwms integration to display netcdf datasets"
     },
     {
+        "uid": "github/eWaterCycle/ewatercycle",
+        "url": "https://github.com/eWaterCycle/ewatercycle",
+        "rel": "/software/repository/github/eWaterCycle/ewatercycle",
+        "avatar": "https://avatars.githubusercontent.com/u/12843269?v=4",
+        "description": "Python utilities for running hydrological models"
+    },
+    {
         "uid": "github/ropensci/rtweet",
         "url": "https://github.com/ropensci/rtweet",
         "rel": "/software/repository/github/ropensci/rtweet",
@@ -399,6 +406,13 @@
         "description": "Research workflows made easy, locally and in the Cloud."
     },
     {
+        "uid": "github/msalibian/RBF",
+        "url": "https://github.com/msalibian/RBF",
+        "rel": "/software/repository/github/msalibian/RBF",
+        "avatar": "https://avatars.githubusercontent.com/u/5422467?v=4",
+        "description": "A Robust backfitting algorithm"
+    },
+    {
         "uid": "github/LINNAE-project/SFB-Annotator",
         "url": "https://github.com/LINNAE-project/SFB-Annotator",
         "rel": "/software/repository/github/LINNAE-project/SFB-Annotator",
@@ -483,6 +497,13 @@
         "description": "A high performance python package for network analysis based on non canonical metrics"
     },
     {
+        "uid": "github/vbaliga/gaussplotR",
+        "url": "https://github.com/vbaliga/gaussplotR",
+        "rel": "/software/repository/github/vbaliga/gaussplotR",
+        "avatar": "https://avatars.githubusercontent.com/u/9795391?v=4",
+        "description": "\ud83d\udd14 Fit, predict, and plot 2D Gaussians in R"
+    },
+    {
         "uid": "github/jordanlab/STing",
         "url": "https://github.com/jordanlab/STing",
         "rel": "/software/repository/github/jordanlab/STing",
@@ -495,6 +516,13 @@
         "rel": "/software/repository/github/cb-geo/mpm",
         "avatar": "https://avatars2.githubusercontent.com/u/7850930?v=4",
         "description": "CB-Geo High-Performance Material Point Method"
+    },
+    {
+        "uid": "github/somefunAgba/NLSIG-COVID19Lab",
+        "url": "https://github.com/somefunAgba/NLSIG-COVID19Lab",
+        "rel": "/software/repository/github/somefunAgba/NLSIG-COVID19Lab",
+        "avatar": "https://avatars.githubusercontent.com/u/6755741?v=4",
+        "description": "A nlogistic-sigmoid playground for modelling the COVID-19 pandemic growth"
     },
     {
         "uid": "github/GooglingTheCancerGenome/sv-callers",
@@ -2968,6 +2996,13 @@
         "description": "A Dynamic Graphical User Interface package, which gives users a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner combined with diagnostics tools (with advance 1D and 2D plotting methods)."
     },
     {
+        "uid": "github/yesint/EnCurv",
+        "url": "https://github.com/yesint/EnCurv",
+        "rel": "/software/repository/github/yesint/EnCurv",
+        "avatar": "https://avatars.githubusercontent.com/u/14368585?v=4",
+        "description": "Tools for maintaining predefined membrane curvature in MD simulations"
+    },
+    {
         "uid": "github/sap218/jabberwocky",
         "url": "https://github.com/sap218/jabberwocky",
         "rel": "/software/repository/github/sap218/jabberwocky",
@@ -3078,6 +3113,13 @@
         "rel": "/software/repository/github/AlgoLab/shark",
         "avatar": "https://avatars1.githubusercontent.com/u/449800?v=4",
         "description": "Mapping-free filtering of irrelevant RNA-Seq reads"
+    },
+    {
+        "uid": "github/Narayana-Rao/SAR-tools",
+        "url": "https://github.com/Narayana-Rao/PolSAR-tools",
+        "rel": "/software/repository/github/Narayana-Rao/SAR-tools",
+        "avatar": "https://avatars.githubusercontent.com/u/50410669?v=4",
+        "description": "A QGIS  plugin to generate  polarimetric SAR descriptors."
     },
     {
         "uid": "github/3D-e-Chem/kripodb",
@@ -3400,6 +3442,13 @@
         "rel": "/software/repository/github/codidact/qpixel",
         "avatar": "https://avatars2.githubusercontent.com/u/57011216?v=4",
         "description": "Q&A-based community knowledge-sharing software"
+    },
+    {
+        "uid": "github/rinikerlab/Ensembler",
+        "url": "https://github.com/rinikerlab/Ensembler",
+        "rel": "/software/repository/github/rinikerlab/Ensembler",
+        "avatar": "https://avatars.githubusercontent.com/u/48841290?v=4",
+        "description": null
     },
     {
         "uid": "github/ArenA-Crowds/Crowds",
@@ -4109,6 +4158,13 @@
         "description": "A multi-scale, python-based library for the modelling of solar cells and semiconductor materials"
     },
     {
+        "uid": "github/gvilitechltd/LibSWIFFT",
+        "url": "https://github.com/gvilitechltd/LibSWIFFT",
+        "rel": "/software/repository/github/gvilitechltd/LibSWIFFT",
+        "avatar": "https://avatars.githubusercontent.com/u/72996922?v=4",
+        "description": "LibSWIFFT - A fast C/C++ library for the SWIFFT secure homomorphic hash function"
+    },
+    {
         "uid": "github/pyBRAvo/pyBRAvo",
         "url": "https://github.com/pyBRAvo/pyBRAvo",
         "rel": "/software/repository/github/pyBRAvo/pyBRAvo",
@@ -4268,6 +4324,13 @@
         "rel": "/software/repository/github/Cantera/cantera",
         "avatar": "https://avatars2.githubusercontent.com/u/817698?v=4",
         "description": "Chemical kinetics, thermodynamics, and transport tool suite"
+    },
+    {
+        "uid": "github/sisl/POMDPStressTesting.jl",
+        "url": "https://github.com/sisl/POMDPStressTesting.jl",
+        "rel": "/software/repository/github/sisl/POMDPStressTesting.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/6294054?v=4",
+        "description": "Adaptive stress testing of black-box systems within POMDPs.jl"
     },
     {
         "uid": "github/ci-for-research/self-hosted-runners",
@@ -4436,6 +4499,13 @@
         "rel": "/software/repository/github/UUDigitalHumanitieslab/texcavator",
         "avatar": "https://avatars3.githubusercontent.com/u/7656260?v=4",
         "description": "Text mining on the Royal Library newspaper corpus"
+    },
+    {
+        "uid": "github/nevrome/bleiglas",
+        "url": "https://github.com/nevrome/bleiglas",
+        "rel": "/software/repository/github/nevrome/bleiglas",
+        "avatar": "https://avatars.githubusercontent.com/u/10789038?v=4",
+        "description": "R Package - Spatiotemporal Data Interpolation and Visualisation based on 3D Tessellation"
     },
     {
         "uid": "github/c3s-magic/c3s-magic-wps",
