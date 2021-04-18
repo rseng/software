@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/SofieVG/FlowSOM",
+    "url": "https://github.com/SofieVG/FlowSOM",
+    "data": {
+        "timestamp": "2021-04-18 00:41:47.470056",
+        "name": "FlowSOM",
+        "url": "https://api.github.com/repos/SofieVG/FlowSOM",
+        "full_name": "SofieVG/FlowSOM",
+        "html_url": "https://github.com/SofieVG/FlowSOM",
+        "private": false,
+        "description": "Using self-organizing maps for visualization and interpretation of cytometry data",
+        "created_at": "2014-10-03T11:18:37Z",
+        "updated_at": "2021-04-16T07:55:23Z",
+        "clone_url": "https://github.com/SofieVG/FlowSOM.git",
+        "homepage": null,
+        "size": 20566,
+        "stargazers_count": 37,
+        "watchers_count": 37,
+        "language": "R",
+        "open_issues_count": 9,
+        "license": null,
+        "subscribers_count": 11,
+        "owner": {
+            "html_url": "https://github.com/SofieVG",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1912811?v=4",
+            "login": "SofieVG",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1002/cyto.a.22625"
+}

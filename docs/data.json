@@ -777,6 +777,13 @@
         "description": "Project for uploading local file structure into OMERO database"
     },
     {
+        "uid": "github/mengaldo/PySPOD",
+        "url": "https://github.com/mengaldo/PySPOD",
+        "rel": "/software/repository/github/mengaldo/PySPOD",
+        "avatar": "https://avatars.githubusercontent.com/u/8100801?v=4",
+        "description": "A Python package for spectral proper orthogonal decomposition (SPOD). "
+    },
+    {
         "uid": "github/big-data-lab-team/spot",
         "url": "https://github.com/big-data-lab-team/spot",
         "rel": "/software/repository/github/big-data-lab-team/spot",
@@ -1036,6 +1043,13 @@
         "description": "Python tools for geographic data"
     },
     {
+        "uid": "github/linksmart/thing-directory",
+        "url": "https://github.com/linksmart/thing-directory",
+        "rel": "/software/repository/github/linksmart/thing-directory",
+        "avatar": "https://avatars.githubusercontent.com/u/41904448?v=4",
+        "description": "Directory of Web of Things (WoT) Thing Descriptions"
+    },
+    {
         "uid": "github/MikeHeiber/Excimontec",
         "url": "https://github.com/MikeHeiber/Excimontec",
         "rel": "/software/repository/github/MikeHeiber/Excimontec",
@@ -1286,6 +1300,13 @@
         "rel": "/software/repository/github/AlexMikes/AutoFunc",
         "avatar": "https://avatars.githubusercontent.com/u/24322176?v=4",
         "description": "Data Mining for Automated Functional Representations"
+    },
+    {
+        "uid": "github/SofieVG/FlowSOM",
+        "url": "https://github.com/SofieVG/FlowSOM",
+        "rel": "/software/repository/github/SofieVG/FlowSOM",
+        "avatar": "https://avatars.githubusercontent.com/u/1912811?v=4",
+        "description": "Using self-organizing maps for visualization and interpretation of cytometry data"
     },
     {
         "uid": "github/algo-cancer/CAMMiQ",
@@ -1559,6 +1580,13 @@
         "rel": "/software/repository/github/ImproPhoto/pymicmac",
         "avatar": "https://avatars3.githubusercontent.com/u/19147158?v=4",
         "description": "Python tools for the MicMac FOSS photogrammetric \"suite\""
+    },
+    {
+        "uid": "github/dgrun/FateID",
+        "url": "https://github.com/dgrun/FateID",
+        "rel": "/software/repository/github/dgrun/FateID",
+        "avatar": "https://avatars.githubusercontent.com/u/11157236?v=4",
+        "description": "R package for the inference of cell fate bias from single-cell RNA-seq data."
     },
     {
         "uid": "github/optuna/optuna",
@@ -2301,6 +2329,13 @@
         "rel": "/software/repository/github/TomKellyGenetics/graphsim",
         "avatar": "https://avatars1.githubusercontent.com/u/5493325?v=4",
         "description": "R package: Simulate Expression data from igraph network using mvtnorm (multivariate normal)."
+    },
+    {
+        "uid": "github/niosh-mining/obsplus",
+        "url": "https://github.com/niosh-mining/obsplus",
+        "rel": "/software/repository/github/niosh-mining/obsplus",
+        "avatar": "https://avatars.githubusercontent.com/u/32000029?v=4",
+        "description": "A Pandas-Centric ObsPy Expansion Pack"
     },
     {
         "uid": "github/insilico/cncv",
@@ -3381,6 +3416,13 @@
         "description": null
     },
     {
+        "uid": "github/AstraZeneca/kallisto",
+        "url": "https://github.com/AstraZeneca/kallisto",
+        "rel": "/software/repository/github/AstraZeneca/kallisto",
+        "avatar": "https://avatars.githubusercontent.com/u/16338928?v=4",
+        "description": "Efficiently calculate 3D-atomic/molecular features for quantitative structure-activity relationship approaches."
+    },
+    {
         "uid": "github/eEcoLiDAR/laserchicken",
         "url": "https://github.com/eEcoLiDAR/laserchicken",
         "rel": "/software/repository/github/eEcoLiDAR/laserchicken",
@@ -3400,6 +3442,13 @@
         "rel": "/software/repository/github/nlesc-ave/ave-rest-service",
         "avatar": "https://avatars0.githubusercontent.com/u/15281028?v=4",
         "description": "visualize (clustered) single-nucleotide variants across genomes"
+    },
+    {
+        "uid": "github/kuadrat/data_slicer",
+        "url": "https://github.com/kuadrat/data-slicer",
+        "rel": "/software/repository/github/kuadrat/data_slicer",
+        "avatar": "https://avatars.githubusercontent.com/u/29949116?v=4",
+        "description": null
     },
     {
         "uid": "github/networkx/networkx",
@@ -3708,6 +3757,13 @@
         "rel": "/software/repository/github/tobias-dv-lnu/s4rdm3x",
         "avatar": "https://avatars.githubusercontent.com/u/3469312?v=4",
         "description": null
+    },
+    {
+        "uid": "github/robashaw/libecpint",
+        "url": "https://github.com/robashaw/libecpint",
+        "rel": "/software/repository/github/robashaw/libecpint",
+        "avatar": "https://avatars.githubusercontent.com/u/24434359?v=4",
+        "description": "A C++ library for the efficient evaluation of integrals over effective core potentials."
     },
     {
         "uid": "github/cas-bioinf/rboAnalyzer",
@@ -4144,6 +4200,13 @@
         "description": "V-pipe is a pipeline designed for analysing NGS data of short viral genomes"
     },
     {
+        "uid": "github/CTU-Bern/presize",
+        "url": "https://github.com/CTU-Bern/presize",
+        "rel": "/software/repository/github/CTU-Bern/presize",
+        "avatar": "https://avatars.githubusercontent.com/u/45794307?v=4",
+        "description": "Precision Based Sample Size Calculation"
+    },
+    {
         "uid": "github/bokeh/bokeh",
         "url": "https://github.com/bokeh/bokeh",
         "rel": "/software/repository/github/bokeh/bokeh",
@@ -4541,6 +4604,13 @@
         "rel": "/software/repository/github/DorianDepriester/mtex2Gmsh",
         "avatar": "https://avatars3.githubusercontent.com/u/7643875?v=4",
         "description": "Matlab toolbox for generating 2D meshes from EBSD data"
+    },
+    {
+        "uid": "github/lskatz/SneakerNet",
+        "url": "https://github.com/lskatz/SneakerNet",
+        "rel": "/software/repository/github/lskatz/SneakerNet",
+        "avatar": "https://avatars.githubusercontent.com/u/14798?v=4",
+        "description": ":feet: QA/QC pipeline for a MiSeq/HiSeq/Ion Torrent/assembly-only run"
     },
     {
         "uid": "github/meta-logic/sequoia",
