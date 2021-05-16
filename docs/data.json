@@ -63,6 +63,13 @@
         "description": "[FHI-vibes](https://vibes-developers.gitlab.io/vibes/): Vibrational simulations with python powered by ASE and FHI-aims."
     },
     {
+        "uid": "gitlab/fduchate/predihood",
+        "url": "https://gitlab.com/fduchate/predihood",
+        "rel": "/software/repository/gitlab/fduchate/predihood",
+        "avatar": "https://gitlab.comNone",
+        "description": ""
+    },
+    {
         "uid": "gitlab/emd-dev/emd",
         "url": "https://gitlab.com/emd-dev/emd",
         "rel": "/software/repository/gitlab/emd-dev/emd",
@@ -2100,6 +2107,13 @@
         "description": "Deep learning similarity measure for comparing MS/MS spectra with respect to their chemical similarity"
     },
     {
+        "uid": "github/cdslaborg/paramonte",
+        "url": "https://github.com/cdslaborg/paramonte",
+        "rel": "/software/repository/github/cdslaborg/paramonte",
+        "avatar": "https://avatars.githubusercontent.com/u/45322013?v=4",
+        "description": "ParaMonte: Plain Powerful Parallel Monte Carlo and MCMC Library for Python, MATLAB, Fortran, C++, C."
+    },
+    {
         "uid": "github/codidact/qpixel",
         "url": "https://github.com/codidact/qpixel",
         "rel": "/software/repository/github/codidact/qpixel",
@@ -2646,6 +2660,13 @@
         "description": "An R package for preparing and analysing pupillometry data"
     },
     {
+        "uid": "github/SteveMacenski/slam_toolbox",
+        "url": "https://github.com/SteveMacenski/slam_toolbox",
+        "rel": "/software/repository/github/SteveMacenski/slam_toolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/14944147?v=4",
+        "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS"
+    },
+    {
         "uid": "github/jonschwenk/RivGraph",
         "url": "https://github.com/jonschwenk/RivGraph",
         "rel": "/software/repository/github/jonschwenk/RivGraph",
@@ -3008,6 +3029,13 @@
         "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook"
+    },
+    {
+        "uid": "github/vprusso/toqito",
+        "url": "https://github.com/vprusso/toqito",
+        "rel": "/software/repository/github/vprusso/toqito",
+        "avatar": "https://avatars.githubusercontent.com/u/1562214?v=4",
+        "description": "|toqito> (Theory of Quantum Information Toolkit) in Python :snake:"
     },
     {
         "uid": "github/Ramialison-Lab-ARMI/3DCardiomics",
@@ -3647,6 +3675,13 @@
         "description": "Data Mining for Automated Functional Representations"
     },
     {
+        "uid": "github/SchlossLab/mikropml",
+        "url": "https://github.com/SchlossLab/mikropml",
+        "rel": "/software/repository/github/SchlossLab/mikropml",
+        "avatar": "https://avatars.githubusercontent.com/u/7229330?v=4",
+        "description": "User-Friendly R Package for Supervised Machine Learning Pipelines"
+    },
+    {
         "uid": "github/auranic/ClinTrajan",
         "url": "https://github.com/auranic/ClinTrajan",
         "rel": "/software/repository/github/auranic/ClinTrajan",
@@ -4172,6 +4207,13 @@
         "description": "c-lasso: a Python package for constrained sparse regression and classification"
     },
     {
+        "uid": "github/kkrismer/scansite4",
+        "url": "https://github.com/kkrismer/scansite-tools",
+        "rel": "/software/repository/github/kkrismer/scansite4",
+        "avatar": "https://avatars.githubusercontent.com/u/9969612?v=4",
+        "description": "Scansite searches for motifs within proteins that are likely to be phosphorylated by specific protein kinases or bind to domains such as SH2 domains, 14-3-3 domains or PDZ domains."
+    },
+    {
         "uid": "github/ablab/TandemTools",
         "url": "https://github.com/ablab/TandemTools",
         "rel": "/software/repository/github/ablab/TandemTools",
@@ -4487,6 +4529,13 @@
         "description": "The most widely used Python to C compiler"
     },
     {
+        "uid": "github/icecube/FIRESONG",
+        "url": "https://github.com/icecube/FIRESONG",
+        "rel": "/software/repository/github/icecube/FIRESONG",
+        "avatar": "https://avatars.githubusercontent.com/u/74313698?v=4",
+        "description": "FIRst Extragalactic Simulation Of Neutrino and Gamma-ray"
+    },
+    {
         "uid": "github/VU-BEAM-Lab/GENRE",
         "url": "https://github.com/VU-BEAM-Lab/GENRE",
         "rel": "/software/repository/github/VU-BEAM-Lab/GENRE",
@@ -4632,6 +4681,13 @@
         "rel": "/software/repository/github/swiftsim/swiftsimio",
         "avatar": "https://avatars1.githubusercontent.com/u/37541309?v=4",
         "description": "Python library for reading SWIFT data. Uses unyt and h5py."
+    },
+    {
+        "uid": "github/BioMeCIS-Lab/OpenOmics",
+        "url": "https://github.com/BioMeCIS-Lab/OpenOmics",
+        "rel": "/software/repository/github/BioMeCIS-Lab/OpenOmics",
+        "avatar": "https://avatars.githubusercontent.com/u/55261376?v=4",
+        "description": "A bioinformatics API and web-app to integrate multi-omics datasets & interface with public databases."
     },
     {
         "uid": "github/hillerlab/GenomeAlignmentTools",
