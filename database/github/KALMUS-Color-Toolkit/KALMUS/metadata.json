@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/KALMUS-Color-Toolkit/KALMUS",
+    "url": "https://github.com/KALMUS-Color-Toolkit/KALMUS",
+    "data": {
+        "timestamp": "2021-05-23 00:41:18.812545",
+        "name": "KALMUS",
+        "url": "https://api.github.com/repos/KALMUS-Color-Toolkit/KALMUS",
+        "full_name": "KALMUS-Color-Toolkit/KALMUS",
+        "html_url": "https://github.com/KALMUS-Color-Toolkit/KALMUS",
+        "private": false,
+        "description": "KALMUS Color Toolkit for color analysis and visualization in film studies.",
+        "created_at": "2020-08-05T00:58:21Z",
+        "updated_at": "2021-05-20T15:18:18Z",
+        "clone_url": "https://github.com/KALMUS-Color-Toolkit/KALMUS.git",
+        "homepage": "https://kalmus-color-toolkit.github.io/KALMUS/",
+        "size": 152811,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/KALMUS-Color-Toolkit",
+            "avatar_url": "https://avatars.githubusercontent.com/u/77697488?v=4",
+            "login": "KALMUS-Color-Toolkit",
+            "type": "Organization"
+        },
+        "topics": [
+            "image-analysis",
+            "video-processing",
+            "digital-humanities",
+            "python3",
+            "pypi-package"
+        ]
+    },
+    "doi": "https://doi.org/10.5281/zenodo.4765745"
+}
