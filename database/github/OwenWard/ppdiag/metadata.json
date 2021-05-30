@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/OwenWard/ppdiag",
+    "url": "https://github.com/OwenWard/ppdiag",
+    "data": {
+        "timestamp": "2021-05-30 01:11:48.042534",
+        "name": "ppdiag",
+        "url": "https://api.github.com/repos/OwenWard/ppdiag",
+        "full_name": "OwenWard/ppdiag",
+        "html_url": "https://github.com/OwenWard/ppdiag",
+        "private": false,
+        "description": null,
+        "created_at": "2020-05-30T13:44:52Z",
+        "updated_at": "2021-05-19T12:48:44Z",
+        "clone_url": "https://github.com/OwenWard/ppdiag.git",
+        "homepage": "https://owenward.github.io/ppdiag",
+        "size": 8358,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/OwenWard",
+            "avatar_url": "https://avatars.githubusercontent.com/u/33092609?v=4",
+            "login": "OwenWard",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "https://doi.org/10.5281/zenodo.4774232"
+}

@@ -322,6 +322,13 @@
         "description": "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation."
     },
     {
+        "uid": "github/merenlab/anvio",
+        "url": "https://github.com/merenlab/anvio",
+        "rel": "/software/repository/github/merenlab/anvio",
+        "avatar": "https://avatars.githubusercontent.com/u/22106511?v=4",
+        "description": "An analysis and visualization platform for 'omics data"
+    },
+    {
         "uid": "github/twinl/website",
         "url": "https://github.com/twinl/website",
         "rel": "/software/repository/github/twinl/website",
@@ -523,6 +530,13 @@
         "rel": "/software/repository/github/KarrLab/de_sim",
         "avatar": "https://avatars3.githubusercontent.com/u/13785824?v=4",
         "description": "Python-based object-oriented discrete-event simulation tool for complex, data-driven modeling"
+    },
+    {
+        "uid": "github/VNNikolaidis/nnlib2Rcpp",
+        "url": "https://github.com/VNNikolaidis/nnlib2Rcpp",
+        "rel": "/software/repository/github/VNNikolaidis/nnlib2Rcpp",
+        "avatar": "https://avatars.githubusercontent.com/u/39312360?v=4",
+        "description": "An R package for Neural Nets created using nnlib2"
     },
     {
         "uid": "github/NKI-CCB/PRECISE",
@@ -824,6 +838,13 @@
         "rel": "/software/repository/github/BDI-pathogens/OpenABM-Covid19-model-paper",
         "avatar": "https://avatars.githubusercontent.com/u/16707812?v=4",
         "description": "Figures for the paper describing the OpenABM-Covid19 model"
+    },
+    {
+        "uid": "github/ComparativeGenomicsToolkit/cactus",
+        "url": "https://github.com/ComparativeGenomicsToolkit/cactus",
+        "rel": "/software/repository/github/ComparativeGenomicsToolkit/cactus",
+        "avatar": "https://avatars.githubusercontent.com/u/22846829?v=4",
+        "description": "Official home of genome aligner based upon notion of Cactus graphs"
     },
     {
         "uid": "github/twosixlabs/magicwand-datatool",
@@ -1160,6 +1181,13 @@
         "rel": "/software/repository/github/bio-tools/biotoolsSum",
         "avatar": "https://avatars3.githubusercontent.com/u/15219975?v=4",
         "description": "bio.tools interface with report generation features"
+    },
+    {
+        "uid": "github/lukapecnik/NiaAML",
+        "url": "https://github.com/lukapecnik/NiaAML",
+        "rel": "/software/repository/github/lukapecnik/NiaAML",
+        "avatar": "https://avatars.githubusercontent.com/u/23029992?v=4",
+        "description": "Python automated machine learning framework."
     },
     {
         "uid": "github/recipy/recipy",
@@ -2625,6 +2653,13 @@
         "description": "Text analysis with networks."
     },
     {
+        "uid": "github/dutilh/CAT",
+        "url": "https://github.com/dutilh/CAT",
+        "rel": "/software/repository/github/dutilh/CAT",
+        "avatar": "https://avatars.githubusercontent.com/u/15012855?v=4",
+        "description": "CAT/BAT: tool for taxonomic classification of contigs and metagenome-assembled genomes (MAGs)"
+    },
+    {
         "uid": "github/vsoch/gridtest",
         "url": "https://github.com/vsoch/gridtest",
         "rel": "/software/repository/github/vsoch/gridtest",
@@ -2714,6 +2749,13 @@
         "rel": "/software/repository/github/tariks/peakachu",
         "avatar": "https://avatars3.githubusercontent.com/u/3433086?v=4",
         "description": "Genome-wide contact analysis using sklearn"
+    },
+    {
+        "uid": "github/yaml2sbml-dev/yaml2sbml",
+        "url": "https://github.com/yaml2sbml-dev/yaml2sbml",
+        "rel": "/software/repository/github/yaml2sbml-dev/yaml2sbml",
+        "avatar": "https://avatars.githubusercontent.com/u/69810793?v=4",
+        "description": "Little tool to convert an ODE model specified in the YAML format to SBML."
     },
     {
         "uid": "github/syasini/AstroPaint",
@@ -3542,6 +3584,13 @@
         "description": "Interactive Data Visualization in the browser, from  Python"
     },
     {
+        "uid": "github/FAIR-data-for-CAPACITY/FHIR-to-CAPACITY",
+        "url": "https://github.com/FAIR-data-for-CAPACITY/FHIR-to-CAPACITY",
+        "rel": "/software/repository/github/FAIR-data-for-CAPACITY/FHIR-to-CAPACITY",
+        "avatar": "https://avatars.githubusercontent.com/u/67900459?v=4",
+        "description": null
+    },
+    {
         "uid": "github/cosmo-epfl/chemiscope",
         "url": "https://github.com/cosmo-epfl/chemiscope",
         "rel": "/software/repository/github/cosmo-epfl/chemiscope",
@@ -3617,6 +3666,13 @@
         "rel": "/software/repository/github/SCM-NV/qmflows",
         "avatar": "https://avatars2.githubusercontent.com/u/17591901?v=4",
         "description": "This library tackles the construction and efficient execution of computational chemistry workflows"
+    },
+    {
+        "uid": "github/SCM-NV/pyZacros",
+        "url": "https://github.com/SCM-NV/pyZacros",
+        "rel": "/software/repository/github/SCM-NV/pyZacros",
+        "avatar": "https://avatars.githubusercontent.com/u/17591901?v=4",
+        "description": "Python library to handle KMC codes."
     },
     {
         "uid": "github/SCM-NV/qmflows-namd",
@@ -3773,6 +3829,13 @@
         "description": "Functions to compute omnidirectional landscape connectivity using circuit theory and the Omniscape algorithm."
     },
     {
+        "uid": "github/NLeSC-GO-common-infrastructure/marzipan",
+        "url": "https://github.com/NLeSC-GO-common-infrastructure/marzipan",
+        "rel": "/software/repository/github/NLeSC-GO-common-infrastructure/marzipan",
+        "avatar": "https://avatars.githubusercontent.com/u/71445287?v=4",
+        "description": "Automated OpenNebula instantiation and provisioning (e.g  SURF HPC)"
+    },
+    {
         "uid": "github/edwardoughton/itmlogic",
         "url": "https://github.com/edwardoughton/itmlogic",
         "rel": "/software/repository/github/edwardoughton/itmlogic",
@@ -3862,6 +3925,13 @@
         "rel": "/software/repository/github/KALMUS-Color-Toolkit/KALMUS",
         "avatar": "https://avatars.githubusercontent.com/u/77697488?v=4",
         "description": "KALMUS Color Toolkit for color analysis and visualization in film studies."
+    },
+    {
+        "uid": "github/OwenWard/ppdiag",
+        "url": "https://github.com/OwenWard/ppdiag",
+        "rel": "/software/repository/github/OwenWard/ppdiag",
+        "avatar": "https://avatars.githubusercontent.com/u/33092609?v=4",
+        "description": null
     },
     {
         "uid": "github/cdslaborg/paramonte",
@@ -4023,6 +4093,13 @@
         "rel": "/software/repository/github/sandmanns/CopyDetective",
         "avatar": "https://avatars2.githubusercontent.com/u/30867840?v=4",
         "description": "Detection threshold aware CNV Calling in NGS data"
+    },
+    {
+        "uid": "github/beagle-dev/beagle-lib",
+        "url": "https://github.com/beagle-dev/beagle-lib",
+        "rel": "/software/repository/github/beagle-dev/beagle-lib",
+        "avatar": "https://avatars.githubusercontent.com/u/780253?v=4",
+        "description": "general purpose library for evaluating the likelihood of sequence evolution on trees"
     },
     {
         "uid": "github/entangled/entangled",
@@ -4368,6 +4445,13 @@
         "description": null
     },
     {
+        "uid": "github/saezlab/PHONEMeS",
+        "url": "https://github.com/saezlab/PHONEMeS",
+        "rel": "/software/repository/github/saezlab/PHONEMeS",
+        "avatar": "https://avatars.githubusercontent.com/u/9979042?v=4",
+        "description": " PHONEMeS (PHOsphorylation NEtworks for Mass Spectrometry) is an R package   to model signalling networks based on untargeted phosphoproteomics"
+    },
+    {
         "uid": "github/mtsch/Ripserer.jl",
         "url": "https://github.com/mtsch/Ripserer.jl",
         "rel": "/software/repository/github/mtsch/Ripserer.jl",
@@ -4564,6 +4648,13 @@
         "description": "A modular JavaScript viewer for mass spectrometry data"
     },
     {
+        "uid": "github/smith-chem-wisc/ProteaseGuru",
+        "url": "https://github.com/smith-chem-wisc/ProteaseGuru",
+        "rel": "/software/repository/github/smith-chem-wisc/ProteaseGuru",
+        "avatar": "https://avatars.githubusercontent.com/u/15989786?v=4",
+        "description": null
+    },
+    {
         "uid": "github/mjoppich/bioGUItools",
         "url": "https://github.com/mjoppich/bioGUItools",
         "rel": "/software/repository/github/mjoppich/bioGUItools",
@@ -4737,6 +4828,13 @@
         "rel": "/software/repository/github/IndrajeetPatil/statsExpressions",
         "avatar": "https://avatars.githubusercontent.com/u/11330453?v=4",
         "description": "Expressions and dataframes with statistical details \ud83d\udcc9 \ud83d\udcdc\ud83d\udd23\u2705"
+    },
+    {
+        "uid": "github/IndrajeetPatil/ggstatsplot",
+        "url": "https://github.com/IndrajeetPatil/ggstatsplot",
+        "rel": "/software/repository/github/IndrajeetPatil/ggstatsplot",
+        "avatar": "https://avatars.githubusercontent.com/u/11330453?v=4",
+        "description": "Enhancing `ggplot2` plots with statistical analysis \ud83d\udcca\ud83c\udfa8\ud83d\udce3"
     },
     {
         "uid": "github/bempp/bempp-cl",
@@ -4968,6 +5066,13 @@
         "rel": "/software/repository/github/joglekara/VlaPy",
         "avatar": "https://avatars1.githubusercontent.com/u/13438206?v=4",
         "description": "1D-1V Vlasov-Poisson(-Fokker-Planck) Plasma Physics Simulation Tool"
+    },
+    {
+        "uid": "github/hall-lab/bamkit",
+        "url": "https://github.com/hall-lab/bamkit",
+        "rel": "/software/repository/github/hall-lab/bamkit",
+        "avatar": "https://avatars.githubusercontent.com/u/7242168?v=4",
+        "description": "Tools for common BAM file manipulations"
     },
     {
         "uid": "github/akcochrane/TEfits",
