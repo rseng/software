@@ -644,6 +644,13 @@
         "description": "Offload Eigen operations to GPUs"
     },
     {
+        "uid": "github/exafmm/exafmm-t",
+        "url": "https://github.com/exafmm/exafmm-t",
+        "rel": "/software/repository/github/exafmm/exafmm-t",
+        "avatar": "https://avatars.githubusercontent.com/u/12694304?v=4",
+        "description": "A kernel-independent fast multipole method library with Python interface."
+    },
+    {
         "uid": "github/ci-for-science/self-hosted-runners",
         "url": "https://github.com/ci-for-research/self-hosted-runners",
         "rel": "/software/repository/github/ci-for-science/self-hosted-runners",
@@ -698,6 +705,13 @@
         "rel": "/software/repository/github/vibbits/phyd3",
         "avatar": "https://avatars1.githubusercontent.com/u/22908438?v=4",
         "description": "Phylogenetic tree viewer based on D3.js"
+    },
+    {
+        "uid": "github/JungleComputing/rocket",
+        "url": "https://github.com/JungleComputing/rocket",
+        "rel": "/software/repository/github/JungleComputing/rocket",
+        "avatar": "https://avatars.githubusercontent.com/u/34010042?v=4",
+        "description": "Rocket is a Constellation-based runtime system for efficient execution of all-pair compute problem on distributed heterogeneous platforms"
     },
     {
         "uid": "github/RaRe-Technologies/gensim",
@@ -866,6 +880,13 @@
         "rel": "/software/repository/github/JLiangLab/TransVW",
         "avatar": "https://avatars.githubusercontent.com/u/31901902?v=4",
         "description": "Official Keras & PyTorch Implementation and Pre-trained Models for TransVW"
+    },
+    {
+        "uid": "github/abs-tudelft/variant-calling-at-scale",
+        "url": "https://github.com/abs-tudelft/variant-calling-at-scale",
+        "rel": "/software/repository/github/abs-tudelft/variant-calling-at-scale",
+        "avatar": "https://avatars.githubusercontent.com/u/49724060?v=4",
+        "description": "Scalable and Efficient Variant Calling on Apache Spark cluster"
     },
     {
         "uid": "github/ArenA-Crowds/Crowds",
@@ -2520,6 +2541,13 @@
         "description": ":package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/"
     },
     {
+        "uid": "github/ropensci/dataaimsr",
+        "url": "https://github.com/ropensci/dataaimsr",
+        "rel": "/software/repository/github/ropensci/dataaimsr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Australian Institute of Marine Science (AIMS) Data Platform API Client which provides easy access to AIMS Data Platform scientific data and information."
+    },
+    {
         "uid": "github/ropensci/SymbiotaR2",
         "url": "https://github.com/ropensci/SymbiotaR2",
         "rel": "/software/repository/github/ropensci/SymbiotaR2",
@@ -2765,6 +2793,13 @@
         "description": "A python package for creating mock maps of astrophysical signals from a halo catalog"
     },
     {
+        "uid": "github/andreasmang/claire",
+        "url": "https://github.com/andreasmang/claire",
+        "rel": "/software/repository/github/andreasmang/claire",
+        "avatar": "https://avatars.githubusercontent.com/u/13557296?v=4",
+        "description": "Constrained Large Deformation Diffeomorphic Image Registration (CLAIRE)"
+    },
+    {
         "uid": "github/cas-bioinf/rboAnalyzer",
         "url": "https://github.com/cas-bioinf/rboAnalyzer",
         "rel": "/software/repository/github/cas-bioinf/rboAnalyzer",
@@ -2784,6 +2819,13 @@
         "rel": "/software/repository/github/pysal/pysal",
         "avatar": "https://avatars1.githubusercontent.com/u/3769919?v=4",
         "description": "PySAL: Python Spatial Analysis Library Meta-Package"
+    },
+    {
+        "uid": "github/pysal/spaghetti",
+        "url": "https://github.com/pysal/spaghetti",
+        "rel": "/software/repository/github/pysal/spaghetti",
+        "avatar": "https://avatars.githubusercontent.com/u/3769919?v=4",
+        "description": "SPAtial GrapHs: nETworks, Topology, & Inference"
     },
     {
         "uid": "github/biocore/scikit-bio",
@@ -3017,6 +3059,13 @@
         "description": "Replicated Focusing Belief Propagation algorithm"
     },
     {
+        "uid": "github/0xCoto/Virgo",
+        "url": "https://github.com/0xCoto/Virgo",
+        "rel": "/software/repository/github/0xCoto/Virgo",
+        "avatar": "https://avatars.githubusercontent.com/u/25392776?v=4",
+        "description": "\ud83d\udce1 Virgo: A Versatile Spectrometer for Radio Astronomy"
+    },
+    {
         "uid": "github/nicolet5/DiffCapAnalyzer",
         "url": "https://github.com/nicolet5/DiffCapAnalyzer",
         "rel": "/software/repository/github/nicolet5/DiffCapAnalyzer",
@@ -3078,6 +3127,13 @@
         "rel": "/software/repository/github/algo-cancer/CAMMiQ",
         "avatar": "https://avatars.githubusercontent.com/u/42399598?v=4",
         "description": "Metagenomics microbial abundance quantification"
+    },
+    {
+        "uid": "github/PacificBiosciences/GenomicConsensus",
+        "url": "https://github.com/PacificBiosciences/GenomicConsensus",
+        "rel": "/software/repository/github/PacificBiosciences/GenomicConsensus",
+        "avatar": "https://avatars.githubusercontent.com/u/999745?v=4",
+        "description": "PacBio\u00ae variant and consensus caller"
     },
     {
         "uid": "github/ewatercycle/era5cli",
@@ -3435,6 +3491,13 @@
         "rel": "/software/repository/github/spyder-ide/spyder",
         "avatar": "https://avatars1.githubusercontent.com/u/1284937?v=4",
         "description": "Official repository for Spyder - The Scientific Python Development Environment"
+    },
+    {
+        "uid": "github/nextgenusfs/funannotate",
+        "url": "https://github.com/nextgenusfs/funannotate",
+        "rel": "/software/repository/github/nextgenusfs/funannotate",
+        "avatar": "https://avatars.githubusercontent.com/u/6164308?v=4",
+        "description": "Eukaryotic Genome Annotation Pipeline"
     },
     {
         "uid": "github/marieBvr/virAnnot",
@@ -3927,6 +3990,13 @@
         "description": "KALMUS Color Toolkit for color analysis and visualization in film studies."
     },
     {
+        "uid": "github/netsiphd/netrd",
+        "url": "https://github.com/netsiphd/netrd",
+        "rel": "/software/repository/github/netsiphd/netrd",
+        "avatar": "https://avatars.githubusercontent.com/u/46543375?v=4",
+        "description": "A library for network {reconstruction, distances, dynamics}"
+    },
+    {
         "uid": "github/OwenWard/ppdiag",
         "url": "https://github.com/OwenWard/ppdiag",
         "rel": "/software/repository/github/OwenWard/ppdiag",
@@ -3974,6 +4044,13 @@
         "rel": "/software/repository/github/easybuilders/easybuild",
         "avatar": "https://avatars1.githubusercontent.com/u/29568382?v=4",
         "description": "EasyBuild - building software with ease"
+    },
+    {
+        "uid": "github/davek44/Glimmer-MG",
+        "url": "https://github.com/davek44/Glimmer-MG",
+        "rel": "/software/repository/github/davek44/Glimmer-MG",
+        "avatar": "https://avatars.githubusercontent.com/u/172688?v=4",
+        "description": "Gene prediction in metagenomic sequences using Glimmer augmented by phylogenetic classification and clustering"
     },
     {
         "uid": "github/rgerum/pylustrator",
@@ -4205,6 +4282,13 @@
         "rel": "/software/repository/github/InsightSoftwareConsortium/ITK",
         "avatar": "https://avatars2.githubusercontent.com/u/319479?v=4",
         "description": "Insight Toolkit (ITK) -- Official Repository"
+    },
+    {
+        "uid": "github/metageni/FOCUS",
+        "url": "https://github.com/metageni/FOCUS",
+        "rel": "/software/repository/github/metageni/FOCUS",
+        "avatar": "https://avatars.githubusercontent.com/u/614762?v=4",
+        "description": "FOCUS: An Agile Profiler for Metagenomic Data"
     },
     {
         "uid": "github/nedRad88/SCALAR",
