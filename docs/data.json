@@ -280,6 +280,13 @@
         "description": "HIPPOS Is PyPLIF On Steroids. A Molecular Interaction Fingerprinting Tool for Docking Results of Autodock Vina and PLANTS"
     },
     {
+        "uid": "github/shihyuntang/igrins_rv",
+        "url": "https://github.com/shihyuntang/igrins_rv",
+        "rel": "/software/repository/github/shihyuntang/igrins_rv",
+        "avatar": "https://avatars.githubusercontent.com/u/26864783?v=4",
+        "description": "Welcome to IGRINS RV, a open source pipeline for extracting radial velocity (RV) for the Immersion GRating INfrared Spectrometer (IGRINS) instrument. Please contact asa.stahl@rice.edu or sytang@lowell.edu for more detail."
+    },
+    {
         "uid": "github/KVSlab/turtleFSI",
         "url": "https://github.com/KVSlab/turtleFSI",
         "rel": "/software/repository/github/KVSlab/turtleFSI",
@@ -1568,6 +1575,13 @@
         "description": "Detection of Epilepsy from EEG data (14 channel x 5 minutes)"
     },
     {
+        "uid": "github/damcb/tyssue",
+        "url": "https://github.com/DamCB/tyssue",
+        "rel": "/software/repository/github/damcb/tyssue",
+        "avatar": "https://avatars.githubusercontent.com/u/7861101?v=4",
+        "description": "An epithelium simulation library"
+    },
+    {
         "uid": "github/bblodfon/emba",
         "url": "https://github.com/bblodfon/emba",
         "rel": "/software/repository/github/bblodfon/emba",
@@ -2569,6 +2583,13 @@
         "description": null
     },
     {
+        "uid": "github/fitbenchmarking/fitbenchmarking",
+        "url": "https://github.com/fitbenchmarking/fitbenchmarking",
+        "rel": "/software/repository/github/fitbenchmarking/fitbenchmarking",
+        "avatar": "https://avatars.githubusercontent.com/u/49585251?v=4",
+        "description": "Tool for comparing the run time and accuracy of minimizers on fit benchmarking problems"
+    },
+    {
         "uid": "github/icecube/FIRESONG",
         "url": "https://github.com/icecube/FIRESONG",
         "rel": "/software/repository/github/icecube/FIRESONG",
@@ -2777,6 +2798,13 @@
         "rel": "/software/repository/github/tariks/peakachu",
         "avatar": "https://avatars3.githubusercontent.com/u/3433086?v=4",
         "description": "Genome-wide contact analysis using sklearn"
+    },
+    {
+        "uid": "github/mjacob1002/Eir",
+        "url": "https://github.com/mjacob1002/Eir",
+        "rel": "/software/repository/github/mjacob1002/Eir",
+        "avatar": "https://avatars.githubusercontent.com/u/63362973?v=4",
+        "description": "Eir is a package that helps researchers simulate the spread of epidemics, mainly focusing on discrete-time Markovian spatial models. "
     },
     {
         "uid": "github/yaml2sbml-dev/yaml2sbml",
@@ -3015,6 +3043,13 @@
         "rel": "/software/repository/github/matplotlib/matplotlib",
         "avatar": "https://avatars0.githubusercontent.com/u/215947?v=4",
         "description": "matplotlib: plotting with Python"
+    },
+    {
+        "uid": "github/hansenjohnson/WhaleMap",
+        "url": "https://github.com/hansenjohnson/WhaleMap",
+        "rel": "/software/repository/github/hansenjohnson/WhaleMap",
+        "avatar": "https://avatars.githubusercontent.com/u/24778637?v=4",
+        "description": "Collate and visualize whale survey results in the NW Atlantic"
     },
     {
         "uid": "github/Computational-NeuroGenetics/deMeta-beta",
@@ -4368,6 +4403,13 @@
         "description": "Proteomics Identifications & Quantitations Data Management & Integration Service"
     },
     {
+        "uid": "github/barbagroup/geoclaw-landspill",
+        "url": "https://github.com/barbagroup/geoclaw-landspill",
+        "rel": "/software/repository/github/barbagroup/geoclaw-landspill",
+        "avatar": "https://avatars.githubusercontent.com/u/6503785?v=4",
+        "description": "An oil land-spill and overland flow simulator for pipeline rupture events"
+    },
+    {
         "uid": "github/conda/conda",
         "url": "https://github.com/conda/conda",
         "rel": "/software/repository/github/conda/conda",
@@ -4429,6 +4471,13 @@
         "rel": "/software/repository/github/dellytools/delly",
         "avatar": "https://avatars3.githubusercontent.com/u/23377671?v=4",
         "description": "DELLY2: Structural variant discovery by integrated paired-end and split-read analysis"
+    },
+    {
+        "uid": "github/davemlz/eemont",
+        "url": "https://github.com/davemlz/eemont",
+        "rel": "/software/repository/github/davemlz/eemont",
+        "avatar": "https://avatars.githubusercontent.com/u/49817852?v=4",
+        "description": "A python package that extends Google Earth Engine."
     },
     {
         "uid": "github/tzhu-bio/UMI-ATAC-seq",
@@ -4779,6 +4828,13 @@
         "rel": "/software/repository/github/mpc-bioinformatics/CalibraCurve",
         "avatar": "https://avatars1.githubusercontent.com/u/6215764?v=4",
         "description": "CalibraCurve"
+    },
+    {
+        "uid": "github/sibirrer/lenstronomy",
+        "url": "https://github.com/sibirrer/lenstronomy",
+        "rel": "/software/repository/github/sibirrer/lenstronomy",
+        "avatar": "https://avatars.githubusercontent.com/u/6814174?v=4",
+        "description": "multi-purpose lens modeling software package"
     },
     {
         "uid": "github/logological/gpp",
@@ -5185,6 +5241,13 @@
         "rel": "/software/repository/github/dpseidel/stmove",
         "avatar": "https://avatars1.githubusercontent.com/u/16724456?v=4",
         "description": "Build reproducible reports for spatial-temporal animal movement analysis"
+    },
+    {
+        "uid": "github/cjbarrie/academictwitteR",
+        "url": "https://github.com/cjbarrie/academictwitteR",
+        "rel": "/software/repository/github/cjbarrie/academictwitteR",
+        "avatar": "https://avatars.githubusercontent.com/u/29574597?v=4",
+        "description": "Repo for academictwitteR package to query the Twitter Academic Research Product Track v2 API endpoint."
     },
     {
         "uid": "github/CFSAN-Biostatistics/SeroTools",
