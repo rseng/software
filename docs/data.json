@@ -532,6 +532,13 @@
         "description": "Recombines real genomic segments to simulate whole genomes"
     },
     {
+        "uid": "github/Planet-AI-GmbH/tfaip",
+        "url": "https://github.com/Planet-AI-GmbH/tfaip",
+        "rel": "/software/repository/github/Planet-AI-GmbH/tfaip",
+        "avatar": "https://avatars.githubusercontent.com/u/73832289?v=4",
+        "description": "Python-based research framework for developing, organizing, and deploying Deep Learning models powered by Tensorflow."
+    },
+    {
         "uid": "github/IndrajeetPatil/ggstatsplot",
         "url": "https://github.com/IndrajeetPatil/ggstatsplot",
         "rel": "/software/repository/github/IndrajeetPatil/ggstatsplot",
@@ -929,6 +936,13 @@
         "rel": "/software/repository/github/cicirello/Chips-n-Salsa",
         "avatar": "https://avatars3.githubusercontent.com/u/762030?v=4",
         "description": "Chips-n-Salsa - A Java library of customizable, hybridizable, iterative, parallel, stochastic, and self-adaptive local search algorithms"
+    },
+    {
+        "uid": "github/exoplanet-dev/exoplanet",
+        "url": "https://github.com/exoplanet-dev/exoplanet",
+        "rel": "/software/repository/github/exoplanet-dev/exoplanet",
+        "avatar": "https://avatars.githubusercontent.com/u/60150744?v=4",
+        "description": "Fast & scalable MCMC for all your exoplanet needs! "
     },
     {
         "uid": "github/astropy/astropy",
@@ -1463,6 +1477,13 @@
         "description": "TwiNL: website code"
     },
     {
+        "uid": "github/IMMM-SFA/mosartwmpy",
+        "url": "https://github.com/IMMM-SFA/mosartwmpy",
+        "rel": "/software/repository/github/IMMM-SFA/mosartwmpy",
+        "avatar": "https://avatars.githubusercontent.com/u/31457237?v=4",
+        "description": "Python translation of MOSART-WM: a water routing and management model"
+    },
+    {
         "uid": "github/pencil-code/pencil-code",
         "url": "https://github.com/pencil-code/pencil-code",
         "rel": "/software/repository/github/pencil-code/pencil-code",
@@ -1925,6 +1946,13 @@
         "description": "The Research Software Directory is a content management system that is tailored to software."
     },
     {
+        "uid": "github/PacificBiosciences/pbbioconda",
+        "url": "https://github.com/PacificBiosciences/pbbioconda",
+        "rel": "/software/repository/github/PacificBiosciences/pbbioconda",
+        "avatar": "https://avatars.githubusercontent.com/u/999745?v=4",
+        "description": "PacBio Secondary Analysis Tools on Bioconda"
+    },
+    {
         "uid": "github/PacificBiosciences/GenomicConsensus",
         "url": "https://github.com/PacificBiosciences/GenomicConsensus",
         "rel": "/software/repository/github/PacificBiosciences/GenomicConsensus",
@@ -2182,6 +2210,13 @@
         "rel": "/software/repository/github/SMI/SmiServices",
         "avatar": "https://avatars3.githubusercontent.com/u/56437605?v=4",
         "description": "Scale-able loading, linking and anonymisation of DICOM images for healthcare research environments (e.g. Safe Havens)"
+    },
+    {
+        "uid": "github/geospace-code/h5fortran",
+        "url": "https://github.com/geospace-code/h5fortran",
+        "rel": "/software/repository/github/geospace-code/h5fortran",
+        "avatar": "https://avatars.githubusercontent.com/u/61321120?v=4",
+        "description": "Lightweight HDF5 polymorphic Fortran: h5write() h5read()"
     },
     {
         "uid": "github/pvlib/pvlib-python",
@@ -2912,6 +2947,13 @@
         "description": "KNIME nodes to read/write pharmacophore files"
     },
     {
+        "uid": "github/PyPSA/atlite",
+        "url": "https://github.com/PyPSA/atlite",
+        "rel": "/software/repository/github/PyPSA/atlite",
+        "avatar": "https://avatars.githubusercontent.com/u/32890768?v=4",
+        "description": "Atlite: Light-weight version of Aarhus RE Atlas for converting weather data to power systems data"
+    },
+    {
         "uid": "github/rksyouyou/SASOM-analysis",
         "url": "https://github.com/rksyouyou/SASOM-analysis",
         "rel": "/software/repository/github/rksyouyou/SASOM-analysis",
@@ -2924,6 +2966,13 @@
         "rel": "/software/repository/github/sverhoeven/docker-cartodb",
         "avatar": "https://avatars1.githubusercontent.com/u/1713488?v=4",
         "description": "Dockerized CartoDB"
+    },
+    {
+        "uid": "github/RTIInternational/gobbli",
+        "url": "https://github.com/RTIInternational/gobbli",
+        "rel": "/software/repository/github/RTIInternational/gobbli",
+        "avatar": "https://avatars.githubusercontent.com/u/10167032?v=4",
+        "description": "Deep learning with text doesn't have to be scary."
     },
     {
         "uid": "github/slzarate/parliament2",
@@ -3421,6 +3470,20 @@
         "rel": "/software/repository/github/swiftsim/swiftsimio",
         "avatar": "https://avatars1.githubusercontent.com/u/37541309?v=4",
         "description": "Python library for reading SWIFT data. Uses unyt and h5py."
+    },
+    {
+        "uid": "github/fair-workflows/NanopubJL",
+        "url": "https://github.com/fair-workflows/NanopubJL",
+        "rel": "/software/repository/github/fair-workflows/NanopubJL",
+        "avatar": "https://avatars.githubusercontent.com/u/36536864?v=4",
+        "description": "JupyterLab extension to aid in searching and publishing of Nanopublications in a python notebook"
+    },
+    {
+        "uid": "github/fair-workflows/fairworkflows",
+        "url": "https://github.com/fair-workflows/fairworkflows",
+        "rel": "/software/repository/github/fair-workflows/fairworkflows",
+        "avatar": "https://avatars.githubusercontent.com/u/36536864?v=4",
+        "description": "A python library for constructing, modifying and publishing scientific workflows described using semantic technologies."
     },
     {
         "uid": "github/fair-workflows/nanopub",
@@ -4431,11 +4494,32 @@
         "description": "talk with NCBI entrez using R"
     },
     {
+        "uid": "github/DrMarc/slab",
+        "url": "https://github.com/DrMarc/slab",
+        "rel": "/software/repository/github/DrMarc/slab",
+        "avatar": "https://avatars.githubusercontent.com/u/7555727?v=4",
+        "description": "python classes for working with sounds and conducting psychoacoustic  experiments"
+    },
+    {
+        "uid": "github/JoelForamitti/agentpy",
+        "url": "https://github.com/JoelForamitti/agentpy",
+        "rel": "/software/repository/github/JoelForamitti/agentpy",
+        "avatar": "https://avatars.githubusercontent.com/u/57440945?v=4",
+        "description": "AgentPy is an open-source framework for the development and analysis of agent-based models in Python."
+    },
+    {
         "uid": "github/dansarie/sboxgates",
         "url": "https://github.com/dansarie/sboxgates",
         "rel": "/software/repository/github/dansarie/sboxgates",
         "avatar": "https://avatars.githubusercontent.com/u/16786778?v=4",
         "description": "Program for finding low gate count implementations of S-boxes."
+    },
+    {
+        "uid": "github/DedalusProject/eigentools",
+        "url": "https://github.com/DedalusProject/eigentools",
+        "rel": "/software/repository/github/DedalusProject/eigentools",
+        "avatar": "https://avatars.githubusercontent.com/u/25985571?v=4",
+        "description": "The Eigentools package for Dedalus"
     },
     {
         "uid": "github/hillerlab/GenomeAlignmentTools",
@@ -4450,6 +4534,13 @@
         "rel": "/software/repository/github/tariks/peakachu",
         "avatar": "https://avatars3.githubusercontent.com/u/3433086?v=4",
         "description": "Genome-wide contact analysis using sklearn"
+    },
+    {
+        "uid": "github/horovod/horovod",
+        "url": "https://github.com/horovod/horovod",
+        "rel": "/software/repository/github/horovod/horovod",
+        "avatar": "https://avatars.githubusercontent.com/u/46361271?v=4",
+        "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet."
     },
     {
         "uid": "github/JuliaHCI/ADI.jl",
@@ -4870,6 +4961,13 @@
         "rel": "/software/repository/github/Alcampopiano/hypothesize",
         "avatar": "https://avatars1.githubusercontent.com/u/4624246?v=4",
         "description": "Robust statistics in Python"
+    },
+    {
+        "uid": "github/egonw/bacting",
+        "url": "https://github.com/egonw/bacting",
+        "rel": "/software/repository/github/egonw/bacting",
+        "avatar": "https://avatars.githubusercontent.com/u/26721?v=4",
+        "description": "Bacting := acting as the Bioclipse TNG"
     },
     {
         "uid": "github/klho/FLAM",
