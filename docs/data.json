@@ -2716,6 +2716,13 @@
         "description": "Off-resonance Correction OPen soUrce Software"
     },
     {
+        "uid": "github/CEED/libCEED",
+        "url": "https://github.com/CEED/libCEED",
+        "rel": "/software/repository/github/CEED/libCEED",
+        "avatar": "https://avatars.githubusercontent.com/u/23178852?v=4",
+        "description": "CEED Library: Code for Efficient Extensible Discretizations"
+    },
+    {
         "uid": "github/ShixiangWang/sigminer",
         "url": "https://github.com/ShixiangWang/sigminer",
         "rel": "/software/repository/github/ShixiangWang/sigminer",
@@ -2728,6 +2735,20 @@
         "rel": "/software/repository/github/merenlab/anvio",
         "avatar": "https://avatars.githubusercontent.com/u/22106511?v=4",
         "description": "An analysis and visualization platform for 'omics data"
+    },
+    {
+        "uid": "github/iontorrent/TS",
+        "url": "https://github.com/iontorrent/TS",
+        "rel": "/software/repository/github/iontorrent/TS",
+        "avatar": "https://avatars.githubusercontent.com/u/1327981?v=4",
+        "description": "Torrent Suite"
+    },
+    {
+        "uid": "github/weizhouUMICH/SAIGE",
+        "url": "https://github.com/weizhouUMICH/SAIGE",
+        "rel": "/software/repository/github/weizhouUMICH/SAIGE",
+        "avatar": "https://avatars.githubusercontent.com/u/9952559?v=4",
+        "description": null
     },
     {
         "uid": "github/tortellini-tools/action",
@@ -3318,6 +3339,13 @@
         "description": "Implementation of a grammar of model analysis"
     },
     {
+        "uid": "github/genome/somatic-sniper",
+        "url": "https://github.com/genome/somatic-sniper",
+        "rel": "/software/repository/github/genome/somatic-sniper",
+        "avatar": "https://avatars.githubusercontent.com/u/318108?v=4",
+        "description": "A tool to call somatic single nucleotide variants."
+    },
+    {
         "uid": "github/dpalmasan/TRUNAJOD2.0",
         "url": "https://github.com/dpalmasan/TRUNAJOD2.0",
         "rel": "/software/repository/github/dpalmasan/TRUNAJOD2.0",
@@ -3878,6 +3906,13 @@
         "description": "The open-source tool for creating of 3D models"
     },
     {
+        "uid": "github/STAR-Fusion/STAR-Fusion",
+        "url": "https://github.com/STAR-Fusion/STAR-Fusion",
+        "rel": "/software/repository/github/STAR-Fusion/STAR-Fusion",
+        "avatar": "https://avatars.githubusercontent.com/u/11923838?v=4",
+        "description": "STAR-Fusion codebase"
+    },
+    {
         "uid": "github/EC-Earth/ece2cmor3",
         "url": "https://github.com/EC-Earth/ece2cmor3",
         "rel": "/software/repository/github/EC-Earth/ece2cmor3",
@@ -4340,6 +4375,13 @@
         "description": null
     },
     {
+        "uid": "github/WatsonLab/MAGpy",
+        "url": "https://github.com/WatsonLab/MAGpy",
+        "rel": "/software/repository/github/WatsonLab/MAGpy",
+        "avatar": "https://avatars.githubusercontent.com/u/29977047?v=4",
+        "description": "Snakemake pipeline for downstream analysis of metagenome-assembled genomes (MAGs) (pronounced mag-pie)"
+    },
+    {
         "uid": "github/ymocquar/HOODESolver.jl",
         "url": "https://github.com/ymocquar/HOODESolver.jl",
         "rel": "/software/repository/github/ymocquar/HOODESolver.jl",
@@ -4387,6 +4429,13 @@
         "rel": "/software/repository/github/netsiphd/netrd",
         "avatar": "https://avatars.githubusercontent.com/u/46543375?v=4",
         "description": "A library for network {reconstruction, distances, dynamics}"
+    },
+    {
+        "uid": "github/AMReX-Astro/Nyx",
+        "url": "https://github.com/AMReX-Astro/Nyx",
+        "rel": "/software/repository/github/AMReX-Astro/Nyx",
+        "avatar": "https://avatars.githubusercontent.com/u/28324385?v=4",
+        "description": "An adaptive mesh, N-body hydro cosmological simulation code"
     },
     {
         "uid": "github/Peppags/CNN-SVR",
@@ -4662,6 +4711,13 @@
         "description": "Benchmarks of approximate nearest neighbor libraries in Python"
     },
     {
+        "uid": "github/david-barnett/microViz",
+        "url": "https://github.com/david-barnett/microViz",
+        "rel": "/software/repository/github/david-barnett/microViz",
+        "avatar": "https://avatars.githubusercontent.com/u/33695702?v=4",
+        "description": "R package for microbiome data visualization. Uses phyloseq, vegan and tidyverse. See website link for docs with visual examples. Docker image available."
+    },
+    {
         "uid": "github/monarch-initiative/loinc2hpo",
         "url": "https://github.com/monarch-initiative/loinc2hpo",
         "rel": "/software/repository/github/monarch-initiative/loinc2hpo",
@@ -4905,6 +4961,13 @@
         "rel": "/software/repository/github/CTU-Bern/presize",
         "avatar": "https://avatars.githubusercontent.com/u/45794307?v=4",
         "description": "Precision Based Sample Size Calculation"
+    },
+    {
+        "uid": "github/epiforecasts/covidregionaldata",
+        "url": "https://github.com/epiforecasts/covidregionaldata",
+        "rel": "/software/repository/github/epiforecasts/covidregionaldata",
+        "avatar": "https://avatars.githubusercontent.com/u/54675094?v=4",
+        "description": "An interface to subnational and national level COVID-19 data. For all countries supported, this includes a daily time-series of cases. Wherever available we also provide data on deaths, hospitalisations, and tests. National level data is also supported using a range of data sources as well as linelist data and links to intervention data sets."
     },
     {
         "uid": "github/eEcoLiDAR/laserchicken",
@@ -5282,6 +5345,13 @@
         "url": "https://github.com/Muhammad-Arif-NUST/BVP_Pred_Unb",
         "rel": "/software/repository/github/Muhammad-Arif-NUST/BVP_Pred_Unb",
         "avatar": "https://avatars2.githubusercontent.com/u/27894155?v=4",
+        "description": null
+    },
+    {
+        "uid": "github/Yu606/odyssey",
+        "url": "https://github.com/Yu606/odyssey",
+        "rel": "/software/repository/github/Yu606/odyssey",
+        "avatar": "https://avatars.githubusercontent.com/u/31619679?v=4",
         "description": null
     },
     {
