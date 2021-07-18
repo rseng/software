@@ -434,6 +434,13 @@
         "description": "Collate and visualize whale survey results in the NW Atlantic"
     },
     {
+        "uid": "github/virgesmith/neworder",
+        "url": "https://github.com/virgesmith/neworder",
+        "rel": "/software/repository/github/virgesmith/neworder",
+        "avatar": "https://avatars.githubusercontent.com/u/19323577?v=4",
+        "description": "A dynamic microsimulation framework for python"
+    },
+    {
         "uid": "github/alan-turing-institute/monitoring-ecosystem-resilience",
         "url": "https://github.com/alan-turing-institute/monitoring-ecosystem-resilience",
         "rel": "/software/repository/github/alan-turing-institute/monitoring-ecosystem-resilience",
@@ -1890,6 +1897,13 @@
         "description": "Massively parallelized Monte Carlo diffusion MRI simulator written in Python."
     },
     {
+        "uid": "github/grburgess/popsynth",
+        "url": "https://github.com/grburgess/popsynth",
+        "rel": "/software/repository/github/grburgess/popsynth",
+        "avatar": "https://avatars.githubusercontent.com/u/6764007?v=4",
+        "description": "A generic flux/parameter population synthesis code"
+    },
+    {
         "uid": "github/msalibian/RBF",
         "url": "https://github.com/msalibian/RBF",
         "rel": "/software/repository/github/msalibian/RBF",
@@ -2301,6 +2315,13 @@
         "rel": "/software/repository/github/ERA-URBAN/fm128_radar",
         "avatar": "https://avatars2.githubusercontent.com/u/22921058?v=4",
         "description": null
+    },
+    {
+        "uid": "github/glotzerlab/coxeter",
+        "url": "https://github.com/glotzerlab/coxeter",
+        "rel": "/software/repository/github/glotzerlab/coxeter",
+        "avatar": "https://avatars.githubusercontent.com/u/25832198?v=4",
+        "description": "Collection of tools to help initialize and manipulate shapes."
     },
     {
         "uid": "github/potree/PotreeConverter",
@@ -3038,6 +3059,13 @@
         "description": "Methods for detecting safety signals in clinical trials using groupings of adverse events by body-system or system organ class."
     },
     {
+        "uid": "github/tramarobin/fctSPM",
+        "url": "https://github.com/tramarobin/fctSnPM",
+        "rel": "/software/repository/github/tramarobin/fctSPM",
+        "avatar": "https://avatars.githubusercontent.com/u/56997117?v=4",
+        "description": "Using spm1d package (v.0.4.3), compute anova and post-hoc tests from anova1 to anova3rm, with a non-parametric approach (permutation tests)"
+    },
+    {
         "uid": "github/lskatz/SneakerNet",
         "url": "https://github.com/lskatz/SneakerNet",
         "rel": "/software/repository/github/lskatz/SneakerNet",
@@ -3605,6 +3633,13 @@
         "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
     },
     {
+        "uid": "github/lumen-org/lumen",
+        "url": "https://github.com/lumen-org/lumen",
+        "rel": "/software/repository/github/lumen-org/lumen",
+        "avatar": "https://avatars.githubusercontent.com/u/43880697?v=4",
+        "description": "Interactive web application for the exploration, comparision and validation of probability models and its data"
+    },
+    {
         "uid": "github/easystats/effectsize",
         "url": "https://github.com/easystats/effectsize",
         "rel": "/software/repository/github/easystats/effectsize",
@@ -3778,6 +3813,13 @@
         "rel": "/software/repository/github/xenon-middleware/xenon",
         "avatar": "https://avatars0.githubusercontent.com/u/48052855?v=4",
         "description": "A middleware abstraction library that provides a simple programming interface to various compute and storage resources."
+    },
+    {
+        "uid": "github/rodluger/starry_process",
+        "url": "https://github.com/rodluger/starry_process",
+        "rel": "/software/repository/github/rodluger/starry_process",
+        "avatar": "https://avatars.githubusercontent.com/u/9323819?v=4",
+        "description": "interpretable gaussian processes for stellar light curves"
     },
     {
         "uid": "github/exafmm/exafmm-t",
@@ -4870,6 +4912,13 @@
         "rel": "/software/repository/github/gvilitechltd/LibSWIFFT",
         "avatar": "https://avatars.githubusercontent.com/u/72996922?v=4",
         "description": "LibSWIFFT - A fast C/C++ library for the SWIFFT secure homomorphic hash function"
+    },
+    {
+        "uid": "github/DrDaveShaw/INCHEM-Py",
+        "url": "https://github.com/DrDaveShaw/INCHEM-Py",
+        "rel": "/software/repository/github/DrDaveShaw/INCHEM-Py",
+        "avatar": "https://avatars.githubusercontent.com/u/75995570?v=4",
+        "description": "The INdoor CHEMical model in Python (INCHEM-Py) is an open source and accessible box-model built to give researchers deeper insight into the chemical mechanisms behind indoor air chemistry."
     },
     {
         "uid": "github/pmoulos/metaseqR2",
