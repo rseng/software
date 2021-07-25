@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/adithirgis/pollucheck",
+    "url": "https://github.com/adithirgis/pollucheck",
+    "data": {
+        "timestamp": "2021-07-25 00:31:07.527572",
+        "name": "pollucheck",
+        "url": "https://api.github.com/repos/adithirgis/pollucheck",
+        "full_name": "adithirgis/pollucheck",
+        "html_url": "https://github.com/adithirgis/pollucheck",
+        "private": false,
+        "description": "This application helps exploring the open source air quality data.",
+        "created_at": "2020-11-25T05:56:54Z",
+        "updated_at": "2021-07-24T20:22:58Z",
+        "clone_url": "https://github.com/adithirgis/pollucheck.git",
+        "homepage": null,
+        "size": 34185,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/adithirgis",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63432077?v=4",
+            "login": "adithirgis",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "https://doi.org/10.5281/zenodo.5128607"
+}
