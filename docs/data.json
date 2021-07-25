@@ -476,6 +476,13 @@
         "description": "MDAnalysis is a Python library to analyze molecular dynamics trajectories."
     },
     {
+        "uid": "github/adithirgis/pollucheck",
+        "url": "https://github.com/adithirgis/pollucheck",
+        "rel": "/software/repository/github/adithirgis/pollucheck",
+        "avatar": "https://avatars.githubusercontent.com/u/63432077?v=4",
+        "description": "This application helps exploring the open source air quality data."
+    },
+    {
         "uid": "github/TRASAL/psrdada-python",
         "url": "https://github.com/TRASAL/psrdada-python",
         "rel": "/software/repository/github/TRASAL/psrdada-python",
@@ -1223,6 +1230,13 @@
         "rel": "/software/repository/github/Climdyn/qgs",
         "avatar": "https://avatars0.githubusercontent.com/u/17494336?v=4",
         "description": "A 2-layer quasi-geostrophic atmospheric model in Python. Can be coupled to a simple land or shallow-water ocean component."
+    },
+    {
+        "uid": "github/bxlab/metaWRAP",
+        "url": "https://github.com/bxlab/metaWRAP",
+        "rel": "/software/repository/github/bxlab/metaWRAP",
+        "avatar": "https://avatars.githubusercontent.com/u/2084107?v=4",
+        "description": "MetaWRAP - a flexible pipeline for genome-resolved metagenomic data analysis"
     },
     {
         "uid": "github/JuliaHCI/ADI.jl",
@@ -2035,6 +2049,13 @@
         "rel": "/software/repository/github/optuna/optuna",
         "avatar": "https://avatars3.githubusercontent.com/u/57251745?v=4",
         "description": "A hyperparameter optimization framework"
+    },
+    {
+        "uid": "github/singularityhub/singularity-hpc",
+        "url": "https://github.com/singularityhub/singularity-hpc",
+        "rel": "/software/repository/github/singularityhub/singularity-hpc",
+        "avatar": "https://avatars.githubusercontent.com/u/24552884?v=4",
+        "description": "Local filesystem registry for containers (intended for HPC) using Lmod or Environement Modules. Works for users and admins."
     },
     {
         "uid": "github/singularityhub/sregistry",
@@ -2975,6 +2996,13 @@
         "description": "MCALF: Multi-Component Atmospheric Line Fitting"
     },
     {
+        "uid": "github/statgen/Minimac4",
+        "url": "https://github.com/statgen/Minimac4",
+        "rel": "/software/repository/github/statgen/Minimac4",
+        "avatar": "https://avatars.githubusercontent.com/u/651584?v=4",
+        "description": null
+    },
+    {
         "uid": "github/tobiasrausch/alfred",
         "url": "https://github.com/tobiasrausch/alfred",
         "rel": "/software/repository/github/tobiasrausch/alfred",
@@ -3318,6 +3346,13 @@
         "description": "Fast, flexible and easy to use probabilistic modelling in Python."
     },
     {
+        "uid": "github/hknd23/idcempy",
+        "url": "https://github.com/hknd23/idcempy",
+        "rel": "/software/repository/github/hknd23/idcempy",
+        "avatar": "https://avatars.githubusercontent.com/u/35204932?v=4",
+        "description": "Inflated Discrete Choice Models"
+    },
+    {
         "uid": "github/tlverse/hal9001",
         "url": "https://github.com/tlverse/hal9001",
         "rel": "/software/repository/github/tlverse/hal9001",
@@ -3428,6 +3463,13 @@
         "rel": "/software/repository/github/dpryan79/MethylDackel",
         "avatar": "https://avatars.githubusercontent.com/u/6399000?v=4",
         "description": "A (mostly) universal methylation extractor for BS-seq experiments."
+    },
+    {
+        "uid": "github/WatsonGroupTCD/J2suscep",
+        "url": "https://github.com/WatsonGroupTCD/J2suscep",
+        "rel": "/software/repository/github/WatsonGroupTCD/J2suscep",
+        "avatar": "https://avatars.githubusercontent.com/u/20184515?v=4",
+        "description": "See https://github.com/WatsonGroupTCD/J2suscep/wiki"
     },
     {
         "uid": "github/JungleComputing/rocket",
@@ -3598,6 +3640,13 @@
         "description": "Gene-set enrichment with math biology"
     },
     {
+        "uid": "github/quadram-institute-bioscience/dadaist2",
+        "url": "https://github.com/quadram-institute-bioscience/dadaist2",
+        "rel": "/software/repository/github/quadram-institute-bioscience/dadaist2",
+        "avatar": "https://avatars.githubusercontent.com/u/37581082?v=4",
+        "description": "\ud83c\udfa8 dadaist2 - Highway to R"
+    },
+    {
         "uid": "github/DorianDepriester/mtex2Gmsh",
         "url": "https://github.com/DorianDepriester/MTEX2Gmsh",
         "rel": "/software/repository/github/DorianDepriester/mtex2Gmsh",
@@ -3617,6 +3666,13 @@
         "rel": "/software/repository/github/Kuifje02/vrpy",
         "avatar": "https://avatars0.githubusercontent.com/u/19840033?v=4",
         "description": "A python framework for solving the VRP and its variants with column generation."
+    },
+    {
+        "uid": "github/r-cas/caracas",
+        "url": "https://github.com/r-cas/caracas",
+        "rel": "/software/repository/github/r-cas/caracas",
+        "avatar": "https://avatars.githubusercontent.com/u/58435783?v=4",
+        "description": "Computer algebra in R"
     },
     {
         "uid": "github/mackelab/sbi",
@@ -4004,6 +4060,13 @@
         "description": " PHONEMeS (PHOsphorylation NEtworks for Mass Spectrometry) is an R package   to model signalling networks based on untargeted phosphoproteomics"
     },
     {
+        "uid": "github/pratheesh3780/grapesAgri1",
+        "url": "https://github.com/pratheesh3780/grapesAgri1",
+        "rel": "/software/repository/github/pratheesh3780/grapesAgri1",
+        "avatar": "https://avatars.githubusercontent.com/u/67531873?v=4",
+        "description": "Collection of shiny apps for Agricultural research Data Analysis. Allows user to have graphical user interface to perform analysis of Agricultural experimental data. On using the functions in this package a Graphical User Interface will pop up. Apps Works by simple upload of files in CSV format."
+    },
+    {
         "uid": "github/Sulstice/cocktail-shaker",
         "url": "https://github.com/Sulstice/cocktail-shaker",
         "rel": "/software/repository/github/Sulstice/cocktail-shaker",
@@ -4284,6 +4347,13 @@
         "description": "DELLY2: Structural variant discovery by integrated paired-end and split-read analysis"
     },
     {
+        "uid": "github/meinardmueller/libfmp",
+        "url": "https://github.com/meinardmueller/libfmp",
+        "rel": "/software/repository/github/meinardmueller/libfmp",
+        "avatar": "https://avatars.githubusercontent.com/u/40728202?v=4",
+        "description": null
+    },
+    {
         "uid": "github/SuLab/Wikidata-phenomizer",
         "url": "https://github.com/SuLab/Wikidata-phenomizer",
         "rel": "/software/repository/github/SuLab/Wikidata-phenomizer",
@@ -4415,6 +4485,13 @@
         "rel": "/software/repository/github/ants-project/ANTs",
         "avatar": "https://avatars.githubusercontent.com/u/54352578?v=4",
         "description": null
+    },
+    {
+        "uid": "github/kutaslab/fitgrid",
+        "url": "https://github.com/kutaslab/fitgrid",
+        "rel": "/software/repository/github/kutaslab/fitgrid",
+        "avatar": "https://avatars.githubusercontent.com/u/39499147?v=4",
+        "description": "Multichannel event-related time-series regression modeling for EEG, MEG, and sensor array data"
     },
     {
         "uid": "github/WatsonLab/MAGpy",
@@ -4907,6 +4984,13 @@
         "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)"
     },
     {
+        "uid": "github/metaOmics/MetaPath",
+        "url": "https://github.com/metaOmics/MetaPath",
+        "rel": "/software/repository/github/metaOmics/MetaPath",
+        "avatar": "https://avatars.githubusercontent.com/u/32662743?v=4",
+        "description": "Meta analysis pathway enrichment"
+    },
+    {
         "uid": "github/gvilitechltd/LibSWIFFT",
         "url": "https://github.com/gvilitechltd/LibSWIFFT",
         "rel": "/software/repository/github/gvilitechltd/LibSWIFFT",
@@ -5381,6 +5465,13 @@
         "rel": "/software/repository/github/conda-forge/conda-smithy",
         "avatar": "https://avatars3.githubusercontent.com/u/11897326?v=4",
         "description": "The tool for managing conda-forge feedstocks."
+    },
+    {
+        "uid": "github/traja-team/traja",
+        "url": "https://github.com/traja-team/traja",
+        "rel": "/software/repository/github/traja-team/traja",
+        "avatar": "https://avatars.githubusercontent.com/u/60182006?v=4",
+        "description": "Python tools for spatial trajectory and time-series data analysis"
     },
     {
         "uid": "github/ChengF-Lab/AOPEDF",
