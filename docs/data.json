@@ -560,6 +560,13 @@
         "description": null
     },
     {
+        "uid": "github/meinardmueller/synctoolbox",
+        "url": "https://github.com/meinardmueller/synctoolbox",
+        "rel": "/software/repository/github/meinardmueller/synctoolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/40728202?v=4",
+        "description": "Sync Toolbox - Python package with reference implementations for efficient, robust, and accurate music synchronization based on dynamic time warping (DTW)"
+    },
+    {
         "uid": "github/nlesc-nano/Moka",
         "url": "https://github.com/nlesc-nano/Moka",
         "rel": "/software/repository/github/nlesc-nano/Moka",
@@ -642,6 +649,13 @@
         "rel": "/software/repository/github/ArenA-Crowds/Crowds",
         "avatar": "https://avatars1.githubusercontent.com/u/27482561?v=4",
         "description": "Jupyter python notebooks related to the ArenA project"
+    },
+    {
+        "uid": "github/DeltaRCM/pyDeltaRCM",
+        "url": "https://github.com/DeltaRCM/pyDeltaRCM",
+        "rel": "/software/repository/github/DeltaRCM/pyDeltaRCM",
+        "avatar": "https://avatars.githubusercontent.com/u/45898483?v=4",
+        "description": "Delta model with a reduced-complexity approach"
     },
     {
         "uid": "github/xenon-middleware/xenon",
@@ -1113,6 +1127,13 @@
         "description": "Knime node to calculate ss-TEA score of sequence alignment and subfamily members."
     },
     {
+        "uid": "github/ranocha/SummationByPartsOperators.jl",
+        "url": "https://github.com/ranocha/SummationByPartsOperators.jl",
+        "rel": "/software/repository/github/ranocha/SummationByPartsOperators.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/12693098?v=4",
+        "description": "A Julia library of summation-by-parts (SBP) operators used in finite difference, Fourier pseudospectral, continuous Galerkin, and discontinuous Galerkin methods to get provably stable semidiscretizations, paying special attention to boundary conditions."
+    },
+    {
         "uid": "github/cbrueffer/tophat-recondition",
         "url": "https://github.com/cbrueffer/tophat-recondition",
         "rel": "/software/repository/github/cbrueffer/tophat-recondition",
@@ -1188,6 +1209,13 @@
         "rel": "/software/repository/github/WelbornGroup/ELECTRIC",
         "avatar": "https://avatars2.githubusercontent.com/u/49160194?v=4",
         "description": "ELECTRIC: Electric fields Leveraged from multipole Expansion Calculations in Tinker Rapid Interface Code."
+    },
+    {
+        "uid": "github/twesterhout/lattice-symmetries",
+        "url": "https://github.com/twesterhout/lattice-symmetries",
+        "rel": "/software/repository/github/twesterhout/lattice-symmetries",
+        "avatar": "https://avatars.githubusercontent.com/u/14264576?v=4",
+        "description": "A package to simplify working with symmetry-adapted quantum many-body bases. Provides a good foundation for writing custom exact diagonalization and variational Monte Carlo software"
     },
     {
         "uid": "github/bluesky/bluesky",
@@ -3318,6 +3346,13 @@
         "description": "Inference of putative transmission phylogenetic clusters"
     },
     {
+        "uid": "github/jacobmerson/model-traits",
+        "url": "https://github.com/jacobmerson/model-traits",
+        "rel": "/software/repository/github/jacobmerson/model-traits",
+        "avatar": "https://avatars.githubusercontent.com/u/2366140?v=4",
+        "description": "simple library for dealing with simulation boundary conditions"
+    },
+    {
         "uid": "github/rksyouyou/SASOM-analysis",
         "url": "https://github.com/rksyouyou/SASOM-analysis",
         "rel": "/software/repository/github/rksyouyou/SASOM-analysis",
@@ -3780,6 +3815,13 @@
         "description": "An R package for preparing and analysing pupillometry data"
     },
     {
+        "uid": "github/mggg/ecological-inference",
+        "url": "https://github.com/mggg/ecological-inference",
+        "rel": "/software/repository/github/mggg/ecological-inference",
+        "avatar": "https://avatars.githubusercontent.com/u/42822281?v=4",
+        "description": null
+    },
+    {
         "uid": "github/Parsl/parsl",
         "url": "https://github.com/Parsl/parsl",
         "rel": "/software/repository/github/Parsl/parsl",
@@ -4116,6 +4158,13 @@
         "description": "DrivAER: Identification of Driving transcriptional programs using AutoEncoder based Relevance scores"
     },
     {
+        "uid": "github/semiautomaticgit/SemiAutomaticClassificationPlugin",
+        "url": "https://github.com/semiautomaticgit/SemiAutomaticClassificationPlugin",
+        "rel": "/software/repository/github/semiautomaticgit/SemiAutomaticClassificationPlugin",
+        "avatar": "https://avatars.githubusercontent.com/u/7038696?v=4",
+        "description": null
+    },
+    {
         "uid": "github/niemasd/CoaTran",
         "url": "https://github.com/niemasd/CoaTran",
         "rel": "/software/repository/github/niemasd/CoaTran",
@@ -4389,6 +4438,20 @@
         "description": "A Python package for heart rate variability analysis"
     },
     {
+        "uid": "github/phelelani/nf-rnaSeqMetagen",
+        "url": "https://github.com/phelelani/nf-rnaSeqMetagen",
+        "rel": "/software/repository/github/phelelani/nf-rnaSeqMetagen",
+        "avatar": "https://avatars.githubusercontent.com/u/12947600?v=4",
+        "description": "Metagenomics pipeline"
+    },
+    {
+        "uid": "github/phelelani/nf-rnaSeqCount",
+        "url": "https://github.com/phelelani/nf-rnaSeqCount",
+        "rel": "/software/repository/github/phelelani/nf-rnaSeqCount",
+        "avatar": "https://avatars.githubusercontent.com/u/12947600?v=4",
+        "description": "Assembly and differential expression analysis"
+    },
+    {
         "uid": "github/qpv-research-group/solcore5",
         "url": "https://github.com/qpv-research-group/solcore5",
         "rel": "/software/repository/github/qpv-research-group/solcore5",
@@ -4401,6 +4464,13 @@
         "rel": "/software/repository/github/staphopia/staphopia-paper",
         "avatar": "https://avatars0.githubusercontent.com/u/9426738?v=4",
         "description": "Code used for Staphopia manuscript"
+    },
+    {
+        "uid": "github/jamesrhester/Lerche.jl",
+        "url": "https://github.com/jamesrhester/Lerche.jl",
+        "rel": "/software/repository/github/jamesrhester/Lerche.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/762686?v=4",
+        "description": "A Julia port of the Lark parser"
     },
     {
         "uid": "github/linksmart/thing-directory",
@@ -5584,6 +5654,13 @@
         "rel": "/software/repository/github/yaml2sbml-dev/yaml2sbml",
         "avatar": "https://avatars.githubusercontent.com/u/69810793?v=4",
         "description": "Little tool to convert an ODE model specified in the YAML format to SBML."
+    },
+    {
+        "uid": "github/mscroggs/symfem",
+        "url": "https://github.com/mscroggs/symfem",
+        "rel": "/software/repository/github/mscroggs/symfem",
+        "avatar": "https://avatars.githubusercontent.com/u/9850599?v=4",
+        "description": "A symbolic finite element definition library"
     },
     {
         "uid": "github/JuliaDynamics/DrWatson.jl",
