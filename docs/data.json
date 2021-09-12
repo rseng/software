@@ -147,6 +147,13 @@
         "description": "A python package for single cell network analysis"
     },
     {
+        "uid": "github/wesleyburr/subMaldi",
+        "url": "https://github.com/wesleyburr/subMaldi",
+        "rel": "/software/repository/github/wesleyburr/subMaldi",
+        "avatar": "https://avatars.githubusercontent.com/u/882471?v=4",
+        "description": "subMaldi: a package for R"
+    },
+    {
         "uid": "github/sambit-giri/tools21cm",
         "url": "https://github.com/sambit-giri/tools21cm",
         "rel": "/software/repository/github/sambit-giri/tools21cm",
@@ -215,6 +222,13 @@
         "rel": "/software/repository/github/fitbenchmarking/fitbenchmarking",
         "avatar": "https://avatars.githubusercontent.com/u/49585251?v=4",
         "description": "Tool for comparing the run time and accuracy of minimizers on fit benchmarking problems"
+    },
+    {
+        "uid": "github/babelomics/impuSARS",
+        "url": "https://github.com/babelomics/impuSARS",
+        "rel": "/software/repository/github/babelomics/impuSARS",
+        "avatar": "https://avatars.githubusercontent.com/u/6276325?v=4",
+        "description": "Software tool for the imputation of whole-genome SARS-CoV-2 sequences."
     },
     {
         "uid": "github/wangjun1996/VisFeature",
@@ -369,6 +383,13 @@
         "rel": "/software/repository/github/deepskies/deeplenstronomy",
         "avatar": "https://avatars.githubusercontent.com/u/30120253?v=4",
         "description": "A pipeline for versatile strong lens sample simulations"
+    },
+    {
+        "uid": "github/hiddenSymmetries/simsopt",
+        "url": "https://github.com/hiddenSymmetries/simsopt",
+        "rel": "/software/repository/github/hiddenSymmetries/simsopt",
+        "avatar": "https://avatars.githubusercontent.com/u/61125640?v=4",
+        "description": "Simons Stellarator Optimizer Code"
     },
     {
         "uid": "github/zdelrosario/py_grama",
@@ -901,6 +922,13 @@
         "rel": "/software/repository/github/InsightSoftwareConsortium/ITK",
         "avatar": "https://avatars2.githubusercontent.com/u/319479?v=4",
         "description": "Insight Toolkit (ITK) -- Official Repository"
+    },
+    {
+        "uid": "github/poldracklab/nitransforms",
+        "url": "https://github.com/poldracklab/nitransforms",
+        "rel": "/software/repository/github/poldracklab/nitransforms",
+        "avatar": "https://avatars.githubusercontent.com/u/9287954?v=4",
+        "description": "a standalone fork of nipy/nibabel#656"
     },
     {
         "uid": "github/yanzhanglab/Graph2GO",
@@ -2856,6 +2884,13 @@
         "description": "Python translation of MOSART-WM: a water routing and management model"
     },
     {
+        "uid": "github/skypyproject/skypy",
+        "url": "https://github.com/skypyproject/skypy",
+        "rel": "/software/repository/github/skypyproject/skypy",
+        "avatar": "https://avatars.githubusercontent.com/u/57487530?v=4",
+        "description": "SkyPy: A package for modelling the Universe."
+    },
+    {
         "uid": "github/pydata/xarray",
         "url": "https://github.com/pydata/xarray",
         "rel": "/software/repository/github/pydata/xarray",
@@ -3360,6 +3395,13 @@
         "description": "TwiNL: website code"
     },
     {
+        "uid": "github/BenMql/coral",
+        "url": "https://github.com/BenMql/coral",
+        "rel": "/software/repository/github/BenMql/coral",
+        "avatar": "https://avatars.githubusercontent.com/u/42280575?v=4",
+        "description": "Parallel spectral solver for partial differential equations in the plane layer geometry. "
+    },
+    {
         "uid": "github/IFB-ElixirFr/edam-browser",
         "url": "https://github.com/IFB-ElixirFr/edam-browser",
         "rel": "/software/repository/github/IFB-ElixirFr/edam-browser",
@@ -3794,6 +3836,13 @@
         "description": "Build reproducible reports for spatial-temporal animal movement analysis"
     },
     {
+        "uid": "github/COVID-IWG/epimargin",
+        "url": "https://github.com/COVID-IWG/epimargin",
+        "rel": "/software/repository/github/COVID-IWG/epimargin",
+        "avatar": "https://avatars.githubusercontent.com/u/82750933?v=4",
+        "description": "networked, stochastic SIRD epidemiological model with Bayesian parameter estimation and policy scenario comparison tools "
+    },
+    {
         "uid": "github/afeinstein20/stella",
         "url": "https://github.com/afeinstein20/stella",
         "rel": "/software/repository/github/afeinstein20/stella",
@@ -3960,6 +4009,13 @@
         "rel": "/software/repository/github/weecology/retriever",
         "avatar": "https://avatars3.githubusercontent.com/u/1156696?v=4",
         "description": "Quickly download, clean up, and install public datasets into a database management system"
+    },
+    {
+        "uid": "github/jessecambon/tidygeocoder",
+        "url": "https://github.com/jessecambon/tidygeocoder",
+        "rel": "/software/repository/github/jessecambon/tidygeocoder",
+        "avatar": "https://avatars.githubusercontent.com/u/31526206?v=4",
+        "description": "Geocoding Made Easy"
     },
     {
         "uid": "github/RaRe-Technologies/gensim",
