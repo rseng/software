@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/pepamengual/UEP",
+    "url": "https://github.com/pepamengual/UEP",
+    "data": {
+        "timestamp": "2021-09-19 00:33:54.672044",
+        "name": "UEP",
+        "url": "https://api.github.com/repos/pepamengual/UEP",
+        "full_name": "pepamengual/UEP",
+        "html_url": "https://github.com/pepamengual/UEP",
+        "private": false,
+        "description": null,
+        "created_at": "2019-11-05T11:53:38Z",
+        "updated_at": "2021-09-15T03:42:55Z",
+        "clone_url": "https://github.com/pepamengual/UEP.git",
+        "homepage": null,
+        "size": 669662,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/pepamengual",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31403723?v=4",
+            "login": "pepamengual",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1093/bioinformatics/btaa708"
+}
