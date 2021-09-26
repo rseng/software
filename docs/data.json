@@ -1043,6 +1043,13 @@
         "description": "Dynamic simulation and testing for single-equation ARDL models, available for both R and Stata"
     },
     {
+        "uid": "github/churchmanlab/genewalk",
+        "url": "https://github.com/churchmanlab/genewalk",
+        "rel": "/software/repository/github/churchmanlab/genewalk",
+        "avatar": "https://avatars.githubusercontent.com/u/1781555?v=4",
+        "description": "GeneWalk identifies relevant gene functions for a biological context using network representation learning"
+    },
+    {
         "uid": "github/spack/spack",
         "url": "https://github.com/spack/spack",
         "rel": "/software/repository/github/spack/spack",
@@ -1251,6 +1258,13 @@
         "rel": "/software/repository/github/JGCRI/ambrosia",
         "avatar": "https://avatars.githubusercontent.com/u/8431983?v=4",
         "description": "An R package for calculating and analyzing food demand and in accordance with the Edmonds et al food demand model"
+    },
+    {
+        "uid": "github/JGCRI/plutus",
+        "url": "https://github.com/JGCRI/plutus",
+        "rel": "/software/repository/github/JGCRI/plutus",
+        "avatar": "https://avatars.githubusercontent.com/u/8431983?v=4",
+        "description": null
     },
     {
         "uid": "github/csinva/imodels",
@@ -1722,6 +1736,13 @@
         "description": "Quality Control Pipeline Server for quantitative Proteomics"
     },
     {
+        "uid": "github/cobilab/RFSC",
+        "url": "https://github.com/cobilab/RFSC",
+        "rel": "/software/repository/github/cobilab/RFSC",
+        "avatar": "https://avatars.githubusercontent.com/u/49339287?v=4",
+        "description": "Reference-Free Sequence Classification Tool for DNA sequences in metagenomic samples"
+    },
+    {
         "uid": "github/qMRLab/qMRLab",
         "url": "https://github.com/qMRLab/qMRLab",
         "rel": "/software/repository/github/qMRLab/qMRLab",
@@ -1974,6 +1995,13 @@
         "description": "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX"
     },
     {
+        "uid": "github/dondi/GRNsight",
+        "url": "https://github.com/dondi/GRNsight",
+        "rel": "/software/repository/github/dondi/GRNsight",
+        "avatar": "https://avatars.githubusercontent.com/u/382242?v=4",
+        "description": "Web app and service for modeling and visualizing gene regulatory networks."
+    },
+    {
         "uid": "github/pmoulos/metaseqR2",
         "url": "https://github.com/pmoulos/metaseqR2",
         "rel": "/software/repository/github/pmoulos/metaseqR2",
@@ -2079,6 +2107,20 @@
         "description": "Open pixelated STEM framework"
     },
     {
+        "uid": "github/vcflib/vcflib",
+        "url": "https://github.com/vcflib/vcflib",
+        "rel": "/software/repository/github/vcflib/vcflib",
+        "avatar": "https://avatars.githubusercontent.com/u/16582802?v=4",
+        "description": " C++ library and cmdline tools for parsing and manipulating VCF files"
+    },
+    {
+        "uid": "github/mingzehuang/latentcor",
+        "url": "https://github.com/mingzehuang/latentcor",
+        "rel": "/software/repository/github/mingzehuang/latentcor",
+        "avatar": "https://avatars.githubusercontent.com/u/70076112?v=4",
+        "description": "latentcor is an R package provides estimation for latent correlation with mixed data types (continuous, binary, truncated and ternary)."
+    },
+    {
         "uid": "github/HEML/HEML",
         "url": "https://github.com/HEML/HEML",
         "rel": "/software/repository/github/HEML/HEML",
@@ -2098,6 +2140,13 @@
         "rel": "/software/repository/github/WGLab/InterVar",
         "avatar": "https://avatars1.githubusercontent.com/u/5926337?v=4",
         "description": "A bioinformatics software tool for clinical interpretation of genetic variants by the 2015 ACMG-AMP guideline"
+    },
+    {
+        "uid": "github/dmey/synthia",
+        "url": "https://github.com/dmey/synthia",
+        "rel": "/software/repository/github/dmey/synthia",
+        "avatar": "https://avatars.githubusercontent.com/u/26348635?v=4",
+        "description": "\ud83d\udcc8 \ud83d\udc0d Multidimensional synthetic data generation in Python"
     },
     {
         "uid": "github/fair-workflows/NanopubJL",
@@ -2721,6 +2770,13 @@
         "rel": "/software/repository/github/shaniAmare/long_read_tools",
         "avatar": "https://avatars1.githubusercontent.com/u/43805905?v=4",
         "description": "A catalogue of available long read sequencing data analysis tools"
+    },
+    {
+        "uid": "github/tud-hri/travia",
+        "url": "https://github.com/tud-hri/travia",
+        "rel": "/software/repository/github/tud-hri/travia",
+        "avatar": "https://avatars.githubusercontent.com/u/72570002?v=4",
+        "description": "a Traffic data Visualization and Annotation tool"
     },
     {
         "uid": "github/eWaterCycle/setup-singularity",
@@ -4277,6 +4333,13 @@
         "description": null
     },
     {
+        "uid": "github/Materials-Consortia/optimade-python-tools",
+        "url": "https://github.com/Materials-Consortia/optimade-python-tools",
+        "rel": "/software/repository/github/Materials-Consortia/optimade-python-tools",
+        "avatar": "https://avatars.githubusercontent.com/u/23107754?v=4",
+        "description": "Tools for implementing and consuming OPTIMADE APIs in Python"
+    },
+    {
         "uid": "github/bcgov/shinyssdtools",
         "url": "https://github.com/bcgov/shinyssdtools",
         "rel": "/software/repository/github/bcgov/shinyssdtools",
@@ -4450,6 +4513,20 @@
         "rel": "/software/repository/github/joglekara/VlaPy",
         "avatar": "https://avatars1.githubusercontent.com/u/13438206?v=4",
         "description": "1D-1V Vlasov-Poisson(-Fokker-Planck) Plasma Physics Simulation Tool"
+    },
+    {
+        "uid": "github/IKNL/vantage6",
+        "url": "https://github.com/IKNL/vantage6",
+        "rel": "/software/repository/github/IKNL/vantage6",
+        "avatar": "https://avatars.githubusercontent.com/u/39300115?v=4",
+        "description": "Docker CLI package for the vantage6 infrastructure"
+    },
+    {
+        "uid": "github/ecological-cities/home2park",
+        "url": "https://github.com/ecological-cities/home2park",
+        "rel": "/software/repository/github/ecological-cities/home2park",
+        "avatar": "https://avatars.githubusercontent.com/u/65454754?v=4",
+        "description": "home2park: Assess the spatial provision of urban parks"
     },
     {
         "uid": "github/ClaudioZandonella/PRDA",
@@ -5187,6 +5264,13 @@
         "description": "Provides tools for modeling photovoltaic water pumping system"
     },
     {
+        "uid": "github/patrickfuchs/buildH",
+        "url": "https://github.com/patrickfuchs/buildH",
+        "rel": "/software/repository/github/patrickfuchs/buildH",
+        "avatar": "https://avatars.githubusercontent.com/u/13885052?v=4",
+        "description": ":computer: Build hydrogen atoms from united-atom molecular dynamics of lipids and calculate the order parameters."
+    },
+    {
         "uid": "github/0x0f0f0f/Metatheory.jl",
         "url": "https://github.com/0x0f0f0f/Metatheory.jl",
         "rel": "/software/repository/github/0x0f0f0f/Metatheory.jl",
@@ -5563,6 +5647,13 @@
         "rel": "/software/repository/github/tariks/peakachu",
         "avatar": "https://avatars3.githubusercontent.com/u/3433086?v=4",
         "description": "Genome-wide contact analysis using sklearn"
+    },
+    {
+        "uid": "github/feature-engine/feature_engine",
+        "url": "https://github.com/feature-engine/feature_engine",
+        "rel": "/software/repository/github/feature-engine/feature_engine",
+        "avatar": "https://avatars.githubusercontent.com/u/87381597?v=4",
+        "description": "Feature engineering package with sklearn like functionality"
     },
     {
         "uid": "github/fumi-github/omicwas",
