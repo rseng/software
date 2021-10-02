@@ -1,5 +1,7 @@
 # Research Software
 
+[![DOI](https://zenodo.org/badge/268308501.svg)](https://zenodo.org/badge/latestdoi/268308501)
+
  - [**annotate**](https://rseng.github.io/software/) a repository in the static web interface or by [opening an issue](https://github.com/rseng/software/issues/new/choose) or in bulk [on your local machine](https://rseng.github.io/rse/tutorials/annotation/) 
  - [**view**](https://rseng.github.io/software/) this research software, taxonomy, and criteria
  - Use the **api** to see [repos](https://rseng.github.io/software/api/repos/index.json), [taxonomy](https://rseng.github.io/software/api/taxonomy/index.json), and [criteria](https://rseng.github.io/software/api/criteria/index.json)
