@@ -7,6 +7,13 @@
         "description": "\ud83d\udce1 Virgo: A Versatile Spectrometer for Radio Astronomy"
     },
     {
+        "uid": "github/nonlocalmodels/NLMech",
+        "url": "https://github.com/nonlocalmodels/NLMech",
+        "rel": "/software/repository/github/nonlocalmodels/NLMech",
+        "avatar": "https://avatars.githubusercontent.com/u/52047777?v=4",
+        "description": "Implementation of finite element and finite difference approximation of Nonlocal models"
+    },
+    {
         "uid": "github/euroargodev/argopy",
         "url": "https://github.com/euroargodev/argopy",
         "rel": "/software/repository/github/euroargodev/argopy",
@@ -278,6 +285,13 @@
         "rel": "/software/repository/github/MillionConcepts/lhorizon",
         "avatar": "https://avatars.githubusercontent.com/u/56450892?v=4",
         "description": "lhorizon helps you find things in the Solar System."
+    },
+    {
+        "uid": "github/aspuru-guzik-group/funsies",
+        "url": "https://github.com/aspuru-guzik-group/funsies",
+        "rel": "/software/repository/github/aspuru-guzik-group/funsies",
+        "avatar": "https://avatars.githubusercontent.com/u/29867355?v=4",
+        "description": "funsies is a lightweight workflow engine \ud83d\udd27"
     },
     {
         "uid": "github/ShubhadeepSadhukhan1993/fastSF",
@@ -651,11 +665,25 @@
         "description": "Scripts to replicate the figures reported in the CytofNorm publication. "
     },
     {
+        "uid": "github/saeyslab/PeacoQC",
+        "url": "https://github.com/saeyslab/PeacoQC",
+        "rel": "/software/repository/github/saeyslab/PeacoQC",
+        "avatar": "https://avatars.githubusercontent.com/u/18485264?v=4",
+        "description": "Peak-based selection of high quality cytometry data"
+    },
+    {
         "uid": "github/saeyslab/nichenetr",
         "url": "https://github.com/saeyslab/nichenetr",
         "rel": "/software/repository/github/saeyslab/nichenetr",
         "avatar": "https://avatars0.githubusercontent.com/u/18485264?v=4",
         "description": "NicheNet: predict active ligand-target links between interacting cells"
+    },
+    {
+        "uid": "github/bwa-mem2/bwa-mem2",
+        "url": "https://github.com/bwa-mem2/bwa-mem2",
+        "rel": "/software/repository/github/bwa-mem2/bwa-mem2",
+        "avatar": "https://avatars.githubusercontent.com/u/43346774?v=4",
+        "description": "The next version of bwa-mem "
     },
     {
         "uid": "github/marieBvr/virAnnot",
@@ -1085,6 +1113,13 @@
         "description": "Simons Stellarator Optimizer Code"
     },
     {
+        "uid": "github/fAndreuzzi/BisPy",
+        "url": "https://github.com/fAndreuzzi/BisPy",
+        "rel": "/software/repository/github/fAndreuzzi/BisPy",
+        "avatar": "https://avatars.githubusercontent.com/u/8464342?v=4",
+        "description": "BisPy - A bisimulation library for Python."
+    },
+    {
         "uid": "github/SMTG-UCL/surfaxe",
         "url": "https://github.com/SMTG-UCL/surfaxe",
         "rel": "/software/repository/github/SMTG-UCL/surfaxe",
@@ -1118,6 +1153,13 @@
         "rel": "/software/repository/github/r-cas/caracas",
         "avatar": "https://avatars.githubusercontent.com/u/58435783?v=4",
         "description": "Computer algebra in R"
+    },
+    {
+        "uid": "github/iobio-zjut/IPTDFold",
+        "url": "https://github.com/iobio-zjut/IPTDFold",
+        "rel": "/software/repository/github/iobio-zjut/IPTDFold",
+        "avatar": "https://avatars.githubusercontent.com/u/43274315?v=4",
+        "description": "A de novo protein structure prediction by iterative partition sampling, topology adjustment, and residue-level distance deviation optimization"
     },
     {
         "uid": "github/ruanjue/wtdbg2",
@@ -1267,6 +1309,13 @@
         "description": null
     },
     {
+        "uid": "github/OncoRNALab/CiLiQuant",
+        "url": "https://github.com/OncoRNALab/CiLiQuant",
+        "rel": "/software/repository/github/OncoRNALab/CiLiQuant",
+        "avatar": "https://avatars.githubusercontent.com/u/74721403?v=4",
+        "description": null
+    },
+    {
         "uid": "github/csinva/imodels",
         "url": "https://github.com/csinva/imodels",
         "rel": "/software/repository/github/csinva/imodels",
@@ -1279,6 +1328,13 @@
         "rel": "/software/repository/github/scikit-learn/scikit-learn",
         "avatar": "https://avatars2.githubusercontent.com/u/365630?v=4",
         "description": "scikit-learn: machine learning in Python"
+    },
+    {
+        "uid": "github/ablab/nerpa",
+        "url": "https://github.com/ablab/nerpa",
+        "rel": "/software/repository/github/ablab/nerpa",
+        "avatar": "https://avatars.githubusercontent.com/u/988606?v=4",
+        "description": null
     },
     {
         "uid": "github/ablab/TandemTools",
@@ -1825,6 +1881,13 @@
         "rel": "/software/repository/github/Cantera/cantera",
         "avatar": "https://avatars2.githubusercontent.com/u/817698?v=4",
         "description": "Chemical kinetics, thermodynamics, and transport tool suite"
+    },
+    {
+        "uid": "github/champsproject/ldds",
+        "url": "https://github.com/champsproject/ldds",
+        "rel": "/software/repository/github/champsproject/ldds",
+        "avatar": "https://avatars.githubusercontent.com/u/58516742?v=4",
+        "description": "Python package for computing and visualizing Lagrangian Descriptors in Dynamical Systems"
     },
     {
         "uid": "github/MrMinimal64/multivar_horner",
@@ -2723,6 +2786,13 @@
         "description": "Dockerized CartoDB"
     },
     {
+        "uid": "github/dfujim/bfit",
+        "url": "https://github.com/dfujim/bfit",
+        "rel": "/software/repository/github/dfujim/bfit",
+        "avatar": "https://avatars.githubusercontent.com/u/7872559?v=4",
+        "description": "A Python application for the analysis of \u03b2-NMR and \u03b2-NQR data taken at TRIUMF."
+    },
+    {
         "uid": "github/bommert/stabm",
         "url": "https://github.com/bommert/stabm",
         "rel": "/software/repository/github/bommert/stabm",
@@ -3241,6 +3311,13 @@
         "description": "An R-package for opinion analysis of social media data"
     },
     {
+        "uid": "github/pokynmr/ipick",
+        "url": "https://github.com/pokynmr/iPick",
+        "rel": "/software/repository/github/pokynmr/ipick",
+        "avatar": "https://avatars.githubusercontent.com/u/46821344?v=4",
+        "description": "Multiprocessing Peak Picking Software for UCSF NMR Spectra"
+    },
+    {
         "uid": "github/conda-forge/conda-smithy",
         "url": "https://github.com/conda-forge/conda-smithy",
         "rel": "/software/repository/github/conda-forge/conda-smithy",
@@ -3556,6 +3633,13 @@
         "description": "Python library for YAML type inference, schema checking and syntactic sugar"
     },
     {
+        "uid": "github/shandley/hecatomb",
+        "url": "https://github.com/shandley/hecatomb",
+        "rel": "/software/repository/github/shandley/hecatomb",
+        "avatar": "https://avatars.githubusercontent.com/u/660111?v=4",
+        "description": "hecatomb is a virome analysis pipeline for analysis of Illumina sequence data"
+    },
+    {
         "uid": "github/horovod/horovod",
         "url": "https://github.com/horovod/horovod",
         "rel": "/software/repository/github/horovod/horovod",
@@ -3640,6 +3724,13 @@
         "description": null
     },
     {
+        "uid": "github/malonge/RagTag",
+        "url": "https://github.com/malonge/RagTag",
+        "rel": "/software/repository/github/malonge/RagTag",
+        "avatar": "https://avatars.githubusercontent.com/u/10554710?v=4",
+        "description": "Tools for fast and flexible genome assembly scaffolding and improvement"
+    },
+    {
         "uid": "github/beagle-dev/beagle-lib",
         "url": "https://github.com/beagle-dev/beagle-lib",
         "rel": "/software/repository/github/beagle-dev/beagle-lib",
@@ -3703,6 +3794,13 @@
         "description": "An R package for tidyverse-friendly statistical inference"
     },
     {
+        "uid": "github/jbytecode/JMcDM",
+        "url": "https://github.com/jbytecode/JMcDM",
+        "rel": "/software/repository/github/jbytecode/JMcDM",
+        "avatar": "https://avatars.githubusercontent.com/u/8011702?v=4",
+        "description": "A package for Multiple criteria decision-making techniques in Julia"
+    },
+    {
         "uid": "github/jbytecode/LinRegOutliers",
         "url": "https://github.com/jbytecode/LinRegOutliers",
         "rel": "/software/repository/github/jbytecode/LinRegOutliers",
@@ -3715,6 +3813,13 @@
         "rel": "/software/repository/github/JohannesBuchner/BXA",
         "avatar": "https://avatars.githubusercontent.com/u/51015?v=4",
         "description": "Bayesian X-ray analysis (nested sampling for Xspec and Sherpa)"
+    },
+    {
+        "uid": "github/RiccardoBiondi/segmentation",
+        "url": "https://github.com/RiccardoBiondi/segmentation",
+        "rel": "/software/repository/github/RiccardoBiondi/segmentation",
+        "avatar": "https://avatars.githubusercontent.com/u/48323959?v=4",
+        "description": "COVID-19 Lung Segmentation"
     },
     {
         "uid": "github/Sulstice/cocktail-shaker",
@@ -4718,6 +4823,13 @@
         "description": "pure-Python HistFactory implementation with tensors and autodiff"
     },
     {
+        "uid": "github/antoinediez/Sisyphe",
+        "url": "https://github.com/antoinediez/Sisyphe",
+        "rel": "/software/repository/github/antoinediez/Sisyphe",
+        "avatar": "https://avatars.githubusercontent.com/u/70896255?v=4",
+        "description": "Simulation of Systems of interacting mean-field Particles with High Efficiency"
+    },
+    {
         "uid": "github/ArenA-Crowds/Crowds",
         "url": "https://github.com/ArenA-Crowds/Crowds",
         "rel": "/software/repository/github/ArenA-Crowds/Crowds",
@@ -4786,6 +4898,13 @@
         "rel": "/software/repository/github/21cmFAST/21cmFAST",
         "avatar": "https://avatars1.githubusercontent.com/u/51762336?v=4",
         "description": "Official repository for 21cmFAST: a code for generating fast simulations of the cosmological 21cm signal"
+    },
+    {
+        "uid": "github/phenology/cgc",
+        "url": "https://github.com/phenology/cgc",
+        "rel": "/software/repository/github/phenology/cgc",
+        "avatar": "https://avatars.githubusercontent.com/u/26253666?v=4",
+        "description": "A clustering tool for geospatial applications"
     },
     {
         "uid": "github/timoast/signac",
