@@ -434,6 +434,13 @@
         "description": "Methods for detecting safety signals in clinical trials using groupings of adverse events by body-system or system organ class."
     },
     {
+        "uid": "github/EddyRivasLab/hmmer",
+        "url": "https://github.com/EddyRivasLab/hmmer",
+        "rel": "/software/repository/github/EddyRivasLab/hmmer",
+        "avatar": "https://avatars.githubusercontent.com/u/13962260?v=4",
+        "description": "HMMER: biological sequence analysis using profile HMMs"
+    },
+    {
         "uid": "github/msalibian/RBF",
         "url": "https://github.com/msalibian/RBF",
         "rel": "/software/repository/github/msalibian/RBF",
@@ -1442,6 +1449,13 @@
         "description": "Tools for bioGUI (e.g. CWL Parser/argparse2biogui/...)"
     },
     {
+        "uid": "github/Open-ET/flux-data-qaqc",
+        "url": "https://github.com/Open-ET/flux-data-qaqc",
+        "rel": "/software/repository/github/Open-ET/flux-data-qaqc",
+        "avatar": "https://avatars.githubusercontent.com/u/18035656?v=4",
+        "description": "Energy Balance Closure Analysis and Eddy Flux Data Post-Processing"
+    },
+    {
         "uid": "github/BartoszBartmanski/StoSpa2",
         "url": "https://github.com/BartoszBartmanski/StoSpa2",
         "rel": "/software/repository/github/BartoszBartmanski/StoSpa2",
@@ -1855,6 +1869,13 @@
         "description": null
     },
     {
+        "uid": "github/Jinsl-lab/SDImpute",
+        "url": "https://github.com/Jinsl-lab/SDImpute",
+        "rel": "/software/repository/github/Jinsl-lab/SDImpute",
+        "avatar": "https://avatars.githubusercontent.com/u/65643584?v=4",
+        "description": "A R package."
+    },
+    {
         "uid": "github/conda-forge/conda-smithy",
         "url": "https://github.com/conda-forge/conda-smithy",
         "rel": "/software/repository/github/conda-forge/conda-smithy",
@@ -1874,6 +1895,13 @@
         "rel": "/software/repository/github/mariakotouza/TRIP-Tool",
         "avatar": "https://avatars0.githubusercontent.com/u/22618154?v=4",
         "description": "Antigen receptor gene profiler: A software framework that provides analytics services on NGS Data"
+    },
+    {
+        "uid": "github/DrafProject/elmada",
+        "url": "https://github.com/DrafProject/elmada",
+        "rel": "/software/repository/github/DrafProject/elmada",
+        "avatar": "https://avatars.githubusercontent.com/u/62054152?v=4",
+        "description": "elmada: Dynamic electricity carbon emission factors and prices for Europe"
     },
     {
         "uid": "github/spectralcode/OCTproZ",
@@ -2007,6 +2035,13 @@
         "rel": "/software/repository/github/mingzehuang/latentcor",
         "avatar": "https://avatars.githubusercontent.com/u/70076112?v=4",
         "description": "latentcor is an R package provides estimation for latent correlation with mixed data types (continuous, binary, truncated and ternary)."
+    },
+    {
+        "uid": "github/EskelandLab/ShinyArchRUiO",
+        "url": "https://github.com/EskelandLab/ShinyArchRUiO",
+        "rel": "/software/repository/github/EskelandLab/ShinyArchRUiO",
+        "avatar": "https://avatars.githubusercontent.com/u/84804829?v=4",
+        "description": null
     },
     {
         "uid": "github/OpenMDAO/dymos",
@@ -3696,6 +3731,13 @@
         "description": "hecatomb is a virome analysis pipeline for analysis of Illumina sequence data"
     },
     {
+        "uid": "github/VBlesius/RHRT",
+        "url": "https://github.com/VBlesius/RHRT",
+        "rel": "/software/repository/github/VBlesius/RHRT",
+        "avatar": "https://avatars.githubusercontent.com/u/71442854?v=4",
+        "description": "R package to assess Heart Rate Turbulence from RR interval data"
+    },
+    {
         "uid": "github/datalad/datalad",
         "url": "https://github.com/datalad/datalad",
         "rel": "/software/repository/github/datalad/datalad",
@@ -4760,6 +4802,13 @@
         "description": "A fast Python based just-in-time compiling boundary element library"
     },
     {
+        "uid": "github/AlexanderBartholomaeus/smORFer",
+        "url": "https://github.com/AlexanderBartholomaeus/smORFer",
+        "rel": "/software/repository/github/AlexanderBartholomaeus/smORFer",
+        "avatar": "https://avatars.githubusercontent.com/u/36157612?v=4",
+        "description": null
+    },
+    {
         "uid": "github/erikbern/ann-benchmarks",
         "url": "https://github.com/erikbern/ann-benchmarks",
         "rel": "/software/repository/github/erikbern/ann-benchmarks",
@@ -5215,6 +5264,13 @@
         "description": null
     },
     {
+        "uid": "github/abelson-lab/smMIP-tools",
+        "url": "https://github.com/abelson-lab/smMIP-tools",
+        "rel": "/software/repository/github/abelson-lab/smMIP-tools",
+        "avatar": "https://avatars.githubusercontent.com/u/49252737?v=4",
+        "description": null
+    },
+    {
         "uid": "github/wvanzeist/riroriro",
         "url": "https://github.com/wvanzeist/riroriro",
         "rel": "/software/repository/github/wvanzeist/riroriro",
@@ -5311,6 +5367,13 @@
         "rel": "/software/repository/github/logological/gpp",
         "avatar": "https://avatars2.githubusercontent.com/u/831326?v=4",
         "description": "GPP, a generic preprocessor"
+    },
+    {
+        "uid": "github/soraxas/sbp-env",
+        "url": "https://github.com/soraxas/sbp-env",
+        "rel": "/software/repository/github/soraxas/sbp-env",
+        "avatar": "https://avatars.githubusercontent.com/u/22362177?v=4",
+        "description": "Motion planning environment for Sampling-based Planners"
     },
     {
         "uid": "github/sap218/jabberwocky",
@@ -5782,6 +5845,13 @@
         "description": "Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University."
     },
     {
+        "uid": "github/MesserLab/SLiM",
+        "url": "https://github.com/MesserLab/SLiM",
+        "rel": "/software/repository/github/MesserLab/SLiM",
+        "avatar": "https://avatars.githubusercontent.com/u/10171238?v=4",
+        "description": "SLiM is a genetically explicit forward simulation software package for population genetics and evolutionary biology.  It is highly flexible, with a built-in scripting language, and has a cross-platform graphical modeling environment called SLiMgui."
+    },
+    {
         "uid": "github/climate-machine/Oceananigans.jl",
         "url": "https://github.com/CliMA/Oceananigans.jl",
         "rel": "/software/repository/github/climate-machine/Oceananigans.jl",
@@ -5950,6 +6020,13 @@
         "description": "Deezer source separation library including pretrained models."
     },
     {
+        "uid": "github/alexander-shen/rtest",
+        "url": "https://github.com/alexander-shen/rtest",
+        "rel": "/software/repository/github/alexander-shen/rtest",
+        "avatar": "https://avatars.githubusercontent.com/u/17458053?v=4",
+        "description": "Robust tests of randomness adapted from different sources"
+    },
+    {
         "uid": "github/SofieVG/FlowSOM",
         "url": "https://github.com/SofieVG/FlowSOM",
         "rel": "/software/repository/github/SofieVG/FlowSOM",
@@ -6060,6 +6137,13 @@
         "rel": "/software/repository/github/bshoshany/OGRe",
         "avatar": "https://avatars.githubusercontent.com/u/61846320?v=4",
         "description": "An object-oriented general relativity package for Mathematica."
+    },
+    {
+        "uid": "github/amkram/shusher",
+        "url": "https://github.com/amkram/shusher",
+        "rel": "/software/repository/github/amkram/shusher",
+        "avatar": "https://avatars.githubusercontent.com/u/6502785?v=4",
+        "description": "Private, browser-based placement of genome sequences on phylogenetic trees using UShER."
     },
     {
         "uid": "github/networkx/networkx",
@@ -6249,6 +6333,13 @@
         "rel": "/software/repository/gitlab/ChemBioHub/tpmap",
         "avatar": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/18237261/favicon.png",
         "description": "Thermal Profiling Meltome Analysis Program"
+    },
+    {
+        "uid": "gitlab/jason-rumengan/pyarma",
+        "url": "https://gitlab.com/jason-rumengan/pyarma",
+        "rel": "/software/repository/gitlab/jason-rumengan/pyarma",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/22728285/pyarma_logo1.png",
+        "description": "PyArmadillo - linear algebra library for Python with MATLAB-like syntax - https://pyarma.sourceforge.io"
     },
     {
         "uid": "gitlab/davidtourigny/dynamic-fba",
