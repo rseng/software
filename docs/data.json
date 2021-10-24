@@ -1099,6 +1099,13 @@
         "description": "Tools for maintaining predefined membrane curvature in MD simulations"
     },
     {
+        "uid": "github/aranyics/ReDCM",
+        "url": "https://github.com/aranyics/ReDCM",
+        "rel": "/software/repository/github/aranyics/ReDCM",
+        "avatar": "https://avatars.githubusercontent.com/u/9675098?v=4",
+        "description": "Reimplementation of DCM12 algorithm in R language"
+    },
+    {
         "uid": "github/vavrines/Kinetic.jl",
         "url": "https://github.com/vavrines/Kinetic.jl",
         "rel": "/software/repository/github/vavrines/Kinetic.jl",
@@ -1419,6 +1426,13 @@
         "rel": "/software/repository/github/buschlab/fhirspark",
         "avatar": "https://avatars.githubusercontent.com/u/41995646?v=4",
         "description": null
+    },
+    {
+        "uid": "github/Shyentist/fish-r-man",
+        "url": "https://github.com/Shyentist/fish-r-man",
+        "rel": "/software/repository/github/Shyentist/fish-r-man",
+        "avatar": "https://avatars.githubusercontent.com/u/44335296?v=4",
+        "description": "Open-Source Shiny R Dashboard to easily query, download, analyse and visualise Global Fishing Watch data on fishing effort."
     },
     {
         "uid": "github/brian-lau/MatlabAUC",
@@ -2079,6 +2093,13 @@
         "description": "Python library for reading SWIFT data. Uses unyt and h5py."
     },
     {
+        "uid": "github/GunzIvan28/rMAP",
+        "url": "https://github.com/GunzIvan28/rMAP",
+        "rel": "/software/repository/github/GunzIvan28/rMAP",
+        "avatar": "https://avatars.githubusercontent.com/u/32091245?v=4",
+        "description": "Bacterial analysis Toolbox for profiling the Resistome of ESKAPE pathogens using WGS"
+    },
+    {
         "uid": "github/PyTables/PyTables",
         "url": "https://github.com/PyTables/PyTables",
         "rel": "/software/repository/github/PyTables/PyTables",
@@ -2343,6 +2364,13 @@
         "rel": "/software/repository/github/online-behaviour/machine-learning",
         "avatar": "https://avatars3.githubusercontent.com/u/26790167?v=4",
         "description": "Python scripts for tweet retrieval and machine learning in the eScience project Automated Analysis of Online Behaviour on Social Media"
+    },
+    {
+        "uid": "github/felixchenier/kineticstoolkit",
+        "url": "https://github.com/felixchenier/kineticstoolkit",
+        "rel": "/software/repository/github/felixchenier/kineticstoolkit",
+        "avatar": "https://avatars.githubusercontent.com/u/34967663?v=4",
+        "description": "Kinetics Toolkit is an open-source, pure-python package of integrated classes and functions that aims to facilitate research in biomechanics using python."
     },
     {
         "uid": "github/reproducible-biomedical-modeling/Biosimulations",
@@ -2828,6 +2856,13 @@
         "description": "The public CGAL repository, see the README below"
     },
     {
+        "uid": "github/opimwue/ddop",
+        "url": "https://github.com/opimwue/ddop",
+        "rel": "/software/repository/github/opimwue/ddop",
+        "avatar": "https://avatars.githubusercontent.com/u/83957455?v=4",
+        "description": "https://opimwue.github.io/ddop/."
+    },
+    {
         "uid": "github/KULL-Centre/DEERpredict",
         "url": "https://github.com/KULL-Centre/DEERpredict",
         "rel": "/software/repository/github/KULL-Centre/DEERpredict",
@@ -2924,6 +2959,13 @@
         "rel": "/software/repository/github/dnafinder/uroccomp",
         "avatar": "https://avatars.githubusercontent.com/u/37176275?v=4",
         "description": "Compare two unpaired ROC curves"
+    },
+    {
+        "uid": "github/equipeGST/RiboDoc",
+        "url": "https://github.com/equipeGST/RiboDoc",
+        "rel": "/software/repository/github/equipeGST/RiboDoc",
+        "avatar": "https://avatars.githubusercontent.com/u/75135539?v=4",
+        "description": "Docker based tool for ribosome profiling (RiboSeq) analysis"
     },
     {
         "uid": "github/EcoJulia/EcologicalNetworks.jl",
@@ -3556,6 +3598,13 @@
         "description": "Python translation of MOSART-WM: a water routing and management model"
     },
     {
+        "uid": "github/IMMM-SFA/gamut",
+        "url": "https://github.com/IMMM-SFA/gamut",
+        "rel": "/software/repository/github/IMMM-SFA/gamut",
+        "avatar": "https://avatars.githubusercontent.com/u/31457237?v=4",
+        "description": "An R package to identify multi-sector teleconnection complexity"
+    },
+    {
         "uid": "github/c3s-magic/c3s-magic-wps",
         "url": "https://github.com/c3s-magic/c3s-magic-wps",
         "rel": "/software/repository/github/c3s-magic/c3s-magic-wps",
@@ -4102,6 +4151,13 @@
         "description": "Deploy GlusterFS, Docker, Spark and JupyterHub services on bare-metal cluster."
     },
     {
+        "uid": "github/agombolay/ribose-map",
+        "url": "https://github.com/agombolay/ribose-map",
+        "rel": "/software/repository/github/agombolay/ribose-map",
+        "avatar": "https://avatars.githubusercontent.com/u/13037968?v=4",
+        "description": null
+    },
+    {
         "uid": "github/nedRad88/SCALAR",
         "url": "https://github.com/nedRad88/SCALAR",
         "rel": "/software/repository/github/nedRad88/SCALAR",
@@ -4422,6 +4478,13 @@
         "rel": "/software/repository/github/JonasRieger/ldaPrototype",
         "avatar": "https://avatars0.githubusercontent.com/u/23215382?v=4",
         "description": "Determine a Prototype from a number of runs of Latent Dirichlet Allocation (LDA) measuring its similarities with S-CLOP: A procedure to select the LDA run with highest mean pairwise similarity, which is measured by S-CLOP (Similarity of multiple sets by Clustering with Local Pruning), to all other runs."
+    },
+    {
+        "uid": "github/ArneTillmann/AuDoLab",
+        "url": "https://github.com/ArneTillmann/AuDoLab",
+        "rel": "/software/repository/github/ArneTillmann/AuDoLab",
+        "avatar": "https://avatars.githubusercontent.com/u/36853006?v=4",
+        "description": null
     },
     {
         "uid": "github/SCM-NV/qmflows-namd",
@@ -5355,6 +5418,13 @@
         "description": "Open Source v1 for the Hyper-Elastic Mass Links (HEML) software"
     },
     {
+        "uid": "github/thomgrand/fim-python",
+        "url": "https://github.com/thomgrand/fim-python",
+        "rel": "/software/repository/github/thomgrand/fim-python",
+        "avatar": "https://avatars.githubusercontent.com/u/73308131?v=4",
+        "description": "This repository implements the Fast Iterative Method (FIM) for use in python"
+    },
+    {
         "uid": "github/bihealth/sodar_core",
         "url": "https://github.com/bihealth/sodar_core",
         "rel": "/software/repository/github/bihealth/sodar_core",
@@ -6011,6 +6081,13 @@
         "rel": "/software/repository/github/pymc-devs/pymc3",
         "avatar": "https://avatars3.githubusercontent.com/u/81121?v=4",
         "description": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano"
+    },
+    {
+        "uid": "github/MaayanLab/signature-commons-ui",
+        "url": "https://github.com/MaayanLab/signature-commons-ui",
+        "rel": "/software/repository/github/MaayanLab/signature-commons-ui",
+        "avatar": "https://avatars.githubusercontent.com/u/5282243?v=4",
+        "description": "A front-end UI for demoing API integration"
     },
     {
         "uid": "github/deezer/spleeter",
