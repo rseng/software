@@ -168,6 +168,13 @@
         "description": null
     },
     {
+        "uid": "github/athulpg007/AMAT",
+        "url": "https://github.com/athulpg007/AMAT",
+        "rel": "/software/repository/github/athulpg007/AMAT",
+        "avatar": "https://avatars.githubusercontent.com/u/6537239?v=4",
+        "description": "Home of the Aerocapture Mission Analysis Tool (AMAT). For project documentation visit:"
+    },
+    {
         "uid": "github/RaRe-Technologies/gensim",
         "url": "https://github.com/RaRe-Technologies/gensim",
         "rel": "/software/repository/github/RaRe-Technologies/gensim",
@@ -182,6 +189,13 @@
         "description": "Multiphysics Object Oriented Simulation Environment"
     },
     {
+        "uid": "github/richteague/disksurf",
+        "url": "https://github.com/richteague/disksurf",
+        "rel": "/software/repository/github/richteague/disksurf",
+        "avatar": "https://avatars.githubusercontent.com/u/16056713?v=4",
+        "description": "Measure the molecular emission surface of protoplanetary disks. Based on Pinte et al. (2018)."
+    },
+    {
         "uid": "github/tidymodels/infer",
         "url": "https://github.com/tidymodels/infer",
         "rel": "/software/repository/github/tidymodels/infer",
@@ -194,6 +208,13 @@
         "rel": "/software/repository/github/votca/xtp",
         "avatar": "https://avatars0.githubusercontent.com/u/4510560?v=4",
         "description": "GW-BSE for excited state Quantum Chemistry in a Gaussian Orbital basis, electronic spectroscopy with QM/MM, charge and energy dynamics in complex molecular systems"
+    },
+    {
+        "uid": "github/elkebir-group/Jumper",
+        "url": "https://github.com/elkebir-group/Jumper",
+        "rel": "/software/repository/github/elkebir-group/Jumper",
+        "avatar": "https://avatars.githubusercontent.com/u/37197144?v=4",
+        "description": "Discontinuous Transcript Assembly in Nidovirales"
     },
     {
         "uid": "github/KALMUS-Color-Toolkit/KALMUS",
@@ -334,6 +355,13 @@
         "rel": "/software/repository/github/JoelForamitti/agentpy",
         "avatar": "https://avatars.githubusercontent.com/u/57440945?v=4",
         "description": "AgentPy is an open-source framework for the development and analysis of agent-based models in Python."
+    },
+    {
+        "uid": "github/hetalang/heta-compiler",
+        "url": "https://github.com/hetalang/heta-compiler",
+        "rel": "/software/repository/github/hetalang/heta-compiler",
+        "avatar": "https://avatars.githubusercontent.com/u/56396891?v=4",
+        "description": "Software tool for the compilation of Heta-based QSP modeling platform"
     },
     {
         "uid": "github/HUST-NingKang-Lab/ONN4MST",
@@ -581,6 +609,13 @@
         "description": "Parsl - Parallel Scripting Library"
     },
     {
+        "uid": "github/lantunes/cellpylib",
+        "url": "https://github.com/lantunes/cellpylib",
+        "rel": "/software/repository/github/lantunes/cellpylib",
+        "avatar": "https://avatars.githubusercontent.com/u/788494?v=4",
+        "description": "A library for working with Cellular Automata, for Python."
+    },
+    {
         "uid": "github/pokynmr/ipick",
         "url": "https://github.com/pokynmr/iPick",
         "rel": "/software/repository/github/pokynmr/ipick",
@@ -775,6 +810,13 @@
         "rel": "/software/repository/github/STEllAR-GROUP/hpx",
         "avatar": "https://avatars1.githubusercontent.com/u/1780988?v=4",
         "description": "The C++ Standard Library for Parallelism and Concurrency"
+    },
+    {
+        "uid": "github/raredd/kmdata",
+        "url": "https://github.com/raredd/kmdata",
+        "rel": "/software/repository/github/raredd/kmdata",
+        "avatar": "https://avatars.githubusercontent.com/u/6332718?v=4",
+        "description": "kmdata: A Database of Reconstructed Individual Patient Level Data from 153 Oncology Clinical trials"
     },
     {
         "uid": "github/rgerum/pylustrator",
@@ -1083,6 +1125,13 @@
         "rel": "/software/repository/github/atomneb/AtomNeb-py",
         "avatar": "https://avatars2.githubusercontent.com/u/23319970?v=4",
         "description": "AtomNeb - Python Package for Atomic Data of Ionized Nebulae"
+    },
+    {
+        "uid": "github/flosalbizziae/kataegis",
+        "url": "https://github.com/flosalbizziae/kataegis",
+        "rel": "/software/repository/github/flosalbizziae/kataegis",
+        "avatar": "https://avatars.githubusercontent.com/u/10743837?v=4",
+        "description": null
     },
     {
         "uid": "github/niceume/datasailr",
@@ -1517,6 +1566,13 @@
         "rel": "/software/repository/github/ArenA-Crowds/Crowds",
         "avatar": "https://avatars1.githubusercontent.com/u/27482561?v=4",
         "description": "Jupyter python notebooks related to the ArenA project"
+    },
+    {
+        "uid": "github/reality/klarigi",
+        "url": "https://github.com/reality/klarigi",
+        "rel": "/software/repository/github/reality/klarigi",
+        "avatar": "https://avatars.githubusercontent.com/u/223469?v=4",
+        "description": null
     },
     {
         "uid": "github/ghislainv/forestatrisk",
@@ -4046,6 +4102,13 @@
         "description": "JS package to create a new version of a Zenodo upload with a file"
     },
     {
+        "uid": "github/jorisparet/partycls",
+        "url": "https://github.com/jorisparet/partycls",
+        "rel": "/software/repository/github/jorisparet/partycls",
+        "avatar": "https://avatars.githubusercontent.com/u/57349320?v=4",
+        "description": "Unsupervised learning of structure in systems of interacting particles."
+    },
+    {
         "uid": "github/yuansliu/minirmd",
         "url": "https://github.com/yuansliu/minirmd",
         "rel": "/software/repository/github/yuansliu/minirmd",
@@ -4816,6 +4879,13 @@
         "description": "A R package."
     },
     {
+        "uid": "github/PathwayCommons/grounding-search",
+        "url": "https://github.com/PathwayCommons/grounding-search",
+        "rel": "/software/repository/github/PathwayCommons/grounding-search",
+        "avatar": "https://avatars.githubusercontent.com/u/1605506?v=4",
+        "description": "A biological entity grounding search service "
+    },
+    {
         "uid": "github/lumen-org/lumen",
         "url": "https://github.com/lumen-org/lumen",
         "rel": "/software/repository/github/lumen-org/lumen",
@@ -4919,6 +4989,13 @@
         "rel": "/software/repository/github/donaldRwilliams/BGGM",
         "avatar": "https://avatars3.githubusercontent.com/u/19657194?v=4",
         "description": "Bayesian Gaussian Graphical Models"
+    },
+    {
+        "uid": "github/donaldRwilliams/GGMnonreg",
+        "url": "https://github.com/donaldRwilliams/GGMnonreg",
+        "rel": "/software/repository/github/donaldRwilliams/GGMnonreg",
+        "avatar": "https://avatars.githubusercontent.com/u/19657194?v=4",
+        "description": null
     },
     {
         "uid": "github/ylab-hi/ScanITD",
@@ -5397,6 +5474,13 @@
         "description": "Satsense is a Python library for land use/cover classification using satellite imagery"
     },
     {
+        "uid": "github/SJTU-CGM/ivTerm",
+        "url": "https://github.com/SJTU-CGM/ivTerm",
+        "rel": "/software/repository/github/SJTU-CGM/ivTerm",
+        "avatar": "https://avatars.githubusercontent.com/u/10217715?v=4",
+        "description": null
+    },
+    {
         "uid": "github/soedinglab/hh-suite",
         "url": "https://github.com/soedinglab/hh-suite",
         "rel": "/software/repository/github/soedinglab/hh-suite",
@@ -5745,6 +5829,13 @@
         "rel": "/software/repository/github/lnferris/ocean_data_tools",
         "avatar": "https://avatars1.githubusercontent.com/u/24570061?v=4",
         "description": "A MATLAB toolbox for interacting with bulk freely-available oceanographic data."
+    },
+    {
+        "uid": "github/ropensci/cffr",
+        "url": "https://github.com/ropensci/cffr",
+        "rel": "/software/repository/github/ropensci/cffr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Generate Citation File Format (cff) Metadata for R Packages"
     },
     {
         "uid": "github/ropensci/plotly",
@@ -6102,6 +6193,13 @@
         "rel": "/software/repository/github/adithirgis/pollucheck",
         "avatar": "https://avatars.githubusercontent.com/u/63432077?v=4",
         "description": "This application helps exploring the open source air quality data."
+    },
+    {
+        "uid": "github/azizka/IUCNN",
+        "url": "https://github.com/IUCNN/IUCNN",
+        "rel": "/software/repository/github/azizka/IUCNN",
+        "avatar": "https://avatars.githubusercontent.com/u/90766685?v=4",
+        "description": " Train neural networks based on geographic species occurrences, environmental data and existing IUCN Red List assessments to predict the conservation status of \"Not Evaluated\" or \"Data Deficient\" species, for any taxon or geographic region of interest. https://iucnn.github.io/IUCNN/"
     },
     {
         "uid": "github/somefunAgba/NLSIG-COVID19Lab",
