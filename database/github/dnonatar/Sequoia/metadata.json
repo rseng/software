@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/dnonatar/Sequoia",
+    "url": "https://github.com/dnonatar/Sequoia",
+    "data": {
+        "timestamp": "2021-11-21 00:36:21.320242",
+        "name": "Sequoia",
+        "url": "https://api.github.com/repos/dnonatar/Sequoia",
+        "full_name": "dnonatar/Sequoia",
+        "html_url": "https://github.com/dnonatar/Sequoia",
+        "private": false,
+        "description": null,
+        "created_at": "2019-06-09T05:09:06Z",
+        "updated_at": "2021-05-26T19:37:26Z",
+        "clone_url": "https://github.com/dnonatar/Sequoia.git",
+        "homepage": null,
+        "size": 1550,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "HTML",
+        "open_issues_count": 1,
+        "license": null,
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/dnonatar",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19934223?v=4",
+            "login": "dnonatar",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1186/S12864-021-07791-Z"
+}
