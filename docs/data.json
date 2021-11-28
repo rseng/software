@@ -686,6 +686,13 @@
         "description": "Tool for assessing/improving assembly quality in extra-long tandem repeats"
     },
     {
+        "uid": "github/pikarpov-LANL/Sapsan",
+        "url": "https://github.com/pikarpov-LANL/Sapsan",
+        "rel": "/software/repository/github/pikarpov-LANL/Sapsan",
+        "avatar": "https://avatars.githubusercontent.com/u/57731529?v=4",
+        "description": "ML-based turbulence modeling for astrophysics"
+    },
+    {
         "uid": "github/jbuisine/macop",
         "url": "https://github.com/jbuisine/macop",
         "rel": "/software/repository/github/jbuisine/macop",
@@ -1069,6 +1076,13 @@
         "rel": "/software/repository/github/dpalmasan/TRUNAJOD2.0",
         "avatar": "https://avatars.githubusercontent.com/u/8723534?v=4",
         "description": "An easy-to-use library to extract indices from texts."
+    },
+    {
+        "uid": "github/savage13/sacio",
+        "url": "https://github.com/savage13/sacio",
+        "rel": "/software/repository/github/savage13/sacio",
+        "avatar": "https://avatars.githubusercontent.com/u/126514?v=4",
+        "description": "sacio library"
     },
     {
         "uid": "github/spinicist/riesling",
@@ -3437,6 +3451,13 @@
         "description": "Tools for common BAM file manipulations"
     },
     {
+        "uid": "github/wmalab/EnHiC",
+        "url": "https://github.com/wmalab/EnHiC",
+        "rel": "/software/repository/github/wmalab/EnHiC",
+        "avatar": "https://avatars.githubusercontent.com/u/59233777?v=4",
+        "description": "Enhancing Hi-C matrix resolution"
+    },
+    {
         "uid": "github/rodluger/starry_process",
         "url": "https://github.com/rodluger/starry_process",
         "rel": "/software/repository/github/rodluger/starry_process",
@@ -3939,6 +3960,13 @@
         "rel": "/software/repository/github/r-spatial/rgee",
         "avatar": "https://avatars3.githubusercontent.com/u/25086656?v=4",
         "description": "Google Earth Engine for R"
+    },
+    {
+        "uid": "github/cjneely10/EukMetaSanity",
+        "url": "https://github.com/cjneely10/EukMetaSanity",
+        "rel": "/software/repository/github/cjneely10/EukMetaSanity",
+        "avatar": "https://avatars.githubusercontent.com/u/31027651?v=4",
+        "description": "Structural and functional annotation of eukaryotic metagenome-assembled genomes"
     },
     {
         "uid": "github/NCIP/visda",
@@ -4991,6 +5019,13 @@
         "description": "CalibraCurve"
     },
     {
+        "uid": "github/joergbuchwald/joss_ogs6py_VTUinterface",
+        "url": "https://github.com/joergbuchwald/joss_ogs6py_VTUinterface",
+        "rel": "/software/repository/github/joergbuchwald/joss_ogs6py_VTUinterface",
+        "avatar": "https://avatars.githubusercontent.com/u/44933043?v=4",
+        "description": null
+    },
+    {
         "uid": "github/refresh-bio/whisper",
         "url": "https://github.com/refresh-bio/Whisper",
         "rel": "/software/repository/github/refresh-bio/whisper",
@@ -5038,6 +5073,13 @@
         "rel": "/software/repository/github/bokeh/bokeh",
         "avatar": "https://avatars2.githubusercontent.com/u/8440965?v=4",
         "description": "Interactive Data Visualization in the browser, from  Python"
+    },
+    {
+        "uid": "github/deeprob/ThioesteraseEnzymeSpecificity",
+        "url": "https://github.com/deeprob/ThioesteraseEnzymeSpecificity",
+        "rel": "/software/repository/github/deeprob/ThioesteraseEnzymeSpecificity",
+        "avatar": "https://avatars.githubusercontent.com/u/42780724?v=4",
+        "description": null
     },
     {
         "uid": "github/FEniCS/ffcx",
@@ -5208,6 +5250,13 @@
         "description": "Remote protein homology detection suite."
     },
     {
+        "uid": "github/NarlikarLab/exoDIVERSITY",
+        "url": "https://github.com/NarlikarLab/exoDIVERSITY",
+        "rel": "/software/repository/github/NarlikarLab/exoDIVERSITY",
+        "avatar": "https://avatars.githubusercontent.com/u/14049800?v=4",
+        "description": null
+    },
+    {
         "uid": "github/JuliaLang/julia",
         "url": "https://github.com/JuliaLang/julia",
         "rel": "/software/repository/github/JuliaLang/julia",
@@ -5241,6 +5290,13 @@
         "rel": "/software/repository/github/gerthmicha/wolbachia-mlst",
         "avatar": "https://avatars2.githubusercontent.com/u/17022831?v=4",
         "description": "Data from Bleidorn & Gerth (2017) A critical re-evaluation of multilocus sequence typing (MLST) efforts in Wolbachia. https://doi.org/10.1093/femsec/fix163"
+    },
+    {
+        "uid": "github/llrs/experDesign",
+        "url": "https://github.com/llrs/experDesign",
+        "rel": "/software/repository/github/llrs/experDesign",
+        "avatar": "https://avatars.githubusercontent.com/u/6818218?v=4",
+        "description": "Design experiments distributed in several batches"
     },
     {
         "uid": "github/brian-lau/MatlabAUC",
@@ -6144,6 +6200,13 @@
         "rel": "/software/repository/github/PyTables/PyTables",
         "avatar": "https://avatars1.githubusercontent.com/u/828302?v=4",
         "description": "A Python package to manage extremely large amounts of data"
+    },
+    {
+        "uid": "github/SNEWS2/snewpy",
+        "url": "https://github.com/SNEWS2/snewpy",
+        "rel": "/software/repository/github/SNEWS2/snewpy",
+        "avatar": "https://avatars.githubusercontent.com/u/56884608?v=4",
+        "description": "collection of models from the community in common format for use by the SNEWS teams"
     },
     {
         "uid": "github/jacobmerson/model-traits",
