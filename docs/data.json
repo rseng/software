@@ -42,6 +42,13 @@
         "description": "Thermal Profiling Meltome Analysis Program"
     },
     {
+        "uid": "gitlab/mainlabwsu/bims",
+        "url": "https://gitlab.com/mainlabwsu/bims",
+        "rel": "/software/repository/gitlab/mainlabwsu/bims",
+        "avatar": "https://gitlab.comNone",
+        "description": "BIMS"
+    },
+    {
         "uid": "gitlab/vincent-sater/umigen",
         "url": "https://gitlab.com/vincent-sater/umigen",
         "rel": "/software/repository/gitlab/vincent-sater/umigen",
@@ -110,6 +117,13 @@
         "rel": "/software/repository/gitlab/jason-rumengan/pyarma",
         "avatar": "https://gitlab.com/uploads/-/system/project/avatar/22728285/pyarma_logo1.png",
         "description": "PyArmadillo - linear algebra library for Python with MATLAB-like syntax - https://pyarma.sourceforge.io"
+    },
+    {
+        "uid": "gitlab/remram44/taguette",
+        "url": "https://gitlab.com/remram44/taguette",
+        "rel": "/software/repository/gitlab/remram44/taguette",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/8339211/taguette.png",
+        "description": "Free and open source qualitative research tool"
     },
     {
         "uid": "gitlab/emd-dev/emd",
@@ -593,6 +607,13 @@
         "rel": "/software/repository/github/deeprob/ThioesteraseEnzymeSpecificity",
         "avatar": "https://avatars.githubusercontent.com/u/42780724?v=4",
         "description": null
+    },
+    {
+        "uid": "github/alicia-ziying-yang/conTEXT-explorer",
+        "url": "https://github.com/alicia-ziying-yang/conTEXT-explorer",
+        "rel": "/software/repository/github/alicia-ziying-yang/conTEXT-explorer",
+        "avatar": "https://avatars.githubusercontent.com/u/81403454?v=4",
+        "description": "ConTEXT Explorer is an open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents."
     },
     {
         "uid": "github/aspuru-guzik-group/funsies",
@@ -3815,6 +3836,13 @@
         "description": "Quickly download, clean up, and install public datasets into a database management system"
     },
     {
+        "uid": "github/Music-and-Culture-Technology-Lab/omnizart",
+        "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
+        "rel": "/software/repository/github/Music-and-Culture-Technology-Lab/omnizart",
+        "avatar": "https://avatars.githubusercontent.com/u/46015501?v=4",
+        "description": "Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more."
+    },
+    {
         "uid": "github/elixir-luxembourg/daisy",
         "url": "https://github.com/elixir-luxembourg/daisy",
         "rel": "/software/repository/github/elixir-luxembourg/daisy",
@@ -3825,6 +3853,13 @@
         "uid": "github/ziyewang/MetaBinner",
         "url": "https://github.com/ziyewang/MetaBinner",
         "rel": "/software/repository/github/ziyewang/MetaBinner",
+        "avatar": "https://avatars.githubusercontent.com/u/37959011?v=4",
+        "description": null
+    },
+    {
+        "uid": "github/ziyewang/ARG_SHINE",
+        "url": "https://github.com/ziyewang/ARG_SHINE",
+        "rel": "/software/repository/github/ziyewang/ARG_SHINE",
         "avatar": "https://avatars.githubusercontent.com/u/37959011?v=4",
         "description": null
     },
@@ -3988,6 +4023,13 @@
         "rel": "/software/repository/github/qMRLab/qMRLab",
         "avatar": "https://avatars3.githubusercontent.com/u/42773796?v=4",
         "description": "Quantitative Magnetic Resonance Imaging Made Easy with qMRLab: a Software for Data Simulation, Analysis and Visualization"
+    },
+    {
+        "uid": "github/r-spatialecology/shar",
+        "url": "https://github.com/r-spatialecology/shar",
+        "rel": "/software/repository/github/r-spatialecology/shar",
+        "avatar": "https://avatars.githubusercontent.com/u/42056187?v=4",
+        "description": ":package: Analyse species-habitat associations in R"
     },
     {
         "uid": "github/xoopR/set6",
@@ -4172,6 +4214,13 @@
         "description": "A matlab package for automated sleep scoring using the k-nearest neighbors algorithm"
     },
     {
+        "uid": "github/UcarLab/AMULET",
+        "url": "https://github.com/UcarLab/AMULET",
+        "rel": "/software/repository/github/UcarLab/AMULET",
+        "avatar": "https://avatars.githubusercontent.com/u/16825298?v=4",
+        "description": "A count based method for detecting doublets from single nucleus ATAC-seq (snATAC-seq) data."
+    },
+    {
         "uid": "github/multiscale/muscle3",
         "url": "https://github.com/multiscale/muscle3",
         "rel": "/software/repository/github/multiscale/muscle3",
@@ -4303,6 +4352,13 @@
         "rel": "/software/repository/github/felixchenier/kineticstoolkit",
         "avatar": "https://avatars.githubusercontent.com/u/34967663?v=4",
         "description": "Kinetics Toolkit is an open-source, pure-python package of integrated classes and functions that aims to facilitate research in biomechanics using python."
+    },
+    {
+        "uid": "github/Merck/BioPhi",
+        "url": "https://github.com/Merck/BioPhi",
+        "rel": "/software/repository/github/Merck/BioPhi",
+        "avatar": "https://avatars.githubusercontent.com/u/7306189?v=4",
+        "description": "BioPhi is an open-source antibody design platform. It features methods for automated antibody humanization (Sapiens), humanness evaluation (OASis) and an interface for computer-assisted antibody sequence design."
     },
     {
         "uid": "github/scipy/scipy",
@@ -5019,6 +5075,13 @@
         "description": "FielDHub is an R Shiny design of experiments (DOE) app that aids in the creation of traditional, unreplicated, augmented and partially-replicated designs applied to agriculture, plant breeding, forestry, animal and biological sciences."
     },
     {
+        "uid": "github/GRChombo/GRChombo",
+        "url": "https://github.com/GRChombo/GRChombo",
+        "rel": "/software/repository/github/GRChombo/GRChombo",
+        "avatar": "https://avatars.githubusercontent.com/u/11063947?v=4",
+        "description": "An AMR based open-source code for numerical relativity simulations."
+    },
+    {
         "uid": "github/egonw/bacting",
         "url": "https://github.com/egonw/bacting",
         "rel": "/software/repository/github/egonw/bacting",
@@ -5444,6 +5507,13 @@
         "rel": "/software/repository/github/krober10nd/SeismicMesh",
         "avatar": "https://avatars.githubusercontent.com/u/18619644?v=4",
         "description": "2D/3D serial and parallel triangular mesh generation tool for Finite Element Methods."
+    },
+    {
+        "uid": "github/raspishake/rsudp",
+        "url": "https://github.com/raspishake/rsudp",
+        "rel": "/software/repository/github/raspishake/rsudp",
+        "avatar": "https://avatars.githubusercontent.com/u/26871117?v=4",
+        "description": "Continuous visual display, sudden motion monitoring, and historical replay of Raspberry Shake data"
     },
     {
         "uid": "github/jboynyc/textnets",
@@ -6235,6 +6305,13 @@
         "rel": "/software/repository/github/openjournals/joss",
         "avatar": "https://avatars3.githubusercontent.com/u/9032431?v=4",
         "description": "The Journal of Open Source Software"
+    },
+    {
+        "uid": "github/fabian-sp/GGLasso",
+        "url": "https://github.com/fabian-sp/GGLasso",
+        "rel": "/software/repository/github/fabian-sp/GGLasso",
+        "avatar": "https://avatars.githubusercontent.com/u/51907567?v=4",
+        "description": "Implementations for solving the Group and Fused Graphical Lasso problem"
     },
     {
         "uid": "github/tgrimes/SeqNet",
