@@ -91,6 +91,13 @@
         "description": "A tool to call somatic single nucleotide variants."
     },
     {
+        "uid": "github/rpmccordlab/CoSTA",
+        "url": "https://github.com/rpmccordlab/CoSTA",
+        "rel": "/software/repository/github/rpmccordlab/CoSTA",
+        "avatar": "https://avatars.githubusercontent.com/u/68395161?v=4",
+        "description": "CoSTA: Unsupervised Convolutional Neural Network Learning for Spatial Transcriptomics Analysis"
+    },
+    {
         "uid": "github/atomneb/AtomNeb-py",
         "url": "https://github.com/atomneb/AtomNeb-py",
         "rel": "/software/repository/github/atomneb/AtomNeb-py",
@@ -649,6 +656,13 @@
         "rel": "/software/repository/github/coljac/sensie",
         "avatar": "https://avatars3.githubusercontent.com/u/191407?v=4",
         "description": "Toolset for probing the sensitivity of a deep neural network model to various properties of the data."
+    },
+    {
+        "uid": "github/klevis-a/kinematics-vis",
+        "url": "https://github.com/klevis-a/kinematics-vis",
+        "rel": "/software/repository/github/klevis-a/kinematics-vis",
+        "avatar": "https://avatars.githubusercontent.com/u/22669455?v=4",
+        "description": "JavaScript application for visualizing and analyzing shoulder joint kinematics"
     },
     {
         "uid": "github/rhayes777/PyAutoFit",
@@ -1407,6 +1421,13 @@
         "description": "Effortless method to record provenance in Python"
     },
     {
+        "uid": "github/hsci-r/finnish-media-scrapers",
+        "url": "https://github.com/hsci-r/finnish-media-scrapers",
+        "rel": "/software/repository/github/hsci-r/finnish-media-scrapers",
+        "avatar": "https://avatars.githubusercontent.com/u/58025542?v=4",
+        "description": "Scrapers for extracting articles from major Finnish journalistic media outlets"
+    },
+    {
         "uid": "github/skypyproject/skypy",
         "url": "https://github.com/skypyproject/skypy",
         "rel": "/software/repository/github/skypyproject/skypy",
@@ -1799,6 +1820,13 @@
         "description": "Phylogenetic tree viewer based on D3.js"
     },
     {
+        "uid": "github/Hegghammer/daiR",
+        "url": "https://github.com/Hegghammer/daiR",
+        "rel": "/software/repository/github/Hegghammer/daiR",
+        "avatar": "https://avatars.githubusercontent.com/u/64712218?v=4",
+        "description": "R package for Google Document AI "
+    },
+    {
         "uid": "github/ryokbys/nap",
         "url": "https://github.com/ryokbys/nap",
         "rel": "/software/repository/github/ryokbys/nap",
@@ -2168,6 +2196,13 @@
         "rel": "/software/repository/github/mjoppich/bioGUItools",
         "avatar": "https://avatars0.githubusercontent.com/u/1136125?v=4",
         "description": "Tools for bioGUI (e.g. CWL Parser/argparse2biogui/...)"
+    },
+    {
+        "uid": "github/hcdenbakker/sepia",
+        "url": "https://github.com/hcdenbakker/sepia",
+        "rel": "/software/repository/github/hcdenbakker/sepia",
+        "avatar": "https://avatars.githubusercontent.com/u/13696884?v=4",
+        "description": "taxonomic classifier based on the kraken2 algorithms and more"
     },
     {
         "uid": "github/JCGonzS/mechnetor",
@@ -3906,6 +3941,13 @@
         "description": "StatAid is a Shiny app built in an R package to guide researchers and clinicians through data analysis"
     },
     {
+        "uid": "github/umr-ds/NOREC4DNA",
+        "url": "https://github.com/umr-ds/NOREC4DNA",
+        "rel": "/software/repository/github/umr-ds/NOREC4DNA",
+        "avatar": "https://avatars.githubusercontent.com/u/16940346?v=4",
+        "description": null
+    },
+    {
         "uid": "github/COVID-IWG/epimargin",
         "url": "https://github.com/COVID-IWG/epimargin",
         "rel": "/software/repository/github/COVID-IWG/epimargin",
@@ -4340,6 +4382,13 @@
         "description": "Provides tools for modeling photovoltaic water pumping system"
     },
     {
+        "uid": "github/ORNL/tx2",
+        "url": "https://github.com/ORNL/tx2",
+        "rel": "/software/repository/github/ORNL/tx2",
+        "avatar": "https://avatars.githubusercontent.com/u/5138006?v=4",
+        "description": "Transformer eXplainability and eXploration"
+    },
+    {
         "uid": "github/GabrielNakamura/FishPhyloMaker",
         "url": "https://github.com/GabrielNakamura/FishPhyloMaker",
         "rel": "/software/repository/github/GabrielNakamura/FishPhyloMaker",
@@ -4765,6 +4814,13 @@
         "rel": "/software/repository/github/flosalbizziae/kataegis",
         "avatar": "https://avatars.githubusercontent.com/u/10743837?v=4",
         "description": null
+    },
+    {
+        "uid": "github/PathologyDataScience/NuCLS",
+        "url": "https://github.com/PathologyDataScience/NuCLS",
+        "rel": "/software/repository/github/PathologyDataScience/NuCLS",
+        "avatar": "https://avatars.githubusercontent.com/u/25755584?v=4",
+        "description": "NuCLS: A scalable crowdsourcing, deep learning approach and dataset for nucleus classification, localization and segmentation"
     },
     {
         "uid": "github/MAnalytics/akmedoids",
@@ -6830,6 +6886,13 @@
         "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook"
+    },
+    {
+        "uid": "github/fedeago/NewWave",
+        "url": "https://github.com/fedeago/NewWave",
+        "rel": "/software/repository/github/fedeago/NewWave",
+        "avatar": "https://avatars.githubusercontent.com/u/45668702?v=4",
+        "description": "NewWave"
     },
     {
         "uid": "github/linbox-team/linbox",
