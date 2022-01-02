@@ -651,6 +651,13 @@
         "description": "Toolset for probing the sensitivity of a deep neural network model to various properties of the data."
     },
     {
+        "uid": "github/klevis-a/kinematics-vis",
+        "url": "https://github.com/klevis-a/kinematics-vis",
+        "rel": "/software/repository/github/klevis-a/kinematics-vis",
+        "avatar": "https://avatars.githubusercontent.com/u/22669455?v=4",
+        "description": "JavaScript application for visualizing and analyzing shoulder joint kinematics"
+    },
+    {
         "uid": "github/rhayes777/PyAutoFit",
         "url": "https://github.com/rhayes777/PyAutoFit",
         "rel": "/software/repository/github/rhayes777/PyAutoFit",
@@ -1043,6 +1050,13 @@
         "description": "Developed during my PhD at the John Innes Centre (Norwich Research Park, Doctoral Training Programme). "
     },
     {
+        "uid": "github/YaleTHz/nelly",
+        "url": "https://github.com/YaleTHz/nelly",
+        "rel": "/software/repository/github/YaleTHz/nelly",
+        "avatar": "https://avatars.githubusercontent.com/u/69858984?v=4",
+        "description": "Nelly is a package for extracing refractice indices and conductivities from time-domain terahertz spectroscopy data"
+    },
+    {
         "uid": "github/FastMLC/fMLC",
         "url": "https://github.com/FastMLC/fMLC",
         "rel": "/software/repository/github/FastMLC/fMLC",
@@ -1365,6 +1379,13 @@
         "description": "R package for estimation and prediction of the cosinor model for periodic data"
     },
     {
+        "uid": "github/BritishGeologicalSurvey/pyvolcans",
+        "url": "https://github.com/BritishGeologicalSurvey/pyvolcans",
+        "rel": "/software/repository/github/BritishGeologicalSurvey/pyvolcans",
+        "avatar": "https://avatars.githubusercontent.com/u/3224218?v=4",
+        "description": "Python tool to identify analogue volcanoes via VOLCANS (https://doi.org/10.1007/s00445-019-1336-3)"
+    },
+    {
         "uid": "github/tariks/peakachu",
         "url": "https://github.com/tariks/peakachu",
         "rel": "/software/repository/github/tariks/peakachu",
@@ -1405,6 +1426,13 @@
         "rel": "/software/repository/github/recipy/recipy",
         "avatar": "https://avatars2.githubusercontent.com/u/11677462?v=4",
         "description": "Effortless method to record provenance in Python"
+    },
+    {
+        "uid": "github/hsci-r/finnish-media-scrapers",
+        "url": "https://github.com/hsci-r/finnish-media-scrapers",
+        "rel": "/software/repository/github/hsci-r/finnish-media-scrapers",
+        "avatar": "https://avatars.githubusercontent.com/u/58025542?v=4",
+        "description": "Scrapers for extracting articles from major Finnish journalistic media outlets"
     },
     {
         "uid": "github/skypyproject/skypy",
@@ -1799,6 +1827,13 @@
         "description": "Phylogenetic tree viewer based on D3.js"
     },
     {
+        "uid": "github/Hegghammer/daiR",
+        "url": "https://github.com/Hegghammer/daiR",
+        "rel": "/software/repository/github/Hegghammer/daiR",
+        "avatar": "https://avatars.githubusercontent.com/u/64712218?v=4",
+        "description": "R package for Google Document AI "
+    },
+    {
         "uid": "github/ryokbys/nap",
         "url": "https://github.com/ryokbys/nap",
         "rel": "/software/repository/github/ryokbys/nap",
@@ -2168,6 +2203,13 @@
         "rel": "/software/repository/github/mjoppich/bioGUItools",
         "avatar": "https://avatars0.githubusercontent.com/u/1136125?v=4",
         "description": "Tools for bioGUI (e.g. CWL Parser/argparse2biogui/...)"
+    },
+    {
+        "uid": "github/hcdenbakker/sepia",
+        "url": "https://github.com/hcdenbakker/sepia",
+        "rel": "/software/repository/github/hcdenbakker/sepia",
+        "avatar": "https://avatars.githubusercontent.com/u/13696884?v=4",
+        "description": "taxonomic classifier based on the kraken2 algorithms and more"
     },
     {
         "uid": "github/JCGonzS/mechnetor",
@@ -4340,6 +4382,13 @@
         "description": "Provides tools for modeling photovoltaic water pumping system"
     },
     {
+        "uid": "github/ORNL/tx2",
+        "url": "https://github.com/ORNL/tx2",
+        "rel": "/software/repository/github/ORNL/tx2",
+        "avatar": "https://avatars.githubusercontent.com/u/5138006?v=4",
+        "description": "Transformer eXplainability and eXploration"
+    },
+    {
         "uid": "github/GabrielNakamura/FishPhyloMaker",
         "url": "https://github.com/GabrielNakamura/FishPhyloMaker",
         "rel": "/software/repository/github/GabrielNakamura/FishPhyloMaker",
@@ -4928,6 +4977,20 @@
         "description": "experiment orchestration and data acquisition"
     },
     {
+        "uid": "github/AdrianA-T/cytomorph",
+        "url": "https://github.com/AdrianA-T/cytomorph",
+        "rel": "/software/repository/github/AdrianA-T/cytomorph",
+        "avatar": "https://avatars.githubusercontent.com/u/40856467?v=4",
+        "description": "Cytomorph is a open software based on the main general features of cytoneme-meditated gradient formation. This sfotware allows to upload different experimental data to study in silico the role of different biological parameters of this type of signaling. Cytomorph can also work as an in silico tester for other biological hypotheses that are difficult to validate experimentally. In addition, the software architecture is designed in different modules that make Cytomorph an adaptive computational tool in which new advances can be integrated."
+    },
+    {
+        "uid": "github/vfonov/DARQ",
+        "url": "https://github.com/vfonov/DARQ",
+        "rel": "/software/repository/github/vfonov/DARQ",
+        "avatar": "https://avatars.githubusercontent.com/u/628822?v=4",
+        "description": "Deep learning of quality control for stereotaxic registration of human brain MRI"
+    },
+    {
         "uid": "github/vbaliga/gaussplotR",
         "url": "https://github.com/vbaliga/gaussplotR",
         "rel": "/software/repository/github/vbaliga/gaussplotR",
@@ -5243,6 +5306,13 @@
         "description": "Toolbox for categorical time-series analysis."
     },
     {
+        "uid": "github/linDing-groups/Deep-4mCW2V",
+        "url": "https://github.com/linDing-groups/Deep-4mCW2V",
+        "rel": "/software/repository/github/linDing-groups/Deep-4mCW2V",
+        "avatar": "https://avatars.githubusercontent.com/u/72026915?v=4",
+        "description": "A sequence-based deep learning approach to predict N4-methylcytosine sites in Escherichia coli "
+    },
+    {
         "uid": "github/dmey/synthia",
         "url": "https://github.com/dmey/synthia",
         "rel": "/software/repository/github/dmey/synthia",
@@ -5360,6 +5430,13 @@
         "rel": "/software/repository/github/ADAH-EviDENce/evidence",
         "avatar": "https://avatars2.githubusercontent.com/u/37336361?v=4",
         "description": "doc2vec-based assisted close reading with support for abstract concept-based search and context-based search"
+    },
+    {
+        "uid": "github/scipion-em/scipion-em-continuousflex",
+        "url": "https://github.com/scipion-em/scipion-em-continuousflex",
+        "rel": "/software/repository/github/scipion-em/scipion-em-continuousflex",
+        "avatar": "https://avatars.githubusercontent.com/u/41120294?v=4",
+        "description": "Plugin for continuous conformational flexibility analysis containing HEMNMA, StructMap, HEMNMA-3D and TomoFlow for in vitro and in situ cryo-EM/ET."
     },
     {
         "uid": "github/ntcockroft/STarFish",
@@ -5682,6 +5759,13 @@
         "rel": "/software/repository/github/rinikerlab/Ensembler",
         "avatar": "https://avatars.githubusercontent.com/u/48841290?v=4",
         "description": null
+    },
+    {
+        "uid": "github/jorittmo/singcar",
+        "url": "https://github.com/jorittmo/singcar",
+        "rel": "/software/repository/github/jorittmo/singcar",
+        "avatar": "https://avatars.githubusercontent.com/u/62261432?v=4",
+        "description": "singcar: A package for analysing case comparisons to normative controls"
     },
     {
         "uid": "github/Bahler-Lab/pyphe",
@@ -6258,6 +6342,13 @@
         "description": "Design, play with, and analyze sequent calculus proof systems."
     },
     {
+        "uid": "github/wangchao-malab/DeepAc4C",
+        "url": "https://github.com/wangchao-malab/DeepAc4C",
+        "rel": "/software/repository/github/wangchao-malab/DeepAc4C",
+        "avatar": "https://avatars.githubusercontent.com/u/37856514?v=4",
+        "description": null
+    },
+    {
         "uid": "github/DrafProject/elmada",
         "url": "https://github.com/DrafProject/elmada",
         "rel": "/software/repository/github/DrafProject/elmada",
@@ -6452,6 +6543,13 @@
         "rel": "/software/repository/github/david-barnett/microViz",
         "avatar": "https://avatars.githubusercontent.com/u/33695702?v=4",
         "description": "R package for microbiome data visualization. Uses phyloseq, vegan and tidyverse. See website link for docs with visual examples. Docker image available."
+    },
+    {
+        "uid": "github/korcsmarosgroup/CytokineLink",
+        "url": "https://github.com/korcsmarosgroup/CytokineLink",
+        "rel": "/software/repository/github/korcsmarosgroup/CytokineLink",
+        "avatar": "https://avatars.githubusercontent.com/u/54137652?v=4",
+        "description": "CytokineLink: a map of cytokine communication for inflammatory and infectious diseases"
     },
     {
         "uid": "github/MD-Studio/MDStudio",
@@ -6816,6 +6914,13 @@
         "rel": "/software/repository/github/LQYoLH/CnnCrispr",
         "avatar": "https://avatars.githubusercontent.com/u/58096958?v=4",
         "description": "A deep learning method for sgRNA off-target propensity prediction."
+    },
+    {
+        "uid": "github/mikegrudic/pytreegrav",
+        "url": "https://github.com/mikegrudic/pytreegrav",
+        "rel": "/software/repository/github/mikegrudic/pytreegrav",
+        "avatar": "https://avatars.githubusercontent.com/u/2715993?v=4",
+        "description": "Fast N-body gravitational force and potential in Python"
     },
     {
         "uid": "github/JannisHoch/copro",
