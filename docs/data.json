@@ -1,5 +1,12 @@
 [
     {
+        "uid": "github/sorenwacker/ProteomicsQC",
+        "url": "https://github.com/sorenwacker/ProteomicsQC",
+        "rel": "/software/repository/github/sorenwacker/ProteomicsQC",
+        "avatar": "https://avatars.githubusercontent.com/u/3391614?v=4",
+        "description": "Quality Control Pipeline Server for quantitative Proteomics"
+    },
+    {
         "uid": "github/openscm/openscm-twolayermodel",
         "url": "https://github.com/openscm/openscm-twolayermodel",
         "rel": "/software/repository/github/openscm/openscm-twolayermodel",
@@ -621,6 +628,13 @@
         "rel": "/software/repository/github/jacobmerson/model-traits",
         "avatar": "https://avatars.githubusercontent.com/u/2366140?v=4",
         "description": "simple library for dealing with simulation boundary conditions"
+    },
+    {
+        "uid": "github/brainets/frites",
+        "url": "https://github.com/brainets/frites",
+        "rel": "/software/repository/github/brainets/frites",
+        "avatar": "https://avatars.githubusercontent.com/u/47176497?v=4",
+        "description": "Framework for Information Theoretical analysis of Electrophysiological data and Statistics"
     },
     {
         "uid": "github/datalad/datalad",
@@ -1596,6 +1610,13 @@
         "description": null
     },
     {
+        "uid": "github/MoreiraLAB/or",
+        "url": "https://github.com/MoreiraLAB/or",
+        "rel": "/software/repository/github/MoreiraLAB/or",
+        "avatar": "https://avatars.githubusercontent.com/u/44231805?v=4",
+        "description": "Opiod Receptor Partners analysis code"
+    },
+    {
         "uid": "github/easybuilders/easybuild",
         "url": "https://github.com/easybuilders/easybuild",
         "rel": "/software/repository/github/easybuilders/easybuild",
@@ -1972,6 +1993,13 @@
         "rel": "/software/repository/github/qMRLab/qMRLab",
         "avatar": "https://avatars3.githubusercontent.com/u/42773796?v=4",
         "description": "Quantitative Magnetic Resonance Imaging Made Easy with qMRLab: a Software for Data Simulation, Analysis and Visualization"
+    },
+    {
+        "uid": "github/HUST-DataMan/FRMC",
+        "url": "https://github.com/HUST-DataMan/FRMC",
+        "rel": "/software/repository/github/HUST-DataMan/FRMC",
+        "avatar": "https://avatars.githubusercontent.com/u/75129706?v=4",
+        "description": "FRMC is a fast and robust imputation software for single cell RNA-Seq data."
     },
     {
         "uid": "github/TRASAL/psrdada-python",
@@ -3647,6 +3675,13 @@
         "description": ":package: :game_die: R/txshift: Efficient Estimation of the Causal Effects of Stochastic Interventions, with Two-Phase Sampling Corrections"
     },
     {
+        "uid": "github/nhejazi/medoutcon",
+        "url": "https://github.com/nhejazi/medoutcon",
+        "rel": "/software/repository/github/nhejazi/medoutcon",
+        "avatar": "https://avatars.githubusercontent.com/u/8527276?v=4",
+        "description": ":package: R/medoutcon: Efficient Causal Mediation Analysis with Natural and Interventional Direct/Indirect Effects"
+    },
+    {
         "uid": "github/SuLab/Wikidata-phenomizer",
         "url": "https://github.com/SuLab/Wikidata-phenomizer",
         "rel": "/software/repository/github/SuLab/Wikidata-phenomizer",
@@ -3717,6 +3752,13 @@
         "description": "An R package for calculating and analyzing food demand and in accordance with the Edmonds et al food demand model"
     },
     {
+        "uid": "github/JuliaOcean/AIBECS.jl",
+        "url": "https://github.com/JuliaOcean/AIBECS.jl",
+        "rel": "/software/repository/github/JuliaOcean/AIBECS.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/41747359?v=4",
+        "description": "The ideal tool for exploring global marine biogeochemical cycles."
+    },
+    {
         "uid": "github/SchedMD/slurm",
         "url": "https://github.com/SchedMD/slurm",
         "rel": "/software/repository/github/SchedMD/slurm",
@@ -3759,11 +3801,25 @@
         "description": "c-lasso: a Python package for constrained sparse regression and classification"
     },
     {
+        "uid": "github/JLBLine/WODEN",
+        "url": "https://github.com/JLBLine/WODEN",
+        "rel": "/software/repository/github/JLBLine/WODEN",
+        "avatar": "https://avatars.githubusercontent.com/u/7925164?v=4",
+        "description": "CUDA code designed to simulate interferometric data using point, Gaussian, and shapelet sky models"
+    },
+    {
         "uid": "github/yaml2sbml-dev/yaml2sbml",
         "url": "https://github.com/yaml2sbml-dev/yaml2sbml",
         "rel": "/software/repository/github/yaml2sbml-dev/yaml2sbml",
         "avatar": "https://avatars.githubusercontent.com/u/69810793?v=4",
         "description": "Little tool to convert an ODE model specified in the YAML format to SBML."
+    },
+    {
+        "uid": "github/IBM/fold2seq",
+        "url": "https://github.com/IBM/fold2seq",
+        "rel": "/software/repository/github/IBM/fold2seq",
+        "avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
+        "description": "Code for Fold2Seq paper from ICML 2021"
     },
     {
         "uid": "github/akcochrane/TEfits",
@@ -4317,6 +4373,13 @@
         "rel": "/software/repository/github/samaygarg/fuelcell",
         "avatar": "https://avatars.githubusercontent.com/u/60327888?v=4",
         "description": "Electrochemical data analysis package"
+    },
+    {
+        "uid": "github/ElectionDataAnalysis/electiondata",
+        "url": "https://github.com/ElectionDataAnalysis/electiondata",
+        "rel": "/software/repository/github/ElectionDataAnalysis/electiondata",
+        "avatar": "https://avatars.githubusercontent.com/u/70550634?v=4",
+        "description": "Tools for consolidation and analysis of raw election results from the most reliable sources -- the election agencies themselves."
     },
     {
         "uid": "github/NicolasHug/Surprise",
@@ -5488,6 +5551,13 @@
         "description": "An oil land-spill and overland flow simulator for pipeline rupture events"
     },
     {
+        "uid": "github/esteinig/nanoq",
+        "url": "https://github.com/esteinig/nanoq",
+        "rel": "/software/repository/github/esteinig/nanoq",
+        "avatar": "https://avatars.githubusercontent.com/u/12873366?v=4",
+        "description": "Minimal but speedy quality control for nanopore reads in Rust :bear:"
+    },
+    {
         "uid": "github/MrMinimal64/multivar_horner",
         "url": "https://github.com/MrMinimal64/multivar_horner",
         "rel": "/software/repository/github/MrMinimal64/multivar_horner",
@@ -5691,6 +5761,13 @@
         "description": "Simulation of Systems of interacting mean-field Particles with High Efficiency"
     },
     {
+        "uid": "github/rdicosmo/parmap",
+        "url": "https://github.com/rdicosmo/parmap",
+        "rel": "/software/repository/github/rdicosmo/parmap",
+        "avatar": "https://avatars.githubusercontent.com/u/687807?v=4",
+        "description": "Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications."
+    },
+    {
         "uid": "github/jameschapman19/cca_zoo",
         "url": "https://github.com/jameschapman19/cca_zoo",
         "rel": "/software/repository/github/jameschapman19/cca_zoo",
@@ -5822,6 +5899,13 @@
         "rel": "/software/repository/github/STAR-Fusion/STAR-Fusion",
         "avatar": "https://avatars.githubusercontent.com/u/11923838?v=4",
         "description": "STAR-Fusion codebase"
+    },
+    {
+        "uid": "github/shirtsgroup/physical_validation",
+        "url": "https://github.com/shirtsgroup/physical_validation",
+        "rel": "/software/repository/github/shirtsgroup/physical_validation",
+        "avatar": "https://avatars.githubusercontent.com/u/6166660?v=4",
+        "description": "Physical validation of molecular simulations"
     },
     {
         "uid": "github/equib/pyEQUIB",
@@ -6426,6 +6510,13 @@
         "description": "Identification & characterization of bacterial plasmid-borne contigs from short-read draft assemblies."
     },
     {
+        "uid": "github/QZH2022/germline_flow",
+        "url": "https://github.com/QZH2022/germline_flow",
+        "rel": "/software/repository/github/QZH2022/germline_flow",
+        "avatar": "https://avatars.githubusercontent.com/u/97078565?v=4",
+        "description": null
+    },
+    {
         "uid": "github/keurfonluu/toughio",
         "url": "https://github.com/keurfonluu/toughio",
         "rel": "/software/repository/github/keurfonluu/toughio",
@@ -6732,6 +6823,13 @@
         "rel": "/software/repository/github/xenon-middleware/pyxenon",
         "avatar": "https://avatars0.githubusercontent.com/u/48052855?v=4",
         "description": "Python bindings for the Xenon API"
+    },
+    {
+        "uid": "github/ZhaiLab-SUSTech/FLEPSeq",
+        "url": "https://github.com/ZhaiLab-SUSTech/FLEPSeq",
+        "rel": "/software/repository/github/ZhaiLab-SUSTech/FLEPSeq",
+        "avatar": "https://avatars.githubusercontent.com/u/70678303?v=4",
+        "description": "The analysis pipeline for FLEP-seq"
     },
     {
         "uid": "github/GRChombo/GRChombo",
