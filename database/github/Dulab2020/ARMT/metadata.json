@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/Dulab2020/ARMT",
+    "url": "https://github.com/Dulab2020/ARMT",
+    "data": {
+        "timestamp": "2022-01-23 00:36:24.693205",
+        "name": "ARMT",
+        "url": "https://api.github.com/repos/Dulab2020/ARMT",
+        "full_name": "Dulab2020/ARMT",
+        "html_url": "https://github.com/Dulab2020/ARMT",
+        "private": false,
+        "description": null,
+        "created_at": "2020-12-23T02:27:53Z",
+        "updated_at": "2022-01-10T08:12:52Z",
+        "clone_url": "https://github.com/Dulab2020/ARMT.git",
+        "homepage": null,
+        "size": 19179,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/Dulab2020",
+            "avatar_url": "https://avatars.githubusercontent.com/u/76273687?v=4",
+            "login": "Dulab2020",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1016/J.CSBJ.2021.08.009"
+}
