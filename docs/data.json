@@ -1512,6 +1512,13 @@
         "description": null
     },
     {
+        "uid": "github/jimmink/argslab",
+        "url": "https://github.com/jimmink/argslab",
+        "rel": "/software/repository/github/jimmink/argslab",
+        "avatar": "https://avatars.githubusercontent.com/u/80682535?v=4",
+        "description": "Repository for ArGSLab, Arrested and Gelated Structures Laboratory."
+    },
+    {
         "uid": "github/nlesc/embodied-emotions-scripts",
         "url": "https://github.com/NLeSC/embodied-emotions-scripts",
         "rel": "/software/repository/github/nlesc/embodied-emotions-scripts",
@@ -1580,6 +1587,13 @@
         "rel": "/software/repository/github/alicia-ziying-yang/conTEXT-explorer",
         "avatar": "https://avatars.githubusercontent.com/u/81403454?v=4",
         "description": "ConTEXT Explorer is an open Web-based system for exploring and visualizing concepts (combinations of occurring words and phrases) over time in the text documents."
+    },
+    {
+        "uid": "github/EpistasisLab/tpot",
+        "url": "https://github.com/EpistasisLab/tpot",
+        "rel": "/software/repository/github/EpistasisLab/tpot",
+        "avatar": "https://avatars.githubusercontent.com/u/20861190?v=4",
+        "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming."
     },
     {
         "uid": "github/EpistasisLab/regens",
@@ -2142,6 +2156,13 @@
         "description": "Hydrogen (or other pure gas phase species) depressurization calculations"
     },
     {
+        "uid": "github/jiujiezz/tsnad",
+        "url": "https://github.com/jiujiezz/tsnad",
+        "rel": "/software/repository/github/jiujiezz/tsnad",
+        "avatar": "https://avatars.githubusercontent.com/u/19741719?v=4",
+        "description": "Detecting somatic mutations and predicting tumor-specific neo-antigens"
+    },
+    {
         "uid": "github/DynaSlum/satsense",
         "url": "https://github.com/DynaSlum/satsense",
         "rel": "/software/repository/github/DynaSlum/satsense",
@@ -2422,6 +2443,13 @@
         "description": "Phylogenetic tree viewer based on D3.js"
     },
     {
+        "uid": "github/siara-cc/Unishox2",
+        "url": "https://github.com/siara-cc/Unishox2",
+        "rel": "/software/repository/github/siara-cc/Unishox2",
+        "avatar": "https://avatars.githubusercontent.com/u/12986780?v=4",
+        "description": "Guaranteed compression for Unicode short strings"
+    },
+    {
         "uid": "github/tidyverse/glue",
         "url": "https://github.com/tidyverse/glue",
         "rel": "/software/repository/github/tidyverse/glue",
@@ -2653,6 +2681,13 @@
         "description": null
     },
     {
+        "uid": "github/wmglab-duke/ascent",
+        "url": "https://github.com/wmglab-duke/ascent",
+        "rel": "/software/repository/github/wmglab-duke/ascent",
+        "avatar": "https://avatars.githubusercontent.com/u/86266914?v=4",
+        "description": "ASCENT (Automated Simulations to Characterize Electrical Nerve Thresholds): A pipeline for sample-specific computational modeling of electrical stimulation of peripheral nerves"
+    },
+    {
         "uid": "github/quadram-institute-bioscience/dadaist2",
         "url": "https://github.com/quadram-institute-bioscience/dadaist2",
         "rel": "/software/repository/github/quadram-institute-bioscience/dadaist2",
@@ -2868,6 +2903,13 @@
         "rel": "/software/repository/github/genome/somatic-sniper",
         "avatar": "https://avatars.githubusercontent.com/u/318108?v=4",
         "description": "A tool to call somatic single nucleotide variants."
+    },
+    {
+        "uid": "github/Dulab2020/ARMT",
+        "url": "https://github.com/Dulab2020/ARMT",
+        "rel": "/software/repository/github/Dulab2020/ARMT",
+        "avatar": "https://avatars.githubusercontent.com/u/76273687?v=4",
+        "description": null
     },
     {
         "uid": "github/c-martinez/BeyondTheBook",
@@ -3276,6 +3318,13 @@
         "description": "Official repository for 21cmFAST: a code for generating fast simulations of the cosmological 21cm signal"
     },
     {
+        "uid": "github/SPARC-FAIR-Codeathon/aqua",
+        "url": "https://github.com/SPARC-FAIR-Codeathon/aqua",
+        "rel": "/software/repository/github/SPARC-FAIR-Codeathon/aqua",
+        "avatar": "https://avatars.githubusercontent.com/u/86933347?v=4",
+        "description": "Advanced Query Architecture for the SPARC Portal."
+    },
+    {
         "uid": "github/shikhar249/OnionMHC",
         "url": "https://github.com/shikhar249/OnionMHC",
         "rel": "/software/repository/github/shikhar249/OnionMHC",
@@ -3498,6 +3547,13 @@
         "rel": "/software/repository/github/shaniAmare/long_read_tools",
         "avatar": "https://avatars1.githubusercontent.com/u/43805905?v=4",
         "description": "A catalogue of available long read sequencing data analysis tools"
+    },
+    {
+        "uid": "github/kritiyer/AngioNet",
+        "url": "https://github.com/kritiyer/AngioNet",
+        "rel": "/software/repository/github/kritiyer/AngioNet",
+        "avatar": "https://avatars.githubusercontent.com/u/34351910?v=4",
+        "description": "Semantic segmentation network for X-ray angiography images, based on Deeplabv3+"
     },
     {
         "uid": "github/IndrajeetPatil/ggstatsplot",
@@ -4977,6 +5033,13 @@
         "description": "Nelly is a package for extracing refractice indices and conductivities from time-domain terahertz spectroscopy data"
     },
     {
+        "uid": "github/TeamCOMPAS/COMPAS",
+        "url": "https://github.com/TeamCOMPAS/COMPAS",
+        "rel": "/software/repository/github/TeamCOMPAS/COMPAS",
+        "avatar": "https://avatars.githubusercontent.com/u/22152683?v=4",
+        "description": "COMPAS rapid binary population synthesis code"
+    },
+    {
         "uid": "github/LiberTEM/LiberTEM",
         "url": "https://github.com/LiberTEM/LiberTEM",
         "rel": "/software/repository/github/LiberTEM/LiberTEM",
@@ -5738,6 +5801,13 @@
         "rel": "/software/repository/github/Peppags/CNN-SVR",
         "avatar": "https://avatars.githubusercontent.com/u/40748992?v=4",
         "description": "CNN-SVR: A deep learning approach for predicting CRISPR/Cas9 guide RNA on-target activity"
+    },
+    {
+        "uid": "github/yiling0210/APIR",
+        "url": "https://github.com/yiling0210/APIR",
+        "rel": "/software/repository/github/yiling0210/APIR",
+        "avatar": "https://avatars.githubusercontent.com/u/7484707?v=4",
+        "description": null
     },
     {
         "uid": "github/wilsonrljr/sysidentpy",
@@ -7308,6 +7378,13 @@
         "description": ""
     },
     {
+        "uid": "gitlab/cracklet/cracklet",
+        "url": "https://gitlab.com/cracklet/cracklet",
+        "rel": "/software/repository/gitlab/cracklet/cracklet",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/25188173/logo_large.png",
+        "description": "cRacklet is a C++ boundary element library based on a spectral formulation of the elastodynamic wave equations in continuum solids."
+    },
+    {
         "uid": "gitlab/ampere2/metalwalls",
         "url": "https://gitlab.com/ampere2/metalwalls",
         "rel": "/software/repository/gitlab/ampere2/metalwalls",
@@ -7390,6 +7467,13 @@
         "rel": "/software/repository/gitlab/BioimageInformaticsGroup/openphi",
         "avatar": "https://gitlab.comNone",
         "description": "Open PatHology Interface - A Python API for accessing iSyntax digital pathology images"
+    },
+    {
+        "uid": "gitlab/pyFBS/pyFBS",
+        "url": "https://gitlab.com/pyFBS/pyFBS",
+        "rel": "/software/repository/gitlab/pyFBS/pyFBS",
+        "avatar": "https://gitlab.comNone",
+        "description": "A Python package for Frequency Based Substructuring and Transfer Path Analysis"
     },
     {
         "uid": "gitlab/geekysquirrel/bigx",
