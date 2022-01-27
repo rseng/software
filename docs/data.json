@@ -7273,11 +7273,179 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/trufflesniffer",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/trufflesniffer",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/DoOR.functions",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/DoOR.functions",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/colocr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/colocr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnaturalearthhires",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rnaturalearthhires",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/brranching",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/brranching",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/refsplitr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/refsplitr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/nodbi",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/nodbi",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/iheatmapr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/iheatmapr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/osmplotr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/osmplotr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rfisheries",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rfisheries",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/skynet",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/skynet",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/AntWeb",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/AntWeb",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rerddap",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rerddap",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/plater",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/plater",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/stantargets",
         "url": "https://github.com/ropensci/stantargets",
         "rel": "/software/repository/github/ropensci/stantargets",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Reproducible Bayesian data analysis pipelines with targets and cmdstanr",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/mapr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/mapr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/PostcodesioR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/PostcodesioR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/DataPackageR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/DataPackageR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/gittargets",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/gittargets",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/parzer",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/parzer",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/citesdb",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/citesdb",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/baRcodeR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/baRcodeR",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
@@ -7292,6 +7460,190 @@
             "rstats",
             "chirps"
         ]
+    },
+    {
+        "uid": "github/ropensci/ghql",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ghql",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/geojsonlint",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/geojsonlint",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ecoengine",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ecoengine",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tabulizer",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tabulizer",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ezknitr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ezknitr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/babette",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/babette",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/awardFindR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/awardFindR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tracerer",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tracerer",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/outsider-testsuites",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/outsider-testsuites",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/treestartr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/treestartr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ckanr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ckanr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/antiword",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/antiword",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/fauxpas",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/fauxpas",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnpn",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rnpn",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/nomisr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/nomisr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rperseus",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rperseus",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/infx",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/infx",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/helminthR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/helminthR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/USAboundariesData",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/USAboundariesData",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rsat",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rsat",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/patentsview",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/patentsview",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/microdemic",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/microdemic",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rcoreoa",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rcoreoa",
+        "avatar": "",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/ropensci/drake",
@@ -7316,11 +7668,219 @@
         ]
     },
     {
+        "uid": "github/ropensci/tidypmc",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tidypmc",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/clifro",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/clifro",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/taxlist",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/taxlist",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tidync",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tidync",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rrricanes",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rrricanes",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/outsider.devtools",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/outsider.devtools",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rgpdd",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rgpdd",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/censo2017",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/censo2017",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/nlrx",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/nlrx",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ramlegacy",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ramlegacy",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/jstor",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/jstor",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/finch",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/finch",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/EML",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/EML",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/emld",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/emld",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/osmdata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/osmdata",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/lumier",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/lumier",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/onekp",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/onekp",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tiler",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tiler",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/RNeXML",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/RNeXML",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rotl",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rotl",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rsnps",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rsnps",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/outcomerate",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/outcomerate",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/jagstargets",
         "url": "https://github.com/ropensci/jagstargets",
         "rel": "/software/repository/github/ropensci/jagstargets",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Reproducible Bayesian data analysis pipelines with targets and JAGS",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/treebase",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/treebase",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tarchetypes",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tarchetypes",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/opencv",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/opencv",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/refimpact",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/refimpact",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
@@ -7344,11 +7904,227 @@
         ]
     },
     {
+        "uid": "github/ropensci/tesseract",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tesseract",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bib2df",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bib2df",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/wdman",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/wdman",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/osmextract",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/osmextract",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnoaa",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rnoaa",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/allodb",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/allodb",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ots",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ots",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/graphql",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/graphql",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rbhl",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rbhl",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/arkdb",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/arkdb",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/terrainr",
         "url": "https://github.com/ropensci/terrainr",
         "rel": "/software/repository/github/ropensci/terrainr",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and visualize with Unity 3D",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/hunspell",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/hunspell",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/paleobioDB",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/paleobioDB",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rplos",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rplos",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdefra",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rdefra",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/worrms",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/worrms",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/gtfsr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/gtfsr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/hddtools",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/hddtools",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rcitoid",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rcitoid",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/taxadb",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/taxadb",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/wellknown",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/wellknown",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rppo",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rppo",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/neotoma",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/neotoma",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/xslt",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/xslt",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/hydroscoper",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/hydroscoper",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rcites",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rcites",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/oai",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/oai",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/BaseSet",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/BaseSet",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
@@ -7368,11 +8144,499 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/textreuse",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/textreuse",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tabulizerjars",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tabulizerjars",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/eia",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/eia",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/qpdf",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/qpdf",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/taxize",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/taxize",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdatacite",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rdatacite",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tif",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tif",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/outsider",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/outsider",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/stplanr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/stplanr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cleanEHR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cleanEHR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/osfr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/osfr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/popler",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/popler",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rAltmetric",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rAltmetric",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/qualtRics",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/qualtRics",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/workloopR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/workloopR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/solrium",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/solrium",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/camsRad",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/camsRad",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/mauricer",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/mauricer",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/targets",
         "url": "https://github.com/ropensci/targets",
         "rel": "/software/repository/github/ropensci/targets",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "Function-oriented Make-like declarative workflows for R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/piggyback",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/piggyback",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/comtradr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/comtradr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/crul",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/crul",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/beautier",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/beautier",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/spocc",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/spocc",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tradestatistics",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tradestatistics",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/fingertipsR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/fingertipsR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/Rclean",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/Rclean",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rgbif",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rgbif",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/opencontext",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/opencontext",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/git2r",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/git2r",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/jenkins",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/jenkins",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/outsider.base",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/outsider.base",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/nasapower",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/nasapower",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cyphr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cyphr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/phonfieldwork",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/phonfieldwork",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/roadoi",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/roadoi",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/pangaear",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/pangaear",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/jsonld",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/jsonld",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdhs",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rdhs",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnaturalearthdata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rnaturalearthdata",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rfigshare",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rfigshare",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/zbank",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/zbank",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rfishbase",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rfishbase",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/suppdata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/suppdata",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/prism",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/prism",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/dataspice",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/dataspice",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/webchem",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/webchem",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdflib",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rdflib",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/USAboundaries",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/USAboundaries",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/seasl",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/seasl",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/gitignore",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/gitignore",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tic",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tic",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/restez",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/restez",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/gutenbergr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/gutenbergr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bold",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bold",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cld2",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cld2",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/pendulum",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/pendulum",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/dbhydroR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/dbhydroR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/beastier",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/beastier",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/grainchanger",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/grainchanger",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/staypuft",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/staypuft",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/historydata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/historydata",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
@@ -7384,11 +8648,203 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/tidyhydat",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tidyhydat",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/c14bazAAR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/c14bazAAR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/spatsoc",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/spatsoc",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tinkr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tinkr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rredlist",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rredlist",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/isdparser",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/isdparser",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bikedata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bikedata",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/webmockr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/webmockr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/taxview",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/taxview",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/MODIStsp",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/MODIStsp",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/nbaR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/nbaR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/traits",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/traits",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rglobi",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rglobi",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/phylogram",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/phylogram",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnaturalearth",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rnaturalearth",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rbace",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rbace",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ssh",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ssh",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/rentrez",
         "url": "https://github.com/ropensci/rentrez",
         "rel": "/software/repository/github/ropensci/rentrez",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "talk with NCBI entrez using R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ijtiff",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ijtiff",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rorcid",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rorcid",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bowerbird",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bowerbird",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/vcr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/vcr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bomrang",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bomrang",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/getCRUCLdata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/getCRUCLdata",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cRegulome",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cRegulome",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
@@ -7413,6 +8869,230 @@
         ]
     },
     {
+        "uid": "github/ropensci/rusda",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rusda",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/robotstxt",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/robotstxt",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/DataSpaceR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/DataSpaceR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnassqs",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rnassqs",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/charlatan",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/charlatan",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/riem",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/riem",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cde",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cde",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/geonames",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/geonames",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ritis",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ritis",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/mapscanner",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/mapscanner",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rrlite",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rrlite",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rcrossref",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rcrossref",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/GSODR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/GSODR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/elastic",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/elastic",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cchecks",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cchecks",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/spelling",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/spelling",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tokenizers",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tokenizers",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/cld3",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/cld3",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/pdftools",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/pdftools",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/epubr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/epubr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/sofa",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/sofa",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rromeo",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rromeo",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/aRxiv",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/aRxiv",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/wateRinfo",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/wateRinfo",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/landscapetools",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/landscapetools",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/datapack",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/datapack",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/timefuzz",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/timefuzz",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bibtex",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bibtex",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/plotly",
         "url": "https://github.com/ropensci/plotly",
         "rel": "/software/repository/github/ropensci/plotly",
@@ -7430,6 +9110,22 @@
             "rstats",
             "r-package"
         ]
+    },
+    {
+        "uid": "github/ropensci/scrubr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/scrubr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/Rpolyhedra",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/Rpolyhedra",
+        "avatar": "",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/ropensci/opentripplanner",
@@ -7451,11 +9147,99 @@
         ]
     },
     {
+        "uid": "github/ropensci/chromer",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/chromer",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rmangal",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rmangal",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/phylocomr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/phylocomr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rebird",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rebird",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rvertnet",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rvertnet",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/opencage",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/opencage",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/antanym",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/antanym",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/RefManageR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/RefManageR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/SymbiotaR2",
         "url": "https://github.com/ropensci/SymbiotaR2",
         "rel": "/software/repository/github/ropensci/SymbiotaR2",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "SymbiotaR2: an R package for accessing and downloading from Symbiota2 portals",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdryad",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rdryad",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/slopes",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/slopes",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rzmq",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rzmq",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
@@ -7467,11 +9251,491 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/unrtf",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/unrtf",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/smapr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/smapr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/magick",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/magick",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/handlr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/handlr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/MODISTools",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/MODISTools",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rtika",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rtika",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/phylotaR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/phylotaR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/FedData",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/FedData",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/pubchunks",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/pubchunks",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/natserv",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/natserv",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/jqr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/jqr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/virtuoso",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/virtuoso",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/hoardr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/hoardr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/chlorpromazineR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/chlorpromazineR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/namext",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/namext",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/stats19",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/stats19",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ruODK",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/ruODK",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/mctq",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/mctq",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/dbparser",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/dbparser",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/internetarchive",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/internetarchive",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/excluder",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/excluder",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rrricanesdata",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rrricanesdata",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/exoplanets",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/exoplanets",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/docs",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/docs",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/geojsonio",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/geojsonio",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/wikitaxa",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/wikitaxa",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tacmagic",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/tacmagic",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/taxa",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/taxa",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/assertr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/assertr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/pathviewr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/pathviewr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rWBclimate",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rWBclimate",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rAvis",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rAvis",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/weathercan",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/weathercan",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/fulltext",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/fulltext",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/jsonvalidate",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/jsonvalidate",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/DoOR.data",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/DoOR.data",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/visdat",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/visdat",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/skimr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/skimr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/codemetar",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/codemetar",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/essurvey",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/essurvey",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/biomartr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/biomartr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/randgeo",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/randgeo",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/photosearcher",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/photosearcher",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/writexl",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/writexl",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/mregions",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/mregions",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/av",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/av",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/CoordinateCleaner",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/CoordinateCleaner",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/europepmc",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/europepmc",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/circle",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/circle",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/getlandsat",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/getlandsat",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/EndoMineR",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/EndoMineR",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/katex",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/katex",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/binman",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/binman",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/cffr",
         "url": "https://github.com/ropensci/cffr",
         "rel": "/software/repository/github/ropensci/cffr",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Generate Citation File Format (cff) Metadata for R Packages",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bittrex",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/bittrex",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/citecorp",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/citecorp",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rinat",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rinat",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/lightr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/lightr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/gistr",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/gistr",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/RSelenium",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/RSelenium",
+        "avatar": "",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rcol",
+        "url": null,
+        "rel": "/software/repository/github/ropensci/rcol",
+        "avatar": "",
+        "description": null,
         "topics": []
     },
     {
