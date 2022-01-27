@@ -7273,11 +7273,67 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/DoOR.functions",
+        "url": "https://github.com/ropensci/DoOR.functions",
+        "rel": "/software/repository/github/ropensci/DoOR.functions",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R package containing the functions used to build the Database of Odor Responses",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/brranching",
+        "url": "https://github.com/ropensci/brranching",
+        "rel": "/software/repository/github/ropensci/brranching",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "I can haz all the phylogenies",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rfisheries",
+        "url": "https://github.com/ropensci/rfisheries",
+        "rel": "/software/repository/github/ropensci/rfisheries",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "package for interacting with fisheries databases at openfisheries.org",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/AntWeb",
+        "url": "https://github.com/ropensci/AntWeb",
+        "rel": "/software/repository/github/ropensci/AntWeb",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "An R wrapper for the AntWeb API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rerddap",
+        "url": "https://github.com/ropensci/rerddap",
+        "rel": "/software/repository/github/ropensci/rerddap",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for working with ERDDAP servers",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/plater",
+        "url": "https://github.com/ropensci/plater",
+        "rel": "/software/repository/github/ropensci/plater",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Tools to make it easy to work with microtiter plate-shaped data",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/stantargets",
         "url": "https://github.com/ropensci/stantargets",
         "rel": "/software/repository/github/ropensci/stantargets",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Reproducible Bayesian data analysis pipelines with targets and cmdstanr",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/DataPackageR",
+        "url": "https://github.com/ropensci/DataPackageR",
+        "rel": "/software/repository/github/ropensci/DataPackageR",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "An R package to enable reproducible data processing, packaging and sharing.",
         "topics": []
     },
     {
@@ -7292,6 +7348,38 @@
             "rstats",
             "chirps"
         ]
+    },
+    {
+        "uid": "github/ropensci/ecoengine",
+        "url": "https://github.com/ropensci/ecoengine",
+        "rel": "/software/repository/github/ropensci/ecoengine",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Programmatic interface to the Berkeley Ecoinformatics Engine ",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ckanr",
+        "url": "https://github.com/ropensci/ckanr",
+        "rel": "/software/repository/github/ropensci/ckanr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for the CKAN API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rnpn",
+        "url": "https://github.com/ropensci/rnpn",
+        "rel": "/software/repository/github/ropensci/rnpn",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for the National Phenology Network database API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/helminthR",
+        "url": "https://github.com/ropensci/helminthR",
+        "rel": "/software/repository/github/ropensci/helminthR",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Accesses parasite occurrence records from the London Natural History Museum's Host-Parasite database, which contains over a quarter of a million helminth records.",
+        "topics": []
     },
     {
         "uid": "github/ropensci/drake",
@@ -7316,11 +7404,75 @@
         ]
     },
     {
+        "uid": "github/ropensci/clifro",
+        "url": "https://github.com/ropensci/clifro",
+        "rel": "/software/repository/github/ropensci/clifro",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Easily download and visualise climate data from CliFlo",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rgpdd",
+        "url": "https://github.com/ropensci/rgpdd",
+        "rel": "/software/repository/github/ropensci/rgpdd",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Interface to the Global Population Dynamics Database, http://www3.imperial.ac.uk/cpb/databases/gpdd",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/finch",
+        "url": "https://github.com/ropensci/finch",
+        "rel": "/software/repository/github/ropensci/finch",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Read Darwin Core Archive files",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/EML",
+        "url": "https://github.com/ropensci/EML",
+        "rel": "/software/repository/github/ropensci/EML",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": " Ecological Metadata Language interface for R: synthesis and integration of heterogenous data",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/RNeXML",
+        "url": "https://github.com/ropensci/RNeXML",
+        "rel": "/software/repository/github/ropensci/RNeXML",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Implementing semantically rich NeXML I/O in R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rotl",
+        "url": "https://github.com/ropensci/rotl",
+        "rel": "/software/repository/github/ropensci/rotl",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Interface to Open Tree of Life API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rsnps",
+        "url": "https://github.com/ropensci/rsnps",
+        "rel": "/software/repository/github/ropensci/rsnps",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Wrapper to a number of SNP web APIs",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/jagstargets",
         "url": "https://github.com/ropensci/jagstargets",
         "rel": "/software/repository/github/ropensci/jagstargets",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Reproducible Bayesian data analysis pipelines with targets and JAGS",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/treebase",
+        "url": "https://github.com/ropensci/treebase",
+        "rel": "/software/repository/github/ropensci/treebase",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "An R interface to the treeBASE API (now on CRAN)",
         "topics": []
     },
     {
@@ -7344,11 +7496,75 @@
         ]
     },
     {
+        "uid": "github/ropensci/rnoaa",
+        "url": "https://github.com/ropensci/rnoaa",
+        "rel": "/software/repository/github/ropensci/rnoaa",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to many NOAA data APIs",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ots",
+        "url": "https://github.com/ropensci/ots",
+        "rel": "/software/repository/github/ropensci/ots",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "ocean time series datasets",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rbhl",
+        "url": "https://github.com/ropensci/rbhl",
+        "rel": "/software/repository/github/ropensci/rbhl",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to the Biodiversity Heritage Library (BHL) API",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/terrainr",
         "url": "https://github.com/ropensci/terrainr",
         "rel": "/software/repository/github/ropensci/terrainr",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Get DEMs and orthoimagery from the USGS National Map, georeference your images and merge rasters, and visualize with Unity 3D",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/paleobioDB",
+        "url": "https://github.com/ropensci/paleobioDB",
+        "rel": "/software/repository/github/ropensci/paleobioDB",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to the Paleobiology Database",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rplos",
+        "url": "https://github.com/ropensci/rplos",
+        "rel": "/software/repository/github/ropensci/rplos",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for the PLoS Journals API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/hddtools",
+        "url": "https://github.com/ropensci/hddtools",
+        "rel": "/software/repository/github/ropensci/hddtools",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Hydrological Data Discovery Tools (R package for hydrology and open data)",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/wellknown",
+        "url": "https://github.com/ropensci/wellknown",
+        "rel": "/software/repository/github/ropensci/wellknown",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "WKT <-> GeoJSON",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/neotoma",
+        "url": "https://github.com/ropensci/neotoma",
+        "rel": "/software/repository/github/ropensci/neotoma",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Programmatic R interface to the Neotoma Paleoecological Database.",
         "topics": []
     },
     {
@@ -7368,11 +7584,163 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/textreuse",
+        "url": "https://github.com/ropensci/textreuse",
+        "rel": "/software/repository/github/ropensci/textreuse",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Detect text reuse and document similarity",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/taxize",
+        "url": "https://github.com/ropensci/taxize",
+        "rel": "/software/repository/github/ropensci/taxize",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "A taxonomic toolbelt for R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdatacite",
+        "url": "https://github.com/ropensci/rdatacite",
+        "rel": "/software/repository/github/ropensci/rdatacite",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Wrapper to DataCite metadata",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/stplanr",
+        "url": "https://github.com/ropensci/stplanr",
+        "rel": "/software/repository/github/ropensci/stplanr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Sustainable transport planning with R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rAltmetric",
+        "url": "https://github.com/ropensci/rAltmetric",
+        "rel": "/software/repository/github/ropensci/rAltmetric",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Query and visualize metrics from altmetric.com",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/solrium",
+        "url": "https://github.com/ropensci/solrium",
+        "rel": "/software/repository/github/ropensci/solrium",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "A general purpose R interface to Solr",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/targets",
         "url": "https://github.com/ropensci/targets",
         "rel": "/software/repository/github/ropensci/targets",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "Function-oriented Make-like declarative workflows for R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/spocc",
+        "url": "https://github.com/ropensci/spocc",
+        "rel": "/software/repository/github/ropensci/spocc",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Species occurrence data toolkit for R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rgbif",
+        "url": "https://github.com/ropensci/rgbif",
+        "rel": "/software/repository/github/ropensci/rgbif",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Interface to the Global Biodiversity Information Facility API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/opencontext",
+        "url": "https://github.com/ropensci/opencontext",
+        "rel": "/software/repository/github/ropensci/opencontext",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/git2r",
+        "url": "https://github.com/ropensci/git2r",
+        "rel": "/software/repository/github/ropensci/git2r",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R bindings to the libgit2 library",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/pangaear",
+        "url": "https://github.com/ropensci/pangaear",
+        "rel": "/software/repository/github/ropensci/pangaear",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for the Pangaea database",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rfigshare",
+        "url": "https://github.com/ropensci/rfigshare",
+        "rel": "/software/repository/github/ropensci/rfigshare",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Programmatic interface for Figshare",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rfishbase",
+        "url": "https://github.com/ropensci/rfishbase",
+        "rel": "/software/repository/github/ropensci/rfishbase",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to the fishbase.org database",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/prism",
+        "url": "https://github.com/ropensci/prism",
+        "rel": "/software/repository/github/ropensci/prism",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Download data from the Oregon PRISM climate data project http://www.prism.oregonstate.edu/",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/webchem",
+        "url": "https://github.com/ropensci/webchem",
+        "rel": "/software/repository/github/ropensci/webchem",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Chemical Information from the Web",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/USAboundaries",
+        "url": "https://github.com/ropensci/USAboundaries",
+        "rel": "/software/repository/github/ropensci/USAboundaries",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Historical and Contemporary Boundaries of the United States of America",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/seasl",
+        "url": "https://github.com/ropensci/seasl",
+        "rel": "/software/repository/github/ropensci/seasl",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Load CSL styles and locales in R, and inspect contents",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bold",
+        "url": "https://github.com/ropensci/bold",
+        "rel": "/software/repository/github/ropensci/bold",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Interface to the Bold Systems barcode webservice",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/historydata",
+        "url": "https://github.com/ropensci/historydata",
+        "rel": "/software/repository/github/ropensci/historydata",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Datasets for Historians",
         "topics": []
     },
     {
@@ -7384,11 +7752,59 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/webmockr",
+        "url": "https://github.com/ropensci/webmockr",
+        "rel": "/software/repository/github/ropensci/webmockr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R library for stubbing and setting expectations on HTTP requests",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/MODIStsp",
+        "url": "https://github.com/ropensci/MODIStsp",
+        "rel": "/software/repository/github/ropensci/MODIStsp",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "An \"R\" package for automatic download and preprocessing of MODIS Land Products Time Series",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/traits",
+        "url": "https://github.com/ropensci/traits",
+        "rel": "/software/repository/github/ropensci/traits",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Species traits data",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rglobi",
+        "url": "https://github.com/ropensci/rglobi",
+        "rel": "/software/repository/github/ropensci/rglobi",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R library to access species interaction data of http://globalbioticinteractions.org",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/rentrez",
         "url": "https://github.com/ropensci/rentrez",
         "rel": "/software/repository/github/ropensci/rentrez",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "talk with NCBI entrez using R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rorcid",
+        "url": "https://github.com/ropensci/rorcid",
+        "rel": "/software/repository/github/ropensci/rorcid",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "A programmatic interface the Orcid.org API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/vcr",
+        "url": "https://github.com/ropensci/vcr",
+        "rel": "/software/repository/github/ropensci/vcr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Record HTTP calls and replay them",
         "topics": []
     },
     {
@@ -7411,6 +7827,86 @@
             "r",
             "mkearney-r-package"
         ]
+    },
+    {
+        "uid": "github/ropensci/geonames",
+        "url": "https://github.com/ropensci/geonames",
+        "rel": "/software/repository/github/ropensci/geonames",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R package for accessing the geonames.org API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/ritis",
+        "url": "https://github.com/ropensci/ritis",
+        "rel": "/software/repository/github/ropensci/ritis",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Integrated Taxonomic Information Service (ITIS) R client",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rrlite",
+        "url": "https://github.com/ropensci/rrlite",
+        "rel": "/software/repository/github/ropensci/rrlite",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to rlite https://github.com/seppo0010/rlite",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rcrossref",
+        "url": "https://github.com/ropensci/rcrossref",
+        "rel": "/software/repository/github/ropensci/rcrossref",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for various CrossRef APIs",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/GSODR",
+        "url": "https://github.com/ropensci/GSODR",
+        "rel": "/software/repository/github/ropensci/GSODR",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "API Client for Global Surface Summary of the Day ('GSOD') Weather Data Client in R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/elastic",
+        "url": "https://github.com/ropensci/elastic",
+        "rel": "/software/repository/github/ropensci/elastic",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for the Elasticsearch HTTP API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/sofa",
+        "url": "https://github.com/ropensci/sofa",
+        "rel": "/software/repository/github/ropensci/sofa",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "easy R interface to CouchDB",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/aRxiv",
+        "url": "https://github.com/ropensci/aRxiv",
+        "rel": "/software/repository/github/ropensci/aRxiv",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Programmatic interface to the Arxiv API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/datapack",
+        "url": "https://github.com/ropensci/datapack",
+        "rel": "/software/repository/github/ropensci/datapack",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "An R package to handle data packages",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/bibtex",
+        "url": "https://github.com/ropensci/bibtex",
+        "rel": "/software/repository/github/ropensci/bibtex",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "bibtex parser for R",
+        "topics": []
     },
     {
         "uid": "github/ropensci/plotly",
@@ -7451,11 +7947,59 @@
         ]
     },
     {
+        "uid": "github/ropensci/chromer",
+        "url": "https://github.com/ropensci/chromer",
+        "rel": "/software/repository/github/ropensci/chromer",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "package for interacting with the chromosome counts database (CCDB) at http://ccdb.tau.ac.il",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rebird",
+        "url": "https://github.com/ropensci/rebird",
+        "rel": "/software/repository/github/ropensci/rebird",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Wrapper to the eBird API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rvertnet",
+        "url": "https://github.com/ropensci/rvertnet",
+        "rel": "/software/repository/github/ropensci/rvertnet",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Wrapper to the VertNet API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/RefManageR",
+        "url": "https://github.com/ropensci/RefManageR",
+        "rel": "/software/repository/github/ropensci/RefManageR",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R package RefManageR",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/SymbiotaR2",
         "url": "https://github.com/ropensci/SymbiotaR2",
         "rel": "/software/repository/github/ropensci/SymbiotaR2",
         "avatar": "https://avatars3.githubusercontent.com/u/1200269?v=4",
         "description": "SymbiotaR2: an R package for accessing and downloading from Symbiota2 portals",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rdryad",
+        "url": "https://github.com/ropensci/rdryad",
+        "rel": "/software/repository/github/ropensci/rdryad",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R client for Dryad web services",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rzmq",
+        "url": "https://github.com/ropensci/rzmq",
+        "rel": "/software/repository/github/ropensci/rzmq",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R package for ZMQ",
         "topics": []
     },
     {
@@ -7467,11 +8011,123 @@
         "topics": []
     },
     {
+        "uid": "github/ropensci/FedData",
+        "url": "https://github.com/ropensci/FedData",
+        "rel": "/software/repository/github/ropensci/FedData",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Functions to Automate Downloading Geospatial Data Available from Several Federated Data Sources",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/jqr",
+        "url": "https://github.com/ropensci/jqr",
+        "rel": "/software/repository/github/ropensci/jqr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface to jq ",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/internetarchive",
+        "url": "https://github.com/ropensci/internetarchive",
+        "rel": "/software/repository/github/ropensci/internetarchive",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Search the Internet Archive, retrieve metadata, and download files",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/geojsonio",
+        "url": "https://github.com/ropensci/geojsonio",
+        "rel": "/software/repository/github/ropensci/geojsonio",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Convert many data formats to & from GeoJSON & TopoJSON",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/assertr",
+        "url": "https://github.com/ropensci/assertr",
+        "rel": "/software/repository/github/ropensci/assertr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Assertive programming for R analysis pipelines",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rWBclimate",
+        "url": "https://github.com/ropensci/rWBclimate",
+        "rel": "/software/repository/github/ropensci/rWBclimate",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R interface for the World Bank climate data",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rAvis",
+        "url": "https://github.com/ropensci/rAvis",
+        "rel": "/software/repository/github/ropensci/rAvis",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "rAvis: an R-package to download the information stored in \u201cproyectoavis\u201d, a citizen science bird project. ",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/fulltext",
+        "url": "https://github.com/ropensci/fulltext",
+        "rel": "/software/repository/github/ropensci/fulltext",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Search across and get full text for OA & closed journals",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/DoOR.data",
+        "url": "https://github.com/ropensci/DoOR.data",
+        "rel": "/software/repository/github/ropensci/DoOR.data",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R package containing the data for the Database of Odor Responses",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/biomartr",
+        "url": "https://github.com/ropensci/biomartr",
+        "rel": "/software/repository/github/ropensci/biomartr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Genomic Data Retrieval with R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/europepmc",
+        "url": "https://github.com/ropensci/europepmc",
+        "rel": "/software/repository/github/ropensci/europepmc",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R Interface to Europe PMC RESTful Web Service",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/cffr",
         "url": "https://github.com/ropensci/cffr",
         "rel": "/software/repository/github/ropensci/cffr",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "Generate Citation File Format (cff) Metadata for R Packages",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/rinat",
+        "url": "https://github.com/ropensci/rinat",
+        "rel": "/software/repository/github/ropensci/rinat",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "A programmatic interface to iNaturalist",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/gistr",
+        "url": "https://github.com/ropensci/gistr",
+        "rel": "/software/repository/github/ropensci/gistr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Interact with GitHub gists from R",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/RSelenium",
+        "url": "https://github.com/ropensci/RSelenium",
+        "rel": "/software/repository/github/ropensci/RSelenium",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "An R client for Selenium Remote WebDriver",
         "topics": []
     },
     {
