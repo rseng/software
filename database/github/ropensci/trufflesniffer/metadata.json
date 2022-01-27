@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/trufflesniffer",
+    "url": "https://github.com/ropensci/trufflesniffer",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.349025",
+        "name": "trufflesniffer",
+        "url": "https://api.github.com/repos/ropensci/trufflesniffer",
+        "full_name": "ropensci/trufflesniffer",
+        "html_url": "https://github.com/ropensci/trufflesniffer",
+        "private": false,
+        "description": "snif out truffles (secrets) [passwords, tokens, api keys]",
+        "created_at": "2019-01-25T22:05:55Z",
+        "updated_at": "2022-01-18T03:45:36Z",
+        "clone_url": "https://github.com/ropensci/trufflesniffer.git",
+        "homepage": "https://docs.ropensci.org/trufflesniffer",
+        "size": 40,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "R",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "r",
+            "rstats",
+            "secrets",
+            "r-package",
+            "truffle"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.222472",
+        "name": "rnaturalearthhires",
+        "url": "https://api.github.com/repos/ropensci/rnaturalearthhires",
+        "full_name": "ropensci/rnaturalearthhires",
+        "html_url": "https://github.com/ropensci/rnaturalearthhires",
+        "private": false,
+        "description": "high resolution naturalearth data for rnaturalearth",
+        "created_at": "2016-02-13T15:43:51Z",
+        "updated_at": "2022-01-09T19:03:55Z",
+        "clone_url": "https://github.com/ropensci/rnaturalearthhires.git",
+        "homepage": "https://docs.ropensci.org/rnaturalearthhires",
+        "size": 67444,
+        "stargazers_count": 14,
+        "watchers_count": 14,
+        "language": "R",
+        "open_issues_count": 3,
+        "license": null,
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "r",
+            "r-package",
+            "rstats"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/smapr",
+    "url": "https://github.com/ropensci/smapr",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.237763",
+        "name": "smapr",
+        "url": "https://api.github.com/repos/ropensci/smapr",
+        "full_name": "ropensci/smapr",
+        "html_url": "https://github.com/ropensci/smapr",
+        "private": false,
+        "description": "An R package for acquisition and processing of NASA SMAP data",
+        "created_at": "2016-05-11T21:10:06Z",
+        "updated_at": "2022-01-26T15:50:08Z",
+        "clone_url": "https://github.com/ropensci/smapr.git",
+        "homepage": "https://docs.ropensci.org/smapr",
+        "size": 6513,
+        "stargazers_count": 61,
+        "watchers_count": 61,
+        "language": "R",
+        "open_issues_count": 3,
+        "license": null,
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "nasa",
+            "smap-data",
+            "raster",
+            "extract-data",
+            "acquisition",
+            "soil-moisture",
+            "soil-moisture-sensor",
+            "soil-mapping",
+            "peer-reviewed",
+            "r",
+            "r-package",
+            "rstats"
+        ]
+    }
+}

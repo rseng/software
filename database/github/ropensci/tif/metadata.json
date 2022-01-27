@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/tif",
+    "url": "https://github.com/ropensci/tif",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.277380",
+        "name": "tif",
+        "url": "https://api.github.com/repos/ropensci/tif",
+        "full_name": "ropensci/tif",
+        "html_url": "https://github.com/ropensci/tif",
+        "private": false,
+        "description": "Text Interchange Formats",
+        "created_at": "2017-04-22T15:45:55Z",
+        "updated_at": "2021-11-22T01:04:21Z",
+        "clone_url": "https://github.com/ropensci/tif.git",
+        "homepage": "https://docs.ropensci.org/tif",
+        "size": 38,
+        "stargazers_count": 33,
+        "watchers_count": 33,
+        "language": "R",
+        "open_issues_count": 4,
+        "license": null,
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "text-processing",
+            "corpus",
+            "term-frequency",
+            "tokenizer",
+            "natural-language-processing",
+            "r-package",
+            "r",
+            "rstats"
+        ]
+    }
+}

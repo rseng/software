@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/chlorpromazineR",
+    "url": "https://github.com/ropensci/chlorpromazineR",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.364575",
+        "name": "chlorpromazineR",
+        "url": "https://api.github.com/repos/ropensci/chlorpromazineR",
+        "full_name": "ropensci/chlorpromazineR",
+        "html_url": "https://github.com/ropensci/chlorpromazineR",
+        "private": false,
+        "description": "Calculate chlorpromazine-equivalent doses in R",
+        "created_at": "2019-03-14T18:09:54Z",
+        "updated_at": "2021-12-06T14:30:11Z",
+        "clone_url": "https://github.com/ropensci/chlorpromazineR.git",
+        "homepage": "https://docs.ropensci.org/chlorpromazineR",
+        "size": 252,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": null,
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "psychiatry",
+            "pharmacology",
+            "r",
+            "antipsychotic",
+            "schizophrenia"
+        ]
+    }
+}

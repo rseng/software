@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/spelling",
+    "url": "https://github.com/ropensci/spelling",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.292315",
+        "name": "spelling",
+        "url": "https://api.github.com/repos/ropensci/spelling",
+        "full_name": "ropensci/spelling",
+        "html_url": "https://github.com/ropensci/spelling",
+        "private": false,
+        "description": "Tools for Spell Checking in R",
+        "created_at": "2017-08-25T11:59:13Z",
+        "updated_at": "2022-01-21T11:23:44Z",
+        "clone_url": "https://github.com/ropensci/spelling.git",
+        "homepage": "https://docs.ropensci.org/spelling",
+        "size": 130,
+        "stargazers_count": 91,
+        "watchers_count": 91,
+        "language": "R",
+        "open_issues_count": 19,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "spell-check",
+            "spell-checker",
+            "r",
+            "rstats",
+            "spelling",
+            "spellcheck",
+            "spellchecker",
+            "r-package"
+        ]
+    }
+}

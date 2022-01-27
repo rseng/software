@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/tic",
+    "url": "https://github.com/ropensci/tic",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.256101",
+        "name": "tic",
+        "url": "https://api.github.com/repos/ropensci/tic",
+        "full_name": "ropensci/tic",
+        "html_url": "https://github.com/ropensci/tic",
+        "private": false,
+        "description": "Tasks Integrating Continuously: CI-Agnostic Workflow Definitions",
+        "created_at": "2016-11-03T18:31:22Z",
+        "updated_at": "2022-01-06T20:11:05Z",
+        "clone_url": "https://github.com/ropensci/tic.git",
+        "homepage": "https://docs.ropensci.org/tic",
+        "size": 6473,
+        "stargazers_count": 149,
+        "watchers_count": 149,
+        "language": "R",
+        "open_issues_count": 12,
+        "license": null,
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "r",
+            "travis-ci",
+            "appveyor",
+            "continuous-integration",
+            "deployment",
+            "r-package",
+            "rstats",
+            "githubactions"
+        ]
+    }
+}

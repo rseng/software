@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/ruODK",
+    "url": "https://github.com/ropensci/ruODK",
+    "data": {
+        "timestamp": "2022-01-26 19:13:46.376473",
+        "name": "ruODK",
+        "url": "https://api.github.com/repos/ropensci/ruODK",
+        "full_name": "ropensci/ruODK",
+        "html_url": "https://github.com/ropensci/ruODK",
+        "private": false,
+        "description": "ruODK: An R Client for the ODK Central API",
+        "created_at": "2019-05-22T09:49:39Z",
+        "updated_at": "2022-01-12T17:51:57Z",
+        "clone_url": "https://github.com/ropensci/ruODK.git",
+        "homepage": "https://docs.ropensci.org/ruODK/",
+        "size": 14957,
+        "stargazers_count": 31,
+        "watchers_count": 31,
+        "language": "R",
+        "open_issues_count": 15,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "opendatakit",
+            "odata",
+            "odata-client",
+            "odk",
+            "odk-central",
+            "rstats",
+            "r-package"
+        ]
+    }
+}
