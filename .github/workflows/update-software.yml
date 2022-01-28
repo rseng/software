@@ -6,8 +6,13 @@ on:
     - cron: 0 0 * * 0
 
 jobs:
-  UpdateSoftware:
-    runs-on: ubuntu-latest
+  updateSoftware:
+    runs-on: ubuntu-latest    
+    strategy:
+      fail-fast: false
+      matrix:
+        scraper: [joss, rsnl, biotools, hal, ropensci]
+
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
@@ -16,15 +21,28 @@ jobs:
         sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools
         sudo pip3 install rse[all]
         rse --version
-    - name: Run Latest Scrapers
+    - name: Run ${{ matrix.scraper }} Scraper
       env:
         RSE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        scraper: ${{ matrix.scraper }}
       run: |
-          rse scrape joss
-          rse scrape rsnl
-          rse scrape biotools
-          rse scrape hal
-          rse export repos-txt repos.txt --force
+          rse scrape ${scraper}
+
+  updateInterface:
+    needs:
+      - updateSoftware
+    runs-on: ubuntu-latest
+    name: 
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+    - name: Install Research Software Encyclopedia
+      run: |
+        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools
+        sudo pip3 install rse[all]
+        rse --version
+    - name: Export Repos
+      run: rse export repos-txt repos.txt --force
 
     - name: Export site to docs/
       uses: rseng/rse-action@0.0.13
