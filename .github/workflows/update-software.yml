@@ -24,6 +24,7 @@ jobs:
           rse scrape rsnl
           rse scrape biotools
           rse scrape hal
+          rse scrape ropensci
           rse export repos-txt repos.txt --force
 
     - name: Export site to docs/
