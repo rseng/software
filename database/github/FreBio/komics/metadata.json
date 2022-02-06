@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/FreBio/komics",
+    "url": "https://github.com/FreBio/komics",
+    "data": {
+        "timestamp": "2022-02-06 00:43:59.910071",
+        "name": "komics",
+        "url": "https://api.github.com/repos/FreBio/komics",
+        "full_name": "FreBio/komics",
+        "html_url": "https://github.com/FreBio/komics",
+        "private": false,
+        "description": "Kinetoplast genOMICS",
+        "created_at": "2018-11-07T09:37:15Z",
+        "updated_at": "2021-12-16T12:45:50Z",
+        "clone_url": "https://github.com/FreBio/komics.git",
+        "homepage": "",
+        "size": 137482,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/FreBio",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7162054?v=4",
+            "login": "FreBio",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1186/S12859-021-04384-1"
+}
