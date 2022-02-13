@@ -2883,6 +2883,14 @@
         "topics": []
     },
     {
+        "uid": "github/UNSW-CEEM/nempy",
+        "url": "https://github.com/UNSW-CEEM/nempy",
+        "rel": "/software/repository/github/UNSW-CEEM/nempy",
+        "avatar": "https://avatars.githubusercontent.com/u/33536784?v=4",
+        "description": "A flexible tool kit for modelling Australia's National Electricity Market dispatch procedure.",
+        "topics": []
+    },
+    {
         "uid": "github/JSB-UCLA/scPNMF",
         "url": "https://github.com/JSB-UCLA/scPNMF",
         "rel": "/software/repository/github/JSB-UCLA/scPNMF",
@@ -3641,6 +3649,14 @@
         "topics": []
     },
     {
+        "uid": "github/nf-core/mag",
+        "url": "https://github.com/nf-core/mag",
+        "rel": "/software/repository/github/nf-core/mag",
+        "avatar": "https://avatars.githubusercontent.com/u/35520196?v=4",
+        "description": "Assembly and binning of metagenomes",
+        "topics": []
+    },
+    {
         "uid": "github/idptools/metapredict",
         "url": "https://github.com/idptools/metapredict",
         "rel": "/software/repository/github/idptools/metapredict",
@@ -3801,6 +3817,14 @@
         "url": "https://github.com/deeprob/ThioesteraseEnzymeSpecificity",
         "rel": "/software/repository/github/deeprob/ThioesteraseEnzymeSpecificity",
         "avatar": "https://avatars.githubusercontent.com/u/42780724?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/interactivereport/OmicsView0",
+        "url": "https://github.com/interactivereport/OmicsView0",
+        "rel": "/software/repository/github/interactivereport/OmicsView0",
+        "avatar": "https://avatars.githubusercontent.com/u/29576524?v=4",
         "description": null,
         "topics": []
     },
@@ -4060,6 +4084,14 @@
         "rel": "/software/repository/github/lcpp-org/RustBCA",
         "avatar": "https://avatars.githubusercontent.com/u/37936084?v=4",
         "description": "A Binary Collision Approximation (BCA) code for arbitrary ion-material interactions",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaManifolds/Manopt.jl",
+        "url": "https://github.com/JuliaManifolds/Manopt.jl",
+        "rel": "/software/repository/github/JuliaManifolds/Manopt.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/62259457?v=4",
+        "description": "Optimization on Manifolds in Julia",
         "topics": []
     },
     {
@@ -6211,6 +6243,14 @@
         "topics": []
     },
     {
+        "uid": "github/leonzheng2/butterfly",
+        "url": "https://github.com/leonzheng2/butterfly",
+        "rel": "/software/repository/github/leonzheng2/butterfly",
+        "avatar": "https://avatars.githubusercontent.com/u/40190509?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/spinicist/riesling",
         "url": "https://github.com/spinicist/riesling",
         "rel": "/software/repository/github/spinicist/riesling",
@@ -6224,6 +6264,14 @@
         "rel": "/software/repository/github/AlexanderLabWHOI/EUKulele",
         "avatar": "https://avatars0.githubusercontent.com/u/44212672?v=4",
         "description": "Automatic eukaryotic taxonomic classification",
+        "topics": []
+    },
+    {
+        "uid": "github/SamDuffield/bmm",
+        "url": "https://github.com/SamDuffield/bmm",
+        "rel": "/software/repository/github/SamDuffield/bmm",
+        "avatar": "https://avatars.githubusercontent.com/u/34280297?v=4",
+        "description": "Map-matching using particle smoothing methods.",
         "topics": []
     },
     {
@@ -6749,6 +6797,14 @@
         "rel": "/software/repository/github/abelson-lab/smMIP-tools",
         "avatar": "https://avatars.githubusercontent.com/u/49252737?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/kostergroup/SIMsalabim",
+        "url": "https://github.com/kostergroup/SIMsalabim",
+        "rel": "/software/repository/github/kostergroup/SIMsalabim",
+        "avatar": "https://avatars.githubusercontent.com/u/64084163?v=4",
+        "description": "A 1D drift-diffusion simulator for semiconductor devices (LEDs, solar cells, diodes, organics, perovskites)",
         "topics": []
     },
     {
@@ -8210,6 +8266,14 @@
         ]
     },
     {
+        "uid": "github/scrook/neuroml-db",
+        "url": "https://github.com/scrook/neuroml-db",
+        "rel": "/software/repository/github/scrook/neuroml-db",
+        "avatar": "https://avatars.githubusercontent.com/u/2678602?v=4",
+        "description": "database of neuroml models",
+        "topics": []
+    },
+    {
         "uid": "github/WelbornGroup/ELECTRIC",
         "url": "https://github.com/WelbornGroup/ELECTRIC",
         "rel": "/software/repository/github/WelbornGroup/ELECTRIC",
@@ -8544,6 +8608,14 @@
         ]
     },
     {
+        "uid": "github/ocean-eddy-cpt/gcm-filters",
+        "url": "https://github.com/ocean-eddy-cpt/gcm-filters",
+        "rel": "/software/repository/github/ocean-eddy-cpt/gcm-filters",
+        "avatar": "https://avatars.githubusercontent.com/u/54479818?v=4",
+        "description": "Diffusion-based Spatial Filtering of Gridded Data",
+        "topics": []
+    },
+    {
         "uid": "github/jordanlab/STing",
         "url": "https://github.com/jordanlab/STing",
         "rel": "/software/repository/github/jordanlab/STing",
@@ -8646,6 +8718,14 @@
         "rel": "/software/repository/github/IBM/fold2seq",
         "avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
         "description": "Code for Fold2Seq paper from ICML 2021",
+        "topics": []
+    },
+    {
+        "uid": "github/PyTorchLightning/metrics",
+        "url": "https://github.com/PyTorchLightning/metrics",
+        "rel": "/software/repository/github/PyTorchLightning/metrics",
+        "avatar": "https://avatars.githubusercontent.com/u/58386951?v=4",
+        "description": "Machine learning metrics for distributed, scalable PyTorch applications.",
         "topics": []
     },
     {
@@ -9046,6 +9126,14 @@
         "rel": "/software/repository/github/ropensci-archive/reviewer",
         "avatar": "https://avatars.githubusercontent.com/u/68704009?v=4",
         "description": ":no_entry: ARCHIVED :no_entry:  Improving the track changes and reviewing experience in R markdown",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaSmoothOptimizers/DCISolver.jl",
+        "url": "https://github.com/JuliaSmoothOptimizers/DCISolver.jl",
+        "rel": "/software/repository/github/JuliaSmoothOptimizers/DCISolver.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/15710294?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -9836,6 +9924,14 @@
         "topics": []
     },
     {
+        "uid": "github/haoharryfeng/NeuCA",
+        "url": "https://github.com/haoharryfeng/NeuCA",
+        "rel": "/software/repository/github/haoharryfeng/NeuCA",
+        "avatar": "https://avatars.githubusercontent.com/u/25249792?v=4",
+        "description": "Neural-network based Cell Annotation tool",
+        "topics": []
+    },
+    {
         "uid": "github/ablab/TandemTools",
         "url": "https://github.com/ablab/TandemTools",
         "rel": "/software/repository/github/ablab/TandemTools",
@@ -10275,6 +10371,14 @@
         ]
     },
     {
+        "uid": "github/lutteropp/NetRAX",
+        "url": "https://github.com/lutteropp/NetRAX",
+        "rel": "/software/repository/github/lutteropp/NetRAX",
+        "avatar": "https://avatars.githubusercontent.com/u/1059869?v=4",
+        "description": "Phylogenetic Network Inference without ILS",
+        "topics": []
+    },
+    {
         "uid": "github/google/caliban",
         "url": "https://github.com/google/caliban",
         "rel": "/software/repository/github/google/caliban",
@@ -10518,6 +10622,14 @@
             "visualisation",
             "numfocus"
         ]
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/champ",
+        "url": "https://github.com/ImperialCollegeLondon/champ",
+        "rel": "/software/repository/github/ImperialCollegeLondon/champ",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/vcflib/vcflib",
@@ -11636,6 +11748,14 @@
         "url": "https://github.com/yuansliu/minirmd",
         "rel": "/software/repository/github/yuansliu/minirmd",
         "avatar": "https://avatars2.githubusercontent.com/u/7776655?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ot483/NetCom",
+        "url": "https://github.com/ot483/NetCom",
+        "rel": "/software/repository/github/ot483/NetCom",
+        "avatar": "https://avatars.githubusercontent.com/u/78791373?v=4",
         "description": null,
         "topics": []
     },
