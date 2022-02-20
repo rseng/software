@@ -104,6 +104,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/picos-api/picos",
+        "url": "https://gitlab.com/picos-api/picos",
+        "rel": "/software/repository/gitlab/picos-api/picos",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/7353603/logo.png",
+        "description": "A Python interface to conic optimization solvers.",
+        "topics": []
+    },
+    {
         "uid": "gitlab/chiemotono/mdcontactcom",
         "url": "https://gitlab.com/chiemotono/mdcontactcom",
         "rel": "/software/repository/gitlab/chiemotono/mdcontactcom",
@@ -2770,6 +2778,14 @@
         "topics": []
     },
     {
+        "uid": "github/HCGB-IGTP/XICRA",
+        "url": "https://github.com/HCGB-IGTP/XICRA",
+        "rel": "/software/repository/github/HCGB-IGTP/XICRA",
+        "avatar": "https://avatars.githubusercontent.com/u/56880433?v=4",
+        "description": "Small RNAseq pipeline for paired-end reads",
+        "topics": []
+    },
+    {
         "uid": "github/davidhoksza/MolArt",
         "url": "https://github.com/cusbg/MolArt",
         "rel": "/software/repository/github/davidhoksza/MolArt",
@@ -3008,6 +3024,14 @@
         "rel": "/software/repository/github/KALMUS-Color-Toolkit/KALMUS",
         "avatar": "https://avatars.githubusercontent.com/u/77697488?v=4",
         "description": "KALMUS Color Toolkit for color analysis and visualization in film studies.",
+        "topics": []
+    },
+    {
+        "uid": "github/sieunhanbom04/support-exploration-matrix-factorization",
+        "url": "https://github.com/sieunhanbom04/support-exploration-matrix-factorization",
+        "rel": "/software/repository/github/sieunhanbom04/support-exploration-matrix-factorization",
+        "avatar": "https://avatars.githubusercontent.com/u/31831447?v=4",
+        "description": "Code for the paper \"Structured support exploration for multi-layer sparse matrix factorization\" - ICASSP 2020",
         "topics": []
     },
     {
@@ -5242,6 +5266,14 @@
         "topics": []
     },
     {
+        "uid": "github/sibyllema/Fast-Multiscale-Diffusion-on-Graphs",
+        "url": "https://github.com/sibyllema/Fast-Multiscale-Diffusion-on-Graphs",
+        "rel": "/software/repository/github/sibyllema/Fast-Multiscale-Diffusion-on-Graphs",
+        "avatar": "https://avatars.githubusercontent.com/u/68539461?v=4",
+        "description": "Standalone code to generate the figures for the paper \"Fast Multiscale Diffusion on Graphs\" accepted at ICASSP 2022.",
+        "topics": []
+    },
+    {
         "uid": "github/scipy/scipy",
         "url": "https://github.com/scipy/scipy",
         "rel": "/software/repository/github/scipy/scipy",
@@ -6398,6 +6430,14 @@
         "topics": []
     },
     {
+        "uid": "github/metawards/MetaWards",
+        "url": "https://github.com/metawards/MetaWards",
+        "rel": "/software/repository/github/metawards/MetaWards",
+        "avatar": "https://avatars.githubusercontent.com/u/63117563?v=4",
+        "description": "MetaWards disease metapopulation analysis and modelling software. Professional geographical SIR model with a flexible plugin architecture to support complex scenario modelling",
+        "topics": []
+    },
+    {
         "uid": "github/candYgene/abg-ld",
         "url": "https://github.com/candYgene/abg-ld",
         "rel": "/software/repository/github/candYgene/abg-ld",
@@ -6555,6 +6595,14 @@
             "compression",
             "fast"
         ]
+    },
+    {
+        "uid": "github/mne-tools/mne-python",
+        "url": "https://github.com/mne-tools/mne-python",
+        "rel": "/software/repository/github/mne-tools/mne-python",
+        "avatar": "https://avatars.githubusercontent.com/u/583875?v=4",
+        "description": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+        "topics": []
     },
     {
         "uid": "github/staphopia/staphopia-paper",
@@ -7100,6 +7148,14 @@
         "rel": "/software/repository/github/MingBit/PySCNet",
         "avatar": "https://avatars.githubusercontent.com/u/22442392?v=4",
         "description": "A python package for single cell network analysis",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaQX/QXTools.jl",
+        "url": "https://github.com/JuliaQX/QXTools.jl",
+        "rel": "/software/repository/github/JuliaQX/QXTools.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/77590457?v=4",
+        "description": "Julia package for quantum circuit simulation using tensor networks",
         "topics": []
     },
     {
@@ -8640,6 +8696,14 @@
         "topics": []
     },
     {
+        "uid": "github/volkamerlab/opencadd",
+        "url": "https://github.com/volkamerlab/opencadd",
+        "rel": "/software/repository/github/volkamerlab/opencadd",
+        "avatar": "https://avatars.githubusercontent.com/u/44878588?v=4",
+        "description": "A Python library for structural cheminformatics",
+        "topics": []
+    },
+    {
         "uid": "github/atfrank/PyShifts",
         "url": "https://github.com/atfrank/PyShifts",
         "rel": "/software/repository/github/atfrank/PyShifts",
@@ -8695,6 +8759,14 @@
             "fwi",
             "rtm"
         ]
+    },
+    {
+        "uid": "github/luntergroup/octopus",
+        "url": "https://github.com/luntergroup/octopus",
+        "rel": "/software/repository/github/luntergroup/octopus",
+        "avatar": "https://avatars.githubusercontent.com/u/12530086?v=4",
+        "description": "Bayesian haplotype-based mutation calling",
+        "topics": []
     },
     {
         "uid": "github/HUST-NingKang-Lab/ONN4MST",
@@ -9302,6 +9374,14 @@
         "topics": []
     },
     {
+        "uid": "github/MelanieKahl/MechAnalyze",
+        "url": "https://github.com/MelanieKahl/MechAnalyze",
+        "rel": "/software/repository/github/MelanieKahl/MechAnalyze",
+        "avatar": "https://avatars.githubusercontent.com/u/63041177?v=4",
+        "description": "an algorithm for standardization and automation of unconfined compression test analysis",
+        "topics": []
+    },
+    {
         "uid": "github/SynthSys/pyOmeroUpload",
         "url": "https://github.com/SynthSys/pyOmeroUpload",
         "rel": "/software/repository/github/SynthSys/pyOmeroUpload",
@@ -9586,6 +9666,14 @@
         "rel": "/software/repository/github/Nico-Curti/rFBP",
         "avatar": "https://avatars2.githubusercontent.com/u/24650975?v=4",
         "description": "Replicated Focusing Belief Propagation algorithm",
+        "topics": []
+    },
+    {
+        "uid": "github/elwinter/nnde",
+        "url": "https://github.com/elwinter/nnde",
+        "rel": "/software/repository/github/elwinter/nnde",
+        "avatar": "https://avatars.githubusercontent.com/u/6576907?v=4",
+        "description": "nnde is a package of Python modules which implement a set of neural networks which solve ordinary and partial differential equations. This code is based on the previous package, nnode.",
         "topics": []
     },
     {
@@ -10823,6 +10911,14 @@
         ]
     },
     {
+        "uid": "github/NLESC-JCER/QMCTorch",
+        "url": "https://github.com/NLESC-JCER/QMCTorch",
+        "rel": "/software/repository/github/NLESC-JCER/QMCTorch",
+        "avatar": "https://avatars.githubusercontent.com/u/44467875?v=4",
+        "description": "Pytorch Implementation of Real Space Quantum Monte Carlo Simulations of Molecular Systems",
+        "topics": []
+    },
+    {
         "uid": "github/NLESC-JCER/Fortran_Davidson",
         "url": "https://github.com/NLESC-JCER/Fortran_Davidson",
         "rel": "/software/repository/github/NLESC-JCER/Fortran_Davidson",
@@ -11143,6 +11239,14 @@
         "topics": []
     },
     {
+        "uid": "github/devsim/devsim",
+        "url": "https://github.com/devsim/devsim",
+        "rel": "/software/repository/github/devsim/devsim",
+        "avatar": "https://avatars.githubusercontent.com/u/3003034?v=4",
+        "description": "TCAD Semiconductor Device Simulator",
+        "topics": []
+    },
+    {
         "uid": "github/marieBvr/virAnnot",
         "url": "https://github.com/marieBvr/virAnnot",
         "rel": "/software/repository/github/marieBvr/virAnnot",
@@ -11175,6 +11279,14 @@
         "rel": "/software/repository/github/barbagroup/geoclaw-landspill",
         "avatar": "https://avatars.githubusercontent.com/u/6503785?v=4",
         "description": "An oil land-spill and overland flow simulator for pipeline rupture events",
+        "topics": []
+    },
+    {
+        "uid": "github/alexander-pastukhov/bistablehistory",
+        "url": "https://github.com/alexander-pastukhov/bistablehistory",
+        "rel": "/software/repository/github/alexander-pastukhov/bistablehistory",
+        "avatar": "https://avatars.githubusercontent.com/u/12910993?v=4",
+        "description": "A package to compute a cumulative history for time-series of perceptual dominance in bistable displays.",
         "topics": []
     },
     {
@@ -12111,6 +12223,14 @@
         "rel": "/software/repository/github/nlesc-nano/Moka",
         "avatar": "https://avatars0.githubusercontent.com/u/49066803?v=4",
         "description": "command line interface to compute and molecular properties from a database",
+        "topics": []
+    },
+    {
+        "uid": "github/moranegg/AffectationRO",
+        "url": "https://github.com/moranegg/AffectationRO",
+        "rel": "/software/repository/github/moranegg/AffectationRO",
+        "avatar": "https://avatars.githubusercontent.com/u/6273005?v=4",
+        "description": "Projet en recherche op\u00e9rationelle ",
         "topics": []
     },
     {
