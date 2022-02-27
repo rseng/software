@@ -2866,6 +2866,14 @@
         "topics": []
     },
     {
+        "uid": "github/OSU-BMBL/IDAM",
+        "url": "https://github.com/OSU-BMBL/IDAM",
+        "rel": "/software/repository/github/OSU-BMBL/IDAM",
+        "avatar": "https://avatars.githubusercontent.com/u/46255124?v=4",
+        "description": "Infer disease-associated microbial biomarkers based on metagenomic and metatranscriptomic data",
+        "topics": []
+    },
+    {
         "uid": "github/odb9402/CNNPeaks",
         "url": "https://github.com/odb9402/CNNPeaks",
         "rel": "/software/repository/github/odb9402/CNNPeaks",
@@ -3595,6 +3603,14 @@
         "topics": []
     },
     {
+        "uid": "github/RamanLab/iCOMIC",
+        "url": "https://github.com/RamanLab/iCOMIC",
+        "rel": "/software/repository/github/RamanLab/iCOMIC",
+        "avatar": "https://avatars.githubusercontent.com/u/10651827?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/fermisurfaces/IFermi",
         "url": "https://github.com/fermisurfaces/IFermi",
         "rel": "/software/repository/github/fermisurfaces/IFermi",
@@ -3776,6 +3792,14 @@
         "topics": []
     },
     {
+        "uid": "github/jianlin-cheng/DRCon",
+        "url": "https://github.com/jianlin-cheng/DRCon",
+        "rel": "/software/repository/github/jianlin-cheng/DRCon",
+        "avatar": "https://avatars.githubusercontent.com/u/20481009?v=4",
+        "description": "Deep dilated convolutional residual neural network for predicting interchain contacts of protein homodimers",
+        "topics": []
+    },
+    {
         "uid": "github/JunTaoLuo/mctreesearch4j",
         "url": "https://github.com/aqtech-ca/mctreesearch4j",
         "rel": "/software/repository/github/JunTaoLuo/mctreesearch4j",
@@ -3890,6 +3914,14 @@
         "rel": "/software/repository/github/bempp/bempp-cl",
         "avatar": "https://avatars.githubusercontent.com/u/693670?v=4",
         "description": "A fast Python based just-in-time compiling boundary element library",
+        "topics": []
+    },
+    {
+        "uid": "github/szymon-datalions/pyinterpolate",
+        "url": "https://github.com/DataverseLabs/pyinterpolate",
+        "rel": "/software/repository/github/szymon-datalions/pyinterpolate",
+        "avatar": "https://avatars.githubusercontent.com/u/84904952?v=4",
+        "description": "Package with spatial analysis and spatial prediction tools",
         "topics": []
     },
     {
@@ -5135,6 +5167,14 @@
         "topics": []
     },
     {
+        "uid": "github/ArkajyotiSaha/RandomForestsGLS",
+        "url": "https://github.com/ArkajyotiSaha/RandomForestsGLS",
+        "rel": "/software/repository/github/ArkajyotiSaha/RandomForestsGLS",
+        "avatar": "https://avatars.githubusercontent.com/u/24556858?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/diCenzo-GC/Tn-Core-webserver",
         "url": "https://github.com/diCenzo-GC/Tn-Core-webserver",
         "rel": "/software/repository/github/diCenzo-GC/Tn-Core-webserver",
@@ -5247,6 +5287,14 @@
         "rel": "/software/repository/github/big-data-lab-team/spot",
         "avatar": "https://avatars0.githubusercontent.com/u/22078250?v=4",
         "description": "A set of tools to evaluate the reproducibility of computations",
+        "topics": []
+    },
+    {
+        "uid": "github/RajLabMSSM/echolocatoR",
+        "url": "https://github.com/RajLabMSSM/echolocatoR",
+        "rel": "/software/repository/github/RajLabMSSM/echolocatoR",
+        "avatar": "https://avatars.githubusercontent.com/u/43655912?v=4",
+        "description": "Automated statistical and functional fine-mapping pipeline with extensive API access to datasets.",
         "topics": []
     },
     {
@@ -6275,6 +6323,14 @@
         "topics": []
     },
     {
+        "uid": "github/cran/irtplay",
+        "url": "https://github.com/cran/irtplay",
+        "rel": "/software/repository/github/cran/irtplay",
+        "avatar": "https://avatars.githubusercontent.com/u/6899542?v=4",
+        "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  irtplay\u00a0\u2014\u00a0Unidimensional\u00a0Item\u00a0Response\u00a0Theory\u00a0Modeling.\u00a0Homepage:\u00a0https://github.com/hwangQ/irtplay  Report\u00a0bugs\u00a0for\u00a0this\u00a0package:\u00a0https://github.com/hwangQ/irtplay/issues",
+        "topics": []
+    },
+    {
         "uid": "github/leonzheng2/butterfly",
         "url": "https://github.com/leonzheng2/butterfly",
         "rel": "/software/repository/github/leonzheng2/butterfly",
@@ -7087,6 +7143,14 @@
         ]
     },
     {
+        "uid": "github/vgl-hub/gfastats",
+        "url": "https://github.com/vgl-hub/gfastats",
+        "rel": "/software/repository/github/vgl-hub/gfastats",
+        "avatar": "https://avatars.githubusercontent.com/u/53915985?v=4",
+        "description": "A single fast and exhaustive tool for summary statistics and simultaneous *fa* (fasta, fastq, gfa [.gz]) genome assembly file manipulation.",
+        "topics": []
+    },
+    {
         "uid": "github/refresh-bio/whisper",
         "url": "https://github.com/refresh-bio/Whisper",
         "rel": "/software/repository/github/refresh-bio/whisper",
@@ -7156,6 +7220,14 @@
         "rel": "/software/repository/github/JuliaQX/QXTools.jl",
         "avatar": "https://avatars.githubusercontent.com/u/77590457?v=4",
         "description": "Julia package for quantum circuit simulation using tensor networks",
+        "topics": []
+    },
+    {
+        "uid": "github/pybamm-team/liionpack",
+        "url": "https://github.com/pybamm-team/liionpack",
+        "rel": "/software/repository/github/pybamm-team/liionpack",
+        "avatar": "https://avatars.githubusercontent.com/u/48961907?v=4",
+        "description": "A battery pack simulation tool that uses the PyBaMM framework",
         "topics": []
     },
     {
@@ -8014,6 +8086,14 @@
         "rel": "/software/repository/github/tylunel/pvpumpingsystem",
         "avatar": "https://avatars3.githubusercontent.com/u/54322843?v=4",
         "description": "Provides tools for modeling photovoltaic water pumping system",
+        "topics": []
+    },
+    {
+        "uid": "github/samuelefiorini/tangle",
+        "url": "https://github.com/samuelefiorini/tangle",
+        "rel": "/software/repository/github/samuelefiorini/tangle",
+        "avatar": "https://avatars.githubusercontent.com/u/15000098?v=4",
+        "description": "TANGLE: Time spAN Guided neuraL attEntion model",
         "topics": []
     },
     {
@@ -12226,6 +12306,14 @@
         "topics": []
     },
     {
+        "uid": "github/moranegg/deposit-template",
+        "url": "https://github.com/moranegg/deposit-template",
+        "rel": "/software/repository/github/moranegg/deposit-template",
+        "avatar": "https://avatars.githubusercontent.com/u/6273005?v=4",
+        "description": "This is a deposit template repository to help researchers in starting their project in a online VCS",
+        "topics": []
+    },
+    {
         "uid": "github/moranegg/AffectationRO",
         "url": "https://github.com/moranegg/AffectationRO",
         "rel": "/software/repository/github/moranegg/AffectationRO",
@@ -12442,11 +12530,27 @@
         "topics": []
     },
     {
+        "uid": "github/TPI-Immunogenetics/igmat",
+        "url": "https://github.com/TPI-Immunogenetics/igmat",
+        "rel": "/software/repository/github/TPI-Immunogenetics/igmat",
+        "avatar": "https://avatars.githubusercontent.com/u/87307668?v=4",
+        "description": "Antibody Multispecies Annotation Tool",
+        "topics": []
+    },
+    {
         "uid": "github/galsci/pysm",
         "url": "https://github.com/galsci/pysm",
         "rel": "/software/repository/github/galsci/pysm",
         "avatar": "https://avatars.githubusercontent.com/u/81497054?v=4",
         "description": "PySM 3: Sky emission simulations for Cosmic Microwave Background experiments",
+        "topics": []
+    },
+    {
+        "uid": "github/villano-lab/nrCascadeSim",
+        "url": "https://github.com/villano-lab/nrCascadeSim",
+        "rel": "/software/repository/github/villano-lab/nrCascadeSim",
+        "avatar": "https://avatars.githubusercontent.com/u/52713476?v=4",
+        "description": "calculating the NR spectrum resulting from neutron-capture cascades.",
         "topics": []
     },
     {
