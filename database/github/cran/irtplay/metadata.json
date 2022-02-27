@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/cran/irtplay",
+    "url": "https://github.com/cran/irtplay",
+    "data": {
+        "timestamp": "2022-02-27 00:45:53.992936",
+        "name": "irtplay",
+        "url": "https://api.github.com/repos/cran/irtplay",
+        "full_name": "cran/irtplay",
+        "html_url": "https://github.com/cran/irtplay",
+        "private": false,
+        "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  irtplay\u00a0\u2014\u00a0Unidimensional\u00a0Item\u00a0Response\u00a0Theory\u00a0Modeling.\u00a0Homepage:\u00a0https://github.com/hwangQ/irtplay  Report\u00a0bugs\u00a0for\u00a0this\u00a0package:\u00a0https://github.com/hwangQ/irtplay/issues",
+        "created_at": "2019-09-18T15:20:44Z",
+        "updated_at": "2021-11-05T03:33:26Z",
+        "clone_url": "https://github.com/cran/irtplay.git",
+        "homepage": "",
+        "size": 2275,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "R",
+        "open_issues_count": 1,
+        "license": null,
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/cran",
+            "avatar_url": "https://avatars.githubusercontent.com/u/6899542?v=4",
+            "login": "cran",
+            "type": "Organization"
+        },
+        "topics": []
+    },
+    "doi": "10.1177/0146621620921247"
+}
