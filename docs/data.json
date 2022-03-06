@@ -112,6 +112,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/andrea-tango/ficos",
+        "url": "https://gitlab.com/andrea-tango/ficos",
+        "rel": "/software/repository/gitlab/andrea-tango/ficos",
+        "avatar": "https://gitlab.comNone",
+        "description": "",
+        "topics": []
+    },
+    {
         "uid": "gitlab/chiemotono/mdcontactcom",
         "url": "https://gitlab.com/chiemotono/mdcontactcom",
         "rel": "/software/repository/gitlab/chiemotono/mdcontactcom",
@@ -221,6 +229,14 @@
         "rel": "/software/repository/github/genner-lab/meta-fish-lib",
         "avatar": "https://avatars.githubusercontent.com/u/74772033?v=4",
         "description": "A generalised, dynamic DNA reference library for metabarcoding of fishes",
+        "topics": []
+    },
+    {
+        "uid": "github/neuralhydrology/neuralhydrology",
+        "url": "https://github.com/neuralhydrology/neuralhydrology",
+        "rel": "/software/repository/github/neuralhydrology/neuralhydrology",
+        "avatar": "https://avatars.githubusercontent.com/u/59032226?v=4",
+        "description": "Python library to train neural networks with a strong focus on hydrological applications.",
         "topics": []
     },
     {
@@ -2882,6 +2898,14 @@
         "topics": []
     },
     {
+        "uid": "github/ni1o1/transbigdata",
+        "url": "https://github.com/ni1o1/transbigdata",
+        "rel": "/software/repository/github/ni1o1/transbigdata",
+        "avatar": "https://avatars.githubusercontent.com/u/53589767?v=4",
+        "description": "A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.",
+        "topics": []
+    },
+    {
         "uid": "github/tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "rel": "/software/repository/github/tensorflow/tensorflow",
@@ -3917,6 +3941,14 @@
         "topics": []
     },
     {
+        "uid": "github/inpefess/gym-saturation",
+        "url": "https://github.com/inpefess/gym-saturation",
+        "rel": "/software/repository/github/inpefess/gym-saturation",
+        "avatar": "https://avatars.githubusercontent.com/u/1696493?v=4",
+        "description": "an OpenAI Gym environment for saturation provers",
+        "topics": []
+    },
+    {
         "uid": "github/szymon-datalions/pyinterpolate",
         "url": "https://github.com/DataverseLabs/pyinterpolate",
         "rel": "/software/repository/github/szymon-datalions/pyinterpolate",
@@ -4135,6 +4167,14 @@
         "topics": []
     },
     {
+        "uid": "github/PopMedNet-Team/popmednet",
+        "url": "https://github.com/PopMedNet-Team/popmednet",
+        "rel": "/software/repository/github/PopMedNet-Team/popmednet",
+        "avatar": "https://avatars.githubusercontent.com/u/12749811?v=4",
+        "description": "This is the repository for the open source code of the distributed data network platform PopMedNet",
+        "topics": []
+    },
+    {
         "uid": "github/lcpp-org/RustBCA",
         "url": "https://github.com/lcpp-org/RustBCA",
         "rel": "/software/repository/github/lcpp-org/RustBCA",
@@ -4303,6 +4343,14 @@
         "rel": "/software/repository/github/nedRad88/SCALAR",
         "avatar": "https://avatars0.githubusercontent.com/u/12820298?v=4",
         "description": "SCALAR - Streaming ChALlenge plAtfoRm",
+        "topics": []
+    },
+    {
+        "uid": "github/pengweixing/FACT",
+        "url": "https://github.com/pengweixing/FACT",
+        "rel": "/software/repository/github/pengweixing/FACT",
+        "avatar": "https://avatars.githubusercontent.com/u/33319823?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -4535,6 +4583,14 @@
         "rel": "/software/repository/github/Dfam-consortium/RepeatModeler",
         "avatar": "https://avatars0.githubusercontent.com/u/40807771?v=4",
         "description": "De-Novo Repeat Discovery Tool",
+        "topics": []
+    },
+    {
+        "uid": "github/FZJ-IEK3-VSA/LoadProfileGenerator",
+        "url": "https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator",
+        "rel": "/software/repository/github/FZJ-IEK3-VSA/LoadProfileGenerator",
+        "avatar": "https://avatars.githubusercontent.com/u/28654423?v=4",
+        "description": "Program for generating load curves for residential consumers. Agentbased and extremly detailed.",
         "topics": []
     },
     {
@@ -5306,6 +5362,14 @@
         "topics": []
     },
     {
+        "uid": "github/cbalbin-FIU/Epitopedia",
+        "url": "https://github.com/cbalbin-bio/Epitopedia",
+        "rel": "/software/repository/github/cbalbin-FIU/Epitopedia",
+        "avatar": "https://avatars.githubusercontent.com/u/76659347?v=4",
+        "description": "Epitopedia: identifying molecular mimicry of known immune epitopes",
+        "topics": []
+    },
+    {
         "uid": "github/MikeHeiber/Excimontec",
         "url": "https://github.com/MikeHeiber/Excimontec",
         "rel": "/software/repository/github/MikeHeiber/Excimontec",
@@ -5766,6 +5830,14 @@
         "topics": []
     },
     {
+        "uid": "github/hpgem/nanomesh",
+        "url": "https://github.com/hpgem/nanomesh",
+        "rel": "/software/repository/github/hpgem/nanomesh",
+        "avatar": "https://avatars.githubusercontent.com/u/50169972?v=4",
+        "description": "Python workflow tool for generating meshes from 2D and 3D microscopy image data",
+        "topics": []
+    },
+    {
         "uid": "github/cjbarrie/academictwitteR",
         "url": "https://github.com/cjbarrie/academictwitteR",
         "rel": "/software/repository/github/cjbarrie/academictwitteR",
@@ -6066,6 +6138,14 @@
         "rel": "/software/repository/github/GabrielNakamura/FishPhyloMaker",
         "avatar": "https://avatars.githubusercontent.com/u/13869477?v=4",
         "description": "Making phylogenies for a list of fish species ",
+        "topics": []
+    },
+    {
+        "uid": "github/symmy596/SurfinPy",
+        "url": "https://github.com/symmy596/SurfinPy",
+        "rel": "/software/repository/github/symmy596/SurfinPy",
+        "avatar": "https://avatars.githubusercontent.com/u/26469895?v=4",
+        "description": "Thermodynamic Phase Diagram Generator",
         "topics": []
     },
     {
@@ -6669,6 +6749,14 @@
         "topics": []
     },
     {
+        "uid": "github/wajidarshad/ESIDE",
+        "url": "https://github.com/wajidarshad/ESIDE",
+        "rel": "/software/repository/github/wajidarshad/ESIDE",
+        "avatar": "https://avatars.githubusercontent.com/u/13540598?v=4",
+        "description": "Earthworm Species IDEntification",
+        "topics": []
+    },
+    {
         "uid": "github/iobio-zjut/IPTDFold",
         "url": "https://github.com/iobio-zjut/IPTDFold",
         "rel": "/software/repository/github/iobio-zjut/IPTDFold",
@@ -6722,6 +6810,14 @@
         "rel": "/software/repository/github/DeepRank/iScore",
         "avatar": "https://avatars1.githubusercontent.com/u/31408512?v=4",
         "description": "iScore: an MPI supported software for ranking protein-protein docking models based on a random walk graph kernel and support vector machines",
+        "topics": []
+    },
+    {
+        "uid": "github/Magritte-code/Magritte",
+        "url": "https://github.com/Magritte-code/Magritte",
+        "rel": "/software/repository/github/Magritte-code/Magritte",
+        "avatar": "https://avatars.githubusercontent.com/u/34956055?v=4",
+        "description": "A modern software library for simulating radiation transport.",
         "topics": []
     },
     {
@@ -8360,6 +8456,14 @@
         "topics": []
     },
     {
+        "uid": "github/dankelley/oce",
+        "url": "https://github.com/dankelley/oce",
+        "rel": "/software/repository/github/dankelley/oce",
+        "avatar": "https://avatars.githubusercontent.com/u/99469?v=4",
+        "description": "R package for oceanographic processing",
+        "topics": []
+    },
+    {
         "uid": "github/spectralcode/OCTproZ",
         "url": "https://github.com/spectralcode/OCTproZ",
         "rel": "/software/repository/github/spectralcode/OCTproZ",
@@ -9362,6 +9466,14 @@
         "rel": "/software/repository/github/meenakshi-kushwaha/mmaqshiny",
         "avatar": "https://avatars1.githubusercontent.com/u/52627451?v=4",
         "description": "R-Shiny package to explore Air-Pollution Mobile Monitoring data ",
+        "topics": []
+    },
+    {
+        "uid": "github/Rohit-Kundu/ET-NET_Covid-Detection",
+        "url": "https://github.com/Rohit-Kundu/ET-NET_Covid-Detection",
+        "rel": "/software/repository/github/Rohit-Kundu/ET-NET_Covid-Detection",
+        "avatar": "https://avatars.githubusercontent.com/u/80497999?v=4",
+        "description": "An Ensemble Transfer Learning Network for COVID-19 detection from lung CT-scan images.",
         "topics": []
     },
     {
@@ -11756,6 +11868,14 @@
         "topics": []
     },
     {
+        "uid": "github/ridgelab/ExtRampOnline",
+        "url": "https://github.com/ridgelab/ExtRampOnline",
+        "rel": "/software/repository/github/ridgelab/ExtRampOnline",
+        "avatar": "https://avatars.githubusercontent.com/u/12803582?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/patrickfuchs/buildH",
         "url": "https://github.com/patrickfuchs/buildH",
         "rel": "/software/repository/github/patrickfuchs/buildH",
@@ -12258,6 +12378,14 @@
         "rel": "/software/repository/github/nlesc-nano/ceiba",
         "avatar": "https://avatars.githubusercontent.com/u/49066803?v=4",
         "description": "Web service to manage scientific simulation data",
+        "topics": []
+    },
+    {
+        "uid": "github/nlesc-nano/ceiba-cli",
+        "url": "https://github.com/nlesc-nano/ceiba-cli",
+        "rel": "/software/repository/github/nlesc-nano/ceiba-cli",
+        "avatar": "https://avatars.githubusercontent.com/u/49066803?v=4",
+        "description": "command-line interface to compute and molecular properties from a database",
         "topics": []
     },
     {
