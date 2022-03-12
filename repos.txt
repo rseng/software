@@ -3,6 +3,7 @@ gitlab/pyFBS/pyFBS
 gitlab/cosmograil/PyCS3
 gitlab/emd-dev/emd
 gitlab/cracklet/cracklet
+gitlab/octopus-code/octopus
 gitlab/andrea-tango/ficos
 gitlab/picos-api/picos
 gitlab/libreumg/dataquier
@@ -25,7 +26,9 @@ gitlab/ChemBioHub/tpmap
 gitlab/davidtourigny/dynamic-fba
 gitlab/vincent-sater/umigen
 gitlab/aceteam.kaist/ACE-Molecule
+gitlab/elsi_project/elsi_interface
 gitlab/geekysquirrel/bigx
+gitlab/dalton/dalton
 github/jiujiezz/tsnad
 github/twopin/CAMP
 github/kkjawz/coref-ee
@@ -43,6 +46,7 @@ github/mosdef-hub/foyer
 github/ynop/audiomate
 github/adigenova/wengan
 github/pmoulos/metaseqR2
+github/glotzerlab/hoomd-blue
 github/glotzerlab/freud
 github/glotzerlab/coxeter
 github/scikit-learn/scikit-learn
@@ -97,6 +101,7 @@ github/hillerlab/GenomeAlignmentTools
 github/AstraZeneca/kallisto
 github/mscroggs/symfem
 github/Magritte-code/Magritte
+github/SSAGESproject/SSAGES
 github/CGAL/cgal
 github/VALENCE-software/VALENCE
 github/VNNikolaidis/nnlib2Rcpp
@@ -104,6 +109,7 @@ github/MoreiraLAB/mensadb-open
 github/MoreiraLAB/or
 github/cadop/seg1d
 github/elwinter/nnde
+github/iopenshell/ezSpectrum
 github/mdsteiner/EFAtools
 github/azizka/IUCNN
 github/BioGearsEngine/core
@@ -513,6 +519,7 @@ github/labsyspharm/minerva-story
 github/deepskies/deeplenstronomy
 github/STEllAR-GROUP/hpx
 github/Planet-AI-GmbH/tfaip
+github/Acellera/htmd
 github/BenMql/coral
 github/brainets/frites
 github/BioinfoUNIBA/REDItools2
@@ -532,6 +539,7 @@ github/rksyouyou/SASOM-analysis
 github/SWE-UniStuttgart/Qlunc
 github/ComtekAdvancedStructures/cmstatr
 github/FlowModelingControl/flowtorch
+github/openmm/openmm
 github/JuliaPlots/Makie.jl
 github/andreasmang/claire
 github/biocore/scikit-bio
@@ -575,6 +583,7 @@ github/ropensci-archive/monkeylearn
 github/ropensci-archive/arresteddev
 github/ropensci-archive/rodev
 github/FEniCS/ffcx
+github/CisnerosResearch/LICHEM
 github/thomgrand/fim-python
 github/jasonyangshadow/lpmx
 github/leonzheng2/butterfly
@@ -600,6 +609,7 @@ github/tgrimes/SeqNet
 github/staphopia/staphopia-paper
 github/KVSlab/turtleFSI
 github/DistrictDataLabs/yellowbrick
+github/abinit/abinit
 github/fakedrtom/oncogemini
 github/tidyverse/glue
 github/pengweixing/FACT
@@ -622,6 +632,7 @@ github/patrickfuchs/buildH
 github/qutip/qutip
 github/jacobmerson/model-traits
 github/cma2015/iwa-miRNA
+github/UFParLab/aces4
 github/yatiml/yatiml
 github/SteveMacenski/slam_toolbox
 github/jboynyc/textnets
@@ -863,6 +874,7 @@ github/bxlab/metaWRAP
 github/delve-team/delve
 github/pymc-devs/pymc3
 github/TinkerTools/Tinker-HP
+github/TinkerTools/tinker9
 github/radio1988/OneStopRNAseq
 github/r-lib/gert
 github/r-lib/credentials
@@ -1400,6 +1412,7 @@ github/andyphilips/dynamac
 github/beagle-dev/beagle-lib
 github/statsmodels/statsmodels
 github/sambit-giri/tools21cm
+github/Electrostatics/apbs
 github/ImproPhoto/pymicmac
 github/luntergroup/octopus
 github/MillionConcepts/lhorizon
@@ -1468,6 +1481,7 @@ github/enveda/RPath
 github/TeamCOMPAS/COMPAS
 github/jorittmo/singcar
 github/euroargodev/argopy
+github/openmopac/MOPAC
 github/pypeit/PypeIt
 github/SamDuffield/bmm
 github/AlgoLab/shark
@@ -1492,3 +1506,4 @@ github/utrillalab/repromin
 github/siara-cc/Unishox2
 github/PacificBiosciences/GenomicConsensus
 github/PacificBiosciences/pbbioconda
+github/gromacs/gromacs

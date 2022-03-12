@@ -71,5 +71,6 @@
         "molecular-dynamics-simulation",
         "mdanalysis",
         "computational-chemistry"
-    ]
+    ],
+    "doi": "https://doi.org/10.25080/Majora-629e541a-00e"
 }
