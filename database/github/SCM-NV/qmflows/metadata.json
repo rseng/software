@@ -34,7 +34,7 @@
             "type": "Organization"
         }
     },
-    "doi": "10.5281/zenodo.1045522",
+    "doi": "https://doi.org/10.1021/acs.jcim.9b00384",
     "name": "qmflows",
     "full_name": "SCM-NV/qmflows",
     "html_url": "https://github.com/SCM-NV/qmflows",
