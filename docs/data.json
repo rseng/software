@@ -40,6 +40,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/dalton/dalton",
+        "url": "https://gitlab.com/dalton/dalton",
+        "rel": "/software/repository/gitlab/dalton/dalton",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/4007652/pRZ6xe8j_400x400.jpg",
+        "description": "Public Dalton source code repository.",
+        "topics": []
+    },
+    {
         "uid": "gitlab/ffaucher/hawen",
         "url": "https://gitlab.com/ffaucher/hawen",
         "rel": "/software/repository/gitlab/ffaucher/hawen",
@@ -72,6 +80,22 @@
         "topics": []
     },
     {
+        "uid": "gitlab/Molcas/OpenMolcas",
+        "url": "https://gitlab.com/Molcas/OpenMolcas",
+        "rel": "/software/repository/gitlab/Molcas/OpenMolcas",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/3536517/logo_open_flat.png",
+        "description": "OpenMolcas is a quantum chemistry software package.\r\n\r\nThe key feature of OpenMolcas is the multiconfigurational approach to the electronic structure.",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/octopus-code/octopus",
+        "url": "https://gitlab.com/octopus-code/octopus",
+        "rel": "/software/repository/gitlab/octopus-code/octopus",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/2018405/octopus.png",
+        "description": "Real-space Time-Dependent Density Functional Theory code",
+        "topics": []
+    },
+    {
         "uid": "gitlab/magnumpi/magnumpi",
         "url": "https://gitlab.com/magnumpi/magnumpi",
         "rel": "/software/repository/gitlab/magnumpi/magnumpi",
@@ -101,6 +125,14 @@
         "rel": "/software/repository/gitlab/mainlabwsu/bims",
         "avatar": "https://gitlab.comNone",
         "description": "BIMS",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/aceteam.kaist/ACE-Molecule",
+        "url": "https://gitlab.com/aceteam.kaist/ACE-Molecule",
+        "rel": "/software/repository/gitlab/aceteam.kaist/ACE-Molecule",
+        "avatar": "https://gitlab.comNone",
+        "description": "GitLab repository for ACE-Molecule.",
         "topics": []
     },
     {
@@ -200,11 +232,27 @@
         "topics": []
     },
     {
+        "uid": "gitlab/elsi_project/elsi_interface",
+        "url": "https://gitlab.com/elsi_project/elsi_interface",
+        "rel": "/software/repository/gitlab/elsi_project/elsi_interface",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/20804728/elsi_200629.png",
+        "description": "ELSI:  A software interface designed for electronic structure codes to connect with ELPA, libOMM, PEXSI, EigenExa, SLEPc, NTPoly, BSEPACK, LAPACK, MAGMA, and other solver libraries.",
+        "topics": []
+    },
+    {
         "uid": "gitlab/LouisLab/PiVR",
         "url": "https://gitlab.com/LouisLab/pivr",
         "rel": "/software/repository/gitlab/LouisLab/PiVR",
         "avatar": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/9212004/PiVR_logo.png",
         "description": "PiVR has been developed to track a variety of animals in real time and present them with light stimuli. Manual can be found at www.PiVR.org, scientific publication at  https://doi.org/10.1371/journal.pbio.3000712\r\n",
+        "topics": []
+    },
+    {
+        "uid": "github/mcsiple/mmrefpoints",
+        "url": "https://github.com/mcsiple/mmrefpoints",
+        "rel": "/software/repository/github/mcsiple/mmrefpoints",
+        "avatar": "https://avatars.githubusercontent.com/u/2936426?v=4",
+        "description": "A package for simulating marine mammal abundance and calculating reference points.",
         "topics": []
     },
     {
@@ -2882,6 +2930,14 @@
         "topics": []
     },
     {
+        "uid": "github/eEcoLiDAR/Laserfarm",
+        "url": "https://github.com/eEcoLiDAR/Laserfarm",
+        "rel": "/software/repository/github/eEcoLiDAR/Laserfarm",
+        "avatar": "https://avatars.githubusercontent.com/u/29599373?v=4",
+        "description": "Laserchicken Framework for Applications in Research in Macro-ecology",
+        "topics": []
+    },
+    {
         "uid": "github/OSU-BMBL/IDAM",
         "url": "https://github.com/OSU-BMBL/IDAM",
         "rel": "/software/repository/github/OSU-BMBL/IDAM",
@@ -3048,6 +3104,14 @@
         "rel": "/software/repository/github/SwissClinicalTrialOrganisation/secuTrialR",
         "avatar": "https://avatars3.githubusercontent.com/u/44496957?v=4",
         "description": "Handling of data from the clinical data management system secuTrial",
+        "topics": []
+    },
+    {
+        "uid": "github/abinit/abinit",
+        "url": "https://github.com/abinit/abinit",
+        "rel": "/software/repository/github/abinit/abinit",
+        "avatar": "https://avatars.githubusercontent.com/u/15837788?v=4",
+        "description": "The official github mirror of the Abinit repository. We welcome bug fixes and improvements. Note that most of the active developments are hosted on our https://gitlab.abinit.org/ server.  Before embarking on making significant changes, please contact the Abinit group.",
         "topics": []
     },
     {
@@ -3503,6 +3567,14 @@
         "topics": []
     },
     {
+        "uid": "github/USEPA/nsink",
+        "url": "https://github.com/USEPA/nsink",
+        "rel": "/software/repository/github/USEPA/nsink",
+        "avatar": "https://avatars.githubusercontent.com/u/1304320?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/OrlandoLam/SAMT",
         "url": "https://github.com/OrlandoLam/SAMT",
         "rel": "/software/repository/github/OrlandoLam/SAMT",
@@ -3721,6 +3793,14 @@
         "topics": []
     },
     {
+        "uid": "github/nf-core/viralrecon",
+        "url": "https://github.com/nf-core/viralrecon",
+        "rel": "/software/repository/github/nf-core/viralrecon",
+        "avatar": "https://avatars.githubusercontent.com/u/35520196?v=4",
+        "description": "Assembly and intrahost/low-frequency variant calling for viral samples",
+        "topics": []
+    },
+    {
         "uid": "github/idptools/metapredict",
         "url": "https://github.com/idptools/metapredict",
         "rel": "/software/repository/github/idptools/metapredict",
@@ -3753,11 +3833,27 @@
         "topics": []
     },
     {
+        "uid": "github/glotzerlab/hoomd-blue",
+        "url": "https://github.com/glotzerlab/hoomd-blue",
+        "rel": "/software/repository/github/glotzerlab/hoomd-blue",
+        "avatar": "https://avatars.githubusercontent.com/u/25832198?v=4",
+        "description": "Molecular dynamics and Monte Carlo soft matter simulation on GPUs.",
+        "topics": []
+    },
+    {
         "uid": "github/glotzerlab/coxeter",
         "url": "https://github.com/glotzerlab/coxeter",
         "rel": "/software/repository/github/glotzerlab/coxeter",
         "avatar": "https://avatars.githubusercontent.com/u/25832198?v=4",
         "description": "Collection of tools to help initialize and manipulate shapes.",
+        "topics": []
+    },
+    {
+        "uid": "github/glotzerlab/freud",
+        "url": "https://github.com/glotzerlab/freud",
+        "rel": "/software/repository/github/glotzerlab/freud",
+        "avatar": "https://avatars.githubusercontent.com/u/25832198?v=4",
+        "description": "Powerful, efficient particle trajectory analysis in scientific Python.",
         "topics": []
     },
     {
@@ -4167,6 +4263,14 @@
         "topics": []
     },
     {
+        "uid": "github/OpenMD/OpenMD",
+        "url": "https://github.com/OpenMD/OpenMD",
+        "rel": "/software/repository/github/OpenMD/OpenMD",
+        "avatar": "https://avatars.githubusercontent.com/u/6164615?v=4",
+        "description": "Molecular Dynamics in the Open",
+        "topics": []
+    },
+    {
         "uid": "github/PopMedNet-Team/popmednet",
         "url": "https://github.com/PopMedNet-Team/popmednet",
         "rel": "/software/repository/github/PopMedNet-Team/popmednet",
@@ -4292,6 +4396,14 @@
         "rel": "/software/repository/github/jessecambon/tidygeocoder",
         "avatar": "https://avatars.githubusercontent.com/u/31526206?v=4",
         "description": "Geocoding Made Easy",
+        "topics": []
+    },
+    {
+        "uid": "github/jiahecui/SenAOReFoc",
+        "url": "https://github.com/jiahecui/SenAOReFoc",
+        "rel": "/software/repository/github/jiahecui/SenAOReFoc",
+        "avatar": "https://avatars.githubusercontent.com/u/44090103?v=4",
+        "description": "A closed-loop sensorbased adaptive optics and remote focusing control software that works with a deformable mirror and a Shack-Hartmann wavefront sensor.",
         "topics": []
     },
     {
@@ -4682,6 +4794,14 @@
         ]
     },
     {
+        "uid": "github/Via-Appia/via-appia-online-viewer",
+        "url": "https://github.com/Via-Appia/via-appia-online-viewer",
+        "rel": "/software/repository/github/Via-Appia/via-appia-online-viewer",
+        "avatar": "https://avatars.githubusercontent.com/u/84012063?v=4",
+        "description": "Via Appia viewer application",
+        "topics": []
+    },
+    {
         "uid": "github/MD-Studio/cerise",
         "url": "https://github.com/MD-Studio/cerise",
         "rel": "/software/repository/github/MD-Studio/cerise",
@@ -4750,6 +4870,14 @@
         ]
     },
     {
+        "uid": "github/psi4/psi4",
+        "url": "https://github.com/psi4/psi4",
+        "rel": "/software/repository/github/psi4/psi4",
+        "avatar": "https://avatars.githubusercontent.com/u/2636883?v=4",
+        "description": "Open-Source Quantum Chemistry \u2013 an electronic structure package in C++ driven by Python",
+        "topics": []
+    },
+    {
         "uid": "github/saeyslab/nichenetr",
         "url": "https://github.com/saeyslab/nichenetr",
         "rel": "/software/repository/github/saeyslab/nichenetr",
@@ -4771,6 +4899,14 @@
         "rel": "/software/repository/github/saeyslab/CytoNorm_Figures",
         "avatar": "https://avatars0.githubusercontent.com/u/18485264?v=4",
         "description": "Scripts to replicate the figures reported in the CytofNorm publication. ",
+        "topics": []
+    },
+    {
+        "uid": "github/nwchemgit/nwchem",
+        "url": "https://github.com/nwchemgit/nwchem",
+        "rel": "/software/repository/github/nwchemgit/nwchem",
+        "avatar": "https://avatars.githubusercontent.com/u/33767317?v=4",
+        "description": "NWChem: Open Source High-Performance Computational Chemistry",
         "topics": []
     },
     {
@@ -5076,6 +5212,14 @@
         "topics": []
     },
     {
+        "uid": "github/qboxcode/qbox-public",
+        "url": "https://github.com/qboxcode/qbox-public",
+        "rel": "/software/repository/github/qboxcode/qbox-public",
+        "avatar": "https://avatars.githubusercontent.com/u/13824137?v=4",
+        "description": "Qbox public repository",
+        "topics": []
+    },
+    {
         "uid": "github/IFB-ElixirFr/edam-browser",
         "url": "https://github.com/IFB-ElixirFr/edam-browser",
         "rel": "/software/repository/github/IFB-ElixirFr/edam-browser",
@@ -5359,6 +5503,22 @@
         "rel": "/software/repository/github/flosalbizziae/kataegis",
         "avatar": "https://avatars.githubusercontent.com/u/10743837?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mosdef-hub/mbuild",
+        "url": "https://github.com/mosdef-hub/mbuild",
+        "rel": "/software/repository/github/mosdef-hub/mbuild",
+        "avatar": "https://avatars.githubusercontent.com/u/25673981?v=4",
+        "description": "A hierarchical, component based molecule builder",
+        "topics": []
+    },
+    {
+        "uid": "github/mosdef-hub/foyer",
+        "url": "https://github.com/mosdef-hub/foyer",
+        "rel": "/software/repository/github/mosdef-hub/foyer",
+        "avatar": "https://avatars.githubusercontent.com/u/25673981?v=4",
+        "description": "A package for atom-typing as well as applying and disseminating forcefields",
         "topics": []
     },
     {
@@ -5654,6 +5814,14 @@
         "topics": []
     },
     {
+        "uid": "github/openmopac/MOPAC",
+        "url": "https://github.com/openmopac/mopac",
+        "rel": "/software/repository/github/openmopac/MOPAC",
+        "avatar": "https://avatars.githubusercontent.com/u/83091952?v=4",
+        "description": "Molecular Orbital PACkage",
+        "topics": []
+    },
+    {
         "uid": "github/learningsimulator/learningsimulator",
         "url": "https://github.com/learningsimulator/learningsimulator",
         "rel": "/software/repository/github/learningsimulator/learningsimulator",
@@ -5699,6 +5867,14 @@
         "rel": "/software/repository/github/dutilh/CAT",
         "avatar": "https://avatars.githubusercontent.com/u/15012855?v=4",
         "description": "CAT/BAT: tool for taxonomic classification of contigs and metagenome-assembled genomes (MAGs)",
+        "topics": []
+    },
+    {
+        "uid": "github/EACcodes/TigerCI",
+        "url": "https://github.com/EACcodes/TigerCI",
+        "rel": "/software/repository/github/EACcodes/TigerCI",
+        "avatar": "https://avatars.githubusercontent.com/u/19611690?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -5830,6 +6006,14 @@
         "topics": []
     },
     {
+        "uid": "github/undark-lab/swyft",
+        "url": "https://github.com/undark-lab/swyft",
+        "rel": "/software/repository/github/undark-lab/swyft",
+        "avatar": "https://avatars.githubusercontent.com/u/75046902?v=4",
+        "description": "Truncated marginal neural ratio estimation estimation with PyTorch.",
+        "topics": []
+    },
+    {
         "uid": "github/hpgem/nanomesh",
         "url": "https://github.com/hpgem/nanomesh",
         "rel": "/software/repository/github/hpgem/nanomesh",
@@ -5915,6 +6099,14 @@
         "rel": "/software/repository/github/ZhaoXM-Lab/metaMIC",
         "avatar": "https://avatars.githubusercontent.com/u/85596707?v=4",
         "description": "Assessing and Improving the quality of metagenomic assemblies",
+        "topics": []
+    },
+    {
+        "uid": "github/rickhelmus/patRoon",
+        "url": "https://github.com/rickhelmus/patRoon",
+        "rel": "/software/repository/github/rickhelmus/patRoon",
+        "avatar": "https://avatars.githubusercontent.com/u/37015911?v=4",
+        "description": "Workflow solutions for mass-spectrometry based non-target analysis.",
         "topics": []
     },
     {
@@ -6682,6 +6874,14 @@
         "topics": []
     },
     {
+        "uid": "github/iopenshell/ezSpectrum",
+        "url": "https://github.com/iopenshell/ezSpectrum",
+        "rel": "/software/repository/github/iopenshell/ezSpectrum",
+        "avatar": "https://avatars.githubusercontent.com/u/10172280?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/DrMarc/slab",
         "url": "https://github.com/DrMarc/slab",
         "rel": "/software/repository/github/DrMarc/slab",
@@ -6749,6 +6949,22 @@
         "topics": []
     },
     {
+        "uid": "github/Quantum-Dynamics-Hub/libra-code",
+        "url": "https://github.com/Quantum-Dynamics-Hub/libra-code",
+        "rel": "/software/repository/github/Quantum-Dynamics-Hub/libra-code",
+        "avatar": "https://avatars.githubusercontent.com/u/27871906?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/plumed/plumed2",
+        "url": "https://github.com/plumed/plumed2",
+        "rel": "/software/repository/github/plumed/plumed2",
+        "avatar": "https://avatars.githubusercontent.com/u/4379652?v=4",
+        "description": "Development version of plumed 2",
+        "topics": []
+    },
+    {
         "uid": "github/wajidarshad/ESIDE",
         "url": "https://github.com/wajidarshad/ESIDE",
         "rel": "/software/repository/github/wajidarshad/ESIDE",
@@ -6778,6 +6994,14 @@
         "rel": "/software/repository/github/bcgov/shinyssdtools",
         "avatar": "https://avatars.githubusercontent.com/u/916280?v=4",
         "description": "Shiny interface to ssdtools R package",
+        "topics": []
+    },
+    {
+        "uid": "github/DeepRank/DeepRank-GNN",
+        "url": "https://github.com/DeepRank/Deeprank-GNN",
+        "rel": "/software/repository/github/DeepRank/DeepRank-GNN",
+        "avatar": "https://avatars.githubusercontent.com/u/31408512?v=4",
+        "description": "Graph Network for protein-protein interface",
         "topics": []
     },
     {
@@ -6834,6 +7058,14 @@
         "rel": "/software/repository/github/KarrLab/de_sim",
         "avatar": "https://avatars3.githubusercontent.com/u/13785824?v=4",
         "description": "Python-based object-oriented discrete-event simulation tool for complex, data-driven modeling",
+        "topics": []
+    },
+    {
+        "uid": "github/UFParLab/aces4",
+        "url": "https://github.com/UFParLab/aces4",
+        "rel": "/software/repository/github/UFParLab/aces4",
+        "avatar": "https://avatars.githubusercontent.com/u/6758727?v=4",
+        "description": "Parallel Computational Chemistry Application",
         "topics": []
     },
     {
@@ -7585,6 +7817,14 @@
         ]
     },
     {
+        "uid": "github/m-a-d-n-e-s-s/madness",
+        "url": "https://github.com/m-a-d-n-e-s-s/madness",
+        "rel": "/software/repository/github/m-a-d-n-e-s-s/madness",
+        "avatar": "https://avatars.githubusercontent.com/u/7550723?v=4",
+        "description": "Multiresolution Adaptive Numerical Environment for Scientific Simulation",
+        "topics": []
+    },
+    {
         "uid": "github/ADAH-EviDENce/evidence",
         "url": "https://github.com/ADAH-EviDENce/evidence",
         "rel": "/software/repository/github/ADAH-EviDENce/evidence",
@@ -7611,6 +7851,14 @@
         "rel": "/software/repository/github/kutaslab/fitgrid",
         "avatar": "https://avatars.githubusercontent.com/u/39499147?v=4",
         "description": "Multichannel event-related time-series regression modeling for EEG, MEG, and sensor array data",
+        "topics": []
+    },
+    {
+        "uid": "github/PolymerGuy/recolo",
+        "url": "https://github.com/PolymerGuy/recolo",
+        "rel": "/software/repository/github/PolymerGuy/recolo",
+        "avatar": "https://avatars.githubusercontent.com/u/13745749?v=4",
+        "description": "Load reconstuction using virtual fields",
         "topics": []
     },
     {
@@ -8833,6 +9081,14 @@
         "topics": []
     },
     {
+        "uid": "github/openmm/openmm",
+        "url": "https://github.com/openmm/openmm",
+        "rel": "/software/repository/github/openmm/openmm",
+        "avatar": "https://avatars.githubusercontent.com/u/52428936?v=4",
+        "description": "OpenMM is a toolkit for molecular simulation using high performance GPU code. ",
+        "topics": []
+    },
+    {
         "uid": "github/weecology/retriever",
         "url": "https://github.com/weecology/retriever",
         "rel": "/software/repository/github/weecology/retriever",
@@ -9102,6 +9358,14 @@
         "topics": []
     },
     {
+        "uid": "github/GOMC-WSU/GOMC",
+        "url": "https://github.com/GOMC-WSU/GOMC",
+        "rel": "/software/repository/github/GOMC-WSU/GOMC",
+        "avatar": "https://avatars.githubusercontent.com/u/11666264?v=4",
+        "description": "GOMC - GPU Optimized Monte Carlo is a parallel molecular simulation code designed for high-performance simulation of large systems",
+        "topics": []
+    },
+    {
         "uid": "github/LiberTEM/LiberTEM",
         "url": "https://github.com/LiberTEM/LiberTEM",
         "rel": "/software/repository/github/LiberTEM/LiberTEM",
@@ -9326,6 +9590,14 @@
         "rel": "/software/repository/github/mortonne/psifr",
         "avatar": "https://avatars3.githubusercontent.com/u/9086777?v=4",
         "description": "Psifr: Analysis and visualization of free recall data",
+        "topics": []
+    },
+    {
+        "uid": "github/QEF/q-e",
+        "url": "https://github.com/QEF/q-e",
+        "rel": "/software/repository/github/QEF/q-e",
+        "avatar": "https://avatars.githubusercontent.com/u/5255480?v=4",
+        "description": "Mirror of the Quantum ESPRESSO repository. Please do not post Issues or pull requests here. Use gitlab.com/QEF/q-e instead.",
         "topics": []
     },
     {
@@ -9574,6 +9846,22 @@
         "topics": []
     },
     {
+        "uid": "github/TinkerTools/tinker9",
+        "url": "https://github.com/TinkerTools/tinker9",
+        "rel": "/software/repository/github/TinkerTools/tinker9",
+        "avatar": "https://avatars.githubusercontent.com/u/39835945?v=4",
+        "description": "Tinker9: Next Generation of Tinker with GPU Support",
+        "topics": []
+    },
+    {
+        "uid": "github/TinkerTools/Tinker-HP",
+        "url": "https://github.com/TinkerTools/tinker-hp",
+        "rel": "/software/repository/github/TinkerTools/Tinker-HP",
+        "avatar": "https://avatars.githubusercontent.com/u/39835945?v=4",
+        "description": "Tinker-HP: High-Performance Massively Parallel Evolution of Tinker on CPUs & GPUs",
+        "topics": []
+    },
+    {
         "uid": "github/SynthSys/pyOmeroUpload",
         "url": "https://github.com/SynthSys/pyOmeroUpload",
         "rel": "/software/repository/github/SynthSys/pyOmeroUpload",
@@ -9627,6 +9915,14 @@
         "rel": "/software/repository/github/hope-data-science/tidyfst",
         "avatar": "https://avatars1.githubusercontent.com/u/32947502?v=4",
         "description": "Tidy Verbs for Fast Data Manipulation",
+        "topics": []
+    },
+    {
+        "uid": "github/VALENCE-software/VALENCE",
+        "url": "https://github.com/VALENCE-software/VALENCE",
+        "rel": "/software/repository/github/VALENCE-software/VALENCE",
+        "avatar": "https://avatars.githubusercontent.com/u/45109653?v=4",
+        "description": "quantum chemistry software",
         "topics": []
     },
     {
@@ -9965,6 +10261,14 @@
         "rel": "/software/repository/github/Yu-Group/veridical-flow",
         "avatar": "https://avatars.githubusercontent.com/u/26810483?v=4",
         "description": "Making it easier to build stable, trustworthy data-science pipelines.",
+        "topics": []
+    },
+    {
+        "uid": "github/CisnerosResearch/LICHEM",
+        "url": "https://github.com/CisnerosResearch/LICHEM",
+        "rel": "/software/repository/github/CisnerosResearch/LICHEM",
+        "avatar": "https://avatars.githubusercontent.com/u/43679387?v=4",
+        "description": "This package is an open-source (GPLv3) interface between QM and MM software so that QM/MM calculations can be performed with polarizable and frozen electron density force fields. Functionality is also present for standard point-charge based force fields, pure MM, and pure QM calculations.",
         "topics": []
     },
     {
@@ -10313,6 +10617,14 @@
         "rel": "/software/repository/github/pyomeca/biorbd",
         "avatar": "https://avatars.githubusercontent.com/u/36738416?v=4",
         "description": "Biomechanical add-ons to the RigidBody Dynamics Library",
+        "topics": []
+    },
+    {
+        "uid": "github/nutjunkie/IQmol",
+        "url": "https://github.com/nutjunkie/IQmol",
+        "rel": "/software/repository/github/nutjunkie/IQmol",
+        "avatar": "https://avatars.githubusercontent.com/u/2628598?v=4",
+        "description": "IQmol is an open source molecular editor and visualization package",
         "topics": []
     },
     {
@@ -10718,6 +11030,14 @@
         "topics": []
     },
     {
+        "uid": "github/Acellera/htmd",
+        "url": "https://github.com/Acellera/htmd",
+        "rel": "/software/repository/github/Acellera/htmd",
+        "avatar": "https://avatars.githubusercontent.com/u/7776839?v=4",
+        "description": "HTMD: Programming Environment for Molecular Discovery",
+        "topics": []
+    },
+    {
         "uid": "github/pierrepo/autoclassweb",
         "url": "https://github.com/pierrepo/autoclassweb",
         "rel": "/software/repository/github/pierrepo/autoclassweb",
@@ -10731,6 +11051,14 @@
         "rel": "/software/repository/github/ImproPhoto/pymicmac",
         "avatar": "https://avatars3.githubusercontent.com/u/19147158?v=4",
         "description": "Python tools for the MicMac FOSS photogrammetric \"suite\"",
+        "topics": []
+    },
+    {
+        "uid": "github/Electrostatics/apbs",
+        "url": "https://github.com/Electrostatics/apbs",
+        "rel": "/software/repository/github/Electrostatics/apbs",
+        "avatar": "https://avatars.githubusercontent.com/u/6935492?v=4",
+        "description": "Software for biomolecular electrostatics and solvation calculations",
         "topics": []
     },
     {
@@ -10798,6 +11126,14 @@
         "topics": []
     },
     {
+        "uid": "github/ValeevGroup/mpqc",
+        "url": "https://github.com/ValeevGroup/mpqc",
+        "rel": "/software/repository/github/ValeevGroup/mpqc",
+        "avatar": "https://avatars.githubusercontent.com/u/5217762?v=4",
+        "description": "The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schr\u00f6dinger equation.",
+        "topics": []
+    },
+    {
         "uid": "github/Music-and-Culture-Technology-Lab/omnizart",
         "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
         "rel": "/software/repository/github/Music-and-Culture-Technology-Lab/omnizart",
@@ -10827,6 +11163,14 @@
         "rel": "/software/repository/github/EddyRivasLab/hmmer",
         "avatar": "https://avatars.githubusercontent.com/u/13962260?v=4",
         "description": "HMMER: biological sequence analysis using profile HMMs",
+        "topics": []
+    },
+    {
+        "uid": "github/MICCoM/SSAGES-public",
+        "url": "https://github.com/SSAGESproject/SSAGES",
+        "rel": "/software/repository/github/MICCoM/SSAGES-public",
+        "avatar": "https://avatars.githubusercontent.com/u/22507151?v=4",
+        "description": "Software Suite for Advanced General Ensemble Simulations",
         "topics": []
     },
     {
@@ -11062,6 +11406,14 @@
         "topics": []
     },
     {
+        "uid": "github/fair-data/fairdatapoint-client",
+        "url": "https://github.com/fair-data/fairdatapoint-client",
+        "rel": "/software/repository/github/fair-data/fairdatapoint-client",
+        "avatar": "https://avatars.githubusercontent.com/u/78078886?v=4",
+        "description": "Interact with your resources (catalogs/datasets/distributions) in a FDP using python",
+        "topics": []
+    },
+    {
         "uid": "github/colour-science/colour",
         "url": "https://github.com/colour-science/colour",
         "rel": "/software/repository/github/colour-science/colour",
@@ -11162,6 +11514,14 @@
         "rel": "/software/repository/github/agombolay/ribose-map",
         "avatar": "https://avatars.githubusercontent.com/u/13037968?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mswzeus/TargetNet",
+        "url": "https://github.com/mswzeus/TargetNet",
+        "rel": "/software/repository/github/mswzeus/TargetNet",
+        "avatar": "https://avatars.githubusercontent.com/u/49700882?v=4",
+        "description": "Official Pytorch implementation of TargetNet, Bioinformatics 2022",
         "topics": []
     },
     {
@@ -11326,6 +11686,14 @@
         "rel": "/software/repository/github/adithirgis/pollucheck",
         "avatar": "https://avatars.githubusercontent.com/u/63432077?v=4",
         "description": "This application helps exploring the open source air quality data.",
+        "topics": []
+    },
+    {
+        "uid": "github/MRChemSoft/mrchem",
+        "url": "https://github.com/MRChemSoft/mrchem",
+        "rel": "/software/repository/github/MRChemSoft/mrchem",
+        "avatar": "https://avatars.githubusercontent.com/u/16899707?v=4",
+        "description": "MultiResolution Chemistry",
         "topics": []
     },
     {
@@ -11820,6 +12188,14 @@
         "topics": []
     },
     {
+        "uid": "github/ebundhoo/TAGOPSIN",
+        "url": "https://github.com/ebundhoo/TAGOPSIN",
+        "rel": "/software/repository/github/ebundhoo/TAGOPSIN",
+        "avatar": "https://avatars.githubusercontent.com/u/44093400?v=4",
+        "description": "Data(base) integration using the data warehousing approach",
+        "topics": []
+    },
+    {
         "uid": "github/lijing28101/maize_pyrpipe",
         "url": "https://github.com/lijing28101/maize_pyrpipe",
         "rel": "/software/repository/github/lijing28101/maize_pyrpipe",
@@ -12040,6 +12416,14 @@
         "topics": []
     },
     {
+        "uid": "github/chemfiles/chemfiles",
+        "url": "https://github.com/chemfiles/chemfiles",
+        "rel": "/software/repository/github/chemfiles/chemfiles",
+        "avatar": "https://avatars.githubusercontent.com/u/15002707?v=4",
+        "description": "Library for reading and writing chemistry files",
+        "topics": []
+    },
+    {
         "uid": "github/exafmm/exafmm-t",
         "url": "https://github.com/exafmm/exafmm-t",
         "rel": "/software/repository/github/exafmm/exafmm-t",
@@ -12187,11 +12571,27 @@
         "topics": []
     },
     {
+        "uid": "github/indralab/pybiopax",
+        "url": "https://github.com/indralab/pybiopax",
+        "rel": "/software/repository/github/indralab/pybiopax",
+        "avatar": "https://avatars.githubusercontent.com/u/41387246?v=4",
+        "description": "PyBioPAX: A python implementation of the BioPAX object model",
+        "topics": []
+    },
+    {
         "uid": "github/conda-forge/conda-smithy",
         "url": "https://github.com/conda-forge/conda-smithy",
         "rel": "/software/repository/github/conda-forge/conda-smithy",
         "avatar": "https://avatars3.githubusercontent.com/u/11897326?v=4",
         "description": "The tool for managing conda-forge feedstocks.",
+        "topics": []
+    },
+    {
+        "uid": "github/gromacs/gromacs",
+        "url": "https://github.com/gromacs/gromacs",
+        "rel": "/software/repository/github/gromacs/gromacs",
+        "avatar": "https://avatars.githubusercontent.com/u/92540?v=4",
+        "description": "Public/backup repository of the GROMACS molecular simulation toolkit. Please do not mine the metadata blindly; we use https://gitlab.com/gromacs/gromacs for code review and issue tracking.",
         "topics": []
     },
     {
@@ -12344,6 +12744,14 @@
         "rel": "/software/repository/github/mazzalab/pyntacle",
         "avatar": "https://avatars0.githubusercontent.com/u/10012441?v=4",
         "description": "A high performance python package for network analysis based on non canonical metrics",
+        "topics": []
+    },
+    {
+        "uid": "github/SSAGESproject/SSAGES",
+        "url": "https://github.com/SSAGESproject/SSAGES",
+        "rel": "/software/repository/github/SSAGESproject/SSAGES",
+        "avatar": "https://avatars.githubusercontent.com/u/22507151?v=4",
+        "description": "Software Suite for Advanced General Ensemble Simulations",
         "topics": []
     },
     {
@@ -12538,6 +12946,14 @@
         "topics": []
     },
     {
+        "uid": "github/PCMSolver/pcmsolver",
+        "url": "https://github.com/PCMSolver/pcmsolver",
+        "rel": "/software/repository/github/PCMSolver/pcmsolver",
+        "avatar": "https://avatars.githubusercontent.com/u/8494579?v=4",
+        "description": "An API for the Polarizable Continuum Model",
+        "topics": []
+    },
+    {
         "uid": "github/bio-tools/biotoolsSum",
         "url": "https://github.com/bio-tools/biotoolsSum",
         "rel": "/software/repository/github/bio-tools/biotoolsSum",
@@ -12570,6 +12986,14 @@
         "topics": []
     },
     {
+        "uid": "github/llt1836/TE-HI-GCN",
+        "url": "https://github.com/llt1836/TE-HI-GCN",
+        "rel": "/software/repository/github/llt1836/TE-HI-GCN",
+        "avatar": "https://avatars.githubusercontent.com/u/71361327?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/pikarpov-LANL/Sapsan",
         "url": "https://github.com/pikarpov-LANL/Sapsan",
         "rel": "/software/repository/github/pikarpov-LANL/Sapsan",
@@ -12583,6 +13007,14 @@
         "rel": "/software/repository/github/ranocha/SummationByPartsOperators.jl",
         "avatar": "https://avatars.githubusercontent.com/u/12693098?v=4",
         "description": "A Julia library of summation-by-parts (SBP) operators used in finite difference, Fourier pseudospectral, continuous Galerkin, and discontinuous Galerkin methods to get provably stable semidiscretizations, paying special attention to boundary conditions.",
+        "topics": []
+    },
+    {
+        "uid": "github/lammps/lammps",
+        "url": "https://github.com/lammps/lammps",
+        "rel": "/software/repository/github/lammps/lammps",
+        "avatar": "https://avatars.githubusercontent.com/u/5199009?v=4",
+        "description": "Public development project of the LAMMPS MD software package  ",
         "topics": []
     },
     {
