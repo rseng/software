@@ -40,6 +40,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/bu_cnio/vulcanspot",
+        "url": "https://gitlab.com/bu_cnio/vulcanspot",
+        "rel": "/software/repository/gitlab/bu_cnio/vulcanspot",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/12800427/logo.png",
+        "description": "",
+        "topics": []
+    },
+    {
         "uid": "gitlab/dalton/dalton",
         "url": "https://gitlab.com/dalton/dalton",
         "rel": "/software/repository/gitlab/dalton/dalton",
@@ -61,6 +69,22 @@
         "rel": "/software/repository/gitlab/pyFBS/pyFBS",
         "avatar": "https://gitlab.comNone",
         "description": "A Python package for Frequency Based Substructuring and Transfer Path Analysis",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/ostrokach/proteinsolver",
+        "url": "https://gitlab.com/ostrokach/proteinsolver",
+        "rel": "/software/repository/gitlab/ostrokach/proteinsolver",
+        "avatar": "https://gitlab.comNone",
+        "description": "Graph neural network capable of generating novel amino acid sequences that fold into proteins with predetermined topologies.\r\n\r\n",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/sissopp_developers/sissopp",
+        "url": "https://gitlab.com/sissopp_developers/sissopp",
+        "rel": "/software/repository/gitlab/sissopp_developers/sissopp",
+        "avatar": "https://gitlab.comNone",
+        "description": "C++ implementation of sisso.",
         "topics": []
     },
     {
@@ -4466,6 +4490,14 @@
         "topics": []
     },
     {
+        "uid": "github/EISy-as-Py/hardy",
+        "url": "https://github.com/EISy-as-Py/hardy",
+        "rel": "/software/repository/github/EISy-as-Py/hardy",
+        "avatar": "https://avatars.githubusercontent.com/u/60707649?v=4",
+        "description": "Handling Arbitrary Recognition of Data! y not?",
+        "topics": []
+    },
+    {
         "uid": "github/numpy/numpy",
         "url": "https://github.com/numpy/numpy",
         "rel": "/software/repository/github/numpy/numpy",
@@ -4706,6 +4738,14 @@
         "topics": []
     },
     {
+        "uid": "github/srdc/onfhir",
+        "url": "https://github.com/srdc/onfhir",
+        "rel": "/software/repository/github/srdc/onfhir",
+        "avatar": "https://avatars.githubusercontent.com/u/4221663?v=4",
+        "description": "HL7 FHIR Based Secure Data Repository",
+        "topics": []
+    },
+    {
         "uid": "github/nlesc-dirac/sagecal",
         "url": "https://github.com/nlesc-dirac/sagecal",
         "rel": "/software/repository/github/nlesc-dirac/sagecal",
@@ -4942,6 +4982,14 @@
         "topics": []
     },
     {
+        "uid": "github/rvaser/spoa",
+        "url": "https://github.com/rvaser/spoa",
+        "rel": "/software/repository/github/rvaser/spoa",
+        "avatar": "https://avatars.githubusercontent.com/u/6094359?v=4",
+        "description": "SIMD partial order alignment tool/library",
+        "topics": []
+    },
+    {
         "uid": "github/kadyb/rgugik",
         "url": "https://github.com/kadyb/rgugik",
         "rel": "/software/repository/github/kadyb/rgugik",
@@ -5033,6 +5081,14 @@
         "rel": "/software/repository/github/hall-lab/bamkit",
         "avatar": "https://avatars.githubusercontent.com/u/7242168?v=4",
         "description": "Tools for common BAM file manipulations",
+        "topics": []
+    },
+    {
+        "uid": "github/hall-lab/speedseq",
+        "url": "https://github.com/hall-lab/speedseq",
+        "rel": "/software/repository/github/hall-lab/speedseq",
+        "avatar": "https://avatars.githubusercontent.com/u/7242168?v=4",
+        "description": "A flexible framework for rapid genome analysis and interpretation",
         "topics": []
     },
     {
@@ -6187,6 +6243,14 @@
         "rel": "/software/repository/github/jorisparet/partycls",
         "avatar": "https://avatars.githubusercontent.com/u/57349320?v=4",
         "description": "Unsupervised learning of structure in systems of interacting particles.",
+        "topics": []
+    },
+    {
+        "uid": "github/popgenmethods/smcpp",
+        "url": "https://github.com/popgenmethods/smcpp",
+        "rel": "/software/repository/github/popgenmethods/smcpp",
+        "avatar": "https://avatars.githubusercontent.com/u/12285311?v=4",
+        "description": "SMC++ infers population history from whole-genome sequence data.",
         "topics": []
     },
     {
@@ -8632,6 +8696,14 @@
         "topics": []
     },
     {
+        "uid": "github/leprojetcastor/castor",
+        "url": "https://github.com/leprojetcastor/castor",
+        "rel": "/software/repository/github/leprojetcastor/castor",
+        "avatar": "https://avatars.githubusercontent.com/u/75743001?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/tlverse/hal9001",
         "url": "https://github.com/tlverse/hal9001",
         "rel": "/software/repository/github/tlverse/hal9001",
@@ -9569,6 +9641,14 @@
         "topics": []
     },
     {
+        "uid": "github/TriPed-Robot/TriP",
+        "url": "https://github.com/TriPed-Robot/trip_kinematics",
+        "rel": "/software/repository/github/TriPed-Robot/TriP",
+        "avatar": "https://avatars.githubusercontent.com/u/69719827?v=4",
+        "description": "Python package for inverse kinematic calculations of hybrid serial parallel robots",
+        "topics": []
+    },
+    {
         "uid": "github/IMMM-SFA/mosartwmpy",
         "url": "https://github.com/IMMM-SFA/mosartwmpy",
         "rel": "/software/repository/github/IMMM-SFA/mosartwmpy",
@@ -10240,6 +10320,14 @@
         "topics": []
     },
     {
+        "uid": "github/coleygroup/pyscreener",
+        "url": "https://github.com/coleygroup/pyscreener",
+        "rel": "/software/repository/github/coleygroup/pyscreener",
+        "avatar": "https://avatars.githubusercontent.com/u/55363694?v=4",
+        "description": "pythonic interface to virtual screening software",
+        "topics": []
+    },
+    {
         "uid": "github/beagle-dev/beagle-lib",
         "url": "https://github.com/beagle-dev/beagle-lib",
         "rel": "/software/repository/github/beagle-dev/beagle-lib",
@@ -10537,6 +10625,14 @@
         "rel": "/software/repository/github/sciapp/sampledb",
         "avatar": "https://avatars.githubusercontent.com/u/9656894?v=4",
         "description": "Sample and Measurement Metadata Database",
+        "topics": []
+    },
+    {
+        "uid": "github/mlaparie/phidget-tools",
+        "url": "https://github.com/mlaparie/phidget-tools",
+        "rel": "/software/repository/github/mlaparie/phidget-tools",
+        "avatar": "https://avatars.githubusercontent.com/u/80409402?v=4",
+        "description": "Terminal tools to record/monitor from Phidget 1048_1B USB-thermocouple devices",
         "topics": []
     },
     {
