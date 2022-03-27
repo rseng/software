@@ -2906,6 +2906,30 @@
         "topics": []
     },
     {
+        "uid": "github/BU-ISCIII/iSkyLIMS",
+        "url": "https://github.com/BU-ISCIII/iSkyLIMS",
+        "rel": "/software/repository/github/BU-ISCIII/iSkyLIMS",
+        "avatar": "https://avatars.githubusercontent.com/u/29040266?v=4",
+        "description": "is an open-source LIMS (laboratory Information Management System) for Next Generation Sequencing sample management, statistics and reports, and bioinformatics analysis service management.",
+        "topics": []
+    },
+    {
+        "uid": "github/BU-ISCIII/taranis",
+        "url": "https://github.com/BU-ISCIII/taranis",
+        "rel": "/software/repository/github/BU-ISCIII/taranis",
+        "avatar": "https://avatars.githubusercontent.com/u/29040266?v=4",
+        "description": "cg/wgMLST allele calling software, schema evaluation and allele distance estimation for outbreak reserch.",
+        "topics": []
+    },
+    {
+        "uid": "github/BU-ISCIII/plasmidID",
+        "url": "https://github.com/BU-ISCIII/plasmidID",
+        "rel": "/software/repository/github/BU-ISCIII/plasmidID",
+        "avatar": "https://avatars.githubusercontent.com/u/29040266?v=4",
+        "description": "PlasmidID is a mapping-based, assembly-assisted plasmid identification tool that analyzes and gives graphic solution for plasmid identification.",
+        "topics": []
+    },
+    {
         "uid": "github/ropenscilabs/allcontributors",
         "url": "https://github.com/ropenscilabs/allcontributors",
         "rel": "/software/repository/github/ropenscilabs/allcontributors",
@@ -4589,6 +4613,14 @@
         "topics": []
     },
     {
+        "uid": "github/rajewsky-lab/spacemake",
+        "url": "https://github.com/rajewsky-lab/spacemake",
+        "rel": "/software/repository/github/rajewsky-lab/spacemake",
+        "avatar": "https://avatars.githubusercontent.com/u/17617158?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/rajewsky-lab/novosparc",
         "url": "https://github.com/rajewsky-lab/novosparc",
         "rel": "/software/repository/github/rajewsky-lab/novosparc",
@@ -4979,6 +5011,14 @@
         "rel": "/software/repository/github/zhouzilu/DENDRO",
         "avatar": "https://avatars.githubusercontent.com/u/26659843?v=4",
         "description": "Genetic Heterogeneity Profiling by Single Cell RNA Sequencing ",
+        "topics": []
+    },
+    {
+        "uid": "github/arcaldwell49/SimplyAgree",
+        "url": "https://github.com/arcaldwell49/SimplyAgree",
+        "rel": "/software/repository/github/arcaldwell49/SimplyAgree",
+        "avatar": "https://avatars.githubusercontent.com/u/24322628?v=4",
+        "description": "A simple R package for calculating absolute agreement and estimating required sample sizes for studies of absolute agreement",
         "topics": []
     },
     {
@@ -5810,6 +5850,14 @@
         "url": "https://github.com/ERA-URBAN/wrfpy",
         "rel": "/software/repository/github/era-urban/wrfpy",
         "avatar": "https://avatars2.githubusercontent.com/u/22921058?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/octopus-sensing/octopus-sensing",
+        "url": "https://github.com/octopus-sensing/octopus-sensing",
+        "rel": "/software/repository/github/octopus-sensing/octopus-sensing",
+        "avatar": "https://avatars.githubusercontent.com/u/87042708?v=4",
         "description": null,
         "topics": []
     },
@@ -7117,6 +7165,14 @@
         "topics": []
     },
     {
+        "uid": "github/FSEC-Photovoltaics/pvrpm-lcoe",
+        "url": "https://github.com/FSEC-Photovoltaics/pvrpm-lcoe",
+        "rel": "/software/repository/github/FSEC-Photovoltaics/pvrpm-lcoe",
+        "avatar": "https://avatars.githubusercontent.com/u/72280691?v=4",
+        "description": "PV Simulation using SAM and Python",
+        "topics": []
+    },
+    {
         "uid": "github/KarrLab/de_sim",
         "url": "https://github.com/KarrLab/de_sim",
         "rel": "/software/repository/github/KarrLab/de_sim",
@@ -7704,6 +7760,14 @@
         "rel": "/software/repository/github/nonlocalmodels/NLMech",
         "avatar": "https://avatars.githubusercontent.com/u/52047777?v=4",
         "description": "Implementation of finite element and finite difference approximation of Nonlocal models",
+        "topics": []
+    },
+    {
+        "uid": "github/AlphonsG/Rainbow-Optical-Flow-For-ALI",
+        "url": "https://github.com/AlphonsG/Rainbow-Optical-Flow-For-ALI",
+        "rel": "/software/repository/github/AlphonsG/Rainbow-Optical-Flow-For-ALI",
+        "avatar": "https://avatars.githubusercontent.com/u/45003643?v=4",
+        "description": "Repository for software detailed in 'Rainbow: Automated Air-Liquid Interface Cell Culture Analysis Using Deep Optical Flow' software paper. See Readme for more details.",
         "topics": []
     },
     {
@@ -10054,6 +10118,14 @@
         "topics": []
     },
     {
+        "uid": "github/zhwm/SparsePro_Paper",
+        "url": "https://github.com/zhwm/SparsePro_Paper",
+        "rel": "/software/repository/github/zhwm/SparsePro_Paper",
+        "avatar": "https://avatars.githubusercontent.com/u/30612712?v=4",
+        "description": "Code repo for SparsePro Paper",
+        "topics": []
+    },
+    {
         "uid": "github/anmolter/XLUR",
         "url": "https://github.com/anmolter/XLUR",
         "rel": "/software/repository/github/anmolter/XLUR",
@@ -10769,6 +10841,14 @@
         "rel": "/software/repository/github/damcb/tyssue",
         "avatar": "https://avatars.githubusercontent.com/u/7861101?v=4",
         "description": "An epithelium simulation library",
+        "topics": []
+    },
+    {
+        "uid": "github/HillLab/SomaticSiMu",
+        "url": "https://github.com/HillLab/SomaticSiMu",
+        "rel": "/software/repository/github/HillLab/SomaticSiMu",
+        "avatar": "https://avatars.githubusercontent.com/u/69210731?v=4",
+        "description": "SomaticSiMu generates single and double base pair substitutions, and single base pair insertions and deletions of biologically representative mutation signature probabilities and combinations.",
         "topics": []
     },
     {
@@ -11753,6 +11833,14 @@
         "topics": []
     },
     {
+        "uid": "github/PMBio/spatialde2-paper",
+        "url": "https://github.com/PMBio/spatialde2-paper",
+        "rel": "/software/repository/github/PMBio/spatialde2-paper",
+        "avatar": "https://avatars.githubusercontent.com/u/578044?v=4",
+        "description": "Code to reproduce the figures (data not included)",
+        "topics": []
+    },
+    {
         "uid": "github/coljac/sensie",
         "url": "https://github.com/coljac/sensie",
         "rel": "/software/repository/github/coljac/sensie",
@@ -11884,6 +11972,14 @@
         "rel": "/software/repository/github/mggg/ecological-inference",
         "avatar": "https://avatars.githubusercontent.com/u/42822281?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/fairdataihub/SPARClink",
+        "url": "https://github.com/fairdataihub/SPARClink",
+        "rel": "/software/repository/github/fairdataihub/SPARClink",
+        "avatar": "https://avatars.githubusercontent.com/u/90935916?v=4",
+        "description": "SPARClink: Visualizing the Impact of SPARC",
         "topics": []
     },
     {
@@ -12252,6 +12348,14 @@
         "topics": []
     },
     {
+        "uid": "github/jianhuupenn/SpaGCN",
+        "url": "https://github.com/jianhuupenn/SpaGCN",
+        "rel": "/software/repository/github/jianhuupenn/SpaGCN",
+        "avatar": "https://avatars.githubusercontent.com/u/26659799?v=4",
+        "description": "SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network",
+        "topics": []
+    },
+    {
         "uid": "github/sunpy/sunpy",
         "url": "https://github.com/sunpy/sunpy",
         "rel": "/software/repository/github/sunpy/sunpy",
@@ -12345,6 +12449,14 @@
         "rel": "/software/repository/github/ridgelab/ExtRampOnline",
         "avatar": "https://avatars.githubusercontent.com/u/12803582?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/florisvb/PyNumDiff",
+        "url": "https://github.com/florisvb/PyNumDiff",
+        "rel": "/software/repository/github/florisvb/PyNumDiff",
+        "avatar": "https://avatars.githubusercontent.com/u/246332?v=4",
+        "description": "Methods for numerical differentiation of noisy data in python",
         "topics": []
     },
     {
