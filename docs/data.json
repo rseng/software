@@ -3321,6 +3321,14 @@
         "topics": []
     },
     {
+        "uid": "github/BjoernBiltzinger/pyspi",
+        "url": "https://github.com/BjoernBiltzinger/pyspi",
+        "rel": "/software/repository/github/BjoernBiltzinger/pyspi",
+        "avatar": "https://avatars.githubusercontent.com/u/38947677?v=4",
+        "description": "Pure python tools for interfacing with INTEGRAL SPI data. It also provides a 3ML plugin for performing full forward folding spectral analysis of GRBs. The documentation with a few examples is available at https://pyspi.readthedocs.io/.",
+        "topics": []
+    },
+    {
         "uid": "github/SWE-UniStuttgart/Qlunc",
         "url": "https://github.com/SWE-UniStuttgart/Qlunc",
         "rel": "/software/repository/github/SWE-UniStuttgart/Qlunc",
@@ -3414,6 +3422,14 @@
         "rel": "/software/repository/github/mmahmoudian/sivs",
         "avatar": "https://avatars.githubusercontent.com/u/390889?v=4",
         "description": "An iterative feature selection method that internally utilizes varius Machine Learning methods that have embeded feature reduction in order to shrink down the feature space into a small and yet robust set.",
+        "topics": []
+    },
+    {
+        "uid": "github/SandoghdarLab/PiSCAT",
+        "url": "https://github.com/SandoghdarLab/PiSCAT",
+        "rel": "/software/repository/github/SandoghdarLab/PiSCAT",
+        "avatar": "https://avatars.githubusercontent.com/u/77978055?v=4",
+        "description": "PiSCAT is a python-based package with a graphical user interface for performing high-performance analysis on a variety of iSCAT measurements.",
         "topics": []
     },
     {
@@ -3905,6 +3921,14 @@
         "topics": []
     },
     {
+        "uid": "github/SchmollerLab/Cell_ACDC",
+        "url": "https://github.com/SchmollerLab/Cell_ACDC",
+        "rel": "/software/repository/github/SchmollerLab/Cell_ACDC",
+        "avatar": "https://avatars.githubusercontent.com/u/79653821?v=4",
+        "description": "A Python GUI-based framework for segmentation, tracking and cell cycle annotations of micrscopy data",
+        "topics": []
+    },
+    {
         "uid": "github/rksyouyou/SASOM-analysis",
         "url": "https://github.com/rksyouyou/SASOM-analysis",
         "rel": "/software/repository/github/rksyouyou/SASOM-analysis",
@@ -4066,6 +4090,14 @@
         "rel": "/software/repository/github/ChengF-Lab/AOPEDF",
         "avatar": "https://avatars.githubusercontent.com/u/39405991?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/BackmanLab/PWSpy",
+        "url": "https://github.com/BackmanLab/PWSpy",
+        "rel": "/software/repository/github/BackmanLab/PWSpy",
+        "avatar": "https://avatars.githubusercontent.com/u/68033654?v=4",
+        "description": "A Python library dedicated to the analysis of Partial Wave Microscopy (PWS) data.",
         "topics": []
     },
     {
@@ -5758,6 +5790,14 @@
         "topics": []
     },
     {
+        "uid": "github/tariqdaouda/CAMAP",
+        "url": "https://github.com/tariqdaouda/CAMAP",
+        "rel": "/software/repository/github/tariqdaouda/CAMAP",
+        "avatar": "https://avatars.githubusercontent.com/u/7224902?v=4",
+        "description": "Codon Arrangement MAP Predictor, predicting MHC-I Associated Peptides presentation form mRNA",
+        "topics": []
+    },
+    {
         "uid": "github/mengaldo/PySPOD",
         "url": "https://github.com/mengaldo/PySPOD",
         "rel": "/software/repository/github/mengaldo/PySPOD",
@@ -6720,6 +6760,14 @@
         "rel": "/software/repository/github/leonzheng2/butterfly",
         "avatar": "https://avatars.githubusercontent.com/u/40190509?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/leonzheng2/efficient-butterfly",
+        "url": "https://github.com/leonzheng2/efficient-butterfly",
+        "rel": "/software/repository/github/leonzheng2/efficient-butterfly",
+        "avatar": "https://avatars.githubusercontent.com/u/40190509?v=4",
+        "description": "Code for reproducible research - Efficient identification of butterfly sparse matrix factorizations",
         "topics": []
     },
     {
@@ -8006,6 +8054,14 @@
         "topics": []
     },
     {
+        "uid": "github/ggciag/mandyoc",
+        "url": "https://github.com/ggciag/mandyoc",
+        "rel": "/software/repository/github/ggciag/mandyoc",
+        "avatar": "https://avatars.githubusercontent.com/u/87135176?v=4",
+        "description": "MANDYOC is a finite element code written on top of the PETSc library  to simulate thermo-chemical convection of the Earth's mantle",
+        "topics": []
+    },
+    {
         "uid": "github/WGLab/InterVar",
         "url": "https://github.com/WGLab/InterVar",
         "rel": "/software/repository/github/WGLab/InterVar",
@@ -8789,6 +8845,14 @@
         "rel": "/software/repository/github/johncwok/CategoricalTimeSeries.jl",
         "avatar": "https://avatars.githubusercontent.com/u/34754896?v=4",
         "description": "Toolbox for categorical time-series analysis.",
+        "topics": []
+    },
+    {
+        "uid": "github/yhoogstrate/fastafs",
+        "url": "https://github.com/yhoogstrate/fastafs",
+        "rel": "/software/repository/github/yhoogstrate/fastafs",
+        "avatar": "https://avatars.githubusercontent.com/u/2264697?v=4",
+        "description": "toolkit for file system virtualisation of random access compressed FASTA, FAI, DICT & TWOBIT files",
         "topics": []
     },
     {
@@ -9858,6 +9922,14 @@
         "rel": "/software/repository/github/lskatz/SneakerNet",
         "avatar": "https://avatars.githubusercontent.com/u/14798?v=4",
         "description": ":feet: QA/QC pipeline for a MiSeq/HiSeq/Ion Torrent/assembly-only run",
+        "topics": []
+    },
+    {
+        "uid": "github/PaulSt/NGSTrefftz",
+        "url": "https://github.com/PaulSt/NGSTrefftz",
+        "rel": "/software/repository/github/PaulSt/NGSTrefftz",
+        "avatar": "https://avatars.githubusercontent.com/u/28690104?v=4",
+        "description": "Add-On to NGSolve for Trefftz methods",
         "topics": []
     },
     {
@@ -11254,6 +11326,14 @@
         "topics": []
     },
     {
+        "uid": "github/ColemanRHarris/mxnorm",
+        "url": "https://github.com/ColemanRHarris/mxnorm",
+        "rel": "/software/repository/github/ColemanRHarris/mxnorm",
+        "avatar": "https://avatars.githubusercontent.com/u/29362888?v=4",
+        "description": "R package to normalize multiplexed imaging data.",
+        "topics": []
+    },
+    {
         "uid": "github/hcdenbakker/sepia",
         "url": "https://github.com/hcdenbakker/sepia",
         "rel": "/software/repository/github/hcdenbakker/sepia",
@@ -11690,6 +11770,14 @@
         "rel": "/software/repository/github/agombolay/ribose-map",
         "avatar": "https://avatars.githubusercontent.com/u/13037968?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/GilbertLabUCSF/CanDI",
+        "url": "https://github.com/GilbertLabUCSF/CanDI",
+        "rel": "/software/repository/github/GilbertLabUCSF/CanDI",
+        "avatar": "https://avatars.githubusercontent.com/u/81225660?v=4",
+        "description": "CanDI - A global cancer data integrator",
         "topics": []
     },
     {
@@ -13202,6 +13290,14 @@
         "topics": []
     },
     {
+        "uid": "github/lightning-project/lightning",
+        "url": "https://github.com/lightning-project/lightning",
+        "rel": "/software/repository/github/lightning-project/lightning",
+        "avatar": "https://avatars.githubusercontent.com/u/93259883?v=4",
+        "description": "Lightning: Fast data processing using GPUs on distributed platforms",
+        "topics": []
+    },
+    {
         "uid": "github/pikarpov-LANL/Sapsan",
         "url": "https://github.com/pikarpov-LANL/Sapsan",
         "rel": "/software/repository/github/pikarpov-LANL/Sapsan",
@@ -13327,6 +13423,14 @@
         "rel": "/software/repository/github/adigenova/wengan",
         "avatar": "https://avatars3.githubusercontent.com/u/7844296?v=4",
         "description": "An accurate and ultra-fast hybrid genome assembler",
+        "topics": []
+    },
+    {
+        "uid": "github/zhanglabtools/CASAVA",
+        "url": "https://github.com/zhanglabtools/CASAVA",
+        "rel": "/software/repository/github/zhanglabtools/CASAVA",
+        "avatar": "https://avatars.githubusercontent.com/u/37131175?v=4",
+        "description": "Resources of our paper CASAVA",
         "topics": []
     },
     {
