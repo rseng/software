@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/leishenggit/CircleBase",
+    "url": "https://github.com/leishenggit/CircleBase",
+    "data": {
+        "timestamp": "2022-04-17 00:56:19.143324",
+        "name": "CircleBase",
+        "url": "https://api.github.com/repos/leishenggit/CircleBase",
+        "full_name": "leishenggit/CircleBase",
+        "html_url": "https://github.com/leishenggit/CircleBase",
+        "private": false,
+        "description": "An integrated resource and analysis platform for human eccDNAs",
+        "created_at": "2021-09-23T07:42:32Z",
+        "updated_at": "2021-12-02T06:22:46Z",
+        "clone_url": "https://github.com/leishenggit/CircleBase.git",
+        "homepage": "http://circlebase.maolab.org/",
+        "size": 6394,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "HTML",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/leishenggit",
+            "avatar_url": "https://avatars.githubusercontent.com/u/11373459?v=4",
+            "login": "leishenggit",
+            "type": "User"
+        },
+        "topics": [
+            "eccdna",
+            "function-regulation",
+            "pagerank"
+        ]
+    },
+    "doi": "10.1093/NAR/GKAB1104"
+}

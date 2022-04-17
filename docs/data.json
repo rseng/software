@@ -1130,6 +1130,14 @@
         "topics": []
     },
     {
+        "uid": "github/mishioo/tesliper",
+        "url": "https://github.com/mishioo/tesliper",
+        "rel": "/software/repository/github/mishioo/tesliper",
+        "avatar": "https://avatars.githubusercontent.com/u/28956908?v=4",
+        "description": "Theoretical Spectroscopist's Little Helper",
+        "topics": []
+    },
+    {
         "uid": "github/tariks/peakachu",
         "url": "https://github.com/tariks/peakachu",
         "rel": "/software/repository/github/tariks/peakachu",
@@ -2045,6 +2053,14 @@
         "topics": []
     },
     {
+        "uid": "github/ECP-copa/Cabana",
+        "url": "https://github.com/ECP-copa/Cabana",
+        "rel": "/software/repository/github/ECP-copa/Cabana",
+        "avatar": "https://avatars.githubusercontent.com/u/24921631?v=4",
+        "description": "Performance-portable library for particle-based simulations",
+        "topics": []
+    },
+    {
         "uid": "github/rhenanbartels/hrv",
         "url": "https://github.com/rhenanbartels/hrv",
         "rel": "/software/repository/github/rhenanbartels/hrv",
@@ -2340,6 +2356,14 @@
         "rel": "/software/repository/github/OpenMD/OpenMD",
         "avatar": "https://avatars.githubusercontent.com/u/6164615?v=4",
         "description": "Molecular Dynamics in the Open",
+        "topics": []
+    },
+    {
+        "uid": "github/OSS-Lab/ChemChaste",
+        "url": "https://github.com/OSS-Lab/ChemChaste",
+        "rel": "/software/repository/github/OSS-Lab/ChemChaste",
+        "avatar": "https://avatars.githubusercontent.com/u/7525127?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -3965,6 +3989,14 @@
         "topics": []
     },
     {
+        "uid": "github/ModellingWebLab/chaste-codegen",
+        "url": "https://github.com/ModellingWebLab/chaste-codegen",
+        "rel": "/software/repository/github/ModellingWebLab/chaste-codegen",
+        "avatar": "https://avatars.githubusercontent.com/u/29707434?v=4",
+        "description": "Code generation for Chaste based on cellmlmanip",
+        "topics": []
+    },
+    {
         "uid": "github/netsiphd/netrd",
         "url": "https://github.com/netsiphd/netrd",
         "rel": "/software/repository/github/netsiphd/netrd",
@@ -4042,6 +4074,14 @@
         "rel": "/software/repository/github/conda-forge/conda-smithy",
         "avatar": "https://avatars3.githubusercontent.com/u/11897326?v=4",
         "description": "The tool for managing conda-forge feedstocks.",
+        "topics": []
+    },
+    {
+        "uid": "github/SWIFTSIM/emulator",
+        "url": "https://github.com/SWIFTSIM/emulator",
+        "rel": "/software/repository/github/SWIFTSIM/emulator",
+        "avatar": "https://avatars.githubusercontent.com/u/37541309?v=4",
+        "description": "The SWIFT simulation cosmological emulator (swift-emulator)",
         "topics": []
     },
     {
@@ -4816,6 +4856,14 @@
         "topics": []
     },
     {
+        "uid": "github/datngu/Circall",
+        "url": "https://github.com/datngu/Circall",
+        "rel": "/software/repository/github/datngu/Circall",
+        "avatar": "https://avatars.githubusercontent.com/u/59732388?v=4",
+        "description": "Circall is a novel method to discover circular RNA from paired-end RNA sequencing data",
+        "topics": []
+    },
+    {
         "uid": "github/telatin/qax",
         "url": "https://github.com/telatin/qax",
         "rel": "/software/repository/github/telatin/qax",
@@ -5320,6 +5368,14 @@
         "rel": "/software/repository/github/CEED/libCEED",
         "avatar": "https://avatars.githubusercontent.com/u/23178852?v=4",
         "description": "CEED Library: Code for Efficient Extensible Discretizations",
+        "topics": []
+    },
+    {
+        "uid": "github/aalhossary/pyemgpipeline",
+        "url": "https://github.com/aalhossary/pyemgpipeline",
+        "rel": "/software/repository/github/aalhossary/pyemgpipeline",
+        "avatar": "https://avatars.githubusercontent.com/u/3660195?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -7537,6 +7593,14 @@
         "topics": []
     },
     {
+        "uid": "github/theosanderson/chronumental",
+        "url": "https://github.com/theosanderson/chronumental",
+        "rel": "/software/repository/github/theosanderson/chronumental",
+        "avatar": "https://avatars.githubusercontent.com/u/19732295?v=4",
+        "description": "Estimating time trees from very large phylogenies",
+        "topics": []
+    },
+    {
         "uid": "github/iopenshell/ezSpectrum",
         "url": "https://github.com/iopenshell/ezSpectrum",
         "rel": "/software/repository/github/iopenshell/ezSpectrum",
@@ -8818,6 +8882,14 @@
         "topics": []
     },
     {
+        "uid": "github/cinemascience/cinema_snap",
+        "url": "https://github.com/cinemascience/cinema_snap",
+        "rel": "/software/repository/github/cinemascience/cinema_snap",
+        "avatar": "https://avatars.githubusercontent.com/u/36246440?v=4",
+        "description": "React-based web viewer",
+        "topics": []
+    },
+    {
         "uid": "github/rksyouyou/SASOM-analysis",
         "url": "https://github.com/rksyouyou/SASOM-analysis",
         "rel": "/software/repository/github/rksyouyou/SASOM-analysis",
@@ -9588,6 +9660,14 @@
         "topics": []
     },
     {
+        "uid": "github/leishenggit/CircleBase",
+        "url": "https://github.com/leishenggit/CircleBase",
+        "rel": "/software/repository/github/leishenggit/CircleBase",
+        "avatar": "https://avatars.githubusercontent.com/u/11373459?v=4",
+        "description": "An integrated resource and analysis platform for human eccDNAs",
+        "topics": []
+    },
+    {
         "uid": "github/dpryan79/MethylDackel",
         "url": "https://github.com/dpryan79/MethylDackel",
         "rel": "/software/repository/github/dpryan79/MethylDackel",
@@ -9741,6 +9821,14 @@
         "topics": []
     },
     {
+        "uid": "github/spokenlanguage/platalea",
+        "url": "https://github.com/spokenlanguage/platalea",
+        "rel": "/software/repository/github/spokenlanguage/platalea",
+        "avatar": "https://avatars.githubusercontent.com/u/61155109?v=4",
+        "description": "Library for training visually-grounded models of spoken language understanding.",
+        "topics": []
+    },
+    {
         "uid": "github/savage13/sacio",
         "url": "https://github.com/savage13/sacio",
         "rel": "/software/repository/github/savage13/sacio",
@@ -9845,6 +9933,14 @@
         "rel": "/software/repository/github/llrs/experDesign",
         "avatar": "https://avatars.githubusercontent.com/u/6818218?v=4",
         "description": "Design experiments distributed in several batches",
+        "topics": []
+    },
+    {
+        "uid": "github/laurazara/IgIDivA",
+        "url": "https://github.com/laurazara/IgIDivA",
+        "rel": "/software/repository/github/laurazara/IgIDivA",
+        "avatar": "https://avatars.githubusercontent.com/u/55143969?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -10679,6 +10775,14 @@
             "rootless-containers",
             "cloud-native"
         ]
+    },
+    {
+        "uid": "github/lasseignelab/CINmetrics",
+        "url": "https://github.com/lasseignelab/CINmetrics",
+        "rel": "/software/repository/github/lasseignelab/CINmetrics",
+        "avatar": "https://avatars.githubusercontent.com/u/46378910?v=4",
+        "description": "CINmetrics R package",
+        "topics": []
     },
     {
         "uid": "github/pybamm-team/liionpack",
@@ -13429,6 +13533,14 @@
         "rel": "/software/repository/github/NCAS-CMS/cfdm",
         "avatar": "https://avatars3.githubusercontent.com/u/31280705?v=4",
         "description": "A Python reference implementation of the CF data model",
+        "topics": []
+    },
+    {
+        "uid": "github/chainsawriot/sweater",
+        "url": "https://github.com/chainsawriot/sweater",
+        "rel": "/software/repository/github/chainsawriot/sweater",
+        "avatar": "https://avatars.githubusercontent.com/u/637269?v=4",
+        "description": "\ud83d\udc5a Speedy Word Embedding Association Test & Extras using R",
         "topics": []
     },
     {
