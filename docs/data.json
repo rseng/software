@@ -733,6 +733,14 @@
         "topics": []
     },
     {
+        "uid": "github/PharmGKB/PharmCAT",
+        "url": "https://github.com/PharmGKB/PharmCAT",
+        "rel": "/software/repository/github/PharmGKB/PharmCAT",
+        "avatar": "https://avatars.githubusercontent.com/u/886153?v=4",
+        "description": "The Pharmacogenomic Clinical Annotation Tool",
+        "topics": []
+    },
+    {
         "uid": "github/pangeo-data/climpred",
         "url": "https://github.com/pangeo-data/climpred",
         "rel": "/software/repository/github/pangeo-data/climpred",
@@ -2077,6 +2085,22 @@
         "topics": []
     },
     {
+        "uid": "github/dgbowl/yadg",
+        "url": "https://github.com/dgbowl/yadg",
+        "rel": "/software/repository/github/dgbowl/yadg",
+        "avatar": "https://avatars.githubusercontent.com/u/97680503?v=4",
+        "description": "yadg: yet another datagram",
+        "topics": []
+    },
+    {
+        "uid": "github/Dfupa/meTAline",
+        "url": "https://github.com/Dfupa/meTAline",
+        "rel": "/software/repository/github/Dfupa/meTAline",
+        "avatar": "https://avatars.githubusercontent.com/u/43205584?v=4",
+        "description": "WGS pipeline implementation in Snakemake",
+        "topics": []
+    },
+    {
         "uid": "github/tudelft3d/3dfier",
         "url": "https://github.com/tudelft3d/3dfier",
         "rel": "/software/repository/github/tudelft3d/3dfier",
@@ -3100,6 +3124,14 @@
         "rel": "/software/repository/github/r-spatialecology/shar",
         "avatar": "https://avatars.githubusercontent.com/u/42056187?v=4",
         "description": ":package: Analyse species-habitat associations in R",
+        "topics": []
+    },
+    {
+        "uid": "github/RWTH-EBC/AixCaliBuHA",
+        "url": "https://github.com/RWTH-EBC/AixCaliBuHA",
+        "rel": "/software/repository/github/RWTH-EBC/AixCaliBuHA",
+        "avatar": "https://avatars.githubusercontent.com/u/8121773?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -4936,6 +4968,14 @@
         "topics": []
     },
     {
+        "uid": "github/sylabs/singularity",
+        "url": "https://github.com/sylabs/singularity",
+        "rel": "/software/repository/github/sylabs/singularity",
+        "avatar": "https://avatars.githubusercontent.com/u/32401844?v=4",
+        "description": "SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",
+        "topics": []
+    },
+    {
         "uid": "github/FastMLC/fMLC",
         "url": "https://github.com/FastMLC/fMLC",
         "rel": "/software/repository/github/FastMLC/fMLC",
@@ -5197,6 +5237,14 @@
         "rel": "/software/repository/github/pymatting/pymatting",
         "avatar": "https://avatars0.githubusercontent.com/u/59248113?v=4",
         "description": "A Python library for alpha matting",
+        "topics": []
+    },
+    {
+        "uid": "github/pygsflow/pygsflow",
+        "url": "https://github.com/pygsflow/pygsflow",
+        "rel": "/software/repository/github/pygsflow/pygsflow",
+        "avatar": "https://avatars.githubusercontent.com/u/47640617?v=4",
+        "description": "Python package to Create, Read, Write, Edit, and Visualize GSFLOW models",
         "topics": []
     },
     {
@@ -8393,6 +8441,14 @@
         "topics": []
     },
     {
+        "uid": "github/mithun218/GiNaCDE",
+        "url": "https://github.com/mithun218/GiNaCDE",
+        "rel": "/software/repository/github/mithun218/GiNaCDE",
+        "avatar": "https://avatars.githubusercontent.com/u/9692622?v=4",
+        "description": "GiNaC Differential Equation Solver",
+        "topics": []
+    },
+    {
         "uid": "github/devitocodes/devito",
         "url": "https://github.com/devitocodes/devito",
         "rel": "/software/repository/github/devitocodes/devito",
@@ -9107,14 +9163,6 @@
         "rel": "/software/repository/github/PacificBiosciences/pbbioconda",
         "avatar": "https://avatars.githubusercontent.com/u/999745?v=4",
         "description": "PacBio Secondary Analysis Tools on Bioconda",
-        "topics": []
-    },
-    {
-        "uid": "github/PacificBiosciences/GenomicConsensus",
-        "url": "https://github.com/PacificBiosciences/GenomicConsensus",
-        "rel": "/software/repository/github/PacificBiosciences/GenomicConsensus",
-        "avatar": "https://avatars.githubusercontent.com/u/999745?v=4",
-        "description": "PacBio\u00ae variant and consensus caller",
         "topics": []
     },
     {
@@ -10690,6 +10738,14 @@
         "topics": []
     },
     {
+        "uid": "github/SINTEF/AutoActive-ActivityPresenter",
+        "url": "https://github.com/SINTEF/AutoActive-ActivityPresenter",
+        "rel": "/software/repository/github/SINTEF/AutoActive-ActivityPresenter",
+        "avatar": "https://avatars.githubusercontent.com/u/5868880?v=4",
+        "description": "Tool for human activity data import, synchronization, visualization and data analysis facilitation",
+        "topics": []
+    },
+    {
         "uid": "github/DeepRank/pdb2sql",
         "url": "https://github.com/DeepRank/pdb2sql",
         "rel": "/software/repository/github/DeepRank/pdb2sql",
@@ -10754,29 +10810,6 @@
         "topics": []
     },
     {
-        "uid": "github/hpcng/singularity",
-        "url": "https://github.com/hpcng/singularity",
-        "rel": "/software/repository/github/hpcng/singularity",
-        "avatar": "https://avatars1.githubusercontent.com/u/62959980?v=4",
-        "description": "Singularity: Application containers for Linux",
-        "topics": [
-            "containers",
-            "container",
-            "singularity-container",
-            "portable",
-            "linux",
-            "hpc",
-            "parallel",
-            "singularity",
-            "science",
-            "reproducible",
-            "reproducible-science",
-            "portability",
-            "rootless-containers",
-            "cloud-native"
-        ]
-    },
-    {
         "uid": "github/lasseignelab/CINmetrics",
         "url": "https://github.com/lasseignelab/CINmetrics",
         "rel": "/software/repository/github/lasseignelab/CINmetrics",
@@ -10822,6 +10855,14 @@
         "rel": "/software/repository/github/Climdyn/qgs",
         "avatar": "https://avatars0.githubusercontent.com/u/17494336?v=4",
         "description": "A 2-layer quasi-geostrophic atmospheric model in Python. Can be coupled to a simple land or shallow-water ocean component.",
+        "topics": []
+    },
+    {
+        "uid": "github/weecology/portalcasting",
+        "url": "https://github.com/weecology/portalcasting",
+        "rel": "/software/repository/github/weecology/portalcasting",
+        "avatar": "https://avatars.githubusercontent.com/u/1156696?v=4",
+        "description": "Support Package for Portal Predictions",
         "topics": []
     },
     {
@@ -13629,6 +13670,14 @@
         "rel": "/software/repository/gitlab/vincent-sater/umigen",
         "avatar": "https://gitlab.comNone",
         "description": "UMI-based reads simulator for variant calling evaluation in paired-end sequencing NGS libraries",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/culturalcartography/text2map",
+        "url": "https://gitlab.com/culturalcartography/text2map",
+        "rel": "/software/repository/gitlab/culturalcartography/text2map",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/22876066/Al-Idrisi_s_world_map_small.jpg",
+        "description": "R Tools for Text Matrices",
         "topics": []
     },
     {
