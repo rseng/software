@@ -1123,6 +1123,14 @@
         "topics": []
     },
     {
+        "uid": "github/GOVS-pack/GOVS",
+        "url": "https://github.com/GOVS-pack/GOVS",
+        "rel": "/software/repository/github/GOVS-pack/GOVS",
+        "avatar": "https://avatars.githubusercontent.com/u/85439946?v=4",
+        "description": "Genome optimization via virtual simulation",
+        "topics": []
+    },
+    {
         "uid": "github/vavrines/Kinetic.jl",
         "url": "https://github.com/vavrines/Kinetic.jl",
         "rel": "/software/repository/github/vavrines/Kinetic.jl",
@@ -4428,6 +4436,14 @@
         "topics": []
     },
     {
+        "uid": "github/TheMillerLab/genetex",
+        "url": "https://github.com/TheMillerLab/genetex",
+        "rel": "/software/repository/github/TheMillerLab/genetex",
+        "avatar": "https://avatars.githubusercontent.com/u/80731901?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/JungleComputing/rocket",
         "url": "https://github.com/JungleComputing/rocket",
         "rel": "/software/repository/github/JungleComputing/rocket",
@@ -5543,6 +5559,14 @@
         "topics": []
     },
     {
+        "uid": "github/infer-actively/pymdp",
+        "url": "https://github.com/infer-actively/pymdp",
+        "rel": "/software/repository/github/infer-actively/pymdp",
+        "avatar": "https://avatars.githubusercontent.com/u/75545318?v=4",
+        "description": "A Python implementation of active inference for Markov Decision Processes",
+        "topics": []
+    },
+    {
         "uid": "github/timoast/signac",
         "url": "https://github.com/timoast/signac",
         "rel": "/software/repository/github/timoast/signac",
@@ -6521,6 +6545,14 @@
         ]
     },
     {
+        "uid": "github/yangfangs/test_GFICLEE",
+        "url": "https://github.com/yangfangs/test_GFICLEE",
+        "rel": "/software/repository/github/yangfangs/test_GFICLEE",
+        "avatar": "https://avatars.githubusercontent.com/u/10369795?v=4",
+        "description": "test GFICLEE model",
+        "topics": []
+    },
+    {
         "uid": "github/USEPA/nsink",
         "url": "https://github.com/USEPA/nsink",
         "rel": "/software/repository/github/USEPA/nsink",
@@ -6973,6 +7005,14 @@
         "rel": "/software/repository/github/FAIR-data-for-CAPACITY/FHIR-to-CAPACITY",
         "avatar": "https://avatars.githubusercontent.com/u/67900459?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/cgre-aachen/gemgis",
+        "url": "https://github.com/cgre-aachen/gemgis",
+        "rel": "/software/repository/github/cgre-aachen/gemgis",
+        "avatar": "https://avatars.githubusercontent.com/u/29890754?v=4",
+        "description": "Spatial data processing for geomodeling",
         "topics": []
     },
     {
@@ -8051,6 +8091,14 @@
         "topics": []
     },
     {
+        "uid": "github/uw-comphys/opencmp",
+        "url": "https://github.com/uw-comphys/opencmp",
+        "rel": "/software/repository/github/uw-comphys/opencmp",
+        "avatar": "https://avatars.githubusercontent.com/u/81441154?v=4",
+        "description": "OpenCMP is a computational multiphysics software package based on the finite element method. It is primarily intended for physicochemical processes involving significant convective flow.",
+        "topics": []
+    },
+    {
         "uid": "github/numpy/numpy",
         "url": "https://github.com/numpy/numpy",
         "rel": "/software/repository/github/numpy/numpy",
@@ -8568,6 +8616,14 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaOcean/PlanktonIndividuals.jl",
+        "url": "https://github.com/JuliaOcean/PlanktonIndividuals.jl",
+        "rel": "/software/repository/github/JuliaOcean/PlanktonIndividuals.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/41747359?v=4",
+        "description": "This package simulates the behaviors of an ensemble of phytoplankton individuals.",
+        "topics": []
+    },
+    {
         "uid": "github/virgesmith/neworder",
         "url": "https://github.com/virgesmith/neworder",
         "rel": "/software/repository/github/virgesmith/neworder",
@@ -8780,6 +8836,14 @@
         "topics": []
     },
     {
+        "uid": "github/KerryAM-R/ggVolcanoR",
+        "url": "https://github.com/KerryAM-R/ggVolcanoR",
+        "rel": "/software/repository/github/KerryAM-R/ggVolcanoR",
+        "avatar": "https://avatars.githubusercontent.com/u/83262343?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/donaldRwilliams/GGMnonreg",
         "url": "https://github.com/donaldRwilliams/GGMnonreg",
         "rel": "/software/repository/github/donaldRwilliams/GGMnonreg",
@@ -8885,6 +8949,22 @@
         "rel": "/software/repository/github/onnela-lab/beiwe-backend",
         "avatar": "https://avatars.githubusercontent.com/u/12967946?v=4",
         "description": "Beiwe is a smartphone-based digital phenotyping research platform. This is the Beiwe backend code",
+        "topics": []
+    },
+    {
+        "uid": "github/AP6YC/AdaptiveResonance.jl",
+        "url": "https://github.com/AP6YC/AdaptiveResonance.jl",
+        "rel": "/software/repository/github/AP6YC/AdaptiveResonance.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/17498866?v=4",
+        "description": "A Julia package for Adaptive Resonance Theory (ART) algorithms.",
+        "topics": []
+    },
+    {
+        "uid": "github/thejackal360/OpenPelt-Public",
+        "url": "https://github.com/thejackal360/OpenPelt-Public",
+        "rel": "/software/repository/github/thejackal360/OpenPelt-Public",
+        "avatar": "https://avatars.githubusercontent.com/u/85142351?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -9975,6 +10055,14 @@
         "topics": []
     },
     {
+        "uid": "github/lilyminium/psiresp",
+        "url": "https://github.com/lilyminium/psiresp",
+        "rel": "/software/repository/github/lilyminium/psiresp",
+        "avatar": "https://avatars.githubusercontent.com/u/31115101?v=4",
+        "description": "RESP with inter- and intra-molecular constraints in Psi4.",
+        "topics": []
+    },
+    {
         "uid": "github/snakemake/snakemake",
         "url": "https://github.com/snakemake/snakemake",
         "rel": "/software/repository/github/snakemake/snakemake",
@@ -10519,6 +10607,14 @@
         "rel": "/software/repository/github/li-shaochuan/SEDIM",
         "avatar": "https://avatars.githubusercontent.com/u/52021016?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/dsoave/JLS",
+        "url": "https://github.com/dsoave/JLS",
+        "rel": "/software/repository/github/dsoave/JLS",
+        "avatar": "https://avatars.githubusercontent.com/u/18703690?v=4",
+        "description": "JLS",
         "topics": []
     },
     {
@@ -12536,6 +12632,14 @@
         "topics": []
     },
     {
+        "uid": "github/R-Vessel-X/SlicerRVXLiverSegmentation",
+        "url": "https://github.com/R-Vessel-X/SlicerRVXLiverSegmentation",
+        "rel": "/software/repository/github/R-Vessel-X/SlicerRVXLiverSegmentation",
+        "avatar": "https://avatars.githubusercontent.com/u/86227908?v=4",
+        "description": "3D Slicer plugin for Liver Anatomy Annotation by R-Vessel-X",
+        "topics": []
+    },
+    {
         "uid": "github/tudelft3d/3dfier",
         "url": "https://github.com/tudelft3d/3dfier",
         "rel": "/software/repository/github/tudelft3d/3dfier",
@@ -13280,6 +13384,14 @@
         "rel": "/software/repository/github/NCIP/visda",
         "avatar": "https://avatars0.githubusercontent.com/u/2387173?v=4",
         "description": "VISDA (VIsual Statistical Data Analyzer) is analytical tool for cluster modeling and visualization of microarray data.",
+        "topics": []
+    },
+    {
+        "uid": "github/JLSteenwyk/ggpubfigs",
+        "url": "https://github.com/JLSteenwyk/ggpubfigs",
+        "rel": "/software/repository/github/JLSteenwyk/ggpubfigs",
+        "avatar": "https://avatars.githubusercontent.com/u/17225603?v=4",
+        "description": "colorblind friendly color palettes and ggplot2 graphic system extensions for publication-quality scientific figures",
         "topics": []
     },
     {
