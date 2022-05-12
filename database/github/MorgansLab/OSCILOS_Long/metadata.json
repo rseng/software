@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/MorgansLab/OSCILOS_Long",
+    "url": "https://github.com/MorgansLab/OSCILOS_long",
+    "data": {
+        "timestamp": "2022-05-12 03:43:48.905841",
+        "name": "OSCILOS_long",
+        "url": "https://api.github.com/repos/MorgansLab/OSCILOS_long",
+        "full_name": "MorgansLab/OSCILOS_long",
+        "html_url": "https://github.com/MorgansLab/OSCILOS_long",
+        "private": false,
+        "description": "OSCILOS_long is an open source code for simulating combustion instabilities. OSCILOS_lite was developed at Imperial College London by Prof. Aimee S. Morgans and co-workers. The code is open source and written in MATLAB.",
+        "created_at": "2021-04-29T13:02:50Z",
+        "updated_at": "2021-10-17T14:34:50Z",
+        "clone_url": "https://github.com/MorgansLab/OSCILOS_long.git",
+        "homepage": null,
+        "size": 16244,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "MATLAB",
+        "open_issues_count": 0,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/MorgansLab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9108767?v=4",
+            "login": "MorgansLab",
+            "type": "Organization"
+        },
+        "topics": []
+    },
+    "rsotm": "2020-03"
+}

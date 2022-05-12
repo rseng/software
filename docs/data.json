@@ -693,11 +693,139 @@
         "topics": []
     },
     {
+        "uid": "github/mrc-ide/odin",
+        "url": "https://github.com/mrc-ide/odin",
+        "rel": "/software/repository/github/mrc-ide/odin",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "\u16a9 A DSL for describing and solving differential equations in R",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/PlasmoMAPI",
+        "url": "https://github.com/mrc-ide/PlasmoMAPI",
+        "rel": "/software/repository/github/mrc-ide/PlasmoMAPI",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "Mapping Plasmodium Spatial Connectivity from Genetic Data",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/squire",
+        "url": "https://github.com/mrc-ide/squire",
+        "rel": "/software/repository/github/mrc-ide/squire",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "SEIR transmission model of COVID-19. Documentation at:",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/ring",
+        "url": "https://github.com/mrc-ide/ring",
+        "rel": "/software/repository/github/mrc-ide/ring",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": ":ring: Ring buffers",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/dde",
+        "url": "https://github.com/mrc-ide/dde",
+        "rel": "/software/repository/github/mrc-ide/dde",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": ":clock1130::soon::clock9: Delay differential equation solver",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/global-lmic-reports-orderly",
+        "url": "https://github.com/mrc-ide/global-lmic-reports-orderly",
+        "rel": "/software/repository/github/mrc-ide/global-lmic-reports-orderly",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "COVID-19 forecast reports for LMICs",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/rrq",
+        "url": "https://github.com/mrc-ide/rrq",
+        "rel": "/software/repository/github/mrc-ide/rrq",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": ":runner::runner::runner: Lightweight Redis queues",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/covid-sim",
+        "url": "https://github.com/mrc-ide/covid-sim",
+        "rel": "/software/repository/github/mrc-ide/covid-sim",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/cinterpolate",
+        "url": "https://github.com/mrc-ide/cinterpolate",
+        "rel": "/software/repository/github/mrc-ide/cinterpolate",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": ":bar_chart::arrow_right::wavy_dash: Interpolating functions from C, in R",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/sircovid",
+        "url": "https://github.com/mrc-ide/sircovid",
+        "rel": "/software/repository/github/mrc-ide/sircovid",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/EpiEstim",
+        "url": "https://github.com/mrc-ide/EpiEstim",
+        "rel": "/software/repository/github/mrc-ide/EpiEstim",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "A tool to estimate time varying instantaneous reproduction number during epidemics",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/covid19-forecasts-orderly",
+        "url": "https://github.com/mrc-ide/covid19-forecasts-orderly",
+        "rel": "/software/repository/github/mrc-ide/covid19-forecasts-orderly",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/provisionr",
+        "url": "https://github.com/mrc-ide/provisionr",
+        "rel": "/software/repository/github/mrc-ide/provisionr",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": ":package::package::arrow_right::classical_building: Provision a library of R packages",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/PhyDyn",
+        "url": "https://github.com/mrc-ide/PhyDyn",
+        "rel": "/software/repository/github/mrc-ide/PhyDyn",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "PhyDyn: Epidemiological modelling in BEAST",
+        "topics": []
+    },
+    {
         "uid": "github/mrc-ide/individual",
         "url": "https://github.com/mrc-ide/individual",
         "rel": "/software/repository/github/mrc-ide/individual",
         "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
         "description": "R Package for individual based epidemiological models",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/dust",
+        "url": "https://github.com/mrc-ide/dust",
+        "rel": "/software/repository/github/mrc-ide/dust",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": ":sparkles::sparkles::sparkles: Iterate multiple realisations of stochastic models",
+        "topics": []
+    },
+    {
+        "uid": "github/mrc-ide/drjacoby",
+        "url": "https://github.com/mrc-ide/drjacoby",
+        "rel": "/software/repository/github/mrc-ide/drjacoby",
+        "avatar": "https://avatars.githubusercontent.com/u/25453642?v=4",
+        "description": "Flexible Markov chain monte carlo via reparameterization",
         "topics": []
     },
     {
@@ -1376,6 +1504,46 @@
         "rel": "/software/repository/github/VALENCE-software/VALENCE",
         "avatar": "https://avatars.githubusercontent.com/u/45109653?v=4",
         "description": "quantum chemistry software",
+        "topics": []
+    },
+    {
+        "uid": "github/biomedia-mira/istn",
+        "url": "https://github.com/biomedia-mira/istn",
+        "rel": "/software/repository/github/biomedia-mira/istn",
+        "avatar": "https://avatars.githubusercontent.com/u/52955096?v=4",
+        "description": "Image-and-Spatial Transformer Networks",
+        "topics": []
+    },
+    {
+        "uid": "github/biomedia-mira/blast-ct",
+        "url": "https://github.com/biomedia-mira/blast-ct",
+        "rel": "/software/repository/github/biomedia-mira/blast-ct",
+        "avatar": "https://avatars.githubusercontent.com/u/52955096?v=4",
+        "description": "Brain Lesion Analysis and Segmentation Tool for Computed Tomography",
+        "topics": []
+    },
+    {
+        "uid": "github/biomedia-mira/masf",
+        "url": "https://github.com/biomedia-mira/masf",
+        "rel": "/software/repository/github/biomedia-mira/masf",
+        "avatar": "https://avatars.githubusercontent.com/u/52955096?v=4",
+        "description": "Domain Generalization via Model-Agnostic Learning of Semantic Features",
+        "topics": []
+    },
+    {
+        "uid": "github/biomedia-mira/drop2",
+        "url": "https://github.com/biomedia-mira/drop2",
+        "rel": "/software/repository/github/biomedia-mira/drop2",
+        "avatar": "https://avatars.githubusercontent.com/u/52955096?v=4",
+        "description": "drop2 - intensity-based image registration",
+        "topics": []
+    },
+    {
+        "uid": "github/biomedia-mira/deepscm",
+        "url": "https://github.com/biomedia-mira/deepscm",
+        "rel": "/software/repository/github/biomedia-mira/deepscm",
+        "avatar": "https://avatars.githubusercontent.com/u/52955096?v=4",
+        "description": "Repository for Deep Structural Causal Models for Tractable Counterfactual Inference",
         "topics": []
     },
     {
@@ -4597,6 +4765,14 @@
         "topics": []
     },
     {
+        "uid": "github/pawni/BayesByHypernet",
+        "url": "https://github.com/pawni/BayesByHypernet",
+        "rel": "/software/repository/github/pawni/BayesByHypernet",
+        "avatar": "https://avatars.githubusercontent.com/u/2412413?v=4",
+        "description": "Code for the paper Implicit Weight Uncertainty in Neural Networks",
+        "topics": []
+    },
+    {
         "uid": "github/rvaser/spoa",
         "url": "https://github.com/rvaser/spoa",
         "rel": "/software/repository/github/rvaser/spoa",
@@ -4626,6 +4802,14 @@
         "rel": "/software/repository/github/RamanLab/iCOMIC",
         "avatar": "https://avatars.githubusercontent.com/u/10651827?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/umbralcalc/helmpy",
+        "url": "https://github.com/umbralcalc/helmpy",
+        "rel": "/software/repository/github/umbralcalc/helmpy",
+        "avatar": "https://avatars.githubusercontent.com/u/12143658?v=4",
+        "description": "An all-in-one python class for optimised stochastic simulation and forecasting the effect of mass drug administration on helminth (parasitic worm) disease transmission",
         "topics": []
     },
     {
@@ -4682,6 +4866,54 @@
         "rel": "/software/repository/github/zhwm/SparsePro_Paper",
         "avatar": "https://avatars.githubusercontent.com/u/30612712?v=4",
         "description": "Code repo for SparsePro Paper",
+        "topics": []
+    },
+    {
+        "uid": "github/WMD-group/MacroDensity",
+        "url": "https://github.com/WMD-group/MacroDensity",
+        "rel": "/software/repository/github/WMD-group/MacroDensity",
+        "avatar": "https://avatars.githubusercontent.com/u/1716969?v=4",
+        "description": "Analyse electron density & potential grids using Python",
+        "topics": []
+    },
+    {
+        "uid": "github/WMD-group/SMACT",
+        "url": "https://github.com/WMD-group/SMACT",
+        "rel": "/software/repository/github/WMD-group/SMACT",
+        "avatar": "https://avatars.githubusercontent.com/u/1716969?v=4",
+        "description": "Python package to aid materials design",
+        "topics": []
+    },
+    {
+        "uid": "github/WMD-group/CarrierCapture.jl",
+        "url": "https://github.com/WMD-group/CarrierCapture.jl",
+        "rel": "/software/repository/github/WMD-group/CarrierCapture.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/1716969?v=4",
+        "description": "Package to compute trap-assisted electron and hole capture in semiconducting compounds",
+        "topics": []
+    },
+    {
+        "uid": "github/WMD-group/StarryNight",
+        "url": "https://github.com/WMD-group/StarryNight",
+        "rel": "/software/repository/github/WMD-group/StarryNight",
+        "avatar": "https://avatars.githubusercontent.com/u/1716969?v=4",
+        "description": "Monte Carlo codes to simulate polar domains in hybrid perovskite solar cells",
+        "topics": []
+    },
+    {
+        "uid": "github/WMD-group/hybrid-perovskites",
+        "url": "https://github.com/WMD-group/hybrid-perovskites",
+        "rel": "/software/repository/github/WMD-group/hybrid-perovskites",
+        "avatar": "https://avatars.githubusercontent.com/u/1716969?v=4",
+        "description": "DFT optimised crystal structures of inorganic and hybrid halide perovskites",
+        "topics": []
+    },
+    {
+        "uid": "github/WMD-group/Eris",
+        "url": "https://github.com/WMD-group/Eris",
+        "rel": "/software/repository/github/WMD-group/Eris",
+        "avatar": "https://avatars.githubusercontent.com/u/1716969?v=4",
+        "description": "Monte Carlo codes to simulate cation disorder in kesterite semiconductors",
         "topics": []
     },
     {
@@ -4746,6 +4978,14 @@
         "rel": "/software/repository/github/bblodfon/emba",
         "avatar": "https://avatars2.githubusercontent.com/u/10909555?v=4",
         "description": "Ensemble Model Biomarker Analysis R package",
+        "topics": []
+    },
+    {
+        "uid": "github/phenomecentre/nPYc-Toolbox",
+        "url": "https://github.com/phenomecentre/nPYc-Toolbox",
+        "rel": "/software/repository/github/phenomecentre/nPYc-Toolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/7632103?v=4",
+        "description": "The nPYc-Toolbox defines objects for representing, and implements functions to manipulate and display, metabolic profiling datasets.",
         "topics": []
     },
     {
@@ -5075,6 +5315,14 @@
         "topics": []
     },
     {
+        "uid": "github/jczarnowski/DeepFactors",
+        "url": "https://github.com/jczarnowski/DeepFactors",
+        "rel": "/software/repository/github/jczarnowski/DeepFactors",
+        "avatar": "https://avatars.githubusercontent.com/u/1465574?v=4",
+        "description": "Real-Time Probabilistic Dense Monocular SLAM Using Compact Code Representation",
+        "topics": []
+    },
+    {
         "uid": "github/jorisparet/partycls",
         "url": "https://github.com/jorisparet/partycls",
         "rel": "/software/repository/github/jorisparet/partycls",
@@ -5310,6 +5558,14 @@
         "topics": []
     },
     {
+        "uid": "github/xcompact3d/Incompact3d",
+        "url": "https://github.com/xcompact3d/Incompact3d",
+        "rel": "/software/repository/github/xcompact3d/Incompact3d",
+        "avatar": "https://avatars.githubusercontent.com/u/37588006?v=4",
+        "description": "New version of our solver for the incompressible Navier-Stokes equations",
+        "topics": []
+    },
+    {
         "uid": "github/weecology/retriever",
         "url": "https://github.com/weecology/retriever",
         "rel": "/software/repository/github/weecology/retriever",
@@ -5456,6 +5712,22 @@
             "data",
             "materials-science"
         ]
+    },
+    {
+        "uid": "github/fabiopardo/qmap",
+        "url": "https://github.com/fabiopardo/qmap",
+        "rel": "/software/repository/github/fabiopardo/qmap",
+        "avatar": "https://avatars.githubusercontent.com/u/13062117?v=4",
+        "description": "Scaling All-Goals Updates in Reinforcement Learning Using Convolutional Neural Networks",
+        "topics": []
+    },
+    {
+        "uid": "github/fabiopardo/tonic",
+        "url": "https://github.com/fabiopardo/tonic",
+        "rel": "/software/repository/github/fabiopardo/tonic",
+        "avatar": "https://avatars.githubusercontent.com/u/13062117?v=4",
+        "description": "Tonic RL library",
+        "topics": []
     },
     {
         "uid": "github/llt1836/TE-HI-GCN",
@@ -5642,6 +5914,14 @@
         ]
     },
     {
+        "uid": "github/tensorlayer/tensorlayer",
+        "url": "https://github.com/tensorlayer/TensorLayer",
+        "rel": "/software/repository/github/tensorlayer/tensorlayer",
+        "avatar": "https://avatars.githubusercontent.com/u/32261543?v=4",
+        "description": "Deep Learning and Reinforcement Learning Library for Scientists and Engineers ",
+        "topics": []
+    },
+    {
         "uid": "github/bwa-mem2/bwa-mem2",
         "url": "https://github.com/bwa-mem2/bwa-mem2",
         "rel": "/software/repository/github/bwa-mem2/bwa-mem2",
@@ -5655,6 +5935,14 @@
         "rel": "/software/repository/github/learningsimulator/learningsimulator",
         "avatar": "https://avatars.githubusercontent.com/u/61417129?v=4",
         "description": "Learning Simulator: A simulation software for animal and human learning",
+        "topics": []
+    },
+    {
+        "uid": "github/Imperial-visualizations/Physics-Visualizations",
+        "url": "https://github.com/Imperial-visualizations/Physics-Visualizations",
+        "rel": "/software/repository/github/Imperial-visualizations/Physics-Visualizations",
+        "avatar": "https://avatars.githubusercontent.com/u/40570406?v=4",
+        "description": "A computational project at Imperial College London to develop interactive visualizations for education.",
         "topics": []
     },
     {
@@ -5858,6 +6146,14 @@
         "topics": []
     },
     {
+        "uid": "github/ProjectPyRhO/PyRhO",
+        "url": "https://github.com/ProjectPyRhO/PyRhO",
+        "rel": "/software/repository/github/ProjectPyRhO/PyRhO",
+        "avatar": "https://avatars.githubusercontent.com/u/16543743?v=4",
+        "description": "A virtual optogenetics laboratory",
+        "topics": []
+    },
+    {
         "uid": "github/RaRe-Technologies/gensim",
         "url": "https://github.com/RaRe-Technologies/gensim",
         "rel": "/software/repository/github/RaRe-Technologies/gensim",
@@ -5983,6 +6279,14 @@
         "rel": "/software/repository/github/raspishake/rsudp",
         "avatar": "https://avatars.githubusercontent.com/u/26871117?v=4",
         "description": "Continuous visual display, sudden motion monitoring, and historical replay of Raspberry Shake data",
+        "topics": []
+    },
+    {
+        "uid": "github/DRMacIver/shrinkray",
+        "url": "https://github.com/DRMacIver/shrinkray",
+        "rel": "/software/repository/github/DRMacIver/shrinkray",
+        "avatar": "https://avatars.githubusercontent.com/u/28623?v=4",
+        "description": "Shrink Ray is a new test-case reducer designed to be effective on a wide range of formats",
         "topics": []
     },
     {
@@ -6406,6 +6710,86 @@
         "topics": []
     },
     {
+        "uid": "github/lsds/TaLoS",
+        "url": "https://github.com/lsds/TaLoS",
+        "rel": "/software/repository/github/lsds/TaLoS",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Efficient TLS termination inside Intel SGX enclaves for existing applications",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/Saber",
+        "url": "https://github.com/lsds/Saber",
+        "rel": "/software/repository/github/lsds/Saber",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Window-Based Hybrid CPU/GPU Stream Processing Engine",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/KungFu",
+        "url": "https://github.com/lsds/KungFu",
+        "rel": "/software/repository/github/lsds/KungFu",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Fast and Adaptive Distributed Machine Learning for TensorFlow, PyTorch and MindSpore.",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/SEEP",
+        "url": "https://github.com/lsds/SEEP",
+        "rel": "/software/repository/github/lsds/SEEP",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Cluster computing using Stateful Dataflow Graphs",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/Crossbow",
+        "url": "https://github.com/lsds/Crossbow",
+        "rel": "/software/repository/github/lsds/Crossbow",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Crossbow: A Multi-GPU Deep Learning System for Training with Small Batch Sizes",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/Teechain",
+        "url": "https://github.com/lsds/Teechain",
+        "rel": "/software/repository/github/lsds/Teechain",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Teechain: A Secure Payment Network with Asynchronous Blockchain Access",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/faasm",
+        "url": "https://github.com/faasm/faasm",
+        "rel": "/software/repository/github/lsds/faasm",
+        "avatar": "https://avatars.githubusercontent.com/u/72010129?v=4",
+        "description": "High-performance stateful serverless runtime based on WebAssembly",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/Neptune",
+        "url": "https://github.com/lsds/Neptune",
+        "rel": "/software/repository/github/lsds/Neptune",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Neptune Execution Framework for Stream/Batch Spark Applications",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/LightSaber",
+        "url": "https://github.com/lsds/LightSaber",
+        "rel": "/software/repository/github/lsds/LightSaber",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "Multi-core Window-Based Stream Processing Engine",
+        "topics": []
+    },
+    {
+        "uid": "github/lsds/sgx-lkl",
+        "url": "https://github.com/lsds/sgx-lkl",
+        "rel": "/software/repository/github/lsds/sgx-lkl",
+        "avatar": "https://avatars.githubusercontent.com/u/989082?v=4",
+        "description": "SGX-LKL Library OS for running Linux applications inside of Intel SGX enclaves",
+        "topics": []
+    },
+    {
         "uid": "github/sebhaan/geobo",
         "url": "https://github.com/sebhaan/geobo",
         "rel": "/software/repository/github/sebhaan/geobo",
@@ -6633,6 +7017,14 @@
         "topics": []
     },
     {
+        "uid": "github/MorgansLab/OSCILOS_Long",
+        "url": "https://github.com/MorgansLab/OSCILOS_long",
+        "rel": "/software/repository/github/MorgansLab/OSCILOS_Long",
+        "avatar": "https://avatars.githubusercontent.com/u/9108767?v=4",
+        "description": "OSCILOS_long is an open source code for simulating combustion instabilities. OSCILOS_lite was developed at Imperial College London by Prof. Aimee S. Morgans and co-workers. The code is open source and written in MATLAB.",
+        "topics": []
+    },
+    {
         "uid": "github/STAR-Fusion/STAR-Fusion",
         "url": "https://github.com/STAR-Fusion/STAR-Fusion",
         "rel": "/software/repository/github/STAR-Fusion/STAR-Fusion",
@@ -6697,6 +7089,14 @@
         "topics": []
     },
     {
+        "uid": "github/klee/klee",
+        "url": "https://github.com/klee/klee",
+        "rel": "/software/repository/github/klee/klee",
+        "avatar": "https://avatars.githubusercontent.com/u/6224192?v=4",
+        "description": "KLEE Symbolic Execution Engine",
+        "topics": []
+    },
+    {
         "uid": "github/wilkelab/Opfi",
         "url": "https://github.com/wilkelab/Opfi",
         "rel": "/software/repository/github/wilkelab/Opfi",
@@ -6737,6 +7137,22 @@
         "topics": []
     },
     {
+        "uid": "github/saphir746/BiobankRead-Bash",
+        "url": "https://github.com/saphir746/BiobankRead-Bash",
+        "rel": "/software/repository/github/saphir746/BiobankRead-Bash",
+        "avatar": "https://avatars.githubusercontent.com/u/11505614?v=4",
+        "description": "Python scripts to extract and pre-process UKB data",
+        "topics": []
+    },
+    {
+        "uid": "github/mgalardini/pyseer",
+        "url": "https://github.com/mgalardini/pyseer",
+        "rel": "/software/repository/github/mgalardini/pyseer",
+        "avatar": "https://avatars.githubusercontent.com/u/1125215?v=4",
+        "description": "SEER, reimplemented in python \ud83d\udc0d\ud83d\udd2e",
+        "topics": []
+    },
+    {
         "uid": "github/lukapecnik/NiaAML",
         "url": "https://github.com/lukapecnik/NiaAML",
         "rel": "/software/repository/github/lukapecnik/NiaAML",
@@ -6769,6 +7185,30 @@
             "reproducible-research",
             "dataflow"
         ]
+    },
+    {
+        "uid": "github/JuliaMatrices/LazyBandedMatrices.jl",
+        "url": "https://github.com/JuliaMatrices/LazyBandedMatrices.jl",
+        "rel": "/software/repository/github/JuliaMatrices/LazyBandedMatrices.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/20272228?v=4",
+        "description": "A Julia package for lazy banded matrices",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaMatrices/BandedMatrices.jl",
+        "url": "https://github.com/JuliaMatrices/BandedMatrices.jl",
+        "rel": "/software/repository/github/JuliaMatrices/BandedMatrices.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/20272228?v=4",
+        "description": "A Julia package for representing banded matrices",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaMatrices/BlockBandedMatrices.jl",
+        "url": "https://github.com/JuliaMatrices/BlockBandedMatrices.jl",
+        "rel": "/software/repository/github/JuliaMatrices/BlockBandedMatrices.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/20272228?v=4",
+        "description": "A Julia package for representing block-banded matrices and banded-block-banded matrices",
+        "topics": []
     },
     {
         "uid": "github/yuansliu/minirmd",
@@ -7390,6 +7830,14 @@
         "topics": []
     },
     {
+        "uid": "github/lucydot/effmass",
+        "url": "https://github.com/lucydot/effmass",
+        "rel": "/software/repository/github/lucydot/effmass",
+        "avatar": "https://avatars.githubusercontent.com/u/2452935?v=4",
+        "description": "Calculates various definitions of effective mass from the electronic bandstructure of a semiconductor.",
+        "topics": []
+    },
+    {
         "uid": "github/shandley/hecatomb",
         "url": "https://github.com/shandley/hecatomb",
         "rel": "/software/repository/github/shandley/hecatomb",
@@ -7620,6 +8068,14 @@
         ]
     },
     {
+        "uid": "github/jarvist/Julia-Phonons",
+        "url": "https://github.com/jarvist/Julia-Phonons",
+        "rel": "/software/repository/github/jarvist/Julia-Phonons",
+        "avatar": "https://avatars.githubusercontent.com/u/82852?v=4",
+        "description": "Julia codes to play with Phonons",
+        "topics": []
+    },
+    {
         "uid": "github/jeffcsauer/arcos_arcospy_information",
         "url": "https://github.com/jeffcsauer/arcos_arcospy_information",
         "rel": "/software/repository/github/jeffcsauer/arcos_arcospy_information",
@@ -7820,6 +8276,14 @@
         "topics": []
     },
     {
+        "uid": "github/brian-team/brian2",
+        "url": "https://github.com/brian-team/brian2",
+        "rel": "/software/repository/github/brian-team/brian2",
+        "avatar": "https://avatars.githubusercontent.com/u/2292949?v=4",
+        "description": "Brian is a free, open source simulator for spiking neural networks. ",
+        "topics": []
+    },
+    {
         "uid": "github/hiddenSymmetries/simsopt",
         "url": "https://github.com/hiddenSymmetries/simsopt",
         "rel": "/software/repository/github/hiddenSymmetries/simsopt",
@@ -7908,6 +8372,14 @@
         "topics": []
     },
     {
+        "uid": "github/mofanv/darknetz",
+        "url": "https://github.com/mofanv/darknetz",
+        "rel": "/software/repository/github/mofanv/darknetz",
+        "avatar": "https://avatars.githubusercontent.com/u/23327428?v=4",
+        "description": "runs several layers of a deep learning model in TrustZone",
+        "topics": []
+    },
+    {
         "uid": "github/rksyouyou/SASOM-analysis",
         "url": "https://github.com/rksyouyou/SASOM-analysis",
         "rel": "/software/repository/github/rksyouyou/SASOM-analysis",
@@ -7976,6 +8448,14 @@
         "rel": "/software/repository/github/gvilitechltd/LibSWIFFT",
         "avatar": "https://avatars.githubusercontent.com/u/72996922?v=4",
         "description": "LibSWIFFT - A fast C/C++ library for the SWIFFT secure homomorphic hash function",
+        "topics": []
+    },
+    {
+        "uid": "github/mp3guy/ElasticFusion",
+        "url": "https://github.com/mp3guy/ElasticFusion",
+        "rel": "/software/repository/github/mp3guy/ElasticFusion",
+        "avatar": "https://avatars.githubusercontent.com/u/3238631?v=4",
+        "description": "Real-time dense visual SLAM system",
         "topics": []
     },
     {
@@ -8075,6 +8555,22 @@
         "topics": []
     },
     {
+        "uid": "github/Crompulence/cpl-library",
+        "url": "https://github.com/Crompulence/cpl-library",
+        "rel": "/software/repository/github/Crompulence/cpl-library",
+        "avatar": "https://avatars.githubusercontent.com/u/13557676?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/JelfsMaterialsGroup/stk",
+        "url": "https://github.com/JelfsMaterialsGroup/stk",
+        "rel": "/software/repository/github/JelfsMaterialsGroup/stk",
+        "avatar": "https://avatars.githubusercontent.com/u/36706109?v=4",
+        "description": "Mirror of lukasturcani/stk - please file issues / fork / star that repo. ",
+        "topics": []
+    },
+    {
         "uid": "github/soraxas/sbp-env",
         "url": "https://github.com/soraxas/sbp-env",
         "rel": "/software/repository/github/soraxas/sbp-env",
@@ -8147,6 +8643,14 @@
         "rel": "/software/repository/github/benhid/Sequoya",
         "avatar": "https://avatars.githubusercontent.com/u/6999898?v=4",
         "description": "Solving Multiple Sequence Alignment (MSA) problems with multi-objective metaheuristics",
+        "topics": []
+    },
+    {
+        "uid": "github/deepmedic/deepmedic",
+        "url": "https://github.com/deepmedic/deepmedic",
+        "rel": "/software/repository/github/deepmedic/deepmedic",
+        "avatar": "https://avatars.githubusercontent.com/u/29442582?v=4",
+        "description": "Efficient Multi-Scale 3D Convolutional Neural Network for Segmentation of 3D Medical Scans",
         "topics": []
     },
     {
@@ -8330,6 +8834,14 @@
         "topics": []
     },
     {
+        "uid": "github/csmsoftware/IMPaCTS",
+        "url": "https://github.com/csmsoftware/IMPaCTS",
+        "rel": "/software/repository/github/csmsoftware/IMPaCTS",
+        "avatar": "https://avatars.githubusercontent.com/u/8554835?v=4",
+        "description": "Imperial Metabolic Profiling and Chemometrics Toolbox for Spectroscopy",
+        "topics": []
+    },
+    {
         "uid": "github/dankelley/oce",
         "url": "https://github.com/dankelley/oce",
         "rel": "/software/repository/github/dankelley/oce",
@@ -8383,6 +8895,14 @@
         "rel": "/software/repository/github/idaholab/moose",
         "avatar": "https://avatars0.githubusercontent.com/u/3855370?v=4",
         "description": "Multiphysics Object Oriented Simulation Environment",
+        "topics": []
+    },
+    {
+        "uid": "github/barnesgroupICL/Driftfusion",
+        "url": "https://github.com/barnesgroupICL/Driftfusion",
+        "rel": "/software/repository/github/barnesgroupICL/Driftfusion",
+        "avatar": "https://avatars.githubusercontent.com/u/30349028?v=4",
+        "description": "An open source drift diffusion code based in MATLAB for simulating solar cells",
         "topics": []
     },
     {
@@ -8536,6 +9056,22 @@
         "topics": []
     },
     {
+        "uid": "github/UK-Digital-Heart-Project/4Dsegment",
+        "url": "https://github.com/UK-Digital-Heart-Project/4Dsegment",
+        "rel": "/software/repository/github/UK-Digital-Heart-Project/4Dsegment",
+        "avatar": "https://avatars.githubusercontent.com/u/13782814?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/UK-Digital-Heart-Project/4Dsurvival",
+        "url": "https://github.com/UK-Digital-Heart-Project/4Dsurvival",
+        "rel": "/software/repository/github/UK-Digital-Heart-Project/4Dsurvival",
+        "avatar": "https://avatars.githubusercontent.com/u/13782814?v=4",
+        "description": "Deep learning cardiac motion analysis for survival prediction",
+        "topics": []
+    },
+    {
         "uid": "github/r-cas/caracas",
         "url": "https://github.com/r-cas/caracas",
         "rel": "/software/repository/github/r-cas/caracas",
@@ -8561,6 +9097,30 @@
         "rel": "/software/repository/github/cinemascience/cinema_snap",
         "avatar": "https://avatars.githubusercontent.com/u/36246440?v=4",
         "description": "React-based web viewer",
+        "topics": []
+    },
+    {
+        "uid": "github/tanhevg/GpABC.jl",
+        "url": "https://github.com/tanhevg/GpABC.jl",
+        "rel": "/software/repository/github/tanhevg/GpABC.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/5775458?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/gilestrolab/ethoscope",
+        "url": "https://github.com/gilestrolab/ethoscope",
+        "rel": "/software/repository/github/gilestrolab/ethoscope",
+        "avatar": "https://avatars.githubusercontent.com/u/5263770?v=4",
+        "description": "a platform from monitoring animal behaviour in real time from a raspberry pi",
+        "topics": []
+    },
+    {
+        "uid": "github/gilestrolab/pySolo",
+        "url": "https://github.com/gilestrolab/pySolo",
+        "rel": "/software/repository/github/gilestrolab/pySolo",
+        "avatar": "https://avatars.githubusercontent.com/u/5263770?v=4",
+        "description": "A software for sleep analysis in Drosophila",
         "topics": []
     },
     {
@@ -9024,6 +9584,22 @@
         "topics": []
     },
     {
+        "uid": "github/johnlees/pp-sketchlib",
+        "url": "https://github.com/bacpop/pp-sketchlib",
+        "rel": "/software/repository/github/johnlees/pp-sketchlib",
+        "avatar": "https://avatars.githubusercontent.com/u/78856671?v=4",
+        "description": "Library of sketching functions used by PopPUNK",
+        "topics": []
+    },
+    {
+        "uid": "github/johnlees/PopPUNK",
+        "url": "https://github.com/bacpop/PopPUNK",
+        "rel": "/software/repository/github/johnlees/PopPUNK",
+        "avatar": "https://avatars.githubusercontent.com/u/78856671?v=4",
+        "description": "PopPUNK \ud83d\udc68\u200d\ud83c\udfa4 (POPulation Partitioning Using Nucleotide Kmers)",
+        "topics": []
+    },
+    {
         "uid": "github/gridap/Gridap.jl",
         "url": "https://github.com/gridap/Gridap.jl",
         "rel": "/software/repository/github/gridap/Gridap.jl",
@@ -9130,6 +9706,14 @@
         "rel": "/software/repository/github/xfcui/onn4arg",
         "avatar": "https://avatars.githubusercontent.com/u/25788176?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/FluidityProject/fluidity",
+        "url": "https://github.com/FluidityProject/fluidity",
+        "rel": "/software/repository/github/FluidityProject/fluidity",
+        "avatar": "https://avatars.githubusercontent.com/u/7604133?v=4",
+        "description": "Fluidity",
         "topics": []
     },
     {
@@ -9293,6 +9877,14 @@
         "topics": []
     },
     {
+        "uid": "github/baiwenjia/ukbb_cardiac",
+        "url": "https://github.com/baiwenjia/ukbb_cardiac",
+        "rel": "/software/repository/github/baiwenjia/ukbb_cardiac",
+        "avatar": "https://avatars.githubusercontent.com/u/10883629?v=4",
+        "description": "Some code for processing and analysing UK Biobank cardiac MR images.",
+        "topics": []
+    },
+    {
         "uid": "github/davemlz/eemont",
         "url": "https://github.com/davemlz/eemont",
         "rel": "/software/repository/github/davemlz/eemont",
@@ -9385,6 +9977,30 @@
         "topics": []
     },
     {
+        "uid": "github/vimc/dettl",
+        "url": "https://github.com/vimc/dettl",
+        "rel": "/software/repository/github/vimc/dettl",
+        "avatar": "https://avatars.githubusercontent.com/u/26278316?v=4",
+        "description": ":bar_chart::shower: Data extract, transform, test and load",
+        "topics": []
+    },
+    {
+        "uid": "github/vimc/orderly",
+        "url": "https://github.com/vimc/orderly",
+        "rel": "/software/repository/github/vimc/orderly",
+        "avatar": "https://avatars.githubusercontent.com/u/26278316?v=4",
+        "description": ":hospital::ambulance: Lightweight Reproducible Reporting for R",
+        "topics": []
+    },
+    {
+        "uid": "github/vimc/vaultr",
+        "url": "https://github.com/vimc/vaultr",
+        "rel": "/software/repository/github/vimc/vaultr",
+        "avatar": "https://avatars.githubusercontent.com/u/26278316?v=4",
+        "description": ":lock: API client for Hashicorp's vault (https://www.vaultproject.io/)",
+        "topics": []
+    },
+    {
         "uid": "github/ZhaoXM-Lab/metaMIC",
         "url": "https://github.com/ZhaoXM-Lab/metaMIC",
         "rel": "/software/repository/github/ZhaoXM-Lab/metaMIC",
@@ -9398,6 +10014,14 @@
         "rel": "/software/repository/github/GOMC-WSU/GOMC",
         "avatar": "https://avatars.githubusercontent.com/u/11666264?v=4",
         "description": "GOMC - GPU Optimized Monte Carlo is a parallel molecular simulation code designed for high-performance simulation of large systems",
+        "topics": []
+    },
+    {
+        "uid": "github/OP2/PyOP2",
+        "url": "https://github.com/OP2/PyOP2",
+        "rel": "/software/repository/github/OP2/PyOP2",
+        "avatar": "https://avatars.githubusercontent.com/u/1544411?v=4",
+        "description": "Framework for performance-portable parallel computations on unstructured meshes",
         "topics": []
     },
     {
@@ -9471,6 +10095,14 @@
         "topics": []
     },
     {
+        "uid": "github/mwoodbri/MRIdb",
+        "url": "https://github.com/mwoodbri/MRIdb",
+        "rel": "/software/repository/github/mwoodbri/MRIdb",
+        "avatar": "https://avatars.githubusercontent.com/u/1724545?v=4",
+        "description": "An end-to-end data management system for MRI",
+        "topics": []
+    },
+    {
         "uid": "github/intelligent-soft-robots/o80",
         "url": "https://github.com/intelligent-soft-robots/o80",
         "rel": "/software/repository/github/intelligent-soft-robots/o80",
@@ -9519,6 +10151,14 @@
         "topics": []
     },
     {
+        "uid": "github/imperialchem/mrd-demo",
+        "url": "https://github.com/imperialchem/mrd-demo",
+        "rel": "/software/repository/github/imperialchem/mrd-demo",
+        "avatar": "https://avatars.githubusercontent.com/u/9826134?v=4",
+        "description": "Demonstration of classical molecular reaction dynamics for a tri-atomic system",
+        "topics": []
+    },
+    {
         "uid": "github/bootphon/phonemizer",
         "url": "https://github.com/bootphon/phonemizer",
         "rel": "/software/repository/github/bootphon/phonemizer",
@@ -9540,6 +10180,30 @@
         "rel": "/software/repository/github/UNSW-CEEM/nempy",
         "avatar": "https://avatars.githubusercontent.com/u/33536784?v=4",
         "description": "A flexible tool kit for modelling Australia's National Electricity Market dispatch procedure.",
+        "topics": []
+    },
+    {
+        "uid": "github/firedrakeproject/gusto",
+        "url": "https://github.com/firedrakeproject/gusto",
+        "rel": "/software/repository/github/firedrakeproject/gusto",
+        "avatar": "https://avatars.githubusercontent.com/u/5558005?v=4",
+        "description": "Three dimensional atmospheric dynamical core using the Gung Ho numerics.",
+        "topics": []
+    },
+    {
+        "uid": "github/firedrakeproject/firedrake",
+        "url": "https://github.com/firedrakeproject/firedrake",
+        "rel": "/software/repository/github/firedrakeproject/firedrake",
+        "avatar": "https://avatars.githubusercontent.com/u/5558005?v=4",
+        "description": "Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)",
+        "topics": []
+    },
+    {
+        "uid": "github/ec363/fpcountr",
+        "url": "https://github.com/ec363/fpcountr",
+        "rel": "/software/repository/github/ec363/fpcountr",
+        "avatar": "https://avatars.githubusercontent.com/u/51139488?v=4",
+        "description": "Fluorescent protein calibration for plate readers",
         "topics": []
     },
     {
@@ -9664,6 +10328,14 @@
         "rel": "/software/repository/github/wangjun1996/VisFeature",
         "avatar": "https://avatars0.githubusercontent.com/u/43462056?v=4",
         "description": "A stand-alone program for visualizing and analyzing statistical features of biological sequences",
+        "topics": []
+    },
+    {
+        "uid": "github/DLTK/DLTK",
+        "url": "https://github.com/DLTK/DLTK",
+        "rel": "/software/repository/github/DLTK/DLTK",
+        "avatar": "https://avatars.githubusercontent.com/u/28306010?v=4",
+        "description": "Deep Learning Toolkit for Medical Image Analysis",
         "topics": []
     },
     {
@@ -10080,6 +10752,14 @@
         "rel": "/software/repository/github/bio-ontology-research-group/deepgoplus",
         "avatar": "https://avatars.githubusercontent.com/u/11040886?v=4",
         "description": "DeepGO with GOPlus axioms",
+        "topics": []
+    },
+    {
+        "uid": "github/thetisproject/thetis",
+        "url": "https://github.com/thetisproject/thetis",
+        "rel": "/software/repository/github/thetisproject/thetis",
+        "avatar": "https://avatars.githubusercontent.com/u/17277005?v=4",
+        "description": "Finite element flow solver for simulating coastal and estuarine flows.",
         "topics": []
     },
     {
@@ -11008,6 +11688,14 @@
         "topics": []
     },
     {
+        "uid": "github/dolfin-adjoint/pyadjoint",
+        "url": "https://github.com/dolfin-adjoint/pyadjoint",
+        "rel": "/software/repository/github/dolfin-adjoint/pyadjoint",
+        "avatar": "https://avatars.githubusercontent.com/u/58938451?v=4",
+        "description": "The algorithmic differentation tool pyadjoint and add-ons.",
+        "topics": []
+    },
+    {
         "uid": "github/tinglabs/scAIDE",
         "url": "https://github.com/tinglabs/scAIDE",
         "rel": "/software/repository/github/tinglabs/scAIDE",
@@ -11077,6 +11765,22 @@
         "rel": "/software/repository/github/dfujim/bfit",
         "avatar": "https://avatars.githubusercontent.com/u/7872559?v=4",
         "description": "A Python application for the analysis of \u03b2-NMR and \u03b2-NQR data taken at TRIUMF.",
+        "topics": []
+    },
+    {
+        "uid": "github/patscott/gambit_1.3",
+        "url": "https://github.com/GambitBSM/gambit_1.3",
+        "rel": "/software/repository/github/patscott/gambit_1.3",
+        "avatar": "https://avatars.githubusercontent.com/u/66944692?v=4",
+        "description": "GAMBIT: The Global and Modular Beyond-the-Standard-Model Inference Tool",
+        "topics": []
+    },
+    {
+        "uid": "github/patscott/pippi",
+        "url": "https://github.com/patscott/pippi",
+        "rel": "/software/repository/github/patscott/pippi",
+        "avatar": "https://avatars.githubusercontent.com/u/1249657?v=4",
+        "description": "Pippi: parse it, plot it.  A program for operating on MCMC chains and related lists of samples from a function or distribution.",
         "topics": []
     },
     {
@@ -11793,6 +12497,14 @@
         "topics": []
     },
     {
+        "uid": "github/BioMedIA/MIRTK",
+        "url": "https://github.com/BioMedIA/MIRTK",
+        "rel": "/software/repository/github/BioMedIA/MIRTK",
+        "avatar": "https://avatars.githubusercontent.com/u/7911500?v=4",
+        "description": "The Medical Image Registration ToolKit (MIRTK), the successor of the IRTK, contains common CMake build configuration files, core libraries, and basic command-line tools. Extension packages are hosted by the MIRTK GitHub group at",
+        "topics": []
+    },
+    {
         "uid": "github/horovod/horovod",
         "url": "https://github.com/horovod/horovod",
         "rel": "/software/repository/github/horovod/horovod",
@@ -11833,11 +12545,99 @@
         "topics": []
     },
     {
+        "uid": "github/NathanSkene/MAGMA_Celltyping",
+        "url": "https://github.com/neurogenomics/MAGMA_Celltyping",
+        "rel": "/software/repository/github/NathanSkene/MAGMA_Celltyping",
+        "avatar": "https://avatars.githubusercontent.com/u/48588661?v=4",
+        "description": "Find causal cell-types underlying complex trait genetics",
+        "topics": []
+    },
+    {
+        "uid": "github/NathanSkene/EWCE",
+        "url": "https://github.com/NathanSkene/EWCE",
+        "rel": "/software/repository/github/NathanSkene/EWCE",
+        "avatar": "https://avatars.githubusercontent.com/u/33265555?v=4",
+        "description": "Expression Weighted Celltype Enrichment. See the package website for up-to-date instructions on usage.",
+        "topics": []
+    },
+    {
+        "uid": "github/vincentlab/PyFR",
+        "url": "https://github.com/PyFR/PyFR",
+        "rel": "/software/repository/github/vincentlab/PyFR",
+        "avatar": "https://avatars.githubusercontent.com/u/54985610?v=4",
+        "description": "PyFR",
+        "topics": []
+    },
+    {
         "uid": "github/lrnv/cort",
         "url": "https://github.com/lrnv/cort",
         "rel": "/software/repository/github/lrnv/cort",
         "avatar": "https://avatars3.githubusercontent.com/u/15571061?v=4",
         "description": "Classes and Tools For Some Empirical and Non-parametrical Copula Models.",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/Autoencoders",
+        "url": "https://github.com/Kaixhin/Autoencoders",
+        "rel": "/software/repository/github/Kaixhin/Autoencoders",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Torch implementations of various types of autoencoders",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/dockerfiles",
+        "url": "https://github.com/Kaixhin/dockerfiles",
+        "rel": "/software/repository/github/Kaixhin/dockerfiles",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Compilation of Dockerfiles with automated builds enabled on the Docker Registry",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/spinning-up-basic",
+        "url": "https://github.com/Kaixhin/spinning-up-basic",
+        "rel": "/software/repository/github/Kaixhin/spinning-up-basic",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Basic versions of agents from Spinning Up in Deep RL written in PyTorch",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/Atari",
+        "url": "https://github.com/Kaixhin/Atari",
+        "rel": "/software/repository/github/Kaixhin/Atari",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Persistent advantage learning dueling double DQN for the Arcade Learning Environment",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/PlaNet",
+        "url": "https://github.com/Kaixhin/PlaNet",
+        "rel": "/software/repository/github/Kaixhin/PlaNet",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Deep Planning Network: Control from pixels by latent planning with learned dynamics",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/FGMachine",
+        "url": "https://github.com/Kaixhin/FGMachine",
+        "rel": "/software/repository/github/Kaixhin/FGMachine",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Future Gadget Machine",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/FGLab",
+        "url": "https://github.com/Kaixhin/FGLab",
+        "rel": "/software/repository/github/Kaixhin/FGLab",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Future Gadget Laboratory",
+        "topics": []
+    },
+    {
+        "uid": "github/Kaixhin/Rainbow",
+        "url": "https://github.com/Kaixhin/Rainbow",
+        "rel": "/software/repository/github/Kaixhin/Rainbow",
+        "avatar": "https://avatars.githubusercontent.com/u/991891?v=4",
+        "description": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
         "topics": []
     },
     {
@@ -12182,11 +12982,163 @@
         "topics": []
     },
     {
+        "uid": "github/ImperialCollegeLondon/safedata",
+        "url": "https://github.com/ImperialCollegeLondon/safedata",
+        "rel": "/software/repository/github/ImperialCollegeLondon/safedata",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "An R package for discovering and using data from the SAFE Project",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/WInc3D",
+        "url": "https://github.com/ImperialCollegeLondon/WInc3D",
+        "rel": "/software/repository/github/ImperialCollegeLondon/WInc3D",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Wind Farm Simulator",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/pytest_template_application",
+        "url": "https://github.com/ImperialCollegeLondon/pytest_template_application",
+        "rel": "/software/repository/github/ImperialCollegeLondon/pytest_template_application",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Python application template with automated QA and Docker image publishing",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/adam",
+        "url": "https://github.com/ImperialCollegeLondon/adam",
+        "rel": "/software/repository/github/ImperialCollegeLondon/adam",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/hcga",
+        "url": "https://github.com/barahona-research-group/hcga",
+        "rel": "/software/repository/github/ImperialCollegeLondon/hcga",
+        "avatar": "https://avatars.githubusercontent.com/u/51328597?v=4",
+        "description": "Highly Comparative Graph Analysis - Code for network phenotyping ",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/R2T2",
+        "url": "https://github.com/ImperialCollegeLondon/R2T2",
+        "rel": "/software/repository/github/ImperialCollegeLondon/R2T2",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Research References Tracking Tool",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/sharpy",
+        "url": "https://github.com/ImperialCollegeLondon/sharpy",
+        "rel": "/software/repository/github/ImperialCollegeLondon/sharpy",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Simulation of High Aspect Ratio aeroplanes and wind turbines in Python: a nonlinear aeroelastic code",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/magda_tools",
+        "url": "https://github.com/ImperialCollegeLondon/magda_tools",
+        "rel": "/software/repository/github/ImperialCollegeLondon/magda_tools",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "A collection of tools for working with MAGDA data files",
+        "topics": []
+    },
+    {
         "uid": "github/ImperialCollegeLondon/champ",
         "url": "https://github.com/ImperialCollegeLondon/champ",
         "rel": "/software/repository/github/ImperialCollegeLondon/champ",
         "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/EpiCollectplus",
+        "url": "https://github.com/ImperialCollegeLondon/EpiCollectplus",
+        "rel": "/software/repository/github/ImperialCollegeLondon/EpiCollectplus",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "The next generation of EpiCollect, multiple forms, more fields and more control. We recommend using Apache 2.2 or later, PHP 5.3 or later and MySQL 5.5 or later.",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/covid19model",
+        "url": "https://github.com/ImperialCollegeLondon/covid19model",
+        "rel": "/software/repository/github/ImperialCollegeLondon/covid19model",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Code for modelling estimated deaths and cases for COVID19. ",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/ICLOCS",
+        "url": "https://github.com/ImperialCollegeLondon/ICLOCS",
+        "rel": "/software/repository/github/ImperialCollegeLondon/ICLOCS",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Imperial College London Optimal Control Software (ICLOCS)",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/rcs-pacemakers",
+        "url": "https://github.com/ImperialCollegeLondon/rcs-pacemakers",
+        "rel": "/software/repository/github/ImperialCollegeLondon/rcs-pacemakers",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Example of GPU-accelerated machine learning on the RCS compute cluster using Jupyter and conda",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/epidemia",
+        "url": "https://github.com/ImperialCollegeLondon/epidemia",
+        "rel": "/software/repository/github/ImperialCollegeLondon/epidemia",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "epidemia package",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/research-software-directory-data",
+        "url": "https://github.com/ImperialCollegeLondon/research-software-directory",
+        "rel": "/software/repository/github/ImperialCollegeLondon/research-software-directory-data",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Imperial College Research Software Directory",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/UVLM",
+        "url": "https://github.com/ImperialCollegeLondon/UVLM",
+        "rel": "/software/repository/github/ImperialCollegeLondon/UVLM",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Unsteady Vortex Lattice Method for Aeroelasticity in C++",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/django-drf-filepond",
+        "url": "https://github.com/ImperialCollegeLondon/django-drf-filepond",
+        "rel": "/software/repository/github/ImperialCollegeLondon/django-drf-filepond",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "A Django app providing a server implemention for the Filepond file upload library",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/fractalgenetics",
+        "url": "https://github.com/ImperialCollegeLondon/fractalgenetics",
+        "rel": "/software/repository/github/ImperialCollegeLondon/fractalgenetics",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Analysis of the genomic architecture and functional role of myocardial trabeculae",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/sap-voicebox",
+        "url": "https://github.com/ImperialCollegeLondon/sap-voicebox",
+        "rel": "/software/repository/github/ImperialCollegeLondon/sap-voicebox",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Speech Processing Toolbox for MATLAB",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/rcs_cluster_scripts",
+        "url": "https://github.com/ImperialCollegeLondon/rcs_cluster_scripts",
+        "rel": "/software/repository/github/ImperialCollegeLondon/rcs_cluster_scripts",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "A collection of handy scripts for use with the Imperial College Research Computing Service cluster",
         "topics": []
     },
     {
@@ -12198,11 +13150,59 @@
         "topics": []
     },
     {
+        "uid": "github/mc-imperial/jfs",
+        "url": "https://github.com/mc-imperial/jfs",
+        "rel": "/software/repository/github/mc-imperial/jfs",
+        "avatar": "https://avatars.githubusercontent.com/u/7672161?v=4",
+        "description": "Constraint solver based on coverage-guided fuzzing",
+        "topics": []
+    },
+    {
+        "uid": "github/mc-imperial/gpuverify",
+        "url": "https://github.com/mc-imperial/gpuverify",
+        "rel": "/software/repository/github/mc-imperial/gpuverify",
+        "avatar": "https://avatars.githubusercontent.com/u/7672161?v=4",
+        "description": "GPUVerify: a Verifier for GPU Kernels",
+        "topics": []
+    },
+    {
+        "uid": "github/mc-imperial/multicore-test-harness",
+        "url": "https://github.com/mc-imperial/multicore-test-harness",
+        "rel": "/software/repository/github/mc-imperial/multicore-test-harness",
+        "avatar": "https://avatars.githubusercontent.com/u/7672161?v=4",
+        "description": "A multicore microprocessor test harness for measuring interference",
+        "topics": []
+    },
+    {
         "uid": "github/mazzalab/pyntacle",
         "url": "https://github.com/mazzalab/pyntacle",
         "rel": "/software/repository/github/mazzalab/pyntacle",
         "avatar": "https://avatars0.githubusercontent.com/u/10012441?v=4",
         "description": "A high performance python package for network analysis based on non canonical metrics",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaArrays/InfiniteArrays.jl",
+        "url": "https://github.com/JuliaArrays/InfiniteArrays.jl",
+        "rel": "/software/repository/github/JuliaArrays/InfiniteArrays.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/21312771?v=4",
+        "description": "A Julia package for representing infinite-dimensional arrays",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaArrays/BlockArrays.jl",
+        "url": "https://github.com/JuliaArrays/BlockArrays.jl",
+        "rel": "/software/repository/github/JuliaArrays/BlockArrays.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/21312771?v=4",
+        "description": "BlockArrays for Julia",
+        "topics": []
+    },
+    {
+        "uid": "github/JuliaArrays/LazyArrays.jl",
+        "url": "https://github.com/JuliaArrays/LazyArrays.jl",
+        "rel": "/software/repository/github/JuliaArrays/LazyArrays.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/21312771?v=4",
+        "description": "Lazy arrays and linear algebra in Julia",
         "topics": []
     },
     {
@@ -12656,6 +13656,14 @@
         "topics": []
     },
     {
+        "uid": "github/pybamm-team/PyBaMM",
+        "url": "https://github.com/pybamm-team/PyBaMM",
+        "rel": "/software/repository/github/pybamm-team/PyBaMM",
+        "avatar": "https://avatars.githubusercontent.com/u/48961907?v=4",
+        "description": "Fast and flexible physics-based battery models in Python",
+        "topics": []
+    },
+    {
         "uid": "github/SwissClinicalTrialOrganisation/secuTrialR",
         "url": "https://github.com/SwissClinicalTrialOrganisation/secuTrialR",
         "rel": "/software/repository/github/SwissClinicalTrialOrganisation/secuTrialR",
@@ -13037,6 +14045,14 @@
         "topics": []
     },
     {
+        "uid": "github/paulhjkelly/taskgraph-metaprogramming",
+        "url": "https://github.com/paulhjkelly/taskgraph-metaprogramming",
+        "rel": "/software/repository/github/paulhjkelly/taskgraph-metaprogramming",
+        "avatar": "https://avatars.githubusercontent.com/u/2254492?v=4",
+        "description": "The TaskGraph Meta-programming Library is a C++ package that supports run-time code generation - programs that generate code on the fly, then execute it.  And having built a piece of code, you can apply various transformations to it (such as loop interchange and tiling).",
+        "topics": []
+    },
+    {
         "uid": "github/BritishGeologicalSurvey/pyvolcans",
         "url": "https://github.com/BritishGeologicalSurvey/pyvolcans",
         "rel": "/software/repository/github/BritishGeologicalSurvey/pyvolcans",
@@ -13074,6 +14090,14 @@
         "rel": "/software/repository/github/c3s-magic/c3s-magic-wps",
         "avatar": "https://avatars1.githubusercontent.com/u/22588564?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/su2code/SU2",
+        "url": "https://github.com/su2code/SU2",
+        "rel": "/software/repository/github/su2code/SU2",
+        "avatar": "https://avatars.githubusercontent.com/u/4796189?v=4",
+        "description": "SU2: An Open-Source Suite for Multiphysics Simulation and Design",
         "topics": []
     },
     {
@@ -13467,6 +14491,38 @@
         "topics": []
     },
     {
+        "uid": "github/cog-imperial/entmoot",
+        "url": "https://github.com/cog-imperial/entmoot",
+        "rel": "/software/repository/github/cog-imperial/entmoot",
+        "avatar": "https://avatars.githubusercontent.com/u/30658188?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/cog-imperial/GPdoemd",
+        "url": "https://github.com/cog-imperial/GPdoemd",
+        "rel": "/software/repository/github/cog-imperial/GPdoemd",
+        "avatar": "https://avatars.githubusercontent.com/u/30658188?v=4",
+        "description": "Design of experiments for model discrimination using Gaussian process surrogate models",
+        "topics": []
+    },
+    {
+        "uid": "github/cog-imperial/suspect",
+        "url": "https://github.com/cog-imperial/suspect",
+        "rel": "/software/repository/github/cog-imperial/suspect",
+        "avatar": "https://avatars.githubusercontent.com/u/30658188?v=4",
+        "description": "Special Structure Detection for Pyomo",
+        "topics": []
+    },
+    {
+        "uid": "github/cog-imperial/galini",
+        "url": "https://github.com/cog-imperial/galini",
+        "rel": "/software/repository/github/cog-imperial/galini",
+        "avatar": "https://avatars.githubusercontent.com/u/30658188?v=4",
+        "description": "An extensible MINLP solver",
+        "topics": []
+    },
+    {
         "uid": "github/raredd/kmdata",
         "url": "https://github.com/raredd/kmdata",
         "rel": "/software/repository/github/raredd/kmdata",
@@ -13488,6 +14544,14 @@
         "rel": "/software/repository/github/lutteropp/NetRAX",
         "avatar": "https://avatars.githubusercontent.com/u/1059869?v=4",
         "description": "Phylogenetic Network Inference without ILS",
+        "topics": []
+    },
+    {
+        "uid": "github/devitocodes/pyrevolve",
+        "url": "https://github.com/devitocodes/pyrevolve",
+        "rel": "/software/repository/github/devitocodes/pyrevolve",
+        "avatar": "https://avatars.githubusercontent.com/u/10018551?v=4",
+        "description": "Python library to manage checkpointing for adjoints",
         "topics": []
     },
     {
