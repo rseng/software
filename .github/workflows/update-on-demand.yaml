@@ -1,4 +1,4 @@
-name: update-software
+name: on-demand-update-software
 
 on:
   workflow_dispatch:
