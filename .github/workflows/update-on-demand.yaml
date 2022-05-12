@@ -2,19 +2,19 @@ name: on-demand-update-software
 
 on:
   workflow_dispatch:
-  inputs:
-    scraper:
-      description: 'Scraper'     
-      required: true
-      type: choice
-      options:
-        - molssi
-        - joss
-        - imperial
-        - rsnl
-        - biotools
-        - hal 
-        - ropensci
+    inputs:
+      scraper:
+        description: 'Scraper'     
+        required: true
+        type: choice
+        options:
+          - molssi
+          - joss
+          - imperial
+          - rsnl
+          - biotools
+          - hal 
+          - ropensci
 
 jobs:
   UpdateSoftware:
