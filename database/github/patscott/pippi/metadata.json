@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/patscott/pippi",
+    "url": "https://github.com/patscott/pippi",
+    "data": {
+        "timestamp": "2022-05-12 03:43:55.676181",
+        "name": "pippi",
+        "url": "https://api.github.com/repos/patscott/pippi",
+        "full_name": "patscott/pippi",
+        "html_url": "https://github.com/patscott/pippi",
+        "private": false,
+        "description": "Pippi: parse it, plot it.  A program for operating on MCMC chains and related lists of samples from a function or distribution.",
+        "created_at": "2012-04-20T19:41:30Z",
+        "updated_at": "2020-07-19T19:45:38Z",
+        "clone_url": "https://github.com/patscott/pippi.git",
+        "homepage": null,
+        "size": 1210,
+        "stargazers_count": 11,
+        "watchers_count": 11,
+        "language": "Python",
+        "open_issues_count": 5,
+        "license": null,
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/patscott",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1249657?v=4",
+            "login": "patscott",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "contact": "Patt Scott <p.scott@imperial.ac.uk>"
+}

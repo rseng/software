@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/biomedia-mira/blast-ct",
+    "url": "https://github.com/biomedia-mira/blast-ct",
+    "data": {
+        "timestamp": "2022-05-12 03:43:24.944866",
+        "name": "blast-ct",
+        "url": "https://api.github.com/repos/biomedia-mira/blast-ct",
+        "full_name": "biomedia-mira/blast-ct",
+        "html_url": "https://github.com/biomedia-mira/blast-ct",
+        "private": false,
+        "description": "Brain Lesion Analysis and Segmentation Tool for Computed Tomography",
+        "created_at": "2020-03-10T09:47:00Z",
+        "updated_at": "2022-04-27T10:06:20Z",
+        "clone_url": "https://github.com/biomedia-mira/blast-ct.git",
+        "homepage": "",
+        "size": 90201,
+        "stargazers_count": 39,
+        "watchers_count": 39,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 9,
+        "owner": {
+            "html_url": "https://github.com/biomedia-mira",
+            "avatar_url": "https://avatars.githubusercontent.com/u/52955096?v=4",
+            "login": "biomedia-mira",
+            "type": "Organization"
+        },
+        "topics": []
+    },
+    "contact": "Miguel Monteiro <miguel.monteiro@imperial.ac.uk>"
+}
