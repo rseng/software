@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/Glogobyte/miRGalaxy",
+    "url": "https://github.com/Glogobyte/miRGalaxy",
+    "data": {
+        "timestamp": "2022-05-22 00:37:07.942889",
+        "name": "miRGalaxy",
+        "url": "https://api.github.com/repos/Glogobyte/miRGalaxy",
+        "full_name": "Glogobyte/miRGalaxy",
+        "html_url": "https://github.com/Glogobyte/miRGalaxy",
+        "private": false,
+        "description": "miRGalaxy: a Galaxy\u2011based framework for interactive analysis of microRNA and isomiR sequencing data",
+        "created_at": "2021-07-01T17:46:25Z",
+        "updated_at": "2021-10-25T15:17:39Z",
+        "clone_url": "https://github.com/Glogobyte/miRGalaxy.git",
+        "homepage": "",
+        "size": 15958,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Dockerfile",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/Glogobyte",
+            "avatar_url": "https://avatars.githubusercontent.com/u/48248704?v=4",
+            "login": "Glogobyte",
+            "type": "User"
+        },
+        "topics": [
+            "mirnas",
+            "isomirs",
+            "docker",
+            "galaxy"
+        ]
+    },
+    "doi": "10.3390/CANCERS13225663"
+}
