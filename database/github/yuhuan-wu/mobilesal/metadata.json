@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/yuhuan-wu/mobilesal",
+    "url": "https://github.com/yuhuan-wu/MobileSal",
+    "data": {
+        "timestamp": "2022-05-22 00:37:08.362279",
+        "name": "MobileSal",
+        "url": "https://api.github.com/repos/yuhuan-wu/MobileSal",
+        "full_name": "yuhuan-wu/MobileSal",
+        "html_url": "https://github.com/yuhuan-wu/MobileSal",
+        "private": false,
+        "description": "[IEEE TPAMI21] MobileSal: Extremely Efficient RGB-D Salient Object Detection [PyTorch & Jittor]",
+        "created_at": "2021-07-07T03:18:51Z",
+        "updated_at": "2022-04-25T23:14:42Z",
+        "clone_url": "https://github.com/yuhuan-wu/MobileSal.git",
+        "homepage": "",
+        "size": 84,
+        "stargazers_count": 41,
+        "watchers_count": 41,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/yuhuan-wu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10758259?v=4",
+            "login": "yuhuan-wu",
+            "type": "User"
+        },
+        "topics": []
+    },
+    "doi": "10.1109/TPAMI.2021.3134684"
+}
