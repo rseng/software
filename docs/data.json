@@ -2043,6 +2043,14 @@
         "topics": []
     },
     {
+        "uid": "github/pixixiaonaogou/MLSDR",
+        "url": "https://github.com/pixixiaonaogou/MLSDR",
+        "rel": "/software/repository/github/pixixiaonaogou/MLSDR",
+        "avatar": "https://avatars.githubusercontent.com/u/34858642?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/SMI/SmiServices",
         "url": "https://github.com/SMI/SmiServices",
         "rel": "/software/repository/github/SMI/SmiServices",
@@ -4506,6 +4514,14 @@
         "rel": "/software/repository/github/jupyter/notebook",
         "avatar": "https://avatars1.githubusercontent.com/u/7388996?v=4",
         "description": "Jupyter Interactive Notebook",
+        "topics": []
+    },
+    {
+        "uid": "github/xiaotiand/FunFor",
+        "url": "https://github.com/xiaotiand/FunFor",
+        "rel": "/software/repository/github/xiaotiand/FunFor",
+        "avatar": "https://avatars.githubusercontent.com/u/87001934?v=4",
+        "description": "FunFor R package",
         "topics": []
     },
     {
@@ -7661,6 +7677,14 @@
         "topics": []
     },
     {
+        "uid": "github/erling6232/imagedata",
+        "url": "https://github.com/erling6232/imagedata",
+        "rel": "/software/repository/github/erling6232/imagedata",
+        "avatar": "https://avatars.githubusercontent.com/u/26794739?v=4",
+        "description": "Read/write medical image data",
+        "topics": []
+    },
+    {
         "uid": "github/jmschrei/pomegranate",
         "url": "https://github.com/jmschrei/pomegranate",
         "rel": "/software/repository/github/jmschrei/pomegranate",
@@ -7834,6 +7858,14 @@
         "topics": []
     },
     {
+        "uid": "github/CBIIT-CGBB/gcMECM",
+        "url": "https://github.com/CBIIT-CGBB/gcMECM",
+        "rel": "/software/repository/github/CBIIT-CGBB/gcMECM",
+        "avatar": "https://avatars.githubusercontent.com/u/11201085?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/PacificBiosciences/pbbioconda",
         "url": "https://github.com/PacificBiosciences/pbbioconda",
         "rel": "/software/repository/github/PacificBiosciences/pbbioconda",
@@ -7927,6 +7959,14 @@
         "rel": "/software/repository/github/ComparativeGenomicsToolkit/cactus",
         "avatar": "https://avatars.githubusercontent.com/u/22846829?v=4",
         "description": "Official home of genome aligner based upon notion of Cactus graphs",
+        "topics": []
+    },
+    {
+        "uid": "github/warrickball/tomso",
+        "url": "https://github.com/warrickball/tomso",
+        "rel": "/software/repository/github/warrickball/tomso",
+        "avatar": "https://avatars.githubusercontent.com/u/20858744?v=4",
+        "description": "TOMSO (Tools for Models of Stars and their Oscillations) is a set of Python modules for loading and saving input and output files for and from stellar evolution and oscillation codes.",
         "topics": []
     },
     {
@@ -9223,6 +9263,14 @@
         "topics": []
     },
     {
+        "uid": "github/mattpitkin/lintegrate",
+        "url": "https://github.com/mattpitkin/lintegrate",
+        "rel": "/software/repository/github/mattpitkin/lintegrate",
+        "avatar": "https://avatars.githubusercontent.com/u/1421092?v=4",
+        "description": "A numerical integration routine that works for the natural logarithm of functions ",
+        "topics": []
+    },
+    {
         "uid": "github/hongli-ma/RNANetMotif",
         "url": "https://github.com/hongli-ma/RNANetMotif",
         "rel": "/software/repository/github/hongli-ma/RNANetMotif",
@@ -9396,6 +9444,14 @@
         "rel": "/software/repository/github/TinkerTools/tinker9",
         "avatar": "https://avatars.githubusercontent.com/u/39835945?v=4",
         "description": "Tinker9: Next Generation of Tinker with GPU Support",
+        "topics": []
+    },
+    {
+        "uid": "github/EbmeyerSt/GEnView",
+        "url": "https://github.com/EbmeyerSt/GEnView",
+        "rel": "/software/repository/github/EbmeyerSt/GEnView",
+        "avatar": "https://avatars.githubusercontent.com/u/11669686?v=4",
+        "description": "GEnView - A phylogeny based comparative genomics software to analyze the genetic environment of genes",
         "topics": []
     },
     {
@@ -10127,6 +10183,14 @@
         "rel": "/software/repository/github/r-lib/credentials",
         "avatar": "https://avatars.githubusercontent.com/u/22618716?v=4",
         "description": "Tools for Managing SSH and Git Credentials",
+        "topics": []
+    },
+    {
+        "uid": "github/AbbasAlameer/geoCancerPrognosticDatasetsRetriever",
+        "url": "https://github.com/AbbasAlameer/geoCancerPrognosticDatasetsRetriever",
+        "rel": "/software/repository/github/AbbasAlameer/geoCancerPrognosticDatasetsRetriever",
+        "avatar": "https://avatars.githubusercontent.com/u/85877376?v=4",
+        "description": "GEO Cancer Prognostic Datasets Retriever is a bioinformatics tool for cancer prognostic dataset retrieval from the GEO website.",
         "topics": []
     },
     {
@@ -11131,6 +11195,14 @@
         "topics": []
     },
     {
+        "uid": "github/byuflowlab/GXBeam.jl",
+        "url": "https://github.com/byuflowlab/GXBeam.jl",
+        "rel": "/software/repository/github/byuflowlab/GXBeam.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/10734941?v=4",
+        "description": "Pure Julia Implementation of Geometrically Exact Beam Theory",
+        "topics": []
+    },
+    {
         "uid": "github/STEllAR-GROUP/hpx",
         "url": "https://github.com/STEllAR-GROUP/hpx",
         "rel": "/software/repository/github/STEllAR-GROUP/hpx",
@@ -11606,6 +11678,14 @@
         "topics": []
     },
     {
+        "uid": "github/mad-lab-fau/imucal",
+        "url": "https://github.com/mad-lab-fau/imucal",
+        "rel": "/software/repository/github/mad-lab-fau/imucal",
+        "avatar": "https://avatars.githubusercontent.com/u/48119197?v=4",
+        "description": "A Python library to calibrate 6 DOF IMUs",
+        "topics": []
+    },
+    {
         "uid": "github/nextgenusfs/funannotate",
         "url": "https://github.com/nextgenusfs/funannotate",
         "rel": "/software/repository/github/nextgenusfs/funannotate",
@@ -11691,6 +11771,14 @@
         "rel": "/software/repository/github/joglekara/VlaPy",
         "avatar": "https://avatars1.githubusercontent.com/u/13438206?v=4",
         "description": "1D-1V Vlasov-Poisson(-Fokker-Planck) Plasma Physics Simulation Tool",
+        "topics": []
+    },
+    {
+        "uid": "github/baxmittens/VTUFileHandler",
+        "url": "https://github.com/baxmittens/VTUFileHandler.jl",
+        "rel": "/software/repository/github/baxmittens/VTUFileHandler",
+        "avatar": "https://avatars.githubusercontent.com/u/100423479?v=4",
+        "description": "A VTU library in the Julia language that implements an algebra for basic mathematical operations on VTU data.",
         "topics": []
     },
     {
@@ -12119,6 +12207,14 @@
         "rel": "/software/repository/github/meenakshi-kushwaha/mmaqshiny",
         "avatar": "https://avatars1.githubusercontent.com/u/52627451?v=4",
         "description": "R-Shiny package to explore Air-Pollution Mobile Monitoring data ",
+        "topics": []
+    },
+    {
+        "uid": "github/paulmorio/gincco",
+        "url": "https://github.com/paulmorio/gincco",
+        "rel": "/software/repository/github/paulmorio/gincco",
+        "avatar": "https://avatars.githubusercontent.com/u/3254542?v=4",
+        "description": "Source code for GINCCo Paper",
         "topics": []
     },
     {
@@ -12976,6 +13072,14 @@
         "rel": "/software/repository/github/bethgelab/foolbox",
         "avatar": "https://avatars2.githubusercontent.com/u/7590370?v=4",
         "description": "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX",
+        "topics": []
+    },
+    {
+        "uid": "github/davidechicco/geneExpressionFromGEO",
+        "url": "https://github.com/davidechicco/geneExpressionFromGEO",
+        "rel": "/software/repository/github/davidechicco/geneExpressionFromGEO",
+        "avatar": "https://avatars.githubusercontent.com/u/12862995?v=4",
+        "description": "geneExpressionFromGEO",
         "topics": []
     },
     {
@@ -14217,6 +14321,14 @@
             "code-generation",
             "fenics"
         ]
+    },
+    {
+        "uid": "github/FEniCS/basix",
+        "url": "https://github.com/FEniCS/basix",
+        "rel": "/software/repository/github/FEniCS/basix",
+        "avatar": "https://avatars.githubusercontent.com/u/3868708?v=4",
+        "description": "FEniCS finite element basis evaluation library",
+        "topics": []
     },
     {
         "uid": "github/Alcampopiano/hypothesize",
