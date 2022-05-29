@@ -26,7 +26,8 @@ jobs:
           rse scrape molssi
           rse scrape rsnl
           rse scrape biotools
-          rse scrape hal
+          # disabled temporarily - certs need update
+          #rse scrape hal
           rse scrape ropensci
           rse export repos.txt --force
 
