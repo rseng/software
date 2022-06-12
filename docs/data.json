@@ -2774,6 +2774,14 @@
         "topics": []
     },
     {
+        "uid": "github/bengeof/QPoweredCompound2DeNovoDrugPropMax",
+        "url": "https://github.com/bengeof/QPoweredCompound2DeNovoDrugPropMax",
+        "rel": "/software/repository/github/bengeof/QPoweredCompound2DeNovoDrugPropMax",
+        "avatar": "https://avatars.githubusercontent.com/u/65452898?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/siara-cc/Unishox2",
         "url": "https://github.com/siara-cc/Unishox2",
         "rel": "/software/repository/github/siara-cc/Unishox2",
@@ -3457,6 +3465,14 @@
         "rel": "/software/repository/github/biocore/scikit-bio",
         "avatar": "https://avatars3.githubusercontent.com/u/6241857?v=4",
         "description": "scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.",
+        "topics": []
+    },
+    {
+        "uid": "github/mmollina/viewpoly",
+        "url": "https://github.com/mmollina/viewpoly",
+        "rel": "/software/repository/github/mmollina/viewpoly",
+        "avatar": "https://avatars.githubusercontent.com/u/318990?v=4",
+        "description": "R package to visualize genetic maps and QTL analysis.",
         "topics": []
     },
     {
@@ -4979,6 +4995,14 @@
         "topics": []
     },
     {
+        "uid": "github/yjx1217/RecombineX",
+        "url": "https://github.com/yjx1217/RecombineX",
+        "rel": "/software/repository/github/yjx1217/RecombineX",
+        "avatar": "https://avatars.githubusercontent.com/u/701942?v=4",
+        "description": "A computational framework for tetrad-based genotyping & recombination landscape analysis",
+        "topics": []
+    },
+    {
         "uid": "github/ShixiangWang/sigminer",
         "url": "https://github.com/ShixiangWang/sigminer",
         "rel": "/software/repository/github/ShixiangWang/sigminer",
@@ -5720,6 +5744,14 @@
         "rel": "/software/repository/github/bxlab/metaWRAP",
         "avatar": "https://avatars.githubusercontent.com/u/2084107?v=4",
         "description": "MetaWRAP - a flexible pipeline for genome-resolved metagenomic data analysis",
+        "topics": []
+    },
+    {
+        "uid": "github/YonghuiDong/RawHummus",
+        "url": "https://github.com/YonghuiDong/RawHummus",
+        "rel": "/software/repository/github/YonghuiDong/RawHummus",
+        "avatar": "https://avatars.githubusercontent.com/u/22663189?v=4",
+        "description": "QC Check Tool for Metabolomics",
         "topics": []
     },
     {
@@ -9491,6 +9523,14 @@
         "topics": []
     },
     {
+        "uid": "github/MASILab/pyPheWAS",
+        "url": "https://github.com/MASILab/pyPheWAS",
+        "rel": "/software/repository/github/MASILab/pyPheWAS",
+        "avatar": "https://avatars.githubusercontent.com/u/34776698?v=4",
+        "description": "MASI Lab Implementation of PheWAS in Python",
+        "topics": []
+    },
+    {
         "uid": "github/dellytools/delly",
         "url": "https://github.com/dellytools/delly",
         "rel": "/software/repository/github/dellytools/delly",
@@ -12308,6 +12348,14 @@
         "rel": "/software/repository/github/JunTaoLuo/mctreesearch4j",
         "avatar": "https://avatars.githubusercontent.com/u/92262712?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/lanl/PyBNF",
+        "url": "https://github.com/lanl/PyBNF",
+        "rel": "/software/repository/github/lanl/PyBNF",
+        "avatar": "https://avatars.githubusercontent.com/u/585305?v=4",
+        "description": "An application for parameterization of biological models available in SBML and BNGL formats. Features include parallelization, metaheuristic optimization algorithms, and an adaptive Markov chain Monte Carlo (MCMC) sampling algorithm.",
         "topics": []
     },
     {

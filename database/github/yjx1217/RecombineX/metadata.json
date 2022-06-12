@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/yjx1217/RecombineX",
+    "url": "https://github.com/yjx1217/RecombineX",
+    "data": {
+        "timestamp": "2022-06-12 00:37:05.266928",
+        "name": "RecombineX",
+        "url": "https://api.github.com/repos/yjx1217/RecombineX",
+        "full_name": "yjx1217/RecombineX",
+        "html_url": "https://github.com/yjx1217/RecombineX",
+        "private": false,
+        "description": "A computational framework for tetrad-based genotyping & recombination landscape analysis",
+        "created_at": "2018-10-16T20:37:39Z",
+        "updated_at": "2022-06-04T08:28:13Z",
+        "clone_url": "https://github.com/yjx1217/RecombineX.git",
+        "homepage": "",
+        "size": 39631,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Perl",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/yjx1217",
+            "avatar_url": "https://avatars.githubusercontent.com/u/701942?v=4",
+            "login": "yjx1217",
+            "type": "User"
+        },
+        "topics": [
+            "tetrad",
+            "recombination",
+            "meiosis",
+            "spore"
+        ]
+    },
+    "doi": "10.1371/journal.pgen.1010047"
+}
