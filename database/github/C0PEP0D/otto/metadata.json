@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/C0PEP0D/otto",
+    "url": "https://github.com/C0PEP0D/otto",
+    "data": {
+        "timestamp": "2022-06-19 00:36:55.000316",
+        "name": "otto",
+        "url": "https://api.github.com/repos/C0PEP0D/otto",
+        "full_name": "C0PEP0D/otto",
+        "html_url": "https://github.com/C0PEP0D/otto",
+        "private": false,
+        "description": "a Python package to simulate, solve and visualize the source-tracking POMDP",
+        "created_at": "2022-02-10T21:16:18Z",
+        "updated_at": "2022-03-05T21:07:35Z",
+        "clone_url": "https://github.com/C0PEP0D/otto.git",
+        "homepage": "",
+        "size": 114642,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/C0PEP0D",
+            "avatar_url": "https://avatars.githubusercontent.com/u/83273482?v=4",
+            "login": "C0PEP0D",
+            "type": "Organization"
+        },
+        "topics": [
+            "pomdp",
+            "reinforcement-learning",
+            "olfactory-search",
+            "source-tracking"
+        ]
+    },
+    "doi": "https://doi.org/10.5281/zenodo.6651884"
+}
