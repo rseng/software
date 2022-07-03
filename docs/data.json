@@ -64,6 +64,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/thartwig/asloth",
+        "url": "https://gitlab.com/thartwig/asloth",
+        "rel": "/software/repository/gitlab/thartwig/asloth",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/35049365/ASLOTH_logo_official.jpg",
+        "description": "Semi-analytical model A-SLOTH (Ancient Stars and Local Observables by Tracing Halos)",
+        "topics": []
+    },
+    {
         "uid": "gitlab/gims-developers/gims",
         "url": "https://gitlab.com/gims-developers/gims",
         "rel": "/software/repository/gitlab/gims-developers/gims",
@@ -2545,6 +2553,14 @@
         ]
     },
     {
+        "uid": "github/yuliadm/mixComp",
+        "url": "https://github.com/yuliadm/mixComp",
+        "rel": "/software/repository/github/yuliadm/mixComp",
+        "avatar": "https://avatars.githubusercontent.com/u/103601311?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/biomedia-mira/deepscm",
         "url": "https://github.com/biomedia-mira/deepscm",
         "rel": "/software/repository/github/biomedia-mira/deepscm",
@@ -4108,6 +4124,14 @@
         "topics": []
     },
     {
+        "uid": "github/jmhuie/Slicer-SegmentGeometry",
+        "url": "https://github.com/jmhuie/Slicer-SegmentGeometry",
+        "rel": "/software/repository/github/jmhuie/Slicer-SegmentGeometry",
+        "avatar": "https://avatars.githubusercontent.com/u/52302862?v=4",
+        "description": "Extension to calculate second moment of area and other cross-sectional properties in 3D Slicer",
+        "topics": []
+    },
+    {
         "uid": "github/amrex-astro/Castro",
         "url": "https://github.com/AMReX-Astro/Castro",
         "rel": "/software/repository/github/amrex-astro/Castro",
@@ -5355,6 +5379,14 @@
         "topics": []
     },
     {
+        "uid": "github/alesantuz/musclesyneRgies",
+        "url": "https://github.com/alesantuz/musclesyneRgies",
+        "rel": "/software/repository/github/alesantuz/musclesyneRgies",
+        "avatar": "https://avatars.githubusercontent.com/u/7524938?v=4",
+        "description": "R package to extract muscle synergies from electromyogram",
+        "topics": []
+    },
+    {
         "uid": "github/NCAS-CMS/cfdm",
         "url": "https://github.com/NCAS-CMS/cfdm",
         "rel": "/software/repository/github/NCAS-CMS/cfdm",
@@ -6535,6 +6567,14 @@
         "topics": []
     },
     {
+        "uid": "github/SolavLab/DuoDIC",
+        "url": "https://github.com/SolavLab/DuoDIC",
+        "rel": "/software/repository/github/SolavLab/DuoDIC",
+        "avatar": "https://avatars.githubusercontent.com/u/95631074?v=4",
+        "description": "Stereo 3D Digital Image Correlation (3D-DIC) MATLAB toolbox",
+        "topics": []
+    },
+    {
         "uid": "github/mithun218/GiNaCDE",
         "url": "https://github.com/mithun218/GiNaCDE",
         "rel": "/software/repository/github/mithun218/GiNaCDE",
@@ -7311,6 +7351,14 @@
         "rel": "/software/repository/github/ropensci/rbhl",
         "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
         "description": "R interface to the Biodiversity Heritage Library (BHL) API",
+        "topics": []
+    },
+    {
+        "uid": "github/ropensci/tidyqpcr",
+        "url": "https://github.com/ropensci/tidyqpcr",
+        "rel": "/software/repository/github/ropensci/tidyqpcr",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "quantitative PCR analysis in the tidyverse",
         "topics": []
     },
     {
@@ -10608,6 +10656,14 @@
         ]
     },
     {
+        "uid": "github/longfei8533/SDC",
+        "url": "https://github.com/longfei8533/SDC",
+        "rel": "/software/repository/github/longfei8533/SDC",
+        "avatar": "https://avatars.githubusercontent.com/u/37660840?v=4",
+        "description": "Sex Differences in Cancer",
+        "topics": []
+    },
+    {
         "uid": "github/hsci-r/finnish-media-scrapers",
         "url": "https://github.com/hsci-r/finnish-media-scrapers",
         "rel": "/software/repository/github/hsci-r/finnish-media-scrapers",
@@ -11475,6 +11531,14 @@
         "rel": "/software/repository/github/SofieVG/FlowSOM",
         "avatar": "https://avatars.githubusercontent.com/u/1912811?v=4",
         "description": "Using self-organizing maps for visualization and interpretation of cytometry data",
+        "topics": []
+    },
+    {
+        "uid": "github/connectomicslab/connectomemapper3",
+        "url": "https://github.com/connectomicslab/connectomemapper3",
+        "rel": "/software/repository/github/connectomicslab/connectomemapper3",
+        "avatar": "https://avatars.githubusercontent.com/u/49934994?v=4",
+        "description": "Connectome Mapper 3 is a BIDS App that implements full anatomical, diffusion, resting/state functional MRI, and recently EEG processing pipelines, from raw T1 / DWI / BOLD data, and preprocessed EEG to multi-resolution brain parcellation with corresponding connection matrices.",
         "topics": []
     },
     {
@@ -15128,6 +15192,14 @@
         "url": "https://github.com/smith-chem-wisc/ProteaseGuru",
         "rel": "/software/repository/github/smith-chem-wisc/ProteaseGuru",
         "avatar": "https://avatars.githubusercontent.com/u/15989786?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/IanevskiAleksandr/sc-type",
+        "url": "https://github.com/IanevskiAleksandr/sc-type",
+        "rel": "/software/repository/github/IanevskiAleksandr/sc-type",
+        "avatar": "https://avatars.githubusercontent.com/u/22654591?v=4",
         "description": null,
         "topics": []
     },
