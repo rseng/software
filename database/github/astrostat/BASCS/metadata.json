@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/astrostat/BASCS",
+    "url": "https://github.com/astrostat/BASCS",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2015ApJ...808..137J",
+            "https://ui.adsabs.harvard.edu/abs/2016ascl.soft01017J/abstract"
+        ],
+        "title": "BASCS: Bayesian Separation of Close Sources",
+        "url": "https://github.com/astrostat/BASCS",
+        "name": "BASCS",
+        "full_name": "astrostat/BASCS",
+        "html_url": "https://github.com/astrostat/BASCS",
+        "description": "Bayesian Separation of Close Sources",
+        "created_at": "2015-05-13T20:33:15Z",
+        "updated_at": "2021-04-15T05:01:19Z",
+        "clone_url": "https://github.com/astrostat/BASCS.git",
+        "size": 272,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "R",
+        "subscribers_count": 10,
+        "owner": {
+            "html_url": "https://github.com/astrostat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7632236?v=4",
+            "login": "astrostat",
+            "type": "Organization"
+        },
+        "timestamp": "2022-07-17 17:22:13.912215",
+        "avatar": "https://avatars.githubusercontent.com/u/7632236?v=4"
+    }
+}

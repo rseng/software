@@ -15,6 +15,7 @@ on:
           - biotools
           - hal 
           - ropensci
+          - ascl
 
 jobs:
   UpdateSoftware:
