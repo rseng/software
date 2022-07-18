@@ -1,0 +1,30 @@
+{
+    "parser": "github",
+    "uid": "github/mifumagalli/cluster-cloc",
+    "url": "https://github.com/mifumagalli/cluster-cloc",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2014MNRAS.438.2355D",
+            "https://ui.adsabs.harvard.edu/abs/2016ascl.soft02019D/abstract"
+        ],
+        "title": "CLOC: Cluster Luminosity Order-Statistic Code",
+        "url": "https://github.com/mifumagalli/cluster-cloc",
+        "name": "cluster-cloc",
+        "full_name": "mifumagalli/cluster-cloc",
+        "html_url": "https://github.com/mifumagalli/cluster-cloc",
+        "description": "Automatically exported from code.google.com/p/cluster-cloc",
+        "created_at": "2015-12-02T08:36:52Z",
+        "updated_at": "2015-12-02T08:38:25Z",
+        "clone_url": "https://github.com/mifumagalli/cluster-cloc.git",
+        "size": 3768,
+        "language": "Python",
+        "owner": {
+            "html_url": "https://github.com/mifumagalli",
+            "avatar_url": "https://avatars.githubusercontent.com/u/12461695?v=4",
+            "login": "mifumagalli",
+            "type": "User"
+        },
+        "timestamp": "2022-07-17 17:22:07.283109",
+        "avatar": "https://avatars.githubusercontent.com/u/12461695?v=4"
+    }
+}

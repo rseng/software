@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/emhuff/Balrog",
+    "url": "https://github.com/emhuff/Balrog",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2015MNRAS.449.2219M",
+            "https://ui.adsabs.harvard.edu/abs/2021ascl.soft07009S/abstract"
+        ],
+        "title": "Balrog: Astronomical image simulation",
+        "url": "https://github.com/emhuff/Balrog",
+        "name": "Balrog",
+        "full_name": "emhuff/Balrog",
+        "html_url": "https://github.com/emhuff/Balrog",
+        "description": "DES image simulation software: We dug too deeply and too greedily",
+        "created_at": "2013-04-10T23:51:56Z",
+        "updated_at": "2021-04-12T20:04:36Z",
+        "clone_url": "https://github.com/emhuff/Balrog.git",
+        "size": 89023,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "Python",
+        "open_issues_count": 10,
+        "subscribers_count": 13,
+        "owner": {
+            "html_url": "https://github.com/emhuff",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2623781?v=4",
+            "login": "emhuff",
+            "type": "User"
+        },
+        "timestamp": "2022-07-17 17:11:31.483479",
+        "avatar": "https://avatars.githubusercontent.com/u/2623781?v=4"
+    }
+}
