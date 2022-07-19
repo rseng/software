@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/rclone",
+    "url": "https://rclone.org/",
+    "data": {
+        "title": "rclone",
+        "url": "https://rclone.org/",
+        "credit": [],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "a command line program to manage files on cloud storage.",
+        "timestamp": "2022-07-18 17:46:35.232728"
+    }
+}

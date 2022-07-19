@@ -1,0 +1,19 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/gffcompare",
+    "url": "https://ccb.jhu.edu/software/stringtie/gffcompare.shtml",
+    "data": {
+        "title": "gffcompare",
+        "url": "https://ccb.jhu.edu/software/stringtie/gffcompare.shtml",
+        "credit": [
+            "Geo Pertea"
+        ],
+        "tags": [
+            "genomics",
+            "high-throughput-sequencing",
+            "rna-seq-analysis"
+        ],
+        "description": "compares and evaluates the accuracy of RNA-Seq transcript assemblers (Cufflinks, Stringtie), collapses (merges) duplicate transcripts from multiple GTF/GFF3 files (e.g. resulted from assembly of different samples), and classifies transcripts from one or multiple GTF/GFF3 files as they relate to reference transcripts provided in a annotation file (also in GTF/GFF3 format).",
+        "timestamp": "2022-07-18 17:45:07.056722"
+    }
+}

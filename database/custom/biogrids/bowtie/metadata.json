@@ -1,0 +1,23 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/bowtie",
+    "url": "http://bowtie-bio.sourceforge.net/index.shtml",
+    "data": {
+        "title": "Bowtie",
+        "url": "http://bowtie-bio.sourceforge.net/index.shtml",
+        "credit": [
+            "Ben Langmead",
+            "Cole Trapnell"
+        ],
+        "tags": [
+            "chip-sequencing",
+            "dna-sequencing",
+            "high-throughput-sequencing",
+            "read-alignment",
+            "rna-sequencing",
+            "wgs-analysis"
+        ],
+        "description": "an ultrafast, memory-efficient short read aligner for short DNA sequences (reads) from next-gen sequencers.",
+        "timestamp": "2022-07-18 17:43:32.884842"
+    }
+}

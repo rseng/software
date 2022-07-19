@@ -1,0 +1,1 @@
+{"parser": "custom", "uid": "custom/biogrids/multiqc", "url": "https://multiqc.info/", "data": {"title": "MultiQC", "url": "https://multiqc.info/", "credit": [], "tags": ["high-throughput-sequencing", "utilities"], "description": "aggregates results from bioinformatics analyses across many samples into a single report.", "timestamp": "2022-07-18 17:45:55.785047"}}

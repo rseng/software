@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/emacs",
+    "url": "https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html",
+    "data": {
+        "title": "Emacs",
+        "url": "https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html",
+        "credit": [],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "an extensible, customizable, free/libre text editor.",
+        "timestamp": "2022-07-18 17:43:40.979900"
+    }
+}

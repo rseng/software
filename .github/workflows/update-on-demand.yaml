@@ -16,6 +16,7 @@ on:
           - hal 
           - ropensci
           - ascl
+          - biogrids
 
 jobs:
   UpdateSoftware:

@@ -1,0 +1,18 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/bioconductor",
+    "url": "http://bioconductor.org/",
+    "data": {
+        "title": "Bioconductor",
+        "url": "http://bioconductor.org/",
+        "credit": [],
+        "tags": [
+            "gwas-analysis",
+            "high-throughput-sequencing",
+            "libraries/frameworks",
+            "other"
+        ],
+        "description": "tools to analyze and comprehend high-throughput genomic data.",
+        "timestamp": "2022-07-18 17:43:32.289879"
+    }
+}

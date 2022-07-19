@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/dosageconvertor",
+    "url": "https://genome.sph.umich.edu/wiki/DosageConvertor",
+    "data": {
+        "title": "DosageConvertor",
+        "url": "https://genome.sph.umich.edu/wiki/DosageConvertor",
+        "credit": [],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "DosageConvertor is a C++ tool to convert dosage files (in VCF format) from Minimac3/4 to other formats such as MaCH or PLINK.",
+        "timestamp": "2022-07-18 17:43:39.341052"
+    }
+}

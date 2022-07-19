@@ -3,13 +3,17 @@
     "uid": "github/tobiasrausch/alfred",
     "url": "https://api.github.com/repos/tobiasrausch/alfred",
     "data": {
-        "timestamp": "2020-08-02 16:35:30.864788",
-        "name": "alfred",
+        "title": "Alfred",
         "url": "https://api.github.com/repos/tobiasrausch/alfred",
+        "credit": [],
+        "tags": [
+            "high-throughput-sequencing",
+            "read-quality-control"
+        ],
+        "description": "BAM Statistics, Feature Counting and Annotation",
+        "name": "alfred",
         "full_name": "tobiasrausch/alfred",
         "html_url": "https://github.com/tobiasrausch/alfred",
-        "private": false,
-        "description": "BAM Statistics, Feature Counting and Annotation",
         "created_at": "2016-02-25T08:32:15Z",
         "updated_at": "2020-07-30T09:18:17Z",
         "clone_url": "https://github.com/tobiasrausch/alfred.git",
@@ -32,7 +36,19 @@
             "avatar_url": "https://avatars1.githubusercontent.com/u/5946458?v=4",
             "login": "tobiasrausch",
             "type": "User"
-        }
+        },
+        "topics": [
+            "insert-size",
+            "coverage-distribution",
+            "sequencing",
+            "quality",
+            "read-counts",
+            "quality-control",
+            "alfred",
+            "alignment-metrics",
+            "feature-counting"
+        ],
+        "timestamp": "2020-08-02 16:35:30.864788"
     },
     "doi": "10.1093/bioinformatics/bty1007",
     "name": "alfred",

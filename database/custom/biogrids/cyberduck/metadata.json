@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/cyberduck",
+    "url": "https://cyberduck.io/",
+    "data": {
+        "title": "Cyberduck",
+        "url": "https://cyberduck.io/",
+        "credit": [],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
+        "timestamp": "2022-07-18 17:43:37.714499"
+    }
+}

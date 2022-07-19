@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/cellranger\u2011arc",
+    "url": "https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/overview/welcome",
+    "data": {
+        "title": "cellranger\u2011arc",
+        "url": "https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/overview/welcome",
+        "credit": [],
+        "tags": [
+            "scrna-seq-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "The set of analysis pipelines in this suite perform sample demultiplexing, barcode processing, identification of open chromatin regions, and simultaneous counting of transcripts and peak accessibility in single cells.",
+        "timestamp": "2022-07-18 17:43:34.713754"
+    }
+}

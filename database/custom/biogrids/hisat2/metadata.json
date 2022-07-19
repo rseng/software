@@ -1,0 +1,20 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/hisat2",
+    "url": "http://ccb.jhu.edu/software/hisat2/index.shtml",
+    "data": {
+        "title": "HISAT2",
+        "url": "http://ccb.jhu.edu/software/hisat2/index.shtml",
+        "credit": [
+            "Daehwan Kim",
+            "Steven Salzberg"
+        ],
+        "tags": [
+            "high-throughput-sequencing",
+            "rna-sequencing",
+            "spliced-read-alignment"
+        ],
+        "description": "(Hierarchical Indexing for Spliced Alignment of Transcripts) a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) against the general human population (as well as against a single reference genome).  HISAT2 is a successor to both HISAT and TopHat2.",
+        "timestamp": "2022-07-18 17:45:22.519496"
+    }
+}

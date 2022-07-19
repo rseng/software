@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/kneaddata",
+    "url": "https://huttenhower.sph.harvard.edu/kneaddata",
+    "data": {
+        "title": "KneadData",
+        "url": "https://huttenhower.sph.harvard.edu/kneaddata",
+        "credit": [],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "is a tool designed to perform quality control on metagenomic sequencing data, especially data from microbiome experiments.",
+        "timestamp": "2022-07-18 17:45:32.381362"
+    }
+}

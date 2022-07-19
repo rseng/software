@@ -1,0 +1,21 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/fiji",
+    "url": "http://fiji.sc/",
+    "data": {
+        "title": "Fiji",
+        "url": "http://fiji.sc/",
+        "credit": [
+            "Mark Hiner",
+            "Curtis Rueden",
+            "Kevin Eliceiri",
+            "Pavel Tomancak"
+        ],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "an image processing package. It can be described as a distribution of ImageJ (and ImageJ2) together with Java, Java 3D and a lot of plugins organized into a coherent menu structure. Fiji compares to ImageJ as Ubuntu compares to Linux.",
+        "timestamp": "2022-07-18 17:44:59.174722"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/crkit",
+    "url": "http://crl.med.harvard.edu/software/",
+    "data": {
+        "title": "CRKIT",
+        "url": "http://crl.med.harvard.edu/software/",
+        "credit": [],
+        "tags": [
+            "image-analysis-libraries",
+            "visualization"
+        ],
+        "description": "(Computational Radiology Kit) a collection of algorithms and image processing tools developed by the Computational Radiology Laboratory team.",
+        "timestamp": "2022-07-18 17:43:36.701673"
+    }
+}

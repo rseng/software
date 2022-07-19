@@ -1,0 +1,20 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/r",
+    "url": "http://www.r-project.org/",
+    "data": {
+        "title": "R",
+        "url": "http://www.r-project.org/",
+        "credit": [
+            "Kurt Hornik",
+            "Martin M\u00e4chler",
+            "Ross Ihaka"
+        ],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "a free software environment for statistical computing and graphics.",
+        "timestamp": "2022-07-18 17:46:32.754308"
+    }
+}

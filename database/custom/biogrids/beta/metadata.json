@@ -1,0 +1,21 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/beta",
+    "url": "http://cistrome.org/BETA/index.html",
+    "data": {
+        "title": "BETA",
+        "url": "http://cistrome.org/BETA/index.html",
+        "credit": [
+            "Clifford A Meyer",
+            "X Shirley Liu",
+            "Yong Zhang"
+        ],
+        "tags": [
+            "chip-sequencing",
+            "high-throughput-sequencing",
+            "target-gene-detection"
+        ],
+        "description": "(Binding and Expression Target Analysis) a software package that integrates ChIP-seq of transcription factors or chromatin regulators with differential gene expression data to infer direct target genes.",
+        "timestamp": "2022-07-18 17:43:31.209096"
+    }
+}

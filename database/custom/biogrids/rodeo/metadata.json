@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/rodeo",
+    "url": "http://ripp.rodeo/index.html",
+    "data": {
+        "title": "RODEO",
+        "url": "http://ripp.rodeo/index.html",
+        "credit": [],
+        "tags": [
+            "genomics",
+            "genomics"
+        ],
+        "description": "(Rapid ORF Description & Evaluation Online) evaluates one or many genes, characterizing a gene neighborhood based on the presence of profile hidden Markov models (pHMMs).",
+        "timestamp": "2022-07-18 17:46:37.252803"
+    }
+}

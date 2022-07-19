@@ -3,13 +3,13 @@
     "uid": "github/horovod/horovod",
     "url": "https://github.com/horovod/horovod",
     "data": {
-        "timestamp": "2021-06-27 00:22:32.156309",
-        "name": "horovod",
+        "title": "Horovod",
         "url": "https://api.github.com/repos/horovod/horovod",
+        "credit": [],
+        "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+        "name": "horovod",
         "full_name": "horovod/horovod",
         "html_url": "https://github.com/horovod/horovod",
-        "private": false,
-        "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
         "created_at": "2017-08-09T19:39:59Z",
         "updated_at": "2021-06-26T22:07:16Z",
         "clone_url": "https://github.com/horovod/horovod.git",
@@ -47,6 +47,7 @@
             "mxnet",
             "spark",
             "ray"
-        ]
+        ],
+        "timestamp": "2021-06-27 00:22:32.156309"
     }
 }

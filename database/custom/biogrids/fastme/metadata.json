@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/fastme",
+    "url": "http://www.atgc-montpellier.fr/fastme/binaries.php",
+    "data": {
+        "title": "FastME",
+        "url": "http://www.atgc-montpellier.fr/fastme/binaries.php",
+        "credit": [],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "FastME provides distance algorithms to infer phylogenies.",
+        "timestamp": "2022-07-18 17:44:54.868361"
+    }
+}

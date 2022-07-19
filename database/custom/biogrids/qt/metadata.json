@@ -1,0 +1,17 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/qt",
+    "url": "https://www.qt.io/",
+    "data": {
+        "title": "Qt",
+        "url": "https://www.qt.io/",
+        "credit": [
+            "The Qt Company"
+        ],
+        "tags": [
+            "other"
+        ],
+        "description": "a cross-platform application framework that is used for developing application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while still being a native application with native capabilities and speed.",
+        "timestamp": "2022-07-18 17:46:31.332501"
+    }
+}

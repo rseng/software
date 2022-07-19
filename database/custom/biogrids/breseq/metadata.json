@@ -1,0 +1,22 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/breseq",
+    "url": "http://barricklab.org/twiki/bin/view/Lab/ToolsBacterialGenomeResequencing",
+    "data": {
+        "title": "breseq",
+        "url": "http://barricklab.org/twiki/bin/view/Lab/ToolsBacterialGenomeResequencing",
+        "credit": [
+            "Daniel Deatherage",
+            "Dave Knoester",
+            "Jeffrey Barrick"
+        ],
+        "tags": [
+            "high-throughput-sequencing",
+            "other-tools",
+            "wgs-analysis",
+            "other"
+        ],
+        "description": "a computational pipeline for finding mutations relative to a reference sequence in short-read DNA re-sequencing data for microbial sized genomes.  It reports single-nucleotide mutations, point insertions and deletions, large deletions, and new junctions supported by mosaic reads.",
+        "timestamp": "2022-07-18 17:43:33.280328"
+    }
+}

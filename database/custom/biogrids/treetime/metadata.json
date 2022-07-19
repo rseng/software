@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/treetime",
+    "url": "https://treetime.readthedocs.io/en/latest/index.html",
+    "data": {
+        "title": "TreeTime",
+        "url": "https://treetime.readthedocs.io/en/latest/index.html",
+        "credit": [],
+        "tags": [
+            "phylogenomics",
+            "high-throughput-sequencing"
+        ],
+        "description": "provides routines for ancestral sequence reconstruction and inference of molecular-clock phylogenies.",
+        "timestamp": "2022-07-18 17:47:18.567653"
+    }
+}

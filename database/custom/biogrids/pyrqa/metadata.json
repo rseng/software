@@ -1,0 +1,12 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/pyrqa",
+    "url": "https://pypi.org/project/PyRQA/",
+    "data": {
+        "title": "PyRQA",
+        "url": "https://pypi.org/project/PyRQA/",
+        "credit": [],
+        "description": "a tool to conduct recurrence analysis in a massively parallel manner using the OpenCL framework.",
+        "timestamp": "2022-07-18 17:46:30.206651"
+    }
+}

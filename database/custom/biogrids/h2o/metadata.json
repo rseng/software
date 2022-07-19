@@ -1,0 +1,12 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/h2o",
+    "url": "https://www.h2o.ai/",
+    "data": {
+        "title": "H2O",
+        "url": "https://www.h2o.ai/",
+        "credit": [],
+        "description": "a scalable machine learning and predictive analytics platform.",
+        "timestamp": "2022-07-18 17:45:16.890713"
+    }
+}

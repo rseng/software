@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/robex",
+    "url": "https://www.nitrc.org/projects/robex",
+    "data": {
+        "title": "ROBEX",
+        "url": "https://www.nitrc.org/projects/robex",
+        "credit": [],
+        "tags": [
+            "image-analysis-libraries",
+            "visualization"
+        ],
+        "description": "(Robust Brain Extraction) is an automatic whole-brain extraction tool for T1-weighted MRI data (commonly known as skull stripping).",
+        "timestamp": "2022-07-18 17:46:37.249421"
+    }
+}

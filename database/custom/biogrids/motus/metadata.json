@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/motus",
+    "url": "http://motu-tool.org/",
+    "data": {
+        "title": "mOTUs",
+        "url": "http://motu-tool.org/",
+        "credit": [],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "marker gene-based OTU (mOTU) profiling.",
+        "timestamp": "2022-07-18 17:45:54.066183"
+    }
+}

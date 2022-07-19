@@ -1,0 +1,23 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/tex-live",
+    "url": "http://tug.org/texlive/",
+    "data": {
+        "title": "TeX Live",
+        "url": "http://tug.org/texlive/",
+        "credit": [
+            "Berry Karl",
+            "Scarso Luigi",
+            "Preining Norbert",
+            "Kotucha Reinhard",
+            "Kroonenberg Siep",
+            "Wawrykiewicz Staszek"
+        ],
+        "tags": [
+            "utilities",
+            "other"
+        ],
+        "description": "cleans up raw data files and converts them to pdf format with LaTex.  TeX Live offers an easy way to get up and running with the TeX document production system.",
+        "timestamp": "2022-07-18 17:47:11.393893"
+    }
+}

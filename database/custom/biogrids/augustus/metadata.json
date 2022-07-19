@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/augustus",
+    "url": "http://bioinf.uni-greifswald.de/augustus/",
+    "data": {
+        "title": "AUGUSTUS",
+        "url": "http://bioinf.uni-greifswald.de/augustus/",
+        "credit": [],
+        "tags": [
+            "genome-annotation",
+            "genomics"
+        ],
+        "description": "a gene prediction program for eukaryotes that can be used as an ab initio program, which means it bases its prediction purely on the sequence.",
+        "timestamp": "2022-07-18 17:43:23.908638"
+    }
+}

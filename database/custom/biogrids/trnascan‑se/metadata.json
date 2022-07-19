@@ -1,0 +1,15 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/trnascan\u2011se",
+    "url": "http://lowelab.ucsc.edu/tRNAscan-SE/",
+    "data": {
+        "title": "tRNAscan\u2011SE",
+        "url": "http://lowelab.ucsc.edu/tRNAscan-SE/",
+        "credit": [],
+        "tags": [
+            "high-throughput-sequencing"
+        ],
+        "description": "tRNA detection in large-scale genome sequence.",
+        "timestamp": "2022-07-18 17:47:19.846207"
+    }
+}

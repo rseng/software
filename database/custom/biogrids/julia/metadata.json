@@ -1,0 +1,18 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/julia",
+    "url": "https://julialang.org/",
+    "data": {
+        "title": "Julia",
+        "url": "https://julialang.org/",
+        "credit": [
+            "Alan Edelman",
+            "Valentin Churavy",
+            "Jeff Bezanson",
+            "Viral B Shah",
+            "Stefan Karpinski"
+        ],
+        "description": "is a flexible dynamic language appropriate for scientific and numerical computing with performance comparable to traditional statically-typed languages.",
+        "timestamp": "2022-07-18 17:45:30.918979"
+    }
+}

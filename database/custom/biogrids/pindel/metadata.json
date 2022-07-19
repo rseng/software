@@ -1,0 +1,18 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/pindel",
+    "url": "http://gmt.genome.wustl.edu/packages/pindel/index.html",
+    "data": {
+        "title": "Pindel",
+        "url": "http://gmt.genome.wustl.edu/packages/pindel/index.html",
+        "credit": [],
+        "tags": [
+            "dna-sequencing",
+            "genomics",
+            "high-throughput-sequencing",
+            "genomics"
+        ],
+        "description": "can detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications and other structural variants at single-based resolution from next-gen sequence data. It uses a pattern growth approach to identify the breakpoints of these variants from paired-end short reads.",
+        "timestamp": "2022-07-18 17:46:22.070891"
+    }
+}

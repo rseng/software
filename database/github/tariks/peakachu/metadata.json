@@ -3,17 +3,16 @@
     "uid": "github/tariks/peakachu",
     "url": "https://github.com/tariks/peakachu",
     "data": {
-        "timestamp": "2021-01-10 00:42:36.350982",
-        "name": "peakachu",
+        "title": "Peakachu",
         "url": "https://api.github.com/repos/tariks/peakachu",
+        "credit": [],
+        "description": "Genome-wide contact analysis using sklearn",
+        "name": "peakachu",
         "full_name": "tariks/peakachu",
         "html_url": "https://github.com/tariks/peakachu",
-        "private": false,
-        "description": "Genome-wide contact analysis using sklearn",
         "created_at": "2019-02-06T06:09:01Z",
         "updated_at": "2020-12-15T00:11:37Z",
         "clone_url": "https://github.com/tariks/peakachu.git",
-        "homepage": "",
         "size": 12134,
         "stargazers_count": 20,
         "watchers_count": 20,
@@ -33,7 +32,7 @@
             "login": "tariks",
             "type": "User"
         },
-        "topics": []
+        "timestamp": "2021-01-10 00:42:36.350982"
     },
     "doi": "10.1038/s41467-020-17239-9"
 }

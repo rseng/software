@@ -1,0 +1,16 @@
+{
+    "parser": "github",
+    "uid": "github.com/blackrim",
+    "url": null,
+    "data": {
+        "title": "treePL",
+        "url": "https://github.com/blackrim/treePL",
+        "credit": [],
+        "tags": [
+            "phylogenomics",
+            "high-throughput-sequencing"
+        ],
+        "description": "is a phylogenetic penalized likelihood program.",
+        "timestamp": "2022-07-18 17:47:17.962360"
+    }
+}

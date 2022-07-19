@@ -3,13 +3,17 @@
     "uid": "github/nextstrain/nextclade",
     "url": "https://github.com/nextstrain/nextclade",
     "data": {
-        "timestamp": "2021-12-05 00:38:13.595981",
-        "name": "nextclade",
+        "title": "Nextalign",
         "url": "https://api.github.com/repos/nextstrain/nextclade",
+        "credit": [],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement",
+        "name": "nextclade",
         "full_name": "nextstrain/nextclade",
         "html_url": "https://github.com/nextstrain/nextclade",
-        "private": false,
-        "description": "Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement",
         "created_at": "2020-06-12T13:01:14Z",
         "updated_at": "2021-12-03T08:21:01Z",
         "clone_url": "https://github.com/nextstrain/nextclade.git",
@@ -54,7 +58,8 @@
             "covid19",
             "next-generation-sequencing",
             "influenza"
-        ]
+        ],
+        "timestamp": "2021-12-05 00:38:13.595981"
     },
     "doi": "https://doi.org/10.5281/zenodo.5726681"
 }

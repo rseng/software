@@ -1,0 +1,1 @@
+{"parser": "custom", "uid": "custom/biogrids/sinqc", "url": "http://www.morgridge.net/SinQC.html", "data": {"title": "SinQC", "url": "http://www.morgridge.net/SinQC.html", "credit": ["Peng Jiang", "Ron Stewart"], "tags": ["scrna-seq-analysis", "other"], "description": "A method and tool to control single-cell RNA-seq data quality.", "timestamp": "2022-07-18 17:46:53.144151"}}

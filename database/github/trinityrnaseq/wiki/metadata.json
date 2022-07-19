@@ -1,0 +1,26 @@
+{
+    "parser": "github",
+    "uid": "github/trinityrnaseq/wiki",
+    "url": null,
+    "data": {
+        "title": "Trinity",
+        "url": "https://github.com/trinityrnaseq/trinityrnaseq/wiki",
+        "credit": [
+            "Alexie Papanicolaou",
+            "Aviv Regev",
+            "Brian Haas",
+            "Manfred Grabherr",
+            "Moran Yassour",
+            "Nir Friedman",
+            "Richard LeDuc",
+            "Robert Henschel"
+        ],
+        "tags": [
+            "de-novo-transcriptome-assembly",
+            "high-throughput-sequencing",
+            "rna-sequencing"
+        ],
+        "description": "a software package comprised of three independent software modules (Inchworm, Chrysalis, and Butterfly) for the efficient and robust de novo reconstruction of transcriptomes from RNA-seq data.",
+        "timestamp": "2022-07-18 17:47:19.602967"
+    }
+}

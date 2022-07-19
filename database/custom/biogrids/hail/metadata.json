@@ -1,0 +1,18 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/hail",
+    "url": "https://hail.is/",
+    "data": {
+        "title": "Hail",
+        "url": "https://hail.is/",
+        "credit": [],
+        "tags": [
+            "comparative-genomics",
+            "gwas-analysis",
+            "high-throughput-sequencing",
+            "genomics"
+        ],
+        "description": "an open-source, general-purpose, Python-based data analysis library with additional data types and methods for working with genomic data.",
+        "timestamp": "2022-07-18 17:45:16.893745"
+    }
+}
