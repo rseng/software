@@ -1,0 +1,17 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/imagej",
+    "url": "https://imagej.nih.gov/ij/",
+    "data": {
+        "title": "ImageJ",
+        "url": "https://imagej.nih.gov/ij/",
+        "credit": [
+            "Wayne Rasband"
+        ],
+        "tags": [
+            "utilities"
+        ],
+        "description": "a Java image processing program inspired by NIH Image  that can display, edit, analyze, process, save and print 8-bit, 16-bit, and 32-bit images. It can read many image formats including TIFF, GIF, JPEG, BMP, DICOM, FITS and \"raw\" and supports \"stacks\", a series of images that share a single window. It is multithreaded, so time-consuming operations can be performed in parallel with other operations.",
+        "timestamp": "2022-07-18 17:45:26.605956"
+    }
+}

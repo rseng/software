@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/whatshap",
+    "url": "https://whatshap.readthedocs.io/",
+    "data": {
+        "title": "WhatsHap",
+        "url": "https://whatshap.readthedocs.io/",
+        "credit": [],
+        "tags": [
+            "genomics",
+            "genomics"
+        ],
+        "description": "a software for phasing genomic variants using DNA sequencing reads, also called read-based phasing or haplotype assembly.",
+        "timestamp": "2022-07-18 17:47:29.812214"
+    }
+}

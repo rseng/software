@@ -3,13 +3,16 @@
     "uid": "github/wdecoster/nanopack",
     "url": "https://github.com/wdecoster/nanopack",
     "data": {
-        "timestamp": "2020-08-16 00:19:51.025034",
-        "name": "nanopack",
+        "title": "NanoPack",
         "url": "https://api.github.com/repos/wdecoster/nanopack",
+        "credit": [],
+        "tags": [
+            "high-throughput-sequencing"
+        ],
+        "description": "Easily install all nanopack scripts together",
+        "name": "nanopack",
         "full_name": "wdecoster/nanopack",
         "html_url": "https://github.com/wdecoster/nanopack",
-        "private": false,
-        "description": "Easily install all nanopack scripts together",
         "created_at": "2017-10-02T12:04:58Z",
         "updated_at": "2020-08-14T12:28:06Z",
         "clone_url": "https://github.com/wdecoster/nanopack.git",
@@ -18,7 +21,7 @@
         "stargazers_count": 66,
         "watchers_count": 66,
         "language": "Python",
-        "open_issues_count": 0,
+        "open_issues_count": 1,
         "license": {
             "key": "gpl-3.0",
             "name": "GNU General Public License v3.0",
@@ -32,7 +35,8 @@
             "avatar_url": "https://avatars2.githubusercontent.com/u/11660522?v=4",
             "login": "wdecoster",
             "type": "User"
-        }
+        },
+        "timestamp": "2020-08-16 00:19:51.025034"
     },
     "doi": "10.1093/bioinformatics/bty149"
 }

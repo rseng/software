@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/ngless",
+    "url": "https://ngless.embl.de",
+    "data": {
+        "title": "NGLess",
+        "url": "https://ngless.embl.de",
+        "credit": [],
+        "tags": [
+            "high-throughput-sequencing",
+            "metagenomic-sequencing-analysis"
+        ],
+        "description": "(NGS Processing with Less Work) enables creation of a pipeline of work for all the first phase of NGS analysis until the point (inclusive) of annotation.",
+        "timestamp": "2022-07-18 17:46:04.053507"
+    }
+}

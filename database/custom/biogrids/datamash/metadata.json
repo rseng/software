@@ -1,0 +1,14 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/datamash",
+    "url": "https://www.gnu.org/software/datamash/",
+    "data": {
+        "title": "datamash",
+        "url": "https://www.gnu.org/software/datamash/",
+        "credit": [
+            "Assaf Gordon"
+        ],
+        "description": "GNU datamash is a command-line program which performs basic numeric,textual and statistical operations on input textual data files.",
+        "timestamp": "2022-07-18 17:43:38.317383"
+    }
+}

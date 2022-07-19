@@ -3,17 +3,20 @@
     "uid": "github/oschwengers/bakta",
     "url": "https://github.com/oschwengers/bakta",
     "data": {
-        "timestamp": "2021-05-09 00:28:30.282778",
-        "name": "bakta",
+        "title": "Bakta",
         "url": "https://api.github.com/repos/oschwengers/bakta",
+        "credit": [],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "Rapid & standardized annotation of bacterial genomes & plasmids",
+        "name": "bakta",
         "full_name": "oschwengers/bakta",
         "html_url": "https://github.com/oschwengers/bakta",
-        "private": false,
-        "description": "Rapid & standardized annotation of bacterial genomes & plasmids",
         "created_at": "2020-01-15T23:08:38Z",
         "updated_at": "2021-05-08T18:50:05Z",
         "clone_url": "https://github.com/oschwengers/bakta.git",
-        "homepage": "",
         "size": 28527,
         "stargazers_count": 33,
         "watchers_count": 33,
@@ -40,6 +43,7 @@
             "bacteria",
             "bacterial-genomes",
             "plasmids"
-        ]
+        ],
+        "timestamp": "2021-05-09 00:28:30.282778"
     }
 }

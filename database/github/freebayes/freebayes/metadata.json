@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/freebayes/freebayes",
+    "url": "https://github.com/freebayes/freebayes",
+    "data": {
+        "title": "freebayes",
+        "url": "https://github.com/freebayes/freebayes",
+        "credit": [],
+        "tags": [
+            "genotype-phenotype-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "Bayesian haplotype-based genetic polymorphism discovery and genotyping.",
+        "name": "freebayes",
+        "full_name": "freebayes/freebayes",
+        "html_url": "https://github.com/freebayes/freebayes",
+        "created_at": "2010-10-13T21:34:33Z",
+        "updated_at": "2022-07-15T06:50:49Z",
+        "clone_url": "https://github.com/freebayes/freebayes.git",
+        "homepage": "http://arxiv.org/abs/1207.3907",
+        "size": 7998,
+        "stargazers_count": 617,
+        "watchers_count": 617,
+        "language": "C++",
+        "open_issues_count": 18,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 45,
+        "owner": {
+            "html_url": "https://github.com/freebayes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15815823?v=4",
+            "login": "freebayes",
+            "type": "Organization"
+        },
+        "timestamp": "2022-07-18 17:45:04.188922",
+        "avatar": "https://avatars.githubusercontent.com/u/15815823?v=4"
+    }
+}

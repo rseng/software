@@ -1,0 +1,23 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/samtools",
+    "url": "http://www.htslib.org/",
+    "data": {
+        "title": "SAMtools",
+        "url": "http://www.htslib.org/",
+        "credit": [
+            "Bob Handshaker",
+            "Heng Li"
+        ],
+        "tags": [
+            "chip-sequencing",
+            "dna-sequencing",
+            "high-throughput-sequencing",
+            "rna-sequencing",
+            "utilities",
+            "wgs-analysis"
+        ],
+        "description": "(Sequence Alignment/Map) a generic format for storing large nucleotide sequence alignments that provides various utilities for manipulating alignments, including sorting, merging, indexing and generating alignments in a per-position format.",
+        "timestamp": "2022-07-18 17:46:40.443462"
+    }
+}

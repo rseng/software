@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/htslib",
+    "url": "http://www.htslib.org/",
+    "data": {
+        "title": "HTSlib",
+        "url": "http://www.htslib.org/",
+        "credit": [],
+        "tags": [
+            "high-throughput-sequencing",
+            "utilities"
+        ],
+        "description": "a C library for reading/writing high-throughput sequencing data.",
+        "timestamp": "2022-07-18 17:45:24.574054"
+    }
+}

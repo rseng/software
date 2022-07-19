@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/razers3",
+    "url": "http://packages.seqan.de/razers3/",
+    "data": {
+        "title": "razers3",
+        "url": "http://packages.seqan.de/razers3/",
+        "credit": [],
+        "tags": [
+            "read-alignment",
+            "high-throughput-sequencing"
+        ],
+        "description": "faster, fully sensitive read mapping.",
+        "timestamp": "2022-07-18 17:46:35.229141"
+    }
+}

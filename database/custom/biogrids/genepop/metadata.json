@@ -1,0 +1,18 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/genepop",
+    "url": "http://kimura.univ-montp2.fr/~rousset/Genepop.htm",
+    "data": {
+        "title": "Genepop",
+        "url": "http://kimura.univ-montp2.fr/~rousset/Genepop.htm",
+        "credit": [
+            "Fran\u00e7ois Rousset"
+        ],
+        "tags": [
+            "genomics",
+            "high-throughput-sequencing"
+        ],
+        "description": "a population genetics package that computes exact tests for Hardy-Weinberg equilibrium, for population differentiation and for genotypic disequilibrium among pairs of loci; computes estimates of F-statistics, null allele frequencies, allele size-based statistics for microsatellites, etc.; and performs analyses of isolation by distance from pairwise comparisons of individuals or population samples, including confidence intervals for \u201cneighborhood size\u201d.",
+        "timestamp": "2022-07-18 17:45:06.354061"
+    }
+}

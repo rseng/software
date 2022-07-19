@@ -1,0 +1,12 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/pyunicorn",
+    "url": "http://www.pik-potsdam.de/~donges/pyunicorn/index.html",
+    "data": {
+        "title": "pyunicorn",
+        "url": "http://www.pik-potsdam.de/~donges/pyunicorn/index.html",
+        "credit": [],
+        "description": "(Unified Complex Network and RecurreNce analysis toolbox) a fully object-oriented Python package for the advanced analysis and modeling of complex networks.",
+        "timestamp": "2022-07-18 17:46:31.331110"
+    }
+}

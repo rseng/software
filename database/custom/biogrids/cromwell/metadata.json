@@ -1,0 +1,14 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/cromwell",
+    "url": "https://cromwell.readthedocs.io/en/develop/",
+    "data": {
+        "title": "Cromwell",
+        "url": "https://cromwell.readthedocs.io/en/develop/",
+        "credit": [
+            "Jeff Gentry"
+        ],
+        "description": "a Workflow Management System geared towards scientific workflows.",
+        "timestamp": "2022-07-18 17:43:36.702739"
+    }
+}

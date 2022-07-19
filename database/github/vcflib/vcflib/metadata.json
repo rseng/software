@@ -3,13 +3,13 @@
     "uid": "github/vcflib/vcflib",
     "url": "https://github.com/vcflib/vcflib",
     "data": {
-        "timestamp": "2021-09-26 00:35:59.563927",
-        "name": "vcflib",
+        "title": "vcflib",
         "url": "https://api.github.com/repos/vcflib/vcflib",
+        "credit": [],
+        "description": " C++ library and cmdline tools for parsing and manipulating VCF files",
+        "name": "vcflib",
         "full_name": "vcflib/vcflib",
         "html_url": "https://github.com/vcflib/vcflib",
-        "private": false,
-        "description": " C++ library and cmdline tools for parsing and manipulating VCF files",
         "created_at": "2010-09-22T23:25:59Z",
         "updated_at": "2021-09-24T12:57:25Z",
         "clone_url": "https://github.com/vcflib/vcflib.git",
@@ -39,7 +39,8 @@
             "vcf-manipulation",
             "genotyping",
             "haplotypecaller"
-        ]
+        ],
+        "timestamp": "2021-09-26 00:35:59.563927"
     },
     "doi": "10.1101/023754"
 }

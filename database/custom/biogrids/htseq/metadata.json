@@ -1,0 +1,20 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/htseq",
+    "url": "http://htseq.readthedocs.io/en/release_0.9.1/",
+    "data": {
+        "title": "HTSeq",
+        "url": "http://htseq.readthedocs.io/en/release_0.9.1/",
+        "credit": [
+            "Simon Anders"
+        ],
+        "tags": [
+            "high-throughput-sequencing",
+            "libraries/frameworks",
+            "rna-sequencing",
+            "wgs-analysis"
+        ],
+        "description": "a Python package that provides infrastructure to process data from high-throughput sequencing assays.",
+        "timestamp": "2022-07-18 17:45:24.570892"
+    }
+}

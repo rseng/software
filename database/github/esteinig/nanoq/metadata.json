@@ -3,22 +3,21 @@
     "uid": "github/esteinig/nanoq",
     "url": "https://github.com/esteinig/nanoq",
     "data": {
-        "timestamp": "2022-01-09 00:40:08.690774",
-        "name": "nanoq",
+        "title": "nanoq",
         "url": "https://api.github.com/repos/esteinig/nanoq",
+        "credit": [],
+        "description": "Minimal but speedy quality control for nanopore reads in Rust :bear:",
+        "name": "nanoq",
         "full_name": "esteinig/nanoq",
         "html_url": "https://github.com/esteinig/nanoq",
-        "private": false,
-        "description": "Minimal but speedy quality control for nanopore reads in Rust :bear:",
         "created_at": "2020-03-05T23:36:30Z",
         "updated_at": "2022-01-03T21:47:01Z",
         "clone_url": "https://github.com/esteinig/nanoq.git",
-        "homepage": "",
         "size": 1039,
         "stargazers_count": 46,
         "watchers_count": 46,
         "language": "Rust",
-        "open_issues_count": 0,
+        "open_issues_count": 2,
         "license": {
             "key": "mit",
             "name": "MIT License",
@@ -33,7 +32,7 @@
             "login": "esteinig",
             "type": "User"
         },
-        "topics": []
+        "timestamp": "2022-01-09 00:40:08.690774"
     },
     "doi": "https://doi.org/10.5281/zenodo.5816183"
 }

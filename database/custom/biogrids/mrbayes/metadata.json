@@ -1,0 +1,24 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/mrbayes",
+    "url": "http://mrbayes.sourceforge.net/index.php",
+    "data": {
+        "title": "MrBayes",
+        "url": "http://mrbayes.sourceforge.net/index.php",
+        "credit": [
+            "Huelsenbeck John",
+            "Larget Bret",
+            "van der Mark Paul",
+            "Ronquist Fredrik",
+            "Simon Donald"
+        ],
+        "tags": [
+            "genomics",
+            "phylogenetic-inference",
+            "phylogenomics",
+            "genomics"
+        ],
+        "description": "a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models.  MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.",
+        "timestamp": "2022-07-18 17:45:54.072217"
+    }
+}

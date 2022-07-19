@@ -1,0 +1,17 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/fastx_toolkit",
+    "url": "http://hannonlab.cshl.edu/fastx_toolkit/index.html",
+    "data": {
+        "title": "FASTX_Toolkit",
+        "url": "http://hannonlab.cshl.edu/fastx_toolkit/index.html",
+        "credit": [
+            "Assaf Gordon"
+        ],
+        "tags": [
+            "high-throughput-sequencing"
+        ],
+        "description": "a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing.",
+        "timestamp": "2022-07-18 17:44:57.728995"
+    }
+}

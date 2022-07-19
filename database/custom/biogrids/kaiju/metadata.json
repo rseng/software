@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/kaiju",
+    "url": "https://kaiju.binf.ku.dk/",
+    "data": {
+        "title": "Kaiju",
+        "url": "https://kaiju.binf.ku.dk/",
+        "credit": [],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "high-throughput-sequencing"
+        ],
+        "description": "fast and sensitive taxonomic classification for metagenomics.",
+        "timestamp": "2022-07-18 17:45:31.578880"
+    }
+}

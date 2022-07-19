@@ -1,0 +1,19 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/fasttree",
+    "url": "http://www.microbesonline.org/fasttree/",
+    "data": {
+        "title": "FastTree",
+        "url": "http://www.microbesonline.org/fasttree/",
+        "credit": [
+            "Morgan N Price"
+        ],
+        "tags": [
+            "metagenomic-sequencing-analysis",
+            "genomics",
+            "high-throughput-sequencing"
+        ],
+        "description": "infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences.  FastTree can handle alignments with up to a million sequences in a reasonable amount of time and memory.",
+        "timestamp": "2022-07-18 17:44:57.112542"
+    }
+}

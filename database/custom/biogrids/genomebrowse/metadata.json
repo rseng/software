@@ -1,0 +1,17 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/genomebrowse",
+    "url": "http://goldenhelix.com/products/GenomeBrowse/",
+    "data": {
+        "title": "GenomeBrowse",
+        "url": "http://goldenhelix.com/products/GenomeBrowse/",
+        "credit": [],
+        "tags": [
+            "genome-visualization",
+            "genomics",
+            "visualization"
+        ],
+        "description": "a free tool offered by Golden Helix that delivers stunning visualizations of your genomic data, enabling you to see what is occurring at each base pair in your samples.",
+        "timestamp": "2022-07-18 17:45:06.357161"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/openjdk",
+    "url": "http://openjdk.java.net/",
+    "data": {
+        "title": "OpenJDK",
+        "url": "http://openjdk.java.net/",
+        "credit": [],
+        "tags": [
+            "other"
+        ],
+        "description": "(Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE).",
+        "timestamp": "2022-07-18 17:46:08.907530"
+    }
+}

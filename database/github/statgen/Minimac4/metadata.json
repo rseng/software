@@ -3,17 +3,20 @@
     "uid": "github/statgen/Minimac4",
     "url": "https://github.com/statgen/Minimac4",
     "data": {
-        "timestamp": "2021-07-25 00:31:13.959434",
-        "name": "Minimac4",
+        "title": "Minimac4",
         "url": "https://api.github.com/repos/statgen/Minimac4",
+        "credit": [],
+        "tags": [
+            "genomics",
+            "genomics"
+        ],
+        "description": "a lower memory and more computationally efficient implementation of the genotype imputation algorithms in minimac/mininac2/minimac3.",
+        "name": "Minimac4",
         "full_name": "statgen/Minimac4",
         "html_url": "https://github.com/statgen/Minimac4",
-        "private": false,
-        "description": null,
         "created_at": "2016-12-01T05:33:36Z",
         "updated_at": "2021-06-19T00:45:03Z",
         "clone_url": "https://github.com/statgen/Minimac4.git",
-        "homepage": null,
         "size": 40115,
         "stargazers_count": 26,
         "watchers_count": 26,
@@ -33,6 +36,6 @@
             "login": "statgen",
             "type": "Organization"
         },
-        "topics": []
+        "timestamp": "2021-07-25 00:31:13.959434"
     }
 }

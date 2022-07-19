@@ -1,0 +1,18 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/pymol-open-source",
+    "url": "https://sourceforge.net/projects/pymol/",
+    "data": {
+        "title": "PyMOL Open Source",
+        "url": "https://sourceforge.net/projects/pymol/",
+        "credit": [
+            "Thomas Holder"
+        ],
+        "tags": [
+            "visualization",
+            "visualization"
+        ],
+        "description": "open source version of the widely used molecular visualization package developed by Warren DeLano.",
+        "timestamp": "2022-07-18 17:46:30.205433"
+    }
+}

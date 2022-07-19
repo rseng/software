@@ -1,0 +1,16 @@
+{
+    "parser": "custom",
+    "uid": "custom/biogrids/canu",
+    "url": "https://canu.readthedocs.io",
+    "data": {
+        "title": "Canu",
+        "url": "https://canu.readthedocs.io",
+        "credit": [],
+        "tags": [
+            "genome-assembly",
+            "high-throughput-sequencing"
+        ],
+        "description": "Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing. Canu specializes in assembling PacBio or Oxford Nanopore sequences. Canu operates in three phases: correction, trimming and assembly. The correction phase will improve the accuracy of bases in reads.",
+        "timestamp": "2022-07-18 17:43:33.913237"
+    }
+}
