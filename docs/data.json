@@ -28873,12 +28873,18 @@
         "topics": []
     },
     {
-        "uid": "github/martinjzhang/index.html#",
-        "url": null,
-        "rel": "/software/repository/github/martinjzhang/index.html#",
-        "avatar": "",
-        "description": "(single-cell disease-relevance score) is a method for associating individual cells in scRNA-seq data with disease GWASs, built on top of AnnData and Scanpy.",
-        "topics": []
+        "uid": "github/martinjzhang/scDRS",
+        "url": "https://github.com/martinjzhang/scDRS",
+        "rel": "/software/repository/github/martinjzhang/scDRS",
+        "avatar": "https://avatars.githubusercontent.com/u/27316293?v=4",
+        "description": "Single-cell disease relevance score (scDRS)",
+        "topics": [
+            "cell-state",
+            "gwas",
+            "single-cell-rna-seq",
+            "diseases-and-complex-traits",
+            "within-cell-type-heterogeneity"
+        ]
     },
     {
         "uid": "github/mwalmsley/zoobot",

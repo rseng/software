@@ -2819,7 +2819,7 @@ github/ddarriba/prottest3
 github/waynebhayes/SpArcFiRe
 github/macrocosme/time_domain_astronomy_sandbox
 github/macrocosme/amber_meta
-github/martinjzhang/index.html#
+github/martinjzhang/scDRS
 github/mwalmsley/zoobot
 github/molscat/molscat
 github/Open-ET/flux-data-qaqc
