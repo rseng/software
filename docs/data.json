@@ -42416,13 +42416,5 @@
         "avatar": "https://avatars.githubusercontent.com/u/92540?v=4",
         "description": "Public/backup repository of the GROMACS molecular simulation toolkit. Please do not mine the metadata blindly; we use https://gitlab.com/gromacs/gromacs for code review and issue tracking.",
         "topics": []
-    },
-    {
-        "uid": "github.com/blackrim",
-        "url": null,
-        "rel": "/software/repository/github.com/blackrim",
-        "avatar": "",
-        "description": "is a phylogenetic penalized likelihood program.",
-        "topics": []
     }
 ]
