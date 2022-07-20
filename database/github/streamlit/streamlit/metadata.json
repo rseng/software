@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "data": {
+        "url": "https://github.com/streamlit/streamlit",
+        "title": "Streamlit",
+        "description": "Streamlit \u2014 The fastest way to build data apps in Python",
+        "name": "streamlit",
+        "full_name": "streamlit/streamlit",
+        "html_url": "https://github.com/streamlit/streamlit",
+        "created_at": "2019-08-24T00:14:52Z",
+        "updated_at": "2022-07-20T17:36:21Z",
+        "clone_url": "https://github.com/streamlit/streamlit.git",
+        "homepage": "https://streamlit.io",
+        "size": 188961,
+        "stargazers_count": 19993,
+        "watchers_count": 19993,
+        "language": "Python",
+        "open_issues_count": 612,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 268,
+        "owner": {
+            "html_url": "https://github.com/streamlit",
+            "avatar_url": "https://avatars.githubusercontent.com/u/45109972?v=4",
+            "login": "streamlit",
+            "type": "Organization"
+        },
+        "topics": [
+            "python",
+            "machine-learning",
+            "data-science",
+            "deep-learning",
+            "data-visualization",
+            "streamlit",
+            "data-analysis",
+            "developer-tools"
+        ],
+        "timestamp": "2022-07-20 12:04:42.242587",
+        "avatar": "https://avatars.githubusercontent.com/u/45109972?v=4"
+    }
+}

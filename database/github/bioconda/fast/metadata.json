@@ -1,0 +1,12 @@
+{
+    "parser": "github",
+    "uid": "github/bioconda/fast",
+    "url": null,
+    "data": {
+        "url": "https://bioconda.github.io/recipes/fasttree/README.html",
+        "title": "Fasttree",
+        "description": "phylogenetic trees from alignments of nucleotide or protein sequences",
+        "doi": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0009490",
+        "timestamp": "2022-07-20 11:58:00.554026"
+    }
+}

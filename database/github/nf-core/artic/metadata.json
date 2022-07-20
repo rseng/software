@@ -1,0 +1,12 @@
+{
+    "parser": "github",
+    "uid": "github/nf-core/artic",
+    "url": null,
+    "data": {
+        "url": "https://github.com/nf-core/artic/",
+        "title": "Nf-core-artic",
+        "description": "nf-core ARTIC field bioinformatics viral genome pipeline",
+        "doi": "https://dx.doi.org/10.1038/s41587-020-0439-x",
+        "timestamp": "2022-07-20 12:04:35.055922"
+    }
+}

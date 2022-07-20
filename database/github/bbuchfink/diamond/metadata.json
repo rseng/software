@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/bbuchfink/diamond",
+    "url": "https://github.com/bbuchfink/diamond",
+    "data": {
+        "url": "https://github.com/bbuchfink/diamond",
+        "title": "Diamond-aligner",
+        "description": "Accelerated BLAST compatible local sequence aligner.",
+        "doi": "http://www.nature.com/nmeth/journal/v12/n1/abs/nmeth.3176.html",
+        "name": "diamond",
+        "full_name": "bbuchfink/diamond",
+        "html_url": "https://github.com/bbuchfink/diamond",
+        "created_at": "2015-03-10T23:19:00Z",
+        "updated_at": "2022-07-20T06:43:35Z",
+        "clone_url": "https://github.com/bbuchfink/diamond.git",
+        "size": 24663,
+        "stargazers_count": 699,
+        "watchers_count": 699,
+        "language": "C++",
+        "open_issues_count": 84,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 34,
+        "owner": {
+            "html_url": "https://github.com/bbuchfink",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10001338?v=4",
+            "login": "bbuchfink",
+            "type": "User"
+        },
+        "topics": [
+            "sequence-alignment"
+        ],
+        "timestamp": "2022-07-20 11:57:53.132487",
+        "avatar": "https://avatars.githubusercontent.com/u/10001338?v=4"
+    }
+}

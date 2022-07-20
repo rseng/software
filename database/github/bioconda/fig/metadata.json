@@ -1,0 +1,11 @@
+{
+    "parser": "github",
+    "uid": "github/bioconda/fig",
+    "url": null,
+    "data": {
+        "url": "https://bioconda.github.io/recipes/figtree/README.html",
+        "title": "Figtree",
+        "description": "graphical phylogenetic tree viewer",
+        "timestamp": "2022-07-20 11:58:01.537806"
+    }
+}

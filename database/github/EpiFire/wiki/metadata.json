@@ -1,0 +1,12 @@
+{
+    "parser": "github",
+    "uid": "github/EpiFire/wiki",
+    "url": null,
+    "data": {
+        "url": "https://github.com/tjhladish/EpiFire/wiki",
+        "title": "Epifire",
+        "description": "model the spread of an infectious disease in a population",
+        "doi": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-76",
+        "timestamp": "2022-07-20 12:04:47.934352"
+    }
+}

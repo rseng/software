@@ -1,0 +1,11 @@
+{
+    "parser": "github",
+    "uid": "github/PacificBiosciences/ConsensusCore",
+    "url": null,
+    "data": {
+        "url": "https://github.com/PacificBiosciences/ConsensusCore",
+        "title": "Libconsensuscore-dev",
+        "description": "algorithms for PacBio multiple sequence consensus -- development files",
+        "timestamp": "2022-07-20 12:01:00.175089"
+    }
+}

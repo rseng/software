@@ -1,0 +1,11 @@
+{
+    "parser": "github",
+    "uid": "github/pysurfer/pysurferhub.io",
+    "url": null,
+    "data": {
+        "url": "https://pysurfer.github.io",
+        "title": "Python3-surfer",
+        "description": "visualize Freesurfer's data in Python3",
+        "timestamp": "2022-07-20 12:04:56.287294"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parser": "github",
+    "uid": "github/bamtools/wiki",
+    "url": null,
+    "data": {
+        "url": "https://github.com/pezmaster31/bamtools/wiki",
+        "title": "Bamtools",
+        "description": "toolkit for manipulating BAM (genome alignment) files",
+        "doi": "http://bioinformatics.oxfordjournals.org/content/27/12/1691",
+        "timestamp": "2022-07-20 11:57:34.280030"
+    }
+}

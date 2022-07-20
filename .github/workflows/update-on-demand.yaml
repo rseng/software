@@ -9,6 +9,7 @@ on:
         type: choice
         options:
           - molssi
+          - debian
           - joss
           - imperial
           - rsnl

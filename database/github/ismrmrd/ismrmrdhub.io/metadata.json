@@ -1,0 +1,11 @@
+{
+    "parser": "github",
+    "uid": "github/ismrmrd/ismrmrdhub.io",
+    "url": null,
+    "data": {
+        "url": "https://ismrmrd.github.io/",
+        "title": "Ismrmrd-tools",
+        "description": "command-line tools for ISMRMRD",
+        "timestamp": "2022-07-20 12:04:53.106471"
+    }
+}
