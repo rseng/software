@@ -42418,35 +42418,11 @@
         "topics": []
     },
     {
-        "uid": "github.com/ks",
-        "url": null,
-        "rel": "/software/repository/github.com/ks",
-        "avatar": "",
-        "description": "an R package that provides functions for inferring continuous, branching lineage structures in low-dimensional data.  Designed to model developmental trajectories in single-cell RNA sequencing data and serve as a component in an analysis pipeline after dimensionality reduction and clustering, Slingshot is flexible enough to handle arbitrarily many branching events and allows for the incorporation of prior knowledge through supervised graph construction.",
-        "topics": []
-    },
-    {
-        "uid": "github.com/nextstrain",
-        "url": null,
-        "rel": "/software/repository/github.com/nextstrain",
-        "avatar": "",
-        "description": "real-time tracking of pathogen evolution.",
-        "topics": []
-    },
-    {
         "uid": "github.com/blackrim",
         "url": null,
         "rel": "/software/repository/github.com/blackrim",
         "avatar": "",
         "description": "is a phylogenetic penalized likelihood program.",
-        "topics": []
-    },
-    {
-        "uid": "github.com/metagenome-atlas",
-        "url": null,
-        "rel": "/software/repository/github.com/metagenome-atlas",
-        "avatar": "",
-        "description": "ATLAS - Three commands to start analysing your metagenome data",
         "topics": []
     }
 ]

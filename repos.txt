@@ -3903,7 +3903,4 @@ github/BU-ISCIII/plasmidID
 github/GeminiDRSoftware/DRAGONS
 github/mrbell/fsclean
 github/gromacs/gromacs
-github.com/ks
-github.com/nextstrain
 github.com/blackrim
-github.com/metagenome-atlas
