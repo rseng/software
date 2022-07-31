@@ -428,6 +428,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/mauricemolli/petitRADTRANS",
+        "url": "https://gitlab.com/mauricemolli/petitRADTRANS",
+        "rel": "/software/repository/gitlab/mauricemolli/petitRADTRANS",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/4048028/logo_radtrans.gif",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "gitlab/paulklemm_PHD/proteinortho",
         "url": "https://gitlab.com/paulklemm_PHD/proteinortho",
         "rel": "/software/repository/gitlab/paulklemm_PHD/proteinortho",
@@ -2365,6 +2373,14 @@
         ]
     },
     {
+        "uid": "github/tamarervin/SolAster",
+        "url": "https://github.com/tamarervin/SolAster",
+        "rel": "/software/repository/github/tamarervin/SolAster",
+        "avatar": "https://avatars.githubusercontent.com/u/53492021?v=4",
+        "description": "Python package to independently derive 'Sun-as-a-star' radial velocity variations.",
+        "topics": []
+    },
+    {
         "uid": "github/rychallener/ThERESA",
         "url": "https://github.com/rychallener/theresa",
         "rel": "/software/repository/github/rychallener/ThERESA",
@@ -3705,6 +3721,14 @@
         ]
     },
     {
+        "uid": "github/ltlancas/walter",
+        "url": "https://github.com/ltlancas/walter",
+        "rel": "/software/repository/github/ltlancas/walter",
+        "avatar": "https://avatars.githubusercontent.com/u/15038244?v=4",
+        "description": "A code to make predictions for the number of resolved stars in a given observation with the future Nancy Grace Roman Space Telescope (RST)",
+        "topics": []
+    },
+    {
         "uid": "github/SCECcode/pycsep",
         "url": "https://github.com/SCECcode/pycsep",
         "rel": "/software/repository/github/SCECcode/pycsep",
@@ -4136,6 +4160,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/18149707?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/thomaspinder/GPJax",
+        "url": "https://github.com/thomaspinder/GPJax",
+        "rel": "/software/repository/github/thomaspinder/GPJax",
+        "avatar": "https://avatars.githubusercontent.com/u/20796877?v=4",
+        "description": "A didactic Gaussian process package for researchers in Jax.",
+        "topics": [
+            "gaussian-processes",
+            "jax",
+            "probabilistic-programming",
+            "bayesian-inference",
+            "machine-learning"
+        ]
     },
     {
         "uid": "github/healytwin1/HISS",
@@ -4791,6 +4829,14 @@
         "rel": "/software/repository/github/wangjun1996/VisFeature",
         "avatar": "https://avatars0.githubusercontent.com/u/43462056?v=4",
         "description": "A stand-alone program for visualizing and analyzing statistical features of biological sequences",
+        "topics": []
+    },
+    {
+        "uid": "github/candebellavita/vkompth",
+        "url": "https://github.com/candebellavita/vkompth",
+        "rel": "/software/repository/github/candebellavita/vkompth",
+        "avatar": "https://avatars.githubusercontent.com/u/79205399?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -12546,6 +12592,22 @@
         ]
     },
     {
+        "uid": "github/keatonb/Pyriod",
+        "url": "https://github.com/keatonb/Pyriod",
+        "rel": "/software/repository/github/keatonb/Pyriod",
+        "avatar": "https://avatars.githubusercontent.com/u/6413923?v=4",
+        "description": "Python implementation of basic period detection and fitting routines for astronomical time series.",
+        "topics": []
+    },
+    {
+        "uid": "github/keatonb/TESS_PRF",
+        "url": "https://github.com/keatonb/TESS_PRF",
+        "rel": "/software/repository/github/keatonb/TESS_PRF",
+        "avatar": "https://avatars.githubusercontent.com/u/6413923?v=4",
+        "description": "Tools to display the TESS pixel response function (PRF) at any location on the detector",
+        "topics": []
+    },
+    {
         "uid": "github/deepmedic/deepmedic",
         "url": "https://github.com/deepmedic/deepmedic",
         "rel": "/software/repository/github/deepmedic/deepmedic",
@@ -12724,6 +12786,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/31962940?v=4",
         "description": "This repository contains a Python implementation of the l1 periodogram as described in Hara, Bou\u00e9, Laskar, Correia 2017, MNRAS, Vol. 464, Issue 1, p.1220-1246, with a few additions.",
         "topics": []
+    },
+    {
+        "uid": "github/ruizengalways/FOD-Net",
+        "url": "https://github.com/ruizengalways/FOD-Net",
+        "rel": "/software/repository/github/ruizengalways/FOD-Net",
+        "avatar": "https://avatars.githubusercontent.com/u/9302805?v=4",
+        "description": "FOD-Net: A Deep Learning Method for Fiber Orientation Distribution Angular Super Resolution",
+        "topics": [
+            "deep-learning",
+            "diffusion-mri",
+            "medical-imaging",
+            "connectomics",
+            "tractography",
+            "mrtrix3",
+            "fod"
+        ]
     },
     {
         "uid": "github/Nextomics/nextsv",
@@ -14544,6 +14622,14 @@
         "topics": []
     },
     {
+        "uid": "github/databio/GenomicDistributions",
+        "url": "https://github.com/databio/GenomicDistributions",
+        "rel": "/software/repository/github/databio/GenomicDistributions",
+        "avatar": "https://avatars.githubusercontent.com/u/13696008?v=4",
+        "description": "Calculate and plot distributions of genomic ranges",
+        "topics": []
+    },
+    {
         "uid": "github/datalad/datalad",
         "url": "https://github.com/datalad/datalad",
         "rel": "/software/repository/github/datalad/datalad",
@@ -14993,6 +15079,14 @@
         "rel": "/software/repository/github/statgen/Minimac4",
         "avatar": "https://avatars.githubusercontent.com/u/651584?v=4",
         "description": "a lower memory and more computationally efficient implementation of the genotype imputation algorithms in minimac/mininac2/minimac3.",
+        "topics": []
+    },
+    {
+        "uid": "github/statgen/demuxlet",
+        "url": "https://github.com/statgen/demuxlet",
+        "rel": "/software/repository/github/statgen/demuxlet",
+        "avatar": "https://avatars.githubusercontent.com/u/651584?v=4",
+        "description": "Genetic multiplexing of barcoded single cell RNA-seq",
         "topics": []
     },
     {
@@ -16065,6 +16159,17 @@
         "avatar": "",
         "description": "a software package comprised of three independent software modules (Inchworm, Chrysalis, and Butterfly) for the efficient and robust de novo reconstruction of transcriptomes from RNA-seq data.",
         "topics": []
+    },
+    {
+        "uid": "github/RECETOX/RIAssigner",
+        "url": "https://github.com/RECETOX/RIAssigner",
+        "rel": "/software/repository/github/RECETOX/RIAssigner",
+        "avatar": "https://avatars.githubusercontent.com/u/69039108?v=4",
+        "description": "RIAssigner is a python tool for retention index (RI) computation for GC-MS data.",
+        "topics": [
+            "mass-spectrometry",
+            "hacktoberfest"
+        ]
     },
     {
         "uid": "github/cogent3/cogent3",
@@ -17966,6 +18071,22 @@
         ]
     },
     {
+        "uid": "github/Martindelosrios/MeSsI",
+        "url": "https://github.com/Martindelosrios/MeSsI",
+        "rel": "/software/repository/github/Martindelosrios/MeSsI",
+        "avatar": "https://avatars.githubusercontent.com/u/18489439?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/Martindelosrios/cosmic-kite",
+        "url": "https://github.com/Martindelosrios/cosmic-kite",
+        "rel": "/software/repository/github/Martindelosrios/cosmic-kite",
+        "avatar": "https://avatars.githubusercontent.com/u/18489439?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/Martindelosrios/ROGER",
         "url": "https://github.com/Martindelosrios/ROGER",
         "rel": "/software/repository/github/Martindelosrios/ROGER",
@@ -19622,6 +19743,19 @@
         ]
     },
     {
+        "uid": "github/freesurfer/freesurfer",
+        "url": "https://github.com/freesurfer/freesurfer",
+        "rel": "/software/repository/github/freesurfer/freesurfer",
+        "avatar": "https://avatars.githubusercontent.com/u/6330653?v=4",
+        "description": "Neuroimaging analysis and visualization suite",
+        "topics": [
+            "freesurfer",
+            "neuroimaging",
+            "mri",
+            "lcn"
+        ]
+    },
+    {
         "uid": "github/pandas-dev/pandas",
         "url": "https://github.com/pandas-dev/pandas",
         "rel": "/software/repository/github/pandas-dev/pandas",
@@ -20299,6 +20433,23 @@
         "avatar": "https://avatars0.githubusercontent.com/u/19397687?v=4",
         "description": "Simple Image Analysis Library",
         "topics": []
+    },
+    {
+        "uid": "github/ronshnapp/MyPTV",
+        "url": "https://github.com/ronshnapp/MyPTV",
+        "rel": "/software/repository/github/ronshnapp/MyPTV",
+        "avatar": "https://avatars.githubusercontent.com/u/34024910?v=4",
+        "description": "MyPTV is an open source library designed for 3D particle Tracking (3D-PTV) measurements",
+        "topics": [
+            "python",
+            "particle-tracking",
+            "fluid-mechanics",
+            "experiments",
+            "measurements",
+            "photogrammetry",
+            "turbulence",
+            "3d-ptv"
+        ]
     },
     {
         "uid": "github/petigura/terra",
@@ -23731,6 +23882,18 @@
         "topics": []
     },
     {
+        "uid": "github/exoclime/Helios-r2",
+        "url": "https://github.com/exoclime/Helios-r2",
+        "rel": "/software/repository/github/exoclime/Helios-r2",
+        "avatar": "https://avatars.githubusercontent.com/u/61202311?v=4",
+        "description": "A Bayesian Nested-Sampling Retrieval Code",
+        "topics": [
+            "cuda",
+            "exoplanets",
+            "retrieval"
+        ]
+    },
+    {
         "uid": "github/exoclime/THOR",
         "url": "https://github.com/exoclime/THOR",
         "rel": "/software/repository/github/exoclime/THOR",
@@ -25720,6 +25883,14 @@
             "chip-seq",
             "rna-seq"
         ]
+    },
+    {
+        "uid": "github/ExoCTK/exoctk",
+        "url": "https://github.com/ExoCTK/exoctk",
+        "rel": "/software/repository/github/ExoCTK/exoctk",
+        "avatar": "https://avatars.githubusercontent.com/u/24390627?v=4",
+        "description": "The Exoplanet Characterization Tool Kit",
+        "topics": []
     },
     {
         "uid": "github/NMBU-Data-Science/RENT",
@@ -29148,6 +29319,14 @@
         "rel": "/software/repository/github/tmcclintock/AReconstructionTool",
         "avatar": "https://avatars.githubusercontent.com/u/10226392?v=4",
         "description": "ART: A Reconstruction Tool. For reconstructing probability distributions using Gaussian processes.",
+        "topics": []
+    },
+    {
+        "uid": "github/shangguandong1996/FindIT2",
+        "url": "https://github.com/shangguandong1996/FindIT2",
+        "rel": "/software/repository/github/shangguandong1996/FindIT2",
+        "avatar": "https://avatars.githubusercontent.com/u/22555126?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -34480,6 +34659,14 @@
         "topics": []
     },
     {
+        "uid": "github/davidpamos/MultiModes",
+        "url": "https://github.com/davidpamos/MultiModes",
+        "rel": "/software/repository/github/davidpamos/MultiModes",
+        "avatar": "https://avatars.githubusercontent.com/u/69325417?v=4",
+        "description": "An efficient tool for the analysis of pulsating stars",
+        "topics": []
+    },
+    {
         "uid": "github/krober10nd/SeismicMesh",
         "url": "https://github.com/krober10nd/SeismicMesh",
         "rel": "/software/repository/github/krober10nd/SeismicMesh",
@@ -35278,6 +35465,32 @@
         "topics": []
     },
     {
+        "uid": "github/minaskar/pocomc",
+        "url": "https://github.com/minaskar/pocomc",
+        "rel": "/software/repository/github/minaskar/pocomc",
+        "avatar": "https://avatars.githubusercontent.com/u/23280751?v=4",
+        "description": "pocoMC: A Python implementation of Preconditioned Monte Carlo for accelerated Bayesian Computation",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "bayesian-inference",
+            "black-box-bayesian-inference",
+            "cosmology",
+            "cosmology-inference",
+            "general-purpose",
+            "inference",
+            "machine-learning",
+            "mcmc",
+            "mcmc-sampler",
+            "normalizing-flows",
+            "probabilistic-data-analysis",
+            "python",
+            "sampling",
+            "sampling-methods",
+            "smc"
+        ]
+    },
+    {
         "uid": "github/minaskar/zeus",
         "url": "https://github.com/minaskar/zeus",
         "rel": "/software/repository/github/minaskar/zeus",
@@ -35565,6 +35778,20 @@
         ]
     },
     {
+        "uid": "github/sebastien-plutniak/archeofrag",
+        "url": "https://github.com/sebastien-plutniak/archeofrag",
+        "rel": "/software/repository/github/sebastien-plutniak/archeofrag",
+        "avatar": "https://avatars.githubusercontent.com/u/53480606?v=4",
+        "description": "R package for Refitting and Spatial Analysis in Archaeology",
+        "topics": [
+            "archaeology",
+            "archaeological-science",
+            "archaeological-objects",
+            "network-analysis",
+            "fragmentation"
+        ]
+    },
+    {
         "uid": "github/hknd23/idcempy",
         "url": "https://github.com/hknd23/idcempy",
         "rel": "/software/repository/github/hknd23/idcempy",
@@ -35799,6 +36026,19 @@
         "topics": []
     },
     {
+        "uid": "github/cgobat/asymmetric_uncertainty",
+        "url": "https://github.com/cgobat/asymmetric_uncertainty",
+        "rel": "/software/repository/github/cgobat/asymmetric_uncertainty",
+        "avatar": "https://avatars.githubusercontent.com/u/36030084?v=4",
+        "description": "A package that implements a class to represent numeric quantities with asymmetric uncertainties.",
+        "topics": [
+            "uncertainty-propagation",
+            "asymmetric-uncertainties",
+            "error-propagation",
+            "python"
+        ]
+    },
+    {
         "uid": "github/getzlab/rnaseqc",
         "url": "https://github.com/getzlab/rnaseqc",
         "rel": "/software/repository/github/getzlab/rnaseqc",
@@ -35880,6 +36120,14 @@
         "rel": "/software/repository/github/mkelley/zchecker",
         "avatar": "https://avatars.githubusercontent.com/u/1138643?v=4",
         "description": "ZTF moving target checker for short lists of moving targets",
+        "topics": []
+    },
+    {
+        "uid": "github/mkelley/calviacat",
+        "url": "https://github.com/mkelley/calviacat",
+        "rel": "/software/repository/github/mkelley/calviacat",
+        "avatar": "https://avatars.githubusercontent.com/u/1138643?v=4",
+        "description": "Calibrate star photometry by comparison to a catalog.",
         "topics": []
     },
     {
@@ -38923,6 +39171,14 @@
         "topics": []
     },
     {
+        "uid": "github/lanl/CosmicEmu",
+        "url": "https://github.com/lanl/CosmicEmu",
+        "rel": "/software/repository/github/lanl/CosmicEmu",
+        "avatar": "https://avatars.githubusercontent.com/u/585305?v=4",
+        "description": "Fast predictions for the matter power spectrum.",
+        "topics": []
+    },
+    {
         "uid": "github/lanl/PyBNF",
         "url": "https://github.com/lanl/PyBNF",
         "rel": "/software/repository/github/lanl/PyBNF",
@@ -39038,6 +39294,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/33319427?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/li-yangyang/lotus",
+        "url": "https://github.com/Li-Yangyang/LOTUS",
+        "rel": "/software/repository/github/li-yangyang/lotus",
+        "avatar": "https://avatars.githubusercontent.com/u/20237054?v=4",
+        "description": "Fast tool for 1D Non-LTE stellar parameter determination via Equivalent Width method",
+        "topics": [
+            "python3",
+            "radiative-transfer",
+            "radiative-transfer-models",
+            "non-local-thermodynamic-equilibrium",
+            "stellar-physics",
+            "astronomy",
+            "astrophysics",
+            "spectral-analysis",
+            "spectroscopy",
+            "mcmc"
+        ]
     },
     {
         "uid": "github/bxia888/CEFCIG",
@@ -39314,6 +39589,20 @@
             "astronomy",
             "stellar-astrophysics",
             "fortran"
+        ]
+    },
+    {
+        "uid": "github/hpparvi/MuSCAT2_transit_pipeline",
+        "url": "https://github.com/hpparvi/MuSCAT2_transit_pipeline",
+        "rel": "/software/repository/github/hpparvi/MuSCAT2_transit_pipeline",
+        "avatar": "https://avatars.githubusercontent.com/u/327523?v=4",
+        "description": "MuSCAT2 transit analysis pipeline",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "exoplanets",
+            "photometry",
+            "exoplanet-transits"
         ]
     },
     {
@@ -42212,6 +42501,14 @@
         ]
     },
     {
+        "uid": "github/stammler/dustpy",
+        "url": "https://github.com/stammler/dustpy",
+        "rel": "/software/repository/github/stammler/dustpy",
+        "avatar": "https://avatars.githubusercontent.com/u/21321343?v=4",
+        "description": "Python package for the simulation of dust evolution in protoplanetary disks.",
+        "topics": []
+    },
+    {
         "uid": "github/GRIT-RBSim/GRIT",
         "url": "https://github.com/GRIT-RBSim/GRIT",
         "rel": "/software/repository/github/GRIT-RBSim/GRIT",
@@ -44042,6 +44339,14 @@
             "astrophysics",
             "binaries"
         ]
+    },
+    {
+        "uid": "github/danhey/echelle",
+        "url": "https://github.com/danhey/echelle",
+        "rel": "/software/repository/github/danhey/echelle",
+        "avatar": "https://avatars.githubusercontent.com/u/38233719?v=4",
+        "description": "Dynamic echelle diagrams for asteroseismology",
+        "topics": []
     },
     {
         "uid": "github/oscaribv/pyaneti",
