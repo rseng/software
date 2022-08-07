@@ -2067,6 +2067,21 @@
         "topics": []
     },
     {
+        "uid": "github/sparks-baird/xtal2png",
+        "url": "https://github.com/sparks-baird/xtal2png",
+        "rel": "/software/repository/github/sparks-baird/xtal2png",
+        "avatar": "https://avatars.githubusercontent.com/u/71920635?v=4",
+        "description": "Encode/decode a crystal structure to/from a grayscale PNG image for direct use with image-based machine learning models such as Palette.",
+        "topics": [
+            "crystallography",
+            "image-processing",
+            "machine-learning",
+            "materials-informatics",
+            "python",
+            "materials-science"
+        ]
+    },
+    {
         "uid": "github/andr1976/HydDown",
         "url": "https://github.com/andr1976/HydDown",
         "rel": "/software/repository/github/andr1976/HydDown",
@@ -5306,6 +5321,14 @@
             "telescope",
             "murchison-widefield-array"
         ]
+    },
+    {
+        "uid": "github/huchiayu/ParticleGridMapper.jl",
+        "url": "https://github.com/huchiayu/ParticleGridMapper.jl",
+        "rel": "/software/repository/github/huchiayu/ParticleGridMapper.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/23061774?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/fmihpc/analysator",
@@ -13789,6 +13812,14 @@
         "topics": []
     },
     {
+        "uid": "github/simoncasassus/ConeRot",
+        "url": "https://github.com/simoncasassus/ConeRot",
+        "rel": "/software/repository/github/simoncasassus/ConeRot",
+        "avatar": "https://avatars.githubusercontent.com/u/22455693?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/COINtoolbox/DRACULA",
         "url": "https://github.com/COINtoolbox/DRACULA",
         "rel": "/software/repository/github/COINtoolbox/DRACULA",
@@ -13921,6 +13952,14 @@
         "topics": []
     },
     {
+        "uid": "github/astro-informatics/massmappy",
+        "url": "https://github.com/astro-informatics/massmappy",
+        "rel": "/software/repository/github/astro-informatics/massmappy",
+        "avatar": "https://avatars.githubusercontent.com/u/10872187?v=4",
+        "description": "Mapping dark matter on the celestial sphere",
+        "topics": []
+    },
+    {
         "uid": "github/astro-informatics/RequiSim",
         "url": "https://github.com/astro-informatics/RequiSim",
         "rel": "/software/repository/github/astro-informatics/RequiSim",
@@ -13934,6 +13973,14 @@
         "rel": "/software/repository/github/astro-informatics/flag-archive",
         "avatar": "https://avatars.githubusercontent.com/u/10872187?v=4",
         "description": "Fast Fourier-Laguerre transform on the ball and exact spherical Bessel and Fourier-Bessel transforms",
+        "topics": []
+    },
+    {
+        "uid": "github/astro-informatics/ssht",
+        "url": "https://github.com/astro-informatics/ssht",
+        "rel": "/software/repository/github/astro-informatics/ssht",
+        "avatar": "https://avatars.githubusercontent.com/u/10872187?v=4",
+        "description": "Fast and exact spin spherical harmonic transforms",
         "topics": []
     },
     {
@@ -14466,6 +14513,36 @@
             "deep-learning",
             "python",
             "nlp"
+        ]
+    },
+    {
+        "uid": "github/cpinte/casa_cube",
+        "url": "https://github.com/cpinte/casa_cube",
+        "rel": "/software/repository/github/cpinte/casa_cube",
+        "avatar": "https://avatars.githubusercontent.com/u/4163533?v=4",
+        "description": "python tool to display and analysis astronomical data cubes",
+        "topics": []
+    },
+    {
+        "uid": "github/cpinte/pymcfost",
+        "url": "https://github.com/cpinte/pymcfost",
+        "rel": "/software/repository/github/cpinte/pymcfost",
+        "avatar": "https://avatars.githubusercontent.com/u/4163533?v=4",
+        "description": "python interface to the 3D radiative transfer code mcfost",
+        "topics": []
+    },
+    {
+        "uid": "github/cpinte/mcfost",
+        "url": "https://github.com/cpinte/mcfost",
+        "rel": "/software/repository/github/cpinte/mcfost",
+        "avatar": "https://avatars.githubusercontent.com/u/4163533?v=4",
+        "description": "MCFOST radiative transfer code",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "astrophysical-simulation",
+            "radiative-transfer",
+            "fortran"
         ]
     },
     {
@@ -15080,6 +15157,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/651584?v=4",
         "description": "a lower memory and more computationally efficient implementation of the genotype imputation algorithms in minimac/mininac2/minimac3.",
         "topics": []
+    },
+    {
+        "uid": "github/statgen/popscle",
+        "url": "https://github.com/statgen/popscle",
+        "rel": "/software/repository/github/statgen/popscle",
+        "avatar": "https://avatars.githubusercontent.com/u/651584?v=4",
+        "description": "A suite of population scale analysis tools for single-cell genomics data including implementation of Demuxlet / Freemuxlet methods and auxilary tools",
+        "topics": [
+            "rna-seq",
+            "demultiplex",
+            "single-cell-sequencing",
+            "single-cell-rna-seq",
+            "single-cell-omics"
+        ]
     },
     {
         "uid": "github/statgen/demuxlet",
@@ -16472,6 +16563,17 @@
         "topics": []
     },
     {
+        "uid": "github/barricklab/pLannotate",
+        "url": "https://github.com/barricklab/pLannotate",
+        "rel": "/software/repository/github/barricklab/pLannotate",
+        "avatar": "https://avatars.githubusercontent.com/u/11457754?v=4",
+        "description": "Webserver and command line tool for annotating engineered plasmids",
+        "topics": [
+            "plasmid-annotation",
+            "webserver"
+        ]
+    },
+    {
         "uid": "github/rhysf/HaplotypeTools",
         "url": "https://github.com/rhysf/HaplotypeTools",
         "rel": "/software/repository/github/rhysf/HaplotypeTools",
@@ -17081,6 +17183,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/16056713?v=4",
         "description": "Measure the molecular emission surface of protoplanetary disks. Based on Pinte et al. (2018).",
         "topics": []
+    },
+    {
+        "uid": "github/chhylp123/hifiasm",
+        "url": "https://github.com/chhylp123/hifiasm",
+        "rel": "/software/repository/github/chhylp123/hifiasm",
+        "avatar": "https://avatars.githubusercontent.com/u/11708053?v=4",
+        "description": "Hifiasm: a haplotype-resolved assembler for accurate Hifi reads ",
+        "topics": [
+            "bioinformatics",
+            "denovo-assembly",
+            "genomics",
+            "hifi-read",
+            "pacbio"
+        ]
     },
     {
         "uid": "github/RafiKueng/SpaghettiLens",
@@ -19893,6 +20009,21 @@
         "topics": []
     },
     {
+        "uid": "github/aabdurrouf/piXedfit",
+        "url": "https://github.com/aabdurrouf/piXedfit",
+        "rel": "/software/repository/github/aabdurrouf/piXedfit",
+        "avatar": "https://avatars.githubusercontent.com/u/45021817?v=4",
+        "description": "piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies  ",
+        "topics": [
+            "astrophysics",
+            "galaxies",
+            "astronomical-images",
+            "astronomical-spectroscopy",
+            "pixel-binning",
+            "sed-fitting"
+        ]
+    },
+    {
         "uid": "github/pelahi/TreeFrog",
         "url": "https://github.com/pelahi/TreeFrog",
         "rel": "/software/repository/github/pelahi/TreeFrog",
@@ -22362,6 +22493,14 @@
         ]
     },
     {
+        "uid": "github/pavanvyn/triple-stability",
+        "url": "https://github.com/pavanvyn/triple-stability",
+        "rel": "/software/repository/github/pavanvyn/triple-stability",
+        "avatar": "https://avatars.githubusercontent.com/u/16152500?v=4",
+        "description": "Code to check if a given configuration of a triple-star system is dynamically stable",
+        "topics": []
+    },
+    {
         "uid": "github/tripathi/Atmospheric-Athena",
         "url": "https://github.com/tripathi/Atmospheric-Athena",
         "rel": "/software/repository/github/tripathi/Atmospheric-Athena",
@@ -22728,6 +22867,14 @@
             "automated",
             "ifu"
         ]
+    },
+    {
+        "uid": "github/psheehan/pdspy",
+        "url": "https://github.com/psheehan/pdspy",
+        "rel": "/software/repository/github/psheehan/pdspy",
+        "avatar": "https://avatars.githubusercontent.com/u/5460275?v=4",
+        "description": "pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling",
+        "topics": []
     },
     {
         "uid": "github/nicolet5/DiffCapAnalyzer",
@@ -24983,6 +25130,16 @@
         "topics": []
     },
     {
+        "uid": "github/krab1k/ChargeFW2",
+        "url": "https://github.com/krab1k/ChargeFW2",
+        "rel": "/software/repository/github/krab1k/ChargeFW2",
+        "avatar": "https://avatars.githubusercontent.com/u/16164737?v=4",
+        "description": "The core part of Atomic Charge Calculator II.",
+        "topics": [
+            "charges"
+        ]
+    },
+    {
         "uid": "github/tidyverse/glue",
         "url": "https://github.com/tidyverse/glue",
         "rel": "/software/repository/github/tidyverse/glue",
@@ -26373,6 +26530,14 @@
             "deep-learning",
             "convolutional-neural-networks"
         ]
+    },
+    {
+        "uid": "github/marcelauliano/MitoHiFi",
+        "url": "https://github.com/marcelauliano/MitoHiFi",
+        "rel": "/software/repository/github/marcelauliano/MitoHiFi",
+        "avatar": "https://avatars.githubusercontent.com/u/4116164?v=4",
+        "description": "Find, circularise and annotate mitogenome from PacBio assemblies",
+        "topics": []
     },
     {
         "uid": "github/brian-lau/MatlabAUC",
@@ -29494,6 +29659,14 @@
         "topics": []
     },
     {
+        "uid": "github/ncbi/datasets",
+        "url": "https://github.com/ncbi/datasets",
+        "rel": "/software/repository/github/ncbi/datasets",
+        "avatar": "https://avatars.githubusercontent.com/u/3812119?v=4",
+        "description": "NCBI Datasets is an experimental resource for finding and building datasets",
+        "topics": []
+    },
+    {
         "uid": "github/ncbi/ncbi-vdb",
         "url": "https://github.com/ncbi/ncbi-vdb",
         "rel": "/software/repository/github/ncbi/ncbi-vdb",
@@ -31592,6 +31765,14 @@
         "rel": "/software/repository/github/icbm-iupui/STAFF",
         "avatar": "https://avatars3.githubusercontent.com/u/7242496?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/dgerosa/gwdet",
+        "url": "https://github.com/dgerosa/gwdet",
+        "rel": "/software/repository/github/dgerosa/gwdet",
+        "avatar": "https://avatars.githubusercontent.com/u/7237041?v=4",
+        "description": "Detectability of gravitational-wave signals from compact binary coalescences",
         "topics": []
     },
     {
@@ -34148,6 +34329,16 @@
         "avatar": "https://avatars.githubusercontent.com/u/43679387?v=4",
         "description": "This package is an open-source (GPLv3) interface between QM and MM software so that QM/MM calculations can be performed with polarizable and frozen electron density force fields. Functionality is also present for standard point-charge based force fields, pure MM, and pure QM calculations.",
         "topics": []
+    },
+    {
+        "uid": "github/LCOGT/banzai",
+        "url": "https://github.com/LCOGT/banzai",
+        "rel": "/software/repository/github/LCOGT/banzai",
+        "avatar": "https://avatars.githubusercontent.com/u/3358238?v=4",
+        "description": "Beautiful Algorithms to Normalize Zillions of Astronomical Images",
+        "topics": [
+            "backend"
+        ]
     },
     {
         "uid": "github/pmelchior/epsnoise",
@@ -41470,6 +41661,18 @@
         ]
     },
     {
+        "uid": "github/RafaelSdeSouza/qrpca",
+        "url": "https://github.com/RafaelSdeSouza/qrpca",
+        "rel": "/software/repository/github/RafaelSdeSouza/qrpca",
+        "avatar": "https://avatars.githubusercontent.com/u/3153856?v=4",
+        "description": "QR based Principal Components Analysis",
+        "topics": [
+            "pca",
+            "r",
+            "dimensionality-reduction"
+        ]
+    },
+    {
         "uid": "github/mrtommyb/ktransit",
         "url": "https://github.com/mrtommyb/ktransit",
         "rel": "/software/repository/github/mrtommyb/ktransit",
@@ -43319,6 +43522,14 @@
         "topics": []
     },
     {
+        "uid": "github/seheonoh/baygaud",
+        "url": "https://github.com/seheonoh/baygaud",
+        "rel": "/software/repository/github/seheonoh/baygaud",
+        "avatar": "https://avatars.githubusercontent.com/u/24447326?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/seheonoh/2dbat",
         "url": "https://github.com/seheonoh/2dbat",
         "rel": "/software/repository/github/seheonoh/2dbat",
@@ -43429,6 +43640,14 @@
         "rel": "/software/repository/github/labjg/fibmeasure",
         "avatar": "https://avatars.githubusercontent.com/u/8569725?v=4",
         "description": "Python/Cython module to find the centre of back-illuminated optical fibres in metrology images",
+        "topics": []
+    },
+    {
+        "uid": "github/max-little/GRAPL",
+        "url": "https://github.com/max-little/GRAPL",
+        "rel": "/software/repository/github/max-little/GRAPL",
+        "avatar": "https://avatars.githubusercontent.com/u/102555976?v=4",
+        "description": "GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference",
         "topics": []
     },
     {
@@ -43935,6 +44154,14 @@
         ]
     },
     {
+        "uid": "github/bic-nirrh/precocity",
+        "url": "https://github.com/bic-nirrh/precocity",
+        "rel": "/software/repository/github/bic-nirrh/precocity",
+        "avatar": "https://avatars.githubusercontent.com/u/56425008?v=4",
+        "description": "Database and enrichment analysis of genes associated with precocious puberty",
+        "topics": []
+    },
+    {
         "uid": "github/EddyRivasLab/hmmer",
         "url": "https://github.com/EddyRivasLab/hmmer",
         "rel": "/software/repository/github/EddyRivasLab/hmmer",
@@ -44306,6 +44533,14 @@
         "rel": "/software/repository/github/Alymantara/pydoppler",
         "avatar": "https://avatars.githubusercontent.com/u/5550434?v=4",
         "description": "A python wrapper for Henk Spruit's doppler tomography software",
+        "topics": []
+    },
+    {
+        "uid": "github/Cadaei-Yuvxvs/OSHy-X",
+        "url": "https://github.com/Cadaei-Yuvxvs/OSHy-X",
+        "rel": "/software/repository/github/Cadaei-Yuvxvs/OSHy-X",
+        "avatar": "https://avatars.githubusercontent.com/u/56923643?v=4",
+        "description": "Open Source Hypothalamic Atlas and Segmentation for 3T and 7T",
         "topics": []
     },
     {
