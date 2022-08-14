@@ -1524,6 +1524,18 @@
         "topics": []
     },
     {
+        "uid": "github/COMBINE-lab/terminus",
+        "url": "https://github.com/COMBINE-lab/terminus",
+        "rel": "/software/repository/github/COMBINE-lab/terminus",
+        "avatar": "https://avatars.githubusercontent.com/u/8410750?v=4",
+        "description": "enables the discovery of data-driven, robust transcript groups from RNA-seq data.",
+        "topics": [
+            "rna-seq",
+            "transcriptomics",
+            "gene-expression"
+        ]
+    },
+    {
         "uid": "github/COMBINE-lab/pufferfish",
         "url": "https://github.com/COMBINE-lab/pufferfish",
         "rel": "/software/repository/github/COMBINE-lab/pufferfish",
@@ -1562,6 +1574,22 @@
             "rna-seq-quantification",
             "single-cell-rna-seq",
             "transcriptome"
+        ]
+    },
+    {
+        "uid": "github/COMBINE-lab/alevin-fry",
+        "url": "https://github.com/COMBINE-lab/alevin-fry",
+        "rel": "/software/repository/github/COMBINE-lab/alevin-fry",
+        "avatar": "https://avatars.githubusercontent.com/u/8410750?v=4",
+        "description": "\ud83d\udc1f \ud83d\udd2c\ud83e\udd80  alevin-fry is an efficient and flexible tool for processing single-cell sequencing data, currently focused on single-cell transcriptomics and feature barcoding.",
+        "topics": [
+            "single-cell",
+            "rust",
+            "transcriptomics",
+            "rna-seq",
+            "single-cell-rna-seq",
+            "quantification",
+            "10x"
         ]
     },
     {
@@ -5389,6 +5417,14 @@
         "rel": "/software/repository/github/jakevdp/wpca",
         "avatar": "https://avatars.githubusercontent.com/u/781659?v=4",
         "description": "Weighted Principal Component Analysis (PCA) in Python",
+        "topics": []
+    },
+    {
+        "uid": "github/agshumate/LiftoffTools",
+        "url": "https://github.com/agshumate/LiftoffTools",
+        "rel": "/software/repository/github/agshumate/LiftoffTools",
+        "avatar": "https://avatars.githubusercontent.com/u/29218752?v=4",
+        "description": "is a toolkit to compare genes lifted between genome assemblies.",
         "topics": []
     },
     {
@@ -12535,6 +12571,14 @@
         ]
     },
     {
+        "uid": "github/mh-skjelvareid/synaptus",
+        "url": "https://github.com/mh-skjelvareid/synaptus",
+        "rel": "/software/repository/github/mh-skjelvareid/synaptus",
+        "avatar": "https://avatars.githubusercontent.com/u/16107898?v=4",
+        "description": "A Matlab/Octave toolbox for synthetic aperture ultrasound imaging",
+        "topics": []
+    },
+    {
         "uid": "github/SPARTA-dev/SPARTA",
         "url": "https://github.com/SPARTA-dev/SPARTA",
         "rel": "/software/repository/github/SPARTA-dev/SPARTA",
@@ -13359,6 +13403,14 @@
         ]
     },
     {
+        "uid": "github/domschrei/mallob",
+        "url": "https://github.com/domschrei/mallob",
+        "rel": "/software/repository/github/domschrei/mallob",
+        "avatar": "https://avatars.githubusercontent.com/u/17687040?v=4",
+        "description": "Malleable Load Balancer. Massively Parallel Logic Backend. Award-winning SAT solving for the cloud.",
+        "topics": []
+    },
+    {
         "uid": "github/hposborn/MonoTools",
         "url": "https://github.com/hposborn/MonoTools",
         "rel": "/software/repository/github/hposborn/MonoTools",
@@ -13907,6 +13959,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/1314530?v=4",
         "description": "Full Frame Fotometry from the Kepler Full Frame Images",
         "topics": []
+    },
+    {
+        "uid": "github/JacobBumgarner/VesselVio",
+        "url": "https://github.com/JacobBumgarner/VesselVio",
+        "rel": "/software/repository/github/JacobBumgarner/VesselVio",
+        "avatar": "https://avatars.githubusercontent.com/u/70919881?v=4",
+        "description": "VesselVio is an open-source application for the analysis and visualization of segmented vasculature datasets",
+        "topics": [
+            "open-source",
+            "visualization",
+            "analysis"
+        ]
     },
     {
         "uid": "github/fumi-github/omicwas",
@@ -19115,6 +19179,14 @@
         ]
     },
     {
+        "uid": "github/myfang2021/VIPPID",
+        "url": "https://github.com/myfang2021/VIPPID",
+        "rel": "/software/repository/github/myfang2021/VIPPID",
+        "avatar": "https://avatars.githubusercontent.com/u/85163173?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/fdebras/ECLIPS3D",
         "url": "https://github.com/fdebras/ECLIPS3D",
         "rel": "/software/repository/github/fdebras/ECLIPS3D",
@@ -21473,6 +21545,14 @@
         "topics": []
     },
     {
+        "uid": "github/peikuan/WBBC",
+        "url": "https://github.com/peikuan/WBBC",
+        "rel": "/software/repository/github/peikuan/WBBC",
+        "avatar": "https://avatars.githubusercontent.com/u/103729199?v=4",
+        "description": "Westlake BioBank for Chinese pilot project",
+        "topics": []
+    },
+    {
         "uid": "github/spectrapepper/spectrapepper",
         "url": "https://github.com/spectrapepper/spectrapepper",
         "rel": "/software/repository/github/spectrapepper/spectrapepper",
@@ -22710,6 +22790,14 @@
         "topics": []
     },
     {
+        "uid": "github/flyaflya/causact",
+        "url": "https://github.com/flyaflya/causact",
+        "rel": "/software/repository/github/flyaflya/causact",
+        "avatar": "https://avatars.githubusercontent.com/u/17184441?v=4",
+        "description": "causact:  R package to accelerate Bayesian analytics workflows.",
+        "topics": []
+    },
+    {
         "uid": "github/gijut/gnucash",
         "url": "https://github.com/gijut/gnucash",
         "rel": "/software/repository/github/gijut/gnucash",
@@ -23801,6 +23889,14 @@
         "rel": "/software/repository/github/fakedrtom/oncogemini",
         "avatar": "https://avatars.githubusercontent.com/u/27868365?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/10XGenomics/bamtofastq",
+        "url": "https://github.com/10XGenomics/bamtofastq",
+        "rel": "/software/repository/github/10XGenomics/bamtofastq",
+        "avatar": "https://avatars.githubusercontent.com/u/9890104?v=4",
+        "description": "Convert 10x BAM files to the original FASTQs compatible with 10x pipelines",
         "topics": []
     },
     {
@@ -28670,6 +28766,14 @@
         "topics": []
     },
     {
+        "uid": "github/AnantharamanLab/vRhyme",
+        "url": "https://github.com/AnantharamanLab/vRhyme",
+        "rel": "/software/repository/github/AnantharamanLab/vRhyme",
+        "avatar": "https://avatars.githubusercontent.com/u/47664496?v=4",
+        "description": "Binning Virus Genomes from Metagenomes",
+        "topics": []
+    },
+    {
         "uid": "github/jiahecui/SenAOReFoc",
         "url": "https://github.com/jiahecui/SenAOReFoc",
         "rel": "/software/repository/github/jiahecui/SenAOReFoc",
@@ -29247,6 +29351,14 @@
             "distributed-systems",
             "cuda-kernels"
         ]
+    },
+    {
+        "uid": "github/maximewack/viroCapt",
+        "url": "https://github.com/MaximeWack/viroCapt",
+        "rel": "/software/repository/github/maximewack/viroCapt",
+        "avatar": "https://avatars.githubusercontent.com/u/2104109?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/zkdtc/MLC_ELGs",
@@ -32477,6 +32589,14 @@
         "topics": []
     },
     {
+        "uid": "github/connor-lab/vapor",
+        "url": "https://github.com/connor-lab/vapor",
+        "rel": "/software/repository/github/connor-lab/vapor",
+        "avatar": "https://avatars.githubusercontent.com/u/41902601?v=4",
+        "description": "is a tool for classification of Influenza samples from raw short read sequence data for downstream bioinformatics analysis.",
+        "topics": []
+    },
+    {
         "uid": "github/ejhigson/perfectns",
         "url": "https://github.com/ejhigson/perfectns",
         "rel": "/software/repository/github/ejhigson/perfectns",
@@ -33666,6 +33786,20 @@
         "avatar": "https://avatars2.githubusercontent.com/u/40352101?v=4",
         "description": "Heating Profiles",
         "topics": []
+    },
+    {
+        "uid": "github/OceanGenomics/mudskipper",
+        "url": "https://github.com/OceanGenomics/mudskipper",
+        "rel": "/software/repository/github/OceanGenomics/mudskipper",
+        "avatar": "https://avatars.githubusercontent.com/u/41634132?v=4",
+        "description": "A tool for projecting genomic alignments to transcriptomic coordinates",
+        "topics": [
+            "bioinformatics",
+            "rna-seq",
+            "scrna-seq",
+            "transcriptomics",
+            "converter"
+        ]
     },
     {
         "uid": "github/saltastro/pyhrs",
@@ -36547,6 +36681,22 @@
         "topics": []
     },
     {
+        "uid": "github/tolkit/telomeric-identifier",
+        "url": "https://github.com/tolkit/telomeric-identifier",
+        "rel": "/software/repository/github/tolkit/telomeric-identifier",
+        "avatar": "https://avatars.githubusercontent.com/u/67783554?v=4",
+        "description": "Identify and find telomeres, or telomeric repeats in a genome.",
+        "topics": [
+            "genome",
+            "rust",
+            "telomere",
+            "repeats",
+            "telomeric",
+            "telomeres",
+            "bioinformatics"
+        ]
+    },
+    {
         "uid": "github/WelbornGroup/ELECTRIC",
         "url": "https://github.com/WelbornGroup/ELECTRIC",
         "rel": "/software/repository/github/WelbornGroup/ELECTRIC",
@@ -36775,6 +36925,14 @@
         "rel": "/software/repository/github/weizhouUMICH/SAIGE",
         "avatar": "https://avatars.githubusercontent.com/u/9952559?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/Onogi/VIGoR",
+        "url": "https://github.com/Onogi/VIGoR",
+        "rel": "/software/repository/github/Onogi/VIGoR",
+        "avatar": "https://avatars.githubusercontent.com/u/11764076?v=4",
+        "description": "Variational Bayesian Inference for Genome-Wide Regression",
         "topics": []
     },
     {
@@ -41961,6 +42119,14 @@
         ]
     },
     {
+        "uid": "github/ajohnson-uoregon/llvm-project",
+        "url": "https://github.com/ajohnson-uoregon/llvm-project",
+        "rel": "/software/repository/github/ajohnson-uoregon/llvm-project",
+        "avatar": "https://avatars.githubusercontent.com/u/37465135?v=4",
+        "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+        "topics": []
+    },
+    {
         "uid": "github/nf-core/mag",
         "url": "https://github.com/nf-core/mag",
         "rel": "/software/repository/github/nf-core/mag",
@@ -42585,6 +42751,14 @@
             "python",
             "scverse"
         ]
+    },
+    {
+        "uid": "github/maize-genetics/rTASSEL",
+        "url": "https://github.com/maize-genetics/rTASSEL",
+        "rel": "/software/repository/github/maize-genetics/rTASSEL",
+        "avatar": "https://avatars.githubusercontent.com/u/53280986?v=4",
+        "description": "R front-end for TASSEL",
+        "topics": []
     },
     {
         "uid": "github/pikarpov-LANL/Sapsan",
@@ -43635,6 +43809,14 @@
         "topics": []
     },
     {
+        "uid": "github/putonti/virmine",
+        "url": "https://github.com/putonti/virMine",
+        "rel": "/software/repository/github/putonti/virmine",
+        "avatar": "https://avatars.githubusercontent.com/u/10090771?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/labjg/fibmeasure",
         "url": "https://github.com/labjg/fibmeasure",
         "rel": "/software/repository/github/labjg/fibmeasure",
@@ -44110,6 +44292,14 @@
             "performance",
             "big-data"
         ]
+    },
+    {
+        "uid": "github/stevenweaver/seqcomplexity",
+        "url": "https://github.com/stevenweaver/seqcomplexity",
+        "rel": "/software/repository/github/stevenweaver/seqcomplexity",
+        "avatar": "https://avatars.githubusercontent.com/u/535261?v=4",
+        "description": "Rust package that calculates sequence complexity from FastQ file",
+        "topics": []
     },
     {
         "uid": "github/rhenkin/visxhclust",
