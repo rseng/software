@@ -222,6 +222,21 @@
         ]
     },
     {
+        "uid": "github/micahvista/MAMnet",
+        "url": "https://github.com/micahvista/MAMnet",
+        "rel": "/software/repository/github/micahvista/MAMnet",
+        "avatar": "https://avatars.githubusercontent.com/u/38337171?v=4",
+        "description": "MAMnet uses a deep learning network to call genetic variants from third generation DNA sequencing data.",
+        "topics": [
+            "bioinformatics",
+            "genomics",
+            "structural-variation-calling",
+            "structural-variations",
+            "deep-learning",
+            "deep-neural-networks"
+        ]
+    },
+    {
         "uid": "github/Pas-Kapli/mptp",
         "url": "https://github.com/Pas-Kapli/mptp",
         "rel": "/software/repository/github/Pas-Kapli/mptp",
@@ -393,6 +408,18 @@
             "vcf",
             "java-api",
             "java"
+        ]
+    },
+    {
+        "uid": "github/floodlight-sports/floodlight",
+        "url": "https://github.com/floodlight-sports/floodlight",
+        "rel": "/software/repository/github/floodlight-sports/floodlight",
+        "avatar": "https://avatars.githubusercontent.com/u/92793483?v=4",
+        "description": "Python package for streamlined analysis of sports data.",
+        "topics": [
+            "python",
+            "sports-analytics",
+            "sports-stats"
         ]
     },
     {
@@ -919,6 +946,27 @@
         "avatar": "https://avatars.githubusercontent.com/u/41995646?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/ejikeugba/gofcat",
+        "url": "https://github.com/ejikeugba/gofcat",
+        "rel": "/software/repository/github/ejikeugba/gofcat",
+        "avatar": "https://avatars.githubusercontent.com/u/32841384?v=4",
+        "description": "Goodness-of-fit tests for categorical response models",
+        "topics": [
+            "hosmer-lemeshow-test",
+            "lipsitz-test",
+            "pulkstenis-robinson-test",
+            "brant-test",
+            "likelihood-ratio-test",
+            "proportional-odds-test",
+            "pseudo-r2",
+            "brier-scores",
+            "log-loss-score-metric",
+            "misclassification",
+            "logistic-regression",
+            "ordinal-regression"
+        ]
     },
     {
         "uid": "github/ejikeugba/serp",
@@ -12631,6 +12679,21 @@
         "topics": []
     },
     {
+        "uid": "github/Mat-dp/mat-dp-core",
+        "url": "https://github.com/Mat-dp/mat-dp-core",
+        "rel": "/software/repository/github/Mat-dp/mat-dp-core",
+        "avatar": "https://avatars.githubusercontent.com/u/104203060?v=4",
+        "description": "Mat-dp core cotains the key methods used in the broader Mat-dp model. Mat-dp aims to deliver user-friendly and open-access software to study the environmental implications of materials used for building low-carbon systems.",
+        "topics": [
+            "modelling-tool",
+            "bulk-materials",
+            "critical-materials",
+            "embodied-emissions",
+            "low-carbon-systems",
+            "material-demand"
+        ]
+    },
+    {
         "uid": "github/esteinig/nanoq",
         "url": "https://github.com/esteinig/nanoq",
         "rel": "/software/repository/github/esteinig/nanoq",
@@ -12705,6 +12768,19 @@
             "meg",
             "ecog",
             "neuroimaging"
+        ]
+    },
+    {
+        "uid": "github/mne-tools/mne-icalabel",
+        "url": "https://github.com/mne-tools/mne-icalabel",
+        "rel": "/software/repository/github/mne-tools/mne-icalabel",
+        "avatar": "https://avatars.githubusercontent.com/u/583875?v=4",
+        "description": "Automatic labeling of ICA components in Python.",
+        "topics": [
+            "eeg",
+            "ica",
+            "neuroscience",
+            "python"
         ]
     },
     {
@@ -12814,6 +12890,14 @@
         "rel": "/software/repository/github/heatherprince/cosmoped",
         "avatar": "https://avatars.githubusercontent.com/u/15628365?v=4",
         "description": "Compressed CMB likelihood code that uses the MOPED (Multiple/Massively Optimised Parameter Estimation and Data compression) compression scheme to compress the Planck power spectrum",
+        "topics": []
+    },
+    {
+        "uid": "github/valentineap/pyprop8",
+        "url": "https://github.com/valentineap/pyprop8",
+        "rel": "/software/repository/github/valentineap/pyprop8",
+        "avatar": "https://avatars.githubusercontent.com/u/4602811?v=4",
+        "description": "A lightweight  Python code to calculate the seismic response of a layered half-space (including static components), and derivatives of the wavefield wrt source components.",
         "topics": []
     },
     {
@@ -15221,6 +15305,14 @@
         "rel": "/software/repository/github/stedolan/jq",
         "avatar": "https://avatars.githubusercontent.com/u/79765?v=4",
         "description": "Command-line JSON processor",
+        "topics": []
+    },
+    {
+        "uid": "github/travisseymour/EPICpy",
+        "url": "https://github.com/travisseymour/EPICpy",
+        "rel": "/software/repository/github/travisseymour/EPICpy",
+        "avatar": "https://avatars.githubusercontent.com/u/1205358?v=4",
+        "description": "Cross Platform Python Interface for EPIC modeling using C++ EPIClib backend",
         "topics": []
     },
     {
@@ -33448,6 +33540,14 @@
         ]
     },
     {
+        "uid": "github/BioHPC/MegaD",
+        "url": "https://github.com/BioHPC/MegaD",
+        "rel": "/software/repository/github/BioHPC/MegaD",
+        "avatar": "https://avatars.githubusercontent.com/u/15250025?v=4",
+        "description": "Deep learning for metagenomic sample classification",
+        "topics": []
+    },
+    {
         "uid": "github/davek44/Glimmer-MG",
         "url": "https://github.com/davek44/Glimmer-MG",
         "rel": "/software/repository/github/davek44/Glimmer-MG",
@@ -36157,6 +36257,14 @@
         "rel": "/software/repository/github/ewanbarr/peasoup",
         "avatar": "https://avatars.githubusercontent.com/u/1140812?v=4",
         "description": "C++/CUDA GPU pulsar searching library",
+        "topics": []
+    },
+    {
+        "uid": "github/stefanoMP/massiveGST",
+        "url": "https://github.com/stefanoMP/massiveGST",
+        "rel": "/software/repository/github/stefanoMP/massiveGST",
+        "avatar": "https://avatars.githubusercontent.com/u/18364052?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -39387,6 +39495,14 @@
         "topics": []
     },
     {
+        "uid": "github/matthiasdemuzere/w2w",
+        "url": "https://github.com/matthiasdemuzere/w2w",
+        "rel": "/software/repository/github/matthiasdemuzere/w2w",
+        "avatar": "https://avatars.githubusercontent.com/u/6926916?v=4",
+        "description": "A python tool that ingests WUDAPT information into WRF.",
+        "topics": []
+    },
+    {
         "uid": "github/reproducible-biomedical-modeling/Biosimulations",
         "url": "https://github.com/biosimulations/Biosimulations",
         "rel": "/software/repository/github/reproducible-biomedical-modeling/Biosimulations",
@@ -40455,6 +40571,22 @@
         "topics": []
     },
     {
+        "uid": "github/cicirello/rho-mu",
+        "url": "https://github.com/cicirello/rho-mu",
+        "rel": "/software/repository/github/cicirello/rho-mu",
+        "avatar": "https://avatars.githubusercontent.com/u/762030?v=4",
+        "description": "\u03c1\u03bc - a Java library of Randomization enHancements and Other Math Utilities",
+        "topics": [
+            "randomizer",
+            "randomization",
+            "gaussian",
+            "cauchy",
+            "binomial",
+            "pseudorandom",
+            "random-numbers"
+        ]
+    },
+    {
         "uid": "github/xmuyulab/DreamDIA-XMBD",
         "url": "https://github.com/xmuyulab/DreamDIA-XMBD",
         "rel": "/software/repository/github/xmuyulab/DreamDIA-XMBD",
@@ -41217,6 +41349,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/2669162?v=4",
         "description": "dips: detrending periodic signals in timeseries.",
         "topics": []
+    },
+    {
+        "uid": "github/tyo-nu/MINE-app",
+        "url": "https://github.com/tyo-nu/MINE-app",
+        "rel": "/software/repository/github/tyo-nu/MINE-app",
+        "avatar": "https://avatars.githubusercontent.com/u/25189699?v=4",
+        "description": "Web application for the MINE databases",
+        "topics": [
+            "cheminformatics",
+            "metabolomics"
+        ]
     },
     {
         "uid": "github/mrteetoe/HOI",
@@ -43639,6 +43782,23 @@
         "topics": []
     },
     {
+        "uid": "github/palaimon/ipyannotator",
+        "url": "https://github.com/palaimon/ipyannotator",
+        "rel": "/software/repository/github/palaimon/ipyannotator",
+        "avatar": "https://avatars.githubusercontent.com/u/58658888?v=4",
+        "description": "the infinitely hackable annotation framework",
+        "topics": [
+            "ipycanvas",
+            "nbdev",
+            "ipywidgets",
+            "voila",
+            "labeling",
+            "annotations",
+            "labeling-tool",
+            "annotation-tool"
+        ]
+    },
+    {
         "uid": "github/mjacob1002/Eir",
         "url": "https://github.com/mjacob1002/Eir",
         "rel": "/software/repository/github/mjacob1002/Eir",
@@ -44021,6 +44181,14 @@
         "url": "https://github.com/chenjj2/forecaster",
         "rel": "/software/repository/github/chenjj2/forecaster",
         "avatar": "https://avatars.githubusercontent.com/u/7421301?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/siavash-saki/tesspy",
+        "url": "https://github.com/siavash-saki/tesspy",
+        "rel": "/software/repository/github/siavash-saki/tesspy",
+        "avatar": "https://avatars.githubusercontent.com/u/54578447?v=4",
         "description": null,
         "topics": []
     },
