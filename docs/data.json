@@ -557,6 +557,20 @@
         "topics": []
     },
     {
+        "uid": "github/E3SM-Project/gdess",
+        "url": "https://github.com/E3SM-Project/gdess",
+        "rel": "/software/repository/github/E3SM-Project/gdess",
+        "avatar": "https://avatars.githubusercontent.com/u/7558558?v=4",
+        "description": "Tool for evaluating atmospheric carbon dioxide concentrations as simulated by Earth system models",
+        "topics": [
+            "earth-system-model",
+            "model-diagnostics",
+            "earth-observation",
+            "python",
+            "data-visualization"
+        ]
+    },
+    {
         "uid": "github/mariakotouza/TRIP-Tool",
         "url": "https://github.com/mariakotouza/TRIP-Tool",
         "rel": "/software/repository/github/mariakotouza/TRIP-Tool",
@@ -2683,6 +2697,14 @@
         "rel": "/software/repository/github/parkus/scicatalog",
         "avatar": "https://avatars.githubusercontent.com/u/7536570?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/parkus/ffd",
+        "url": "https://github.com/parkus/ffd",
+        "rel": "/software/repository/github/parkus/ffd",
+        "avatar": "https://avatars.githubusercontent.com/u/7536570?v=4",
+        "description": "Tools for the analysis of flare frequency distributions for flares detected in heterogenous datasets.",
         "topics": []
     },
     {
@@ -10925,6 +10947,17 @@
         "topics": []
     },
     {
+        "uid": "github/Bishop-Laboratory/RLoop-QC-Meta-Analysis-Miller-2022",
+        "url": "https://github.com/Bishop-Laboratory/RLoop-QC-Meta-Analysis-Miller-2022",
+        "rel": "/software/repository/github/Bishop-Laboratory/RLoop-QC-Meta-Analysis-Miller-2022",
+        "avatar": "https://avatars.githubusercontent.com/u/75179831?v=4",
+        "description": "Generates figures for \"Quality-controlled R-loop meta-analysis reveals the characteristics of R-loop consensus regions\"",
+        "topics": [
+            "bioinformatics",
+            "r-loops"
+        ]
+    },
+    {
         "uid": "github/keck-datareductionpipelines/MosfireDRP",
         "url": "https://github.com/Keck-DataReductionPipelines/MosfireDRP",
         "rel": "/software/repository/github/keck-datareductionpipelines/MosfireDRP",
@@ -11142,6 +11175,14 @@
             "phylip-alignment",
             "nexus"
         ]
+    },
+    {
+        "uid": "github/JensUweUlrich/ReadBouncer",
+        "url": "https://github.com/JensUweUlrich/ReadBouncer",
+        "rel": "/software/repository/github/JensUweUlrich/ReadBouncer",
+        "avatar": "https://avatars.githubusercontent.com/u/46562264?v=4",
+        "description": "Fast and scalable nanopore adaptive sampling",
+        "topics": []
     },
     {
         "uid": "github/torognes/swarm",
@@ -11530,6 +11571,14 @@
         "rel": "/software/repository/github/mmollina/viewpoly",
         "avatar": "https://avatars.githubusercontent.com/u/318990?v=4",
         "description": "R package to visualize genetic maps and QTL analysis.",
+        "topics": []
+    },
+    {
+        "uid": "github/fforster/delight",
+        "url": "https://github.com/fforster/DELIGHT",
+        "rel": "/software/repository/github/fforster/delight",
+        "avatar": "https://avatars.githubusercontent.com/u/5090828?v=4",
+        "description": "Deep Learning Identification of Galaxy Hosts in Transients",
         "topics": []
     },
     {
@@ -12432,6 +12481,14 @@
             "audio",
             "sound"
         ]
+    },
+    {
+        "uid": "github/seamusclarke/rjplots",
+        "url": "https://github.com/SeamusClarke/RJplots",
+        "rel": "/software/repository/github/seamusclarke/rjplots",
+        "avatar": "https://avatars.githubusercontent.com/u/34774908?v=4",
+        "description": "A Python package allowing for the automated and objective classification of 2D structures using a moments of inertia based method. This method is a further development of J-plots (https://github.com/SJaffa/Jplots)",
+        "topics": []
     },
     {
         "uid": "github/kd0kfo/cosmology",
@@ -16420,6 +16477,14 @@
         ]
     },
     {
+        "uid": "github/AprilYuge/ResPAN",
+        "url": "https://github.com/AprilYuge/ResPAN",
+        "rel": "/software/repository/github/AprilYuge/ResPAN",
+        "avatar": "https://avatars.githubusercontent.com/u/42819288?v=4",
+        "description": "a light structured Residual autoencoder and mutual nearest neighbor Paring guided Adversarial Network for scRNA-seq batch correction",
+        "topics": []
+    },
+    {
         "uid": "github/astronomyk/SimCADO",
         "url": "https://github.com/astronomyk/SimCADO",
         "rel": "/software/repository/github/astronomyk/SimCADO",
@@ -19172,6 +19237,14 @@
         ]
     },
     {
+        "uid": "github/OBrink/RanDepict",
+        "url": "https://github.com/OBrink/RanDepict",
+        "rel": "/software/repository/github/OBrink/RanDepict",
+        "avatar": "https://avatars.githubusercontent.com/u/59618901?v=4",
+        "description": "This repository contains RanDepict, an easy-to-use utility to generate a big variety of chemical structure depictions (random depiction styles and image augmentations) based on RDKit, CDK, Indigo and PIKAChU.",
+        "topics": []
+    },
+    {
         "uid": "github/csb5/lofreq",
         "url": "https://github.com/CSB5/lofreq",
         "rel": "/software/repository/github/csb5/lofreq",
@@ -20029,6 +20102,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/3043106?v=4",
         "description": "Thermochemical Equilibrium Abundances (TEA), a code to calculate gaseous molecular abundances under thermochemical equilibrium conditions",
         "topics": []
+    },
+    {
+        "uid": "github/CRPropa/CRPropa3",
+        "url": "https://github.com/CRPropa/CRPropa3",
+        "rel": "/software/repository/github/CRPropa/CRPropa3",
+        "avatar": "https://avatars.githubusercontent.com/u/2363457?v=4",
+        "description": "  CRPropa is a public astrophysical simulation framework for propagating extraterrestrial ultra-high energy particles.   https://crpropa.github.io/CRPropa3/",
+        "topics": [
+            "cosmic-rays",
+            "propagation",
+            "monte-carlo-simulation",
+            "astroparticle-physics"
+        ]
     },
     {
         "uid": "github/CRPropa/CRPropa2",
@@ -21987,6 +22073,14 @@
         "rel": "/software/repository/github/pavanvyn/triple-stability",
         "avatar": "https://avatars.githubusercontent.com/u/16152500?v=4",
         "description": "Code to check if a given configuration of a triple-star system is dynamically stable",
+        "topics": []
+    },
+    {
+        "uid": "github/marziarivi/RadioLensfit2",
+        "url": "https://github.com/marziarivi/RadioLensfit2",
+        "rel": "/software/repository/github/marziarivi/RadioLensfit2",
+        "avatar": "https://avatars.githubusercontent.com/u/6614454?v=4",
+        "description": "Radio Weak Lensing shear measurement in the Visibility Domain ",
         "topics": []
     },
     {
@@ -26628,6 +26722,14 @@
         "topics": []
     },
     {
+        "uid": "github/paumard/cubefit",
+        "url": "https://github.com/paumard/cubefit",
+        "rel": "/software/repository/github/paumard/cubefit",
+        "avatar": "https://avatars.githubusercontent.com/u/620826?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/B-UMMI/chewBBACA",
         "url": "https://github.com/B-UMMI/chewBBACA",
         "rel": "/software/repository/github/B-UMMI/chewBBACA",
@@ -27453,6 +27555,14 @@
         "url": "https://github.com/cameronliang/bayesvp",
         "rel": "/software/repository/github/cameronliang/BayesVP",
         "avatar": "https://avatars.githubusercontent.com/u/18225386?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/MichaelAbdul-Masih/SPAMMS",
+        "url": "https://github.com/MichaelAbdul-Masih/SPAMMS",
+        "rel": "/software/repository/github/MichaelAbdul-Masih/SPAMMS",
+        "avatar": "https://avatars.githubusercontent.com/u/40573575?v=4",
         "description": null,
         "topics": []
     },
@@ -29429,6 +29539,14 @@
         "rel": "/software/repository/github/optimusmoose/jsms",
         "avatar": "https://avatars2.githubusercontent.com/u/1541778?v=4",
         "description": "A modular JavaScript viewer for mass spectrometry data",
+        "topics": []
+    },
+    {
+        "uid": "github/dbuscher/pois",
+        "url": "https://github.com/dbuscher/pois",
+        "rel": "/software/repository/github/dbuscher/pois",
+        "avatar": "https://avatars.githubusercontent.com/u/1148470?v=4",
+        "description": "Python framework simulating the data from a ground-based optical interferometer",
         "topics": []
     },
     {
@@ -32260,6 +32378,14 @@
         "topics": []
     },
     {
+        "uid": "github/epfl-radio-astro/PINION",
+        "url": "https://github.com/epfl-radio-astro/PINION",
+        "rel": "/software/repository/github/epfl-radio-astro/PINION",
+        "avatar": "https://avatars.githubusercontent.com/u/100411188?v=4",
+        "description": "A featherweight EoR simulation",
+        "topics": []
+    },
+    {
         "uid": "github/andreaminio/haplosync",
         "url": "https://github.com/andreaminio/HaploSync",
         "rel": "/software/repository/github/andreaminio/haplosync",
@@ -32361,6 +32487,14 @@
         "url": "https://github.com/epic-astronomy/EPIC",
         "rel": "/software/repository/github/epic-astronomy/EPIC",
         "avatar": "https://avatars.githubusercontent.com/u/49343403?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/dengzhuo-AI/Real-Fundus",
+        "url": "https://github.com/dengzhuo-AI/Real-Fundus",
+        "rel": "/software/repository/github/dengzhuo-AI/Real-Fundus",
+        "avatar": "https://avatars.githubusercontent.com/u/63216977?v=4",
         "description": null,
         "topics": []
     },
@@ -33631,6 +33765,14 @@
         ]
     },
     {
+        "uid": "github/ridgelab/rampAtlas",
+        "url": "https://github.com/ridgelab/rampAtlas",
+        "rel": "/software/repository/github/ridgelab/rampAtlas",
+        "avatar": "https://avatars.githubusercontent.com/u/12803582?v=4",
+        "description": "Code used to retrieve, organize, and analyze data for the Ramp Atlas",
+        "topics": []
+    },
+    {
         "uid": "github/ridgelab/ExtRampOnline",
         "url": "https://github.com/ridgelab/ExtRampOnline",
         "rel": "/software/repository/github/ridgelab/ExtRampOnline",
@@ -34567,6 +34709,14 @@
         "rel": "/software/repository/github/meta-logic/sequoia",
         "avatar": "https://avatars.githubusercontent.com/u/11968006?v=4",
         "description": "Design, play with, and analyze sequent calculus proof systems.",
+        "topics": []
+    },
+    {
+        "uid": "github/dsheward-astro/pynaple",
+        "url": "https://github.com/dsheward-astro/PyNAPLE",
+        "rel": "/software/repository/github/dsheward-astro/pynaple",
+        "avatar": "https://avatars.githubusercontent.com/u/56971042?v=4",
+        "description": "Python NAC Automated Pair Lunar Evaluator",
         "topics": []
     },
     {
@@ -36555,6 +36705,14 @@
         "topics": []
     },
     {
+        "uid": "github/radio-astro-tools/uvcombine",
+        "url": "https://github.com/radio-astro-tools/uvcombine",
+        "rel": "/software/repository/github/radio-astro-tools/uvcombine",
+        "avatar": "https://avatars.githubusercontent.com/u/7228695?v=4",
+        "description": "Combine images made with different resolutions, including the \"feathering\" technique for interferometry data.",
+        "topics": []
+    },
+    {
         "uid": "github/datalad/datalad",
         "url": "https://github.com/datalad/datalad",
         "rel": "/software/repository/github/datalad/datalad",
@@ -37784,6 +37942,14 @@
         "topics": []
     },
     {
+        "uid": "github/sihanjiao/j-comb",
+        "url": "https://github.com/SihanJiao/J-comb",
+        "rel": "/software/repository/github/sihanjiao/j-comb",
+        "avatar": "https://avatars.githubusercontent.com/u/31346093?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/lgrcia/prose",
         "url": "https://github.com/lgrcia/prose",
         "rel": "/software/repository/github/lgrcia/prose",
@@ -37838,6 +38004,14 @@
         "rel": "/software/repository/github/icecube/FIRESONG",
         "avatar": "https://avatars.githubusercontent.com/u/74313698?v=4",
         "description": "FIRst Extragalactic Simulation Of Neutrino and Gamma-ray",
+        "topics": []
+    },
+    {
+        "uid": "github/icecube/toise",
+        "url": "https://github.com/icecube/toise",
+        "rel": "/software/repository/github/icecube/toise",
+        "avatar": "https://avatars.githubusercontent.com/u/74313698?v=4",
+        "description": "Framework to describe the performance of high-energy neutrino detectors",
         "topics": []
     },
     {
@@ -43815,6 +43989,21 @@
         "topics": []
     },
     {
+        "uid": "github/gasparl/possa",
+        "url": "https://github.com/gasparl/possa",
+        "rel": "/software/repository/github/gasparl/possa",
+        "avatar": "https://avatars.githubusercontent.com/u/37374850?v=4",
+        "description": "POSSA: Power simulation for sequential analyses and multiple hypotheses.",
+        "topics": [
+            "multiple-testing",
+            "r",
+            "r-pkg",
+            "sequential-analyses",
+            "sequential-design",
+            "statistical-analysis"
+        ]
+    },
+    {
         "uid": "github/will-rowe/hulk",
         "url": "https://github.com/will-rowe/hulk",
         "rel": "/software/repository/github/will-rowe/hulk",
@@ -44206,6 +44395,14 @@
         "rel": "/software/repository/github/HUST-DataMan/FRMC",
         "avatar": "https://avatars.githubusercontent.com/u/75129706?v=4",
         "description": "FRMC is a fast and robust imputation software for single cell RNA-Seq data.",
+        "topics": []
+    },
+    {
+        "uid": "github/Pranab-JD/LeXInt",
+        "url": "https://github.com/Pranab-JD/LeXInt",
+        "rel": "/software/repository/github/Pranab-JD/LeXInt",
+        "avatar": "https://avatars.githubusercontent.com/u/61944428?v=4",
+        "description": "Leja Exponential Integrators",
         "topics": []
     },
     {
@@ -44712,6 +44909,22 @@
         "rel": "/software/repository/gitlab/jerrytheo16/exoplanet",
         "avatar": "https://gitlab.comNone",
         "description": "Desktop-based application to aid in constructing a machine learning model for predictive analysis. The application further allows the model to be evaluated through statistical results and interactive graphs.",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/ENKI-portal/ThermoEngine",
+        "url": "https://gitlab.com/ENKI-portal/ThermoEngine",
+        "rel": "/software/repository/gitlab/ENKI-portal/ThermoEngine",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/2313798/Untitled.png",
+        "description": "Python, C, C++ and Objective C code that Implement thermodynamic properties of stoichiometric phases and solutions.  This is the main code repository of the ENKI project.",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/ENKI-portal/vaporock",
+        "url": "https://gitlab.com/ENKI-portal/vaporock",
+        "rel": "/software/repository/gitlab/ENKI-portal/vaporock",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/18914416/vaporock.png",
+        "description": "Thermodynamics of vaporized silicate rocks & melts for modeling magma ocean atmospheres and stellar nebula",
         "topics": []
     },
     {
