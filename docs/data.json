@@ -11674,6 +11674,25 @@
         ]
     },
     {
+        "uid": "github/atmos-cloud-sim-uj/PyMPDATA",
+        "url": "https://github.com/atmos-cloud-sim-uj/PyMPDATA",
+        "rel": "/software/repository/github/atmos-cloud-sim-uj/PyMPDATA",
+        "avatar": "https://avatars.githubusercontent.com/u/48702007?v=4",
+        "description": "Numba-accelerated Pythonic implementation of MPDATA with examples in Python, Julia and Matlab",
+        "topics": [
+            "pde-solver",
+            "numerical-integration",
+            "advection",
+            "numba",
+            "advection-diffusion",
+            "atmospheric-modelling",
+            "python",
+            "simulation",
+            "research",
+            "pypi-package"
+        ]
+    },
+    {
         "uid": "github/atmos-cloud-sim-uj/PySDM",
         "url": "https://github.com/atmos-cloud-sim-uj/PySDM",
         "rel": "/software/repository/github/atmos-cloud-sim-uj/PySDM",
@@ -17948,6 +17967,14 @@
         "topics": []
     },
     {
+        "uid": "github/arq5x/poretools",
+        "url": "https://github.com/arq5x/poretools",
+        "rel": "/software/repository/github/arq5x/poretools",
+        "avatar": "https://avatars.githubusercontent.com/u/72291?v=4",
+        "description": "a toolkit for working with Oxford nanopore data",
+        "topics": []
+    },
+    {
         "uid": "github/fairdataihub/SPARClink",
         "url": "https://github.com/fairdataihub/SPARClink",
         "rel": "/software/repository/github/fairdataihub/SPARClink",
@@ -21427,6 +21454,14 @@
         "topics": []
     },
     {
+        "uid": "github/jmcbroome/BTE",
+        "url": "https://github.com/jmcbroome/BTE",
+        "rel": "/software/repository/github/jmcbroome/BTE",
+        "avatar": "https://avatars.githubusercontent.com/u/42075829?v=4",
+        "description": "Cython API for the Mutation Annotated Tree (MAT) Online Phylogenetics Toolkit",
+        "topics": []
+    },
+    {
         "uid": "github/barklem/kaulakys",
         "url": "https://github.com/barklem/kaulakys",
         "rel": "/software/repository/github/barklem/kaulakys",
@@ -23638,6 +23673,14 @@
             "graph",
             "mmdetection"
         ]
+    },
+    {
+        "uid": "github/thachnguyen/CRISPRnano",
+        "url": "https://github.com/thachnguyen/CRISPRnano",
+        "rel": "/software/repository/github/thachnguyen/CRISPRnano",
+        "avatar": "https://avatars.githubusercontent.com/u/6381336?v=4",
+        "description": "A simple website analyzes CRISPR experiment for Oxford Nanopore Sequencing data.",
+        "topics": []
     },
     {
         "uid": "github/SISPO-developers/sispo",
@@ -28197,6 +28240,21 @@
         ]
     },
     {
+        "uid": "github/vsoch/citelang",
+        "url": "https://github.com/vsoch/citelang",
+        "rel": "/software/repository/github/vsoch/citelang",
+        "avatar": "https://avatars.githubusercontent.com/u/814322?v=4",
+        "description": "markdown syntax and credit system for software!",
+        "topics": [
+            "citation",
+            "rseng",
+            "research-software-engineering",
+            "credit",
+            "publication",
+            "doi"
+        ]
+    },
+    {
         "uid": "github/seap-udea/iWander",
         "url": "https://github.com/seap-udea/iWander",
         "rel": "/software/repository/github/seap-udea/iWander",
@@ -30008,6 +30066,14 @@
         "rel": "/software/repository/github/atakan/KeplerSolver",
         "avatar": "https://avatars.githubusercontent.com/u/655507?v=4",
         "description": "A code for solving Kepler's equation, with arbitrary epoch.",
+        "topics": []
+    },
+    {
+        "uid": "github/yyZhang14/dbEssLnc",
+        "url": "https://github.com/yyZhang14/dbEssLnc",
+        "rel": "/software/repository/github/yyZhang14/dbEssLnc",
+        "avatar": "https://avatars.githubusercontent.com/u/86227741?v=4",
+        "description": "a Vue.js project",
         "topics": []
     },
     {
@@ -35120,6 +35186,21 @@
         "topics": []
     },
     {
+        "uid": "github/NREL/graph-env",
+        "url": "https://github.com/NREL/graph-env",
+        "rel": "/software/repository/github/NREL/graph-env",
+        "avatar": "https://avatars.githubusercontent.com/u/1906800?v=4",
+        "description": "Reinforcement learning for combinatorial optimization over directed graphs",
+        "topics": [
+            "graph-algorithms",
+            "gym-environment",
+            "machine-learning",
+            "python",
+            "ray",
+            "reinforcement-learning"
+        ]
+    },
+    {
         "uid": "github/NREL/OpenOA",
         "url": "https://github.com/NREL/OpenOA",
         "rel": "/software/repository/github/NREL/OpenOA",
@@ -38683,6 +38764,23 @@
             "monte-carlo-simulations",
             "crystallographic-orientations",
             "texture"
+        ]
+    },
+    {
+        "uid": "github/alexriss/SpmImageTycoon.jl",
+        "url": "https://github.com/alexriss/SpmImageTycoon.jl",
+        "rel": "/software/repository/github/alexriss/SpmImageTycoon.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/1452525?v=4",
+        "description": "Organize Scanning Probe Microscopy (SPM, STM, AFM) Images and Spectra.",
+        "topics": [
+            "spm",
+            "afm",
+            "stm",
+            "julia",
+            "electron",
+            "javascript",
+            "julialang",
+            "spectroscopy"
         ]
     },
     {
@@ -42733,6 +42831,14 @@
         "topics": []
     },
     {
+        "uid": "github/phineasng/DECODE",
+        "url": "https://github.com/phineasng/DECODE",
+        "rel": "/software/repository/github/phineasng/DECODE",
+        "avatar": "https://avatars.githubusercontent.com/u/5710702?v=4",
+        "description": "Code Release for the DECODE submission (ISMB2022)",
+        "topics": []
+    },
+    {
         "uid": "github/phelelani/nf-rnaSeqMetagen",
         "url": "https://github.com/phelelani/nf-rnaSeqMetagen",
         "rel": "/software/repository/github/phelelani/nf-rnaSeqMetagen",
@@ -42993,6 +43099,14 @@
         "rel": "/software/repository/github/veg/tn93",
         "avatar": "https://avatars.githubusercontent.com/u/1051502?v=4",
         "description": "TN93 fast distance calculator",
+        "topics": []
+    },
+    {
+        "uid": "github/LucyMcGowan/tipr",
+        "url": "https://github.com/LucyMcGowan/tipr",
+        "rel": "/software/repository/github/LucyMcGowan/tipr",
+        "avatar": "https://avatars.githubusercontent.com/u/8431897?v=4",
+        "description": "An R package for conducting sensitivity analyses for unmeasured confounders",
         "topics": []
     },
     {
@@ -44144,6 +44258,14 @@
         "topics": []
     },
     {
+        "uid": "github/ToHanwei/Genome2OR",
+        "url": "https://github.com/ToHanwei/Genome2OR",
+        "rel": "/software/repository/github/ToHanwei/Genome2OR",
+        "avatar": "https://avatars.githubusercontent.com/u/34996314?v=4",
+        "description": "Annotate Olfactory receptor CDS from genome",
+        "topics": []
+    },
+    {
         "uid": "github/kiyo-masui/bitshuffle",
         "url": "https://github.com/kiyo-masui/bitshuffle",
         "rel": "/software/repository/github/kiyo-masui/bitshuffle",
@@ -44294,6 +44416,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/31731892?v=4",
         "description": "Automatic White Matter Bundle Segmentation",
         "topics": []
+    },
+    {
+        "uid": "github/MonashSmartStructures/ospgrillage",
+        "url": "https://github.com/MonashSmartStructures/ospgrillage",
+        "rel": "/software/repository/github/MonashSmartStructures/ospgrillage",
+        "avatar": "https://avatars.githubusercontent.com/u/53598771?v=4",
+        "description": "`ospgrillage` is a package that wraps `OpenSeesPy` with an interface dedicated to the development and analysis of regular bridge deck grillage models.",
+        "topics": [
+            "bridge-engineering",
+            "structural-analysis",
+            "finite-element-analysis",
+            "bridges",
+            "structural-engineering"
+        ]
     },
     {
         "uid": "github/cole-trapnell-lab/cufflinks",
