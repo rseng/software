@@ -5206,6 +5206,14 @@
         "topics": []
     },
     {
+        "uid": "github/tlancian/bio_cs",
+        "url": "https://github.com/tlancian/bio_cs",
+        "rel": "/software/repository/github/tlancian/bio_cs",
+        "avatar": "https://avatars.githubusercontent.com/u/31849244?v=4",
+        "description": "\"Contrast Subgraphs Allow Comparing Homogeneous and Heterogeneous Networks Derived from Omics Data\" - T. Lanciano, A. Savino, F. Porcu, D. Cittaro, F. Bonchi, P. Provero",
+        "topics": []
+    },
+    {
         "uid": "github/e-koch/FilFinder",
         "url": "https://github.com/e-koch/FilFinder",
         "rel": "/software/repository/github/e-koch/FilFinder",
@@ -7652,6 +7660,14 @@
         "rel": "/software/repository/github/dgobbi/vtk-dicom",
         "avatar": "https://avatars.githubusercontent.com/u/223404?v=4",
         "description": "A set of classes for using DICOM in VTK.",
+        "topics": []
+    },
+    {
+        "uid": "github/open2c/pairtools",
+        "url": "https://github.com/open2c/pairtools",
+        "rel": "/software/repository/github/open2c/pairtools",
+        "avatar": "https://avatars.githubusercontent.com/u/70977326?v=4",
+        "description": "CLI tools to process mapped Hi-C data",
         "topics": []
     },
     {
@@ -33363,6 +33379,14 @@
         "topics": []
     },
     {
+        "uid": "github/enthought/vpsearch",
+        "url": "https://github.com/enthought/vpsearch",
+        "rel": "/software/repository/github/enthought/vpsearch",
+        "avatar": "https://avatars.githubusercontent.com/u/539651?v=4",
+        "description": "Fast similarity search for genomic sequences via vantage-point trees",
+        "topics": []
+    },
+    {
         "uid": "github/enthought/mayavi",
         "url": "https://github.com/enthought/mayavi",
         "rel": "/software/repository/github/enthought/mayavi",
@@ -34395,6 +34419,14 @@
         "topics": []
     },
     {
+        "uid": "github/yrjia1015/CRISPRCasStack",
+        "url": "https://github.com/yrjia1015/CRISPRCasStack",
+        "rel": "/software/repository/github/yrjia1015/CRISPRCasStack",
+        "avatar": "https://avatars.githubusercontent.com/u/104757328?v=4",
+        "description": "A toolkit for automated identification of Cas proteins and CRISPR-Cas locus",
+        "topics": []
+    },
+    {
         "uid": "github/pelahi/TreeFrog",
         "url": "https://github.com/pelahi/TreeFrog",
         "rel": "/software/repository/github/pelahi/TreeFrog",
@@ -34541,6 +34573,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/61202311?v=4",
         "description": "Chemical Kinetics For Exoplanetary Atmospheres",
         "topics": []
+    },
+    {
+        "uid": "github/cnes/EleFits",
+        "url": "https://github.com/CNES/EleFits",
+        "rel": "/software/repository/github/cnes/EleFits",
+        "avatar": "https://avatars.githubusercontent.com/u/30655936?v=4",
+        "description": "A modern C++ API on top of CFitsIO",
+        "topics": [
+            "actively-maintained",
+            "fits-files",
+            "fitsio",
+            "cpp"
+        ]
     },
     {
         "uid": "github/wtraylor/modular_megafauna_model",
@@ -38828,6 +38873,14 @@
         "topics": []
     },
     {
+        "uid": "github/Liltsliverfish/A-time-series-reconstruction-method-of-massive-astronomical-catalogues-based-on-Spark",
+        "url": "https://github.com/Liltsliverfish/A-time-series-reconstruction-method-of-massive-astronomical-catalogues-based-on-Spark",
+        "rel": "/software/repository/github/Liltsliverfish/A-time-series-reconstruction-method-of-massive-astronomical-catalogues-based-on-Spark",
+        "avatar": "https://avatars.githubusercontent.com/u/55935283?v=4",
+        "description": "A method for time-series reconstruction of massive astronomical catalogues.",
+        "topics": []
+    },
+    {
         "uid": "github/bruce-chappell/SunnyNet",
         "url": "https://github.com/bruce-chappell/SunnyNet",
         "rel": "/software/repository/github/bruce-chappell/SunnyNet",
@@ -39543,6 +39596,20 @@
             "association",
             "bayesian-inference",
             "python"
+        ]
+    },
+    {
+        "uid": "github/Gaiana/nirdust",
+        "url": "https://github.com/Gaiana/nirdust",
+        "rel": "/software/repository/github/Gaiana/nirdust",
+        "avatar": "https://avatars.githubusercontent.com/u/71792014?v=4",
+        "description": "Nirdust is a python package that uses K-band (2.2 micrometers) spectra to measure the temperature of the dust heated by a type 2 Active Galactic Nuclei (AGN) accretion disk.",
+        "topics": [
+            "spectra",
+            "dust",
+            "agn",
+            "astronomy",
+            "galaxies"
         ]
     },
     {
