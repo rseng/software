@@ -598,6 +598,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/ags-data-format-wg/ags-python-library",
+        "url": "https://gitlab.com/ags-data-format-wg/ags-python-library",
+        "rel": "/software/repository/gitlab/ags-data-format-wg/ags-python-library",
+        "avatar": "https://gitlab.comNone",
+        "description": "A library to read and write AGS files using Pandas DataFrames",
+        "topics": []
+    },
+    {
         "uid": "gitlab/davidtourigny/dynamic-fba",
         "url": "https://gitlab.com/davidtourigny/dynamic-fba",
         "rel": "/software/repository/gitlab/davidtourigny/dynamic-fba",
@@ -2035,6 +2043,18 @@
         "topics": []
     },
     {
+        "uid": "github/klb2/qmkpy",
+        "url": "https://github.com/klb2/qmkpy",
+        "rel": "/software/repository/github/klb2/qmkpy",
+        "avatar": "https://avatars.githubusercontent.com/u/58686048?v=4",
+        "description": "Python testbed for the Quadratic Multiple Knapsack Problem (QMKP)",
+        "topics": [
+            "knapsack-problem",
+            "operations-research",
+            "optimization"
+        ]
+    },
+    {
         "uid": "github/nbellomo/Multi_CLASS",
         "url": "https://github.com/nbellomo/Multi_CLASS",
         "rel": "/software/repository/github/nbellomo/Multi_CLASS",
@@ -2286,6 +2306,21 @@
             "music",
             "chromagram",
             "onset"
+        ]
+    },
+    {
+        "uid": "github/Beuth-Erdelt/DBMS-Benchmarker",
+        "url": "https://github.com/Beuth-Erdelt/DBMS-Benchmarker",
+        "rel": "/software/repository/github/Beuth-Erdelt/DBMS-Benchmarker",
+        "avatar": "https://avatars.githubusercontent.com/u/17198143?v=4",
+        "description": "DBMS-Benchmarker is a Python-based application-level blackbox benchmark tool for Database Management Systems (DBMS). It connects to a given list of DBMS (via JDBC) and runs a given list of parametrized and randomized (SQL) benchmark queries. Evaluations are available via a Python interface and on an interactive multi-dimensional dashboard.",
+        "topics": [
+            "dbms",
+            "benchmarking",
+            "python",
+            "sql",
+            "jdbc",
+            "agplv3"
         ]
     },
     {
@@ -5583,6 +5618,14 @@
         ]
     },
     {
+        "uid": "github/LTeinturier/Cloud-Killer-",
+        "url": "https://github.com/LTeinturier/Cloud-Killer-",
+        "rel": "/software/repository/github/LTeinturier/Cloud-Killer-",
+        "avatar": "https://avatars.githubusercontent.com/u/91485873?v=4",
+        "description": "Project cloud killer ",
+        "topics": []
+    },
+    {
         "uid": "github/julblarod/SOPHISM",
         "url": "https://github.com/julblarod/SOPHISM",
         "rel": "/software/repository/github/julblarod/SOPHISM",
@@ -7358,6 +7401,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/5480902?v=4",
         "description": "Object-oriented Scientific Computing Library",
         "topics": []
+    },
+    {
+        "uid": "github/LangeLab/SQuAPP",
+        "url": "https://github.com/LangeLab/SQuAPP",
+        "rel": "/software/repository/github/LangeLab/SQuAPP",
+        "avatar": "https://avatars.githubusercontent.com/u/22403445?v=4",
+        "description": "Shiny App allows streamlined analysis of multiple levels of proteomics data.",
+        "topics": [
+            "shiny",
+            "proteomics",
+            "peptidomics",
+            "interactive-apps",
+            "data-analysis",
+            "bioinformatics-tool"
+        ]
     },
     {
         "uid": "github/FiorenSt/AutoSourceID-Light",
@@ -9516,6 +9574,14 @@
         "rel": "/software/repository/github/cjneely10/EukMetaSanity",
         "avatar": "https://avatars.githubusercontent.com/u/31027651?v=4",
         "description": "Structural and functional annotation of eukaryotic metagenome-assembled genomes",
+        "topics": []
+    },
+    {
+        "uid": "github/ajshajib/LensingETC",
+        "url": "https://github.com/ajshajib/LensingETC",
+        "rel": "/software/repository/github/ajshajib/LensingETC",
+        "avatar": "https://avatars.githubusercontent.com/u/20169048?v=4",
+        "description": "Lensing Exposure Time Calculator",
         "topics": []
     },
     {
@@ -13734,6 +13800,14 @@
         "topics": []
     },
     {
+        "uid": "github/msaland/THInCR-Suite",
+        "url": "https://github.com/msaland/THInCR-Suite",
+        "rel": "/software/repository/github/msaland/THInCR-Suite",
+        "avatar": "https://avatars.githubusercontent.com/u/101999143?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/AstarVienna/irdb",
         "url": "https://github.com/AstarVienna/irdb",
         "rel": "/software/repository/github/AstarVienna/irdb",
@@ -14583,6 +14657,20 @@
         ]
     },
     {
+        "uid": "github/RECETOX/MSMetaEnhancer",
+        "url": "https://github.com/RECETOX/MSMetaEnhancer",
+        "rel": "/software/repository/github/RECETOX/MSMetaEnhancer",
+        "avatar": "https://avatars.githubusercontent.com/u/69039108?v=4",
+        "description": "Tool for mass spectra metadata annotation.",
+        "topics": [
+            "hacktoberfest",
+            "annotations",
+            "python",
+            "usegalaxy",
+            "mass-spectrometry"
+        ]
+    },
+    {
         "uid": "github/mrtommyb/ktransit",
         "url": "https://github.com/mrtommyb/ktransit",
         "rel": "/software/repository/github/mrtommyb/ktransit",
@@ -14851,6 +14939,19 @@
             "humanness",
             "sapiens",
             "oasis"
+        ]
+    },
+    {
+        "uid": "github/Merck/pkglite",
+        "url": "https://github.com/Merck/pkglite",
+        "rel": "/software/repository/github/Merck/pkglite",
+        "avatar": "https://avatars.githubusercontent.com/u/7306189?v=4",
+        "description": "Compact Package Representations",
+        "topics": [
+            "package",
+            "r",
+            "packaging-tool",
+            "ectd"
         ]
     },
     {
@@ -17128,6 +17229,14 @@
             "astrophysics",
             "spectra"
         ]
+    },
+    {
+        "uid": "github/phipsonlab/propeller-paper-analysis",
+        "url": "https://github.com/phipsonlab/propeller-paper-analysis",
+        "rel": "/software/repository/github/phipsonlab/propeller-paper-analysis",
+        "avatar": "https://avatars.githubusercontent.com/u/103480133?v=4",
+        "description": "The website hosts the analysis and evaluation of different statistical methods for  determining differences in cell type proportions in single cell RNA-seq data.",
+        "topics": []
     },
     {
         "uid": "github/BioHPC/MegaD",
@@ -19998,6 +20107,14 @@
             "spatial-domains",
             "spatially-variable-genes"
         ]
+    },
+    {
+        "uid": "github/QingyuLiaib/PLA-MoRe",
+        "url": "https://github.com/QingyuLiaib/PLA-MoRe",
+        "rel": "/software/repository/github/QingyuLiaib/PLA-MoRe",
+        "avatar": "https://avatars.githubusercontent.com/u/48451498?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/gui11aume/starcode",
@@ -23108,6 +23225,21 @@
         "topics": []
     },
     {
+        "uid": "github/Qiskit/rustworkx",
+        "url": "https://github.com/Qiskit/rustworkx",
+        "rel": "/software/repository/github/Qiskit/rustworkx",
+        "avatar": "https://avatars.githubusercontent.com/u/30696987?v=4",
+        "description": "A high performance Python graph library implemented in Rust.",
+        "topics": [
+            "graph",
+            "dag",
+            "rust",
+            "python",
+            "graph-theory",
+            "hacktoberfest"
+        ]
+    },
+    {
         "uid": "github/hiddenSymmetries/simsopt",
         "url": "https://github.com/hiddenSymmetries/simsopt",
         "rel": "/software/repository/github/hiddenSymmetries/simsopt",
@@ -23553,6 +23685,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/37660840?v=4",
         "description": "Sex Differences in Cancer",
         "topics": []
+    },
+    {
+        "uid": "github/bancaditalia/black-it",
+        "url": "https://github.com/bancaditalia/black-it",
+        "rel": "/software/repository/github/bancaditalia/black-it",
+        "avatar": "https://avatars.githubusercontent.com/u/14347148?v=4",
+        "description": "Black-box abm calibration kit by the Bank of Italy",
+        "topics": [
+            "agent-based-modeling",
+            "calibration-toolbox"
+        ]
     },
     {
         "uid": "github/FelixKrueger/TrimGalore",
@@ -25515,6 +25658,18 @@
             "ngs-pipeline",
             "python",
             "pyside2"
+        ]
+    },
+    {
+        "uid": "github/phac-nml/staramr",
+        "url": "https://github.com/phac-nml/staramr",
+        "rel": "/software/repository/github/phac-nml/staramr",
+        "avatar": "https://avatars.githubusercontent.com/u/15620262?v=4",
+        "description": "Scans genome contigs against the ResFinder, PlasmidFinder, and PointFinder databases.",
+        "topics": [
+            "antimicrobial-resistance",
+            "genomics",
+            "bioinformatics"
         ]
     },
     {
@@ -32579,6 +32734,20 @@
         "topics": []
     },
     {
+        "uid": "github/swagnercarena/paltas",
+        "url": "https://github.com/swagnercarena/paltas",
+        "rel": "/software/repository/github/swagnercarena/paltas",
+        "avatar": "https://avatars.githubusercontent.com/u/8857025?v=4",
+        "description": "Conduct simulation-based inference on strong gravitational lensing systems.",
+        "topics": [
+            "simulation-based-inference",
+            "neural-network",
+            "astrophysics",
+            "cosmology",
+            "hierarchical-model"
+        ]
+    },
+    {
         "uid": "github/AntonelliLab/seqcap_processor",
         "url": "https://github.com/AntonelliLab/seqcap_processor",
         "rel": "/software/repository/github/AntonelliLab/seqcap_processor",
@@ -34530,6 +34699,23 @@
             "bioinformatics",
             "hash",
             "bloom-filter"
+        ]
+    },
+    {
+        "uid": "github/bcgsc/btllib",
+        "url": "https://github.com/bcgsc/btllib",
+        "rel": "/software/repository/github/bcgsc/btllib",
+        "avatar": "https://avatars.githubusercontent.com/u/2319317?v=4",
+        "description": "Bioinformatics Technology Lab common code library",
+        "topics": [
+            "bioinformatics",
+            "genome",
+            "library",
+            "cpp",
+            "python",
+            "bloom-filter",
+            "algorithms",
+            "data-structures"
         ]
     },
     {
@@ -38929,6 +39115,18 @@
         "topics": []
     },
     {
+        "uid": "github/kevin218/Eureka",
+        "url": "https://github.com/kevin218/Eureka",
+        "rel": "/software/repository/github/kevin218/Eureka",
+        "avatar": "https://avatars.githubusercontent.com/u/21340541?v=4",
+        "description": "Eureka! is a data reduction and analysis pipeline intended for time-series observations with the James Webb Space Telescope (JWST).",
+        "topics": [
+            "jwst",
+            "exoplanets",
+            "python"
+        ]
+    },
+    {
         "uid": "github/Dailer/RCausticMass",
         "url": "https://github.com/Dailer/RCausticMass",
         "rel": "/software/repository/github/Dailer/RCausticMass",
@@ -39110,6 +39308,19 @@
             "linux-pipes",
             "sequence-analysis",
             "next-generation-sequencing"
+        ]
+    },
+    {
+        "uid": "github/JieZheng-ShanghaiTech/PiLSL",
+        "url": "https://github.com/JieZheng-ShanghaiTech/PiLSL",
+        "rel": "/software/repository/github/JieZheng-ShanghaiTech/PiLSL",
+        "avatar": "https://avatars.githubusercontent.com/u/47076474?v=4",
+        "description": "PiLSL is a pairwise interaction learning-based graph neural network (GNN) model for prediction of synthetic lethality (SL) as anti-cancer drug targets. It learns the representation of pairwise interaction between two genes from a knowledge graph (KG).",
+        "topics": [
+            "bioinformatics",
+            "data-science",
+            "drug-discovery",
+            "machine-learning"
         ]
     },
     {
@@ -41496,6 +41707,14 @@
         "rel": "/software/repository/github/jamescasbon/PyVCF",
         "avatar": "https://avatars.githubusercontent.com/u/97495?v=4",
         "description": "A Variant Call Format reader for Python.",
+        "topics": []
+    },
+    {
+        "uid": "github/LTLA/basilisk",
+        "url": "https://github.com/LTLA/basilisk",
+        "rel": "/software/repository/github/LTLA/basilisk",
+        "avatar": "https://avatars.githubusercontent.com/u/8166669?v=4",
+        "description": "Clone of the Bioconductor repository for the basilisk package.",
         "topics": []
     },
     {
