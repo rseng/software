@@ -4338,6 +4338,14 @@
         ]
     },
     {
+        "uid": "github/RomainFeron/mwga-utils",
+        "url": "https://github.com/RomainFeron/mwga-utils",
+        "rel": "/software/repository/github/RomainFeron/mwga-utils",
+        "avatar": "https://avatars.githubusercontent.com/u/14352967?v=4",
+        "description": "Collection of utilities for processing Multispecies Whole Genome Alignments ",
+        "topics": []
+    },
+    {
         "uid": "github/walaj/svaba",
         "url": "https://github.com/walaj/svaba",
         "rel": "/software/repository/github/walaj/svaba",
@@ -9165,6 +9173,14 @@
         "topics": []
     },
     {
+        "uid": "github/xinyiguan/py2lispIDyOM",
+        "url": "https://github.com/xinyiguan/py2lispIDyOM",
+        "rel": "/software/repository/github/xinyiguan/py2lispIDyOM",
+        "avatar": "https://avatars.githubusercontent.com/u/43217135?v=4",
+        "description": "A Python package for IDyOM",
+        "topics": []
+    },
+    {
         "uid": "github/kno10/python-kmedoids",
         "url": "https://github.com/kno10/python-kmedoids",
         "rel": "/software/repository/github/kno10/python-kmedoids",
@@ -12076,6 +12092,14 @@
         "topics": []
     },
     {
+        "uid": "github/Ajstros/pyripherals",
+        "url": "https://github.com/Ajstros/pyripherals",
+        "rel": "/software/repository/github/Ajstros/pyripherals",
+        "avatar": "https://avatars.githubusercontent.com/u/69999361?v=4",
+        "description": "Python solution for communicating with peripheral ICs",
+        "topics": []
+    },
+    {
         "uid": "github/wtsi-hpag/HiLine",
         "url": "https://github.com/wtsi-hpag/HiLine",
         "rel": "/software/repository/github/wtsi-hpag/HiLine",
@@ -14020,6 +14044,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/651584?v=4",
         "description": "a lower memory and more computationally efficient implementation of the genotype imputation algorithms in minimac/mininac2/minimac3.",
         "topics": []
+    },
+    {
+        "uid": "github/zizroc/villager",
+        "url": "https://github.com/zizroc/villager",
+        "rel": "/software/repository/github/zizroc/villager",
+        "avatar": "https://avatars.githubusercontent.com/u/38635903?v=4",
+        "description": "villager is an extensible agent based modeling (ABM) framework for the R language. It supports agents, agent aggregations and their associated resources, as well as flexible data management.",
+        "topics": [
+            "simulation",
+            "abm",
+            "agent-based-modeling"
+        ]
     },
     {
         "uid": "github/kimberg/voxbo",
@@ -17056,6 +17092,14 @@
         "topics": []
     },
     {
+        "uid": "github/IMMM-SFA/tell",
+        "url": "https://github.com/IMMM-SFA/tell",
+        "rel": "/software/repository/github/IMMM-SFA/tell",
+        "avatar": "https://avatars.githubusercontent.com/u/31457237?v=4",
+        "description": "A model to predict Total ELectricity Loads (TELL)",
+        "topics": []
+    },
+    {
         "uid": "github/IMMM-SFA/gamut",
         "url": "https://github.com/IMMM-SFA/gamut",
         "rel": "/software/repository/github/IMMM-SFA/gamut",
@@ -19060,6 +19104,14 @@
         "rel": "/software/repository/github/actris-cloudnet/cloudnetpy",
         "avatar": "https://avatars3.githubusercontent.com/u/52170164?v=4",
         "description": "Python package for Cloudnet data processing ",
+        "topics": []
+    },
+    {
+        "uid": "github/cgrudz/DataAssimilationBenchmarks.jl",
+        "url": "https://github.com/cgrudz/DataAssimilationBenchmarks.jl",
+        "rel": "/software/repository/github/cgrudz/DataAssimilationBenchmarks.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/7243670?v=4",
+        "description": "Package Information and Documentation",
         "topics": []
     },
     {
@@ -21484,6 +21536,14 @@
         "url": "https://github.com/emrecdem/emo-spectre",
         "rel": "/software/repository/github/emrecdem/emo-spectre",
         "avatar": "https://avatars.githubusercontent.com/u/33319427?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/jkimlab/msPIPE",
+        "url": "https://github.com/jkimlab/msPIPE",
+        "rel": "/software/repository/github/jkimlab/msPIPE",
+        "avatar": "https://avatars.githubusercontent.com/u/19523543?v=4",
         "description": null,
         "topics": []
     },
@@ -31846,6 +31906,17 @@
         "topics": []
     },
     {
+        "uid": "github/cwentland0/perform",
+        "url": "https://github.com/cwentland0/perform",
+        "rel": "/software/repository/github/cwentland0/perform",
+        "avatar": "https://avatars.githubusercontent.com/u/33126235?v=4",
+        "description": "One-dimensional unsteady compressible reacting flow simulation framework, designed for simple prototyping and testing of novel reduced-order model methods.",
+        "topics": [
+            "reduced-order-modeling",
+            "reacting-flow-simulations"
+        ]
+    },
+    {
         "uid": "github/samhforbes/PupillometryR",
         "url": "https://github.com/samhforbes/PupillometryR",
         "rel": "/software/repository/github/samhforbes/PupillometryR",
@@ -35042,6 +35113,14 @@
             "julia",
             "nonlinear"
         ]
+    },
+    {
+        "uid": "github/ZjuLiangsl/mmkp",
+        "url": "https://github.com/ZjuLiangsl/mmkp",
+        "rel": "/software/repository/github/ZjuLiangsl/mmkp",
+        "avatar": "https://avatars.githubusercontent.com/u/97502124?v=4",
+        "description": "A Mind Mapping Knowledgebase Prototyping Tool for Precision Medicine",
+        "topics": []
     },
     {
         "uid": "github/Kaixhin/Autoencoders",
@@ -41017,6 +41096,14 @@
         "topics": []
     },
     {
+        "uid": "github/gourabghoshroy/MPVNN",
+        "url": "https://github.com/gourabghoshroy/MPVNN",
+        "rel": "/software/repository/github/gourabghoshroy/MPVNN",
+        "avatar": "https://avatars.githubusercontent.com/u/10203845?v=4",
+        "description": "MUTATED PATHWAY VISIBLE NEURAL NETWORK FOR CANCER SPECIFIC SURVIVAL RISK PREDICTION",
+        "topics": []
+    },
+    {
         "uid": "github/Smith42/astroddpm",
         "url": "https://github.com/Smith42/astroddpm",
         "rel": "/software/repository/github/Smith42/astroddpm",
@@ -41478,6 +41565,14 @@
         ]
     },
     {
+        "uid": "github/iipharma/pharmamind-molminer",
+        "url": "https://github.com/iipharma/pharmamind-molminer",
+        "rel": "/software/repository/github/iipharma/pharmamind-molminer",
+        "avatar": "https://avatars.githubusercontent.com/u/106510298?v=4",
+        "description": "PharmaMind\u00ae is an innovative drug discovery platform that integrates advanced artificial intelligence and computational simulation design techniques, which is suitable for real-world novel drug R&D.",
+        "topics": []
+    },
+    {
         "uid": "github/dbuscher/pois",
         "url": "https://github.com/dbuscher/pois",
         "rel": "/software/repository/github/dbuscher/pois",
@@ -41699,6 +41794,14 @@
         "rel": "/software/repository/github/Onogi/VIGoR",
         "avatar": "https://avatars.githubusercontent.com/u/11764076?v=4",
         "description": "Variational Bayesian Inference for Genome-Wide Regression",
+        "topics": []
+    },
+    {
+        "uid": "github/zjupgx/modig",
+        "url": "https://github.com/zjupgx/modig",
+        "rel": "/software/repository/github/zjupgx/modig",
+        "avatar": "https://avatars.githubusercontent.com/u/94656251?v=4",
+        "description": "MODIG: Integrating Multi-Omics and Multi-Dimensional Gene Network for Cancer Driver Gene Identification based on Graph Attention Network Model",
         "topics": []
     },
     {
@@ -43757,6 +43860,14 @@
         "topics": []
     },
     {
+        "uid": "github/reznik-lab/MIRTH",
+        "url": "https://github.com/reznik-lab/MIRTH",
+        "rel": "/software/repository/github/reznik-lab/MIRTH",
+        "avatar": "https://avatars.githubusercontent.com/u/60795367?v=4",
+        "description": "Metabolite Imputation via Rank Transformation and Harmonization",
+        "topics": []
+    },
+    {
         "uid": "github/nlesc-nano/flamingo",
         "url": "https://github.com/nlesc-nano/flamingo",
         "rel": "/software/repository/github/nlesc-nano/flamingo",
@@ -44086,6 +44197,22 @@
             "alignment",
             "bioinformatics"
         ]
+    },
+    {
+        "uid": "github/biocore/unifrac-binaries",
+        "url": "https://github.com/biocore/unifrac-binaries",
+        "rel": "/software/repository/github/biocore/unifrac-binaries",
+        "avatar": "https://avatars.githubusercontent.com/u/6241857?v=4",
+        "description": "Fast phylogenetic diversity calculations",
+        "topics": []
+    },
+    {
+        "uid": "github/biocore/deblur",
+        "url": "https://github.com/biocore/deblur",
+        "rel": "/software/repository/github/biocore/deblur",
+        "avatar": "https://avatars.githubusercontent.com/u/6241857?v=4",
+        "description": "Deblur is a greedy deconvolution algorithm based on known read error profiles.",
+        "topics": []
     },
     {
         "uid": "github/biocore/scikit-bio",
@@ -45151,6 +45278,14 @@
             "tophat-recondition",
             "ngs"
         ]
+    },
+    {
+        "uid": "github/cistrome/MIRA",
+        "url": "https://github.com/cistrome/MIRA",
+        "rel": "/software/repository/github/cistrome/MIRA",
+        "avatar": "https://avatars.githubusercontent.com/u/92589386?v=4",
+        "description": "Python package for analysis of multiomic single cell RNA-seq and ATAC-seq.",
+        "topics": []
     },
     {
         "uid": "github/Heldenkombinat/Logodetect",
@@ -46928,6 +47063,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/49585251?v=4",
         "description": "Tool for comparing the run time and accuracy of minimizers on fit benchmarking problems",
         "topics": []
+    },
+    {
+        "uid": "github/watts-dev/watts",
+        "url": "https://github.com/watts-dev/watts",
+        "rel": "/software/repository/github/watts-dev/watts",
+        "avatar": "https://avatars.githubusercontent.com/u/97905312?v=4",
+        "description": "Workflow and Template Toolkit for Simulation (WATTS)",
+        "topics": [
+            "python",
+            "simulation",
+            "templates",
+            "nuclear-energy"
+        ]
     },
     {
         "uid": "github/tloredo/CUDAHM",
