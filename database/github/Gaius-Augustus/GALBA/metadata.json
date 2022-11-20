@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/Gaius-Augustus/GALBA",
+    "url": "https://github.com/Gaius-Augustus/GALBA",
+    "data": {
+        "name": "GALBA",
+        "url": "https://github.com/Gaius-Augustus/GALBA",
+        "full_name": "Gaius-Augustus/GALBA",
+        "html_url": "https://github.com/Gaius-Augustus/GALBA",
+        "private": false,
+        "description": "GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scenario where high quality proteins from a closely related species are available.",
+        "created_at": "2022-10-27T08:27:49Z",
+        "updated_at": "2022-11-18T19:42:15Z",
+        "clone_url": "https://github.com/Gaius-Augustus/GALBA.git",
+        "homepage": null,
+        "size": 5040,
+        "stargazers_count": 25,
+        "watchers_count": 25,
+        "language": "Perl",
+        "open_issues_count": 0,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/Gaius-Augustus",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39598608?v=4",
+            "login": "Gaius-Augustus",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2022-11-20 00:44:18.508807",
+        "avatar": "https://avatars.githubusercontent.com/u/39598608?v=4"
+    }
+}

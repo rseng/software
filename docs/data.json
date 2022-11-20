@@ -513,6 +513,14 @@
         ]
     },
     {
+        "uid": "gitlab/petsc/petsc",
+        "url": "https://gitlab.com/petsc/petsc",
+        "rel": "/software/repository/gitlab/petsc/petsc",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/13882401/PETSc_RBG-logo.png",
+        "description": "PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations.",
+        "topics": []
+    },
+    {
         "uid": "gitlab/imoralc/malu-ifs-visualization-tool",
         "url": "https://gitlab.com/imoralc/malu-ifs-visualization-tool",
         "rel": "/software/repository/gitlab/imoralc/malu-ifs-visualization-tool",
@@ -3887,6 +3895,14 @@
         "topics": []
     },
     {
+        "uid": "github/SotaYoshida/NuclearToolkit.jl",
+        "url": "https://github.com/SotaYoshida/NuclearToolkit.jl",
+        "rel": "/software/repository/github/SotaYoshida/NuclearToolkit.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/52435497?v=4",
+        "description": "NuclearToolkit.jl: Julia package for nuclear structure calculations",
+        "topics": []
+    },
+    {
         "uid": "github/toros-astro/corral",
         "url": "https://github.com/toros-astro/corral",
         "rel": "/software/repository/github/toros-astro/corral",
@@ -5355,6 +5371,23 @@
         "topics": []
     },
     {
+        "uid": "github/copasi/COPASI",
+        "url": "https://github.com/copasi/COPASI",
+        "rel": "/software/repository/github/copasi/COPASI",
+        "avatar": "https://avatars.githubusercontent.com/u/1854399?v=4",
+        "description": "COPASI is a software application for simulation and analysis of biochemical networks and their dynamics.",
+        "topics": [
+            "copasi",
+            "simulation",
+            "modeling",
+            "systems-biology",
+            "dynamics",
+            "chemistry",
+            "biochemistry",
+            "kinetics"
+        ]
+    },
+    {
         "uid": "github/cicirello/Chips-n-Salsa",
         "url": "https://github.com/cicirello/Chips-n-Salsa",
         "rel": "/software/repository/github/cicirello/Chips-n-Salsa",
@@ -5514,6 +5547,14 @@
         "rel": "/software/repository/github/sahasuparna/DeMoS",
         "avatar": "https://avatars.githubusercontent.com/u/32774833?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/reggiebernardo/PTAfast",
+        "url": "https://github.com/reggiebernardo/PTAfast",
+        "rel": "/software/repository/github/reggiebernardo/PTAfast",
+        "avatar": "https://avatars.githubusercontent.com/u/44859376?v=4",
+        "description": "Fast code for PTA correlations from SGWB",
         "topics": []
     },
     {
@@ -5948,6 +5989,14 @@
         ]
     },
     {
+        "uid": "github/pangenome/smoothxg",
+        "url": "https://github.com/pangenome/smoothxg",
+        "rel": "/software/repository/github/pangenome/smoothxg",
+        "avatar": "https://avatars.githubusercontent.com/u/60657583?v=4",
+        "description": "linearize and simplify variation graphs using blocked partial order alignment",
+        "topics": []
+    },
+    {
         "uid": "github/brian-lau/MatlabAUC",
         "url": "https://github.com/brian-lau/MatlabAUC",
         "rel": "/software/repository/github/brian-lau/MatlabAUC",
@@ -6294,6 +6343,14 @@
         "rel": "/software/repository/github/dparkins/CosmoNest",
         "avatar": "https://avatars.githubusercontent.com/u/3622802?v=4",
         "description": "Cosmological Nested Sampling (to be used with cosmomc)",
+        "topics": []
+    },
+    {
+        "uid": "github/LondonBiofoundry/basicsynbio",
+        "url": "https://github.com/LondonBiofoundry/basicsynbio",
+        "rel": "/software/repository/github/LondonBiofoundry/basicsynbio",
+        "avatar": "https://avatars.githubusercontent.com/u/61753978?v=4",
+        "description": "An open-source Python package to facilitate BASIC DNA Assembly workflows",
         "topics": []
     },
     {
@@ -9442,6 +9499,14 @@
         ]
     },
     {
+        "uid": "github/DrJCarson/BoundedCoalescent",
+        "url": "https://github.com/DrJCarson/BoundedCoalescent",
+        "rel": "/software/repository/github/DrJCarson/BoundedCoalescent",
+        "avatar": "https://avatars.githubusercontent.com/u/9008332?v=4",
+        "description": "Sampling and likelihood estimation for the bounded coalescent",
+        "topics": []
+    },
+    {
         "uid": "github/mirapy-org/mirapy",
         "url": "https://github.com/mirapy-org/mirapy",
         "rel": "/software/repository/github/mirapy-org/mirapy",
@@ -10505,6 +10570,27 @@
         ]
     },
     {
+        "uid": "github/ConnorDonegan/geostan",
+        "url": "https://github.com/ConnorDonegan/geostan",
+        "rel": "/software/repository/github/ConnorDonegan/geostan",
+        "avatar": "https://avatars.githubusercontent.com/u/24845033?v=4",
+        "description": "Bayesian spatial analysis",
+        "topics": [
+            "stan",
+            "bayesian",
+            "spatial",
+            "epidemiology",
+            "public-health",
+            "r-package",
+            "bayesian-inference",
+            "rspatial",
+            "r",
+            "modeling",
+            "rstats",
+            "bayesian-statistics"
+        ]
+    },
+    {
         "uid": "github/jhparkastro/gpcal",
         "url": "https://github.com/jhparkastro/gpcal",
         "rel": "/software/repository/github/jhparkastro/gpcal",
@@ -11322,6 +11408,14 @@
         "rel": "/software/repository/github/Gaius-Augustus/BRAKER",
         "avatar": "https://avatars.githubusercontent.com/u/39598608?v=4",
         "description": "BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes",
+        "topics": []
+    },
+    {
+        "uid": "github/Gaius-Augustus/GALBA",
+        "url": "https://github.com/Gaius-Augustus/GALBA",
+        "rel": "/software/repository/github/Gaius-Augustus/GALBA",
+        "avatar": "https://avatars.githubusercontent.com/u/39598608?v=4",
+        "description": "GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scenario where high quality proteins from a closely related species are available.",
         "topics": []
     },
     {
@@ -12495,6 +12589,14 @@
         "topics": []
     },
     {
+        "uid": "github/snugel/cas-offinder",
+        "url": "https://github.com/snugel/cas-offinder",
+        "rel": "/software/repository/github/snugel/cas-offinder",
+        "avatar": "https://avatars.githubusercontent.com/u/5906282?v=4",
+        "description": "An ultrafast and versatile algorithm that searches for potential off-target sites of CRISPR/Cas-derived RNA-guided endonucleases.",
+        "topics": []
+    },
+    {
         "uid": "github/csb5/lofreq",
         "url": "https://github.com/CSB5/lofreq",
         "rel": "/software/repository/github/csb5/lofreq",
@@ -12799,6 +12901,14 @@
         "rel": "/software/repository/github/toshiyan/cmblensplus",
         "avatar": "https://avatars.githubusercontent.com/u/16786258?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/Hoecker-Lab/atligator",
+        "url": "https://github.com/Hoecker-Lab/atligator",
+        "rel": "/software/repository/github/Hoecker-Lab/atligator",
+        "avatar": "https://avatars.githubusercontent.com/u/72266843?v=4",
+        "description": "Analysis and design of protein-protein or protein-peptide interactions based on atlas database.",
         "topics": []
     },
     {
@@ -14058,6 +14168,14 @@
         ]
     },
     {
+        "uid": "github/hytrac/amber",
+        "url": "https://github.com/hytrac/amber",
+        "rel": "/software/repository/github/hytrac/amber",
+        "avatar": "https://avatars.githubusercontent.com/u/26089602?v=4",
+        "description": "The Abundance Matching Box for the Epoch of Reionization (AMBER) is a semi-numerical code for modeling the cosmic dawn and reionization.",
+        "topics": []
+    },
+    {
         "uid": "github/kimberg/voxbo",
         "url": "https://github.com/kimberg/voxbo",
         "rel": "/software/repository/github/kimberg/voxbo",
@@ -14856,6 +14974,14 @@
         "rel": "/software/repository/github/esa/pagmo2-paper",
         "avatar": "https://avatars0.githubusercontent.com/u/3287599?v=4",
         "description": "paper for JOSS on pagmo and pygmo",
+        "topics": []
+    },
+    {
+        "uid": "github/hnikaein/stark",
+        "url": "https://github.com/hnikaein/stark",
+        "rel": "/software/repository/github/hnikaein/stark",
+        "avatar": "https://avatars.githubusercontent.com/u/3269519?v=4",
+        "description": "A tool for bluntifying a bidirected de bruijn graph by removing overlaps.",
         "topics": []
     },
     {
@@ -18463,6 +18589,14 @@
         "rel": "/software/repository/github/lsncibb/microbiomeGWAS",
         "avatar": "https://avatars.githubusercontent.com/u/15255156?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/xiaofengsong/pHisPred",
+        "url": "https://github.com/xiaofengsong/pHisPred",
+        "rel": "/software/repository/github/xiaofengsong/pHisPred",
+        "avatar": "https://avatars.githubusercontent.com/u/13796294?v=4",
+        "description": "A bioinformatic tool for identifying protein histidine phosphorylation sites",
         "topics": []
     },
     {
@@ -23840,6 +23974,23 @@
         "topics": []
     },
     {
+        "uid": "github/ggonnella/fastsubtrees",
+        "url": "https://github.com/ggonnella/fastsubtrees",
+        "rel": "/software/repository/github/ggonnella/fastsubtrees",
+        "avatar": "https://avatars.githubusercontent.com/u/21620?v=4",
+        "description": "Python library and command line script , for fast extraction of subtrees of fairly large trees, consisting of millions of nodes, such as the NCBI taxonomy tree.",
+        "topics": [
+            "bioinformatics",
+            "ncbi-taxonomy",
+            "python",
+            "subtree",
+            "taxonomy",
+            "tree",
+            "subtree-extraction",
+            "subtree-query"
+        ]
+    },
+    {
         "uid": "github/ggonnella/gfapy",
         "url": "https://github.com/ggonnella/gfapy",
         "rel": "/software/repository/github/ggonnella/gfapy",
@@ -24028,6 +24179,14 @@
         "topics": []
     },
     {
+        "uid": "github/Dylan-Aliberti/Kepler-Collisions",
+        "url": "https://github.com/Dylan-Aliberti/Kepler-Collisions",
+        "rel": "/software/repository/github/Dylan-Aliberti/Kepler-Collisions",
+        "avatar": "https://avatars.githubusercontent.com/u/112291944?v=4",
+        "description": "Code used for testing the the analytic propagator.",
+        "topics": []
+    },
+    {
         "uid": "github/cgobat/asymmetric_uncertainty",
         "url": "https://github.com/cgobat/asymmetric_uncertainty",
         "rel": "/software/repository/github/cgobat/asymmetric_uncertainty",
@@ -24078,6 +24237,14 @@
         "rel": "/software/repository/github/yuansliu/minirmd",
         "avatar": "https://avatars2.githubusercontent.com/u/7776655?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/kavir1698/EvoDynamics.jl",
+        "url": "https://github.com/kavir1698/EvoDynamics.jl",
+        "rel": "/software/repository/github/kavir1698/EvoDynamics.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/3798865?v=4",
+        "description": "Simulation of eco-evolutionary dynamics on multi-trait networks",
         "topics": []
     },
     {
@@ -25806,6 +25973,19 @@
         "topics": [
             "single-cell-rna-seq",
             "time-series-analysis"
+        ]
+    },
+    {
+        "uid": "github/ZJUFanLab/bulk2space",
+        "url": "https://github.com/ZJUFanLab/bulk2space",
+        "rel": "/software/repository/github/ZJUFanLab/bulk2space",
+        "avatar": "https://avatars.githubusercontent.com/u/53822310?v=4",
+        "description": "a spatial deconvolution method based on deep learning frameworks, which converts bulk transcriptomes into spatially resolved single-cell expression profiles",
+        "topics": [
+            "bulk-sequencing",
+            "deep-learning",
+            "scrna-seq",
+            "spatial-transcriptomics"
         ]
     },
     {
@@ -34710,6 +34890,14 @@
         "topics": []
     },
     {
+        "uid": "github/mzytnicki/srnaMapper",
+        "url": "https://github.com/mzytnicki/srnaMapper",
+        "rel": "/software/repository/github/mzytnicki/srnaMapper",
+        "avatar": "https://avatars.githubusercontent.com/u/34034101?v=4",
+        "description": "Mapping small RNA data to a genome.",
+        "topics": []
+    },
+    {
         "uid": "github/RajLabMSSM/echolocatoR",
         "url": "https://github.com/RajLabMSSM/echolocatoR",
         "rel": "/software/repository/github/RajLabMSSM/echolocatoR",
@@ -34746,6 +34934,23 @@
             "simulator",
             "oxford-nanopore",
             "nanopore-sequencing"
+        ]
+    },
+    {
+        "uid": "github/bcgsc/arcs",
+        "url": "https://github.com/bcgsc/arcs",
+        "rel": "/software/repository/github/bcgsc/arcs",
+        "avatar": "https://avatars.githubusercontent.com/u/2319317?v=4",
+        "description": "\ud83c\udf08Scaffold genome sequence assemblies using linked read sequencing data",
+        "topics": [
+            "c-plus-plus",
+            "science",
+            "bioinformatics",
+            "assembler",
+            "scaffold",
+            "genome",
+            "10xgenomics",
+            "graph"
         ]
     },
     {
@@ -37215,6 +37420,14 @@
         ]
     },
     {
+        "uid": "github/maickrau/MBG",
+        "url": "https://github.com/maickrau/MBG",
+        "rel": "/software/repository/github/maickrau/MBG",
+        "avatar": "https://avatars.githubusercontent.com/u/1543674?v=4",
+        "description": "Minimizer based sparse de Bruijn graph constructor.",
+        "topics": []
+    },
+    {
         "uid": "github/arq5x/grabix",
         "url": "https://github.com/arq5x/grabix",
         "rel": "/software/repository/github/arq5x/grabix",
@@ -37511,6 +37724,14 @@
             "scigraph",
             "docker"
         ]
+    },
+    {
+        "uid": "github/Natsiopoulos/ARDL",
+        "url": "https://github.com/Natsiopoulos/ARDL",
+        "rel": "/software/repository/github/Natsiopoulos/ARDL",
+        "avatar": "https://avatars.githubusercontent.com/u/38705190?v=4",
+        "description": "ARDL, ECM and Bounds-Test for Cointegration",
+        "topics": []
     },
     {
         "uid": "github/perfanalytics/pose2sim",
@@ -38463,6 +38684,14 @@
             "simulations",
             "python"
         ]
+    },
+    {
+        "uid": "github/jonathanHuwP/CrystalGrowthTracker",
+        "url": "https://github.com/jonathanHuwP/CrystalGrowthTracker",
+        "rel": "/software/repository/github/jonathanHuwP/CrystalGrowthTracker",
+        "avatar": "https://avatars.githubusercontent.com/u/63852810?v=4",
+        "description": "Extract face growth rate data from x-ray video of growing crystals.",
+        "topics": []
     },
     {
         "uid": "github/DynaSlum/satsense",
@@ -40897,6 +41126,17 @@
         "topics": []
     },
     {
+        "uid": "github/mrvollger/rustybam",
+        "url": "https://github.com/mrvollger/rustybam",
+        "rel": "/software/repository/github/mrvollger/rustybam",
+        "avatar": "https://avatars.githubusercontent.com/u/6935283?v=4",
+        "description": "bioinformatics toolkit in rust",
+        "topics": [
+            "bioinformatics",
+            "genomics"
+        ]
+    },
+    {
         "uid": "github/pvlib/pvlib-python",
         "url": "https://github.com/pvlib/pvlib-python",
         "rel": "/software/repository/github/pvlib/pvlib-python",
@@ -41505,6 +41745,14 @@
         "rel": "/software/repository/github/IanHeywood/oxkat",
         "avatar": "https://avatars.githubusercontent.com/u/6533799?v=4",
         "description": "MeerKAT calibration and imaging scripts",
+        "topics": []
+    },
+    {
+        "uid": "github/RosettaCommons/RFDesign",
+        "url": "https://github.com/RosettaCommons/RFDesign",
+        "rel": "/software/repository/github/RosettaCommons/RFDesign",
+        "avatar": "https://avatars.githubusercontent.com/u/3856847?v=4",
+        "description": "Protein hallucination and inpainting with RoseTTAFold",
         "topics": []
     },
     {
