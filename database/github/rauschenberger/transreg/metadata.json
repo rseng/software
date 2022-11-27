@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/rauschenberger/transreg",
+    "url": "https://github.com/rauschenberger/transreg",
+    "data": {
+        "name": "transreg",
+        "url": "https://github.com/rauschenberger/transreg",
+        "full_name": "rauschenberger/transreg",
+        "html_url": "https://github.com/rauschenberger/transreg",
+        "private": false,
+        "description": "Transfer learning",
+        "created_at": "2022-03-08T06:51:55Z",
+        "updated_at": "2022-11-25T13:34:10Z",
+        "clone_url": "https://github.com/rauschenberger/transreg.git",
+        "homepage": "https://rauschenberger.github.io/transreg/",
+        "size": 6494,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/rauschenberger",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14272654?v=4",
+            "login": "rauschenberger",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2022-11-27 00:41:40.113393",
+        "avatar": "https://avatars.githubusercontent.com/u/14272654?v=4"
+    }
+}
