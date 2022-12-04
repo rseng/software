@@ -1,0 +1,38 @@
+{
+    "parser": "gitlab",
+    "uid": "gitlab/remikz/nccmp",
+    "url": "https://gitlab.com/remikz/nccmp",
+    "data": {
+        "id": 6826133,
+        "description": "nccmp - Compare 2 NetCDF files. ",
+        "name": "nccmp",
+        "name_with_namespace": "Remik Ziemlinski / nccmp",
+        "path": "nccmp",
+        "path_with_namespace": "remikz/nccmp",
+        "created_at": "2018-06-05T17:19:14.122Z",
+        "default_branch": "master",
+        "tag_list": [],
+        "topics": [],
+        "ssh_url_to_repo": "git@gitlab.com:remikz/nccmp.git",
+        "http_url_to_repo": "https://gitlab.com/remikz/nccmp.git",
+        "web_url": "https://gitlab.com/remikz/nccmp",
+        "readme_url": "https://gitlab.com/remikz/nccmp/-/blob/master/README.md",
+        "avatar_url": null,
+        "forks_count": 2,
+        "star_count": 8,
+        "last_activity_at": "2022-06-20T04:24:30.804Z",
+        "namespace": {
+            "id": 2985435,
+            "name": "Remik Ziemlinski",
+            "path": "remikz",
+            "kind": "user",
+            "full_path": "remikz",
+            "parent_id": null,
+            "avatar_url": "https://secure.gravatar.com/avatar/91892be56a443bace82570526dff8cb9?s=80&d=identicon",
+            "web_url": "https://gitlab.com/remikz"
+        },
+        "timestamp": "2022-12-04 00:37:07.442687",
+        "avatar": "https://gitlab.comhttps://secure.gravatar.com/avatar/91892be56a443bace82570526dff8cb9?s=80&d=identicon",
+        "url": "https://gitlab.com/remikz/nccmp"
+    }
+}
