@@ -133,6 +133,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/treangenlab/vulcan",
+        "url": "https://gitlab.com/treangenlab/vulcan",
+        "rel": "/software/repository/gitlab/treangenlab/vulcan",
+        "avatar": "https://gitlab.comNone",
+        "description": "",
+        "topics": []
+    },
+    {
         "uid": "gitlab/treangenlab/emu",
         "url": "https://gitlab.com/treangenlab/emu",
         "rel": "/software/repository/gitlab/treangenlab/emu",
@@ -1018,6 +1026,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/41902601?v=4",
         "description": "is a tool for classification of Influenza samples from raw short read sequence data for downstream bioinformatics analysis.",
         "topics": []
+    },
+    {
+        "uid": "github/viromelab/tracespipe",
+        "url": "https://github.com/viromelab/tracespipe",
+        "rel": "/software/repository/github/viromelab/tracespipe",
+        "avatar": "https://avatars.githubusercontent.com/u/52006995?v=4",
+        "description": "Reconstruction and analysis of viral and host genomes at multi-organ level",
+        "topics": [
+            "virus",
+            "metagenomics",
+            "pipeline",
+            "forensics",
+            "clinical",
+            "virology",
+            "mtdna",
+            "multi-organ",
+            "ngs",
+            "ngs-pipeline"
+        ]
     },
     {
         "uid": "github/dnonatar/Sequoia",
@@ -2691,6 +2718,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/78158898?v=4",
         "description": "Statistical method for measuring modified GW propagation and Hubble parameter with dark sirens and galaxy catalogues",
         "topics": []
+    },
+    {
+        "uid": "github/CosmoStatGW/MGCosmoPop",
+        "url": "https://github.com/CosmoStatGW/MGCosmoPop",
+        "rel": "/software/repository/github/CosmoStatGW/MGCosmoPop",
+        "avatar": "https://avatars.githubusercontent.com/u/78158898?v=4",
+        "description": "Modified Gravity and Cosmology with Binary Black Holes' Population models : hierarchical bayesian method for constraining modified GW propagation and BBH population models with GWs.",
+        "topics": [
+            "gravitational-waves",
+            "hierarchical-bayesian-analysis",
+            "cosmology"
+        ]
     },
     {
         "uid": "github/CosmoStatGW/gwfast",
@@ -9549,6 +9588,14 @@
         "topics": []
     },
     {
+        "uid": "github/txopen/histoc",
+        "url": "https://github.com/txopen/histoc",
+        "rel": "/software/repository/github/txopen/histoc",
+        "avatar": "https://avatars.githubusercontent.com/u/107883455?v=4",
+        "description": "Histocompatibility analysis performed by kidney allocation systems for transplantation",
+        "topics": []
+    },
+    {
         "uid": "github/MRChemSoft/mrchem",
         "url": "https://github.com/MRChemSoft/mrchem",
         "rel": "/software/repository/github/MRChemSoft/mrchem",
@@ -10274,6 +10321,14 @@
         "rel": "/software/repository/github/thomgrand/fim-python",
         "avatar": "https://avatars.githubusercontent.com/u/73308131?v=4",
         "description": "This repository implements the Fast Iterative Method (FIM) for use in python",
+        "topics": []
+    },
+    {
+        "uid": "github/kathlandgren/SWAMPE",
+        "url": "https://github.com/kathlandgren/SWAMPE",
+        "rel": "/software/repository/github/kathlandgren/SWAMPE",
+        "avatar": "https://avatars.githubusercontent.com/u/78450083?v=4",
+        "description": "2D spectral-core shallow-water exoplanet atmosphere model",
         "topics": []
     },
     {
@@ -25195,6 +25250,17 @@
         ]
     },
     {
+        "uid": "github/lh3/wgsim",
+        "url": "https://github.com/lh3/wgsim",
+        "rel": "/software/repository/github/lh3/wgsim",
+        "avatar": "https://avatars.githubusercontent.com/u/480346?v=4",
+        "description": "Reads simulator",
+        "topics": [
+            "bioinformatics",
+            "genomics"
+        ]
+    },
+    {
         "uid": "github/lh3/bgt",
         "url": "https://github.com/lh3/bgt",
         "rel": "/software/repository/github/lh3/bgt",
@@ -25292,6 +25358,14 @@
         "rel": "/software/repository/github/deweylab/RSEM",
         "avatar": "https://avatars.githubusercontent.com/u/8928563?v=4",
         "description": "RSEM: accurate quantification of gene and isoform expression from RNA-Seq data",
+        "topics": []
+    },
+    {
+        "uid": "github/BiodataAnalysisGroup/UMIc",
+        "url": "https://github.com/BiodataAnalysisGroup/UMIc",
+        "rel": "/software/repository/github/BiodataAnalysisGroup/UMIc",
+        "avatar": "https://avatars.githubusercontent.com/u/9251685?v=4",
+        "description": "A framework implementing a method for UMI deduplication and reads correction.",
         "topics": []
     },
     {
@@ -35486,6 +35560,14 @@
         "topics": []
     },
     {
+        "uid": "github/RemoteSensingTools/vSmartMOM.jl",
+        "url": "https://github.com/RemoteSensingTools/vSmartMOM.jl",
+        "rel": "/software/repository/github/RemoteSensingTools/vSmartMOM.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/83097293?v=4",
+        "description": "A full end-to-end modular software suite for radiative transfer and related atmospheric analysis",
+        "topics": []
+    },
+    {
         "uid": "github/dsheward-astro/pynaple",
         "url": "https://github.com/dsheward-astro/PyNAPLE",
         "rel": "/software/repository/github/dsheward-astro/pynaple",
@@ -42779,6 +42861,14 @@
         "rel": "/software/repository/github/ParaFly/ParaFly",
         "avatar": "https://avatars.githubusercontent.com/u/31590597?v=4",
         "description": "ParaFly - parallel cmd processing utility",
+        "topics": []
+    },
+    {
+        "uid": "github/ppsp-team/PyNM",
+        "url": "https://github.com/ppsp-team/PyNM",
+        "rel": "/software/repository/github/ppsp-team/PyNM",
+        "avatar": "https://avatars.githubusercontent.com/u/65951336?v=4",
+        "description": "Lightweight Python implementation of Normative Modelling",
         "topics": []
     },
     {
