@@ -851,6 +851,14 @@
         "topics": []
     },
     {
+        "uid": "github/ELELAB/cancermuts",
+        "url": "https://github.com/ELELAB/cancermuts",
+        "rel": "/software/repository/github/ELELAB/cancermuts",
+        "avatar": "https://avatars.githubusercontent.com/u/12696253?v=4",
+        "description": "Software for the automatic annotation of cancer mutations",
+        "topics": []
+    },
+    {
         "uid": "github/Acellera/htmd",
         "url": "https://github.com/Acellera/htmd",
         "rel": "/software/repository/github/Acellera/htmd",
@@ -3158,6 +3166,14 @@
             "radiative-transfer",
             "fortran"
         ]
+    },
+    {
+        "uid": "github/TeamPerie/CellDestiny",
+        "url": "https://github.com/TeamPerie/CellDestiny",
+        "rel": "/software/repository/github/TeamPerie/CellDestiny",
+        "avatar": "https://avatars.githubusercontent.com/u/74544908?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/savage13/sacio",
@@ -7246,6 +7262,20 @@
         "topics": []
     },
     {
+        "uid": "github/sebastian-zieba/PACMAN",
+        "url": "https://github.com/sebastian-zieba/PACMAN",
+        "rel": "/software/repository/github/sebastian-zieba/PACMAN",
+        "avatar": "https://avatars.githubusercontent.com/u/44154733?v=4",
+        "description": "PACMAN is a pipeline to reduce and analyze data collected by Hubble Wide Field Camera 3 (HST/WFC3) using either the G102 or G141 grism.",
+        "topics": [
+            "python",
+            "exoplanets",
+            "hst",
+            "astronomy",
+            "wfc3"
+        ]
+    },
+    {
         "uid": "github/klevis-a/kinematics-vis",
         "url": "https://github.com/klevis-a/kinematics-vis",
         "rel": "/software/repository/github/klevis-a/kinematics-vis",
@@ -8745,6 +8775,14 @@
         "rel": "/software/repository/github/keflavich/HiGal_SEDfitter",
         "avatar": "https://avatars.githubusercontent.com/u/143715?v=4",
         "description": "SED fitting tools for Herschel Hi-Gal data",
+        "topics": []
+    },
+    {
+        "uid": "github/flu-crew/smot",
+        "url": "https://github.com/flu-crew/smot",
+        "rel": "/software/repository/github/flu-crew/smot",
+        "avatar": "https://avatars.githubusercontent.com/u/48957009?v=4",
+        "description": "Simple Manipulation Of Trees",
         "topics": []
     },
     {
@@ -16336,6 +16374,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/20481009?v=4",
         "description": "Deep dilated convolutional residual neural network for predicting interchain contacts of protein homodimers",
         "topics": []
+    },
+    {
+        "uid": "github/jjmccollum/teiphy",
+        "url": "https://github.com/jjmccollum/teiphy",
+        "rel": "/software/repository/github/jjmccollum/teiphy",
+        "avatar": "https://avatars.githubusercontent.com/u/15383366?v=4",
+        "description": "A Python package for converting TEI XML collations to NEXUS and other formats",
+        "topics": [
+            "nexus",
+            "phylogenetics",
+            "python",
+            "tei-xml",
+            "text-encoding"
+        ]
     },
     {
         "uid": "github/cl3425/Clairvoyance",
@@ -27915,6 +27967,14 @@
         ]
     },
     {
+        "uid": "github/lanl/GLUE",
+        "url": "https://github.com/lanl/GLUE",
+        "rel": "/software/repository/github/lanl/GLUE",
+        "avatar": "https://avatars.githubusercontent.com/u/585305?v=4",
+        "description": "Generic Learning User Enablement Code",
+        "topics": []
+    },
+    {
         "uid": "github/lanl/CosmicEmu",
         "url": "https://github.com/lanl/CosmicEmu",
         "rel": "/software/repository/github/lanl/CosmicEmu",
@@ -36559,6 +36619,14 @@
         ]
     },
     {
+        "uid": "github/yuansh3354/CaSee",
+        "url": "https://github.com/yuansh3354/CaSee",
+        "rel": "/software/repository/github/yuansh3354/CaSee",
+        "avatar": "https://avatars.githubusercontent.com/u/65653560?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/cistib/origami",
         "url": "https://github.com/cistib/origami",
         "rel": "/software/repository/github/cistib/origami",
@@ -39590,6 +39658,14 @@
         "rel": "/software/repository/github/SSDataLab/vetting",
         "avatar": "https://avatars.githubusercontent.com/u/65370866?v=4",
         "description": "Simple, stand-alone tools for vetting transit signals in Kepler, K2 and TESS data",
+        "topics": []
+    },
+    {
+        "uid": "github/aL3x-O-o-Hung/CAT-Net",
+        "url": "https://github.com/aL3x-O-o-Hung/CAT-Net",
+        "rel": "/software/repository/github/aL3x-O-o-Hung/CAT-Net",
+        "avatar": "https://avatars.githubusercontent.com/u/39303016?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -43306,6 +43382,35 @@
         "topics": []
     },
     {
+        "uid": "github/gnudatalanguage/gdl",
+        "url": "https://github.com/gnudatalanguage/gdl",
+        "rel": "/software/repository/github/gnudatalanguage/gdl",
+        "avatar": "https://avatars.githubusercontent.com/u/8539759?v=4",
+        "description": "GDL - GNU Data Language",
+        "topics": [
+            "astronomy",
+            "data-analysis",
+            "antlr",
+            "python",
+            "pv-wave",
+            "programming-language",
+            "geophysics",
+            "mapping",
+            "scientific-computing",
+            "scientific-visualization",
+            "plplot",
+            "gsl-library",
+            "plotting",
+            "netcdf",
+            "hdf5",
+            "hdf",
+            "dicom",
+            "fits-files",
+            "grib",
+            "eigen3"
+        ]
+    },
+    {
         "uid": "github/cadop/seg1d",
         "url": "https://github.com/cadop/seg1d",
         "rel": "/software/repository/github/cadop/seg1d",
@@ -45803,6 +45908,14 @@
         "rel": "/software/repository/github/christopher-vollmers/C3POa",
         "avatar": "https://avatars.githubusercontent.com/u/28308271?v=4",
         "description": "(Concatemeric Consensus Caller with Partial Order alignments) is a computational pipeline for calling consensi on R2C2 nanopore data.",
+        "topics": []
+    },
+    {
+        "uid": "github/zhongqiu1245/CCS-Net",
+        "url": "https://github.com/zhongqiu1245/CCS-Net",
+        "rel": "/software/repository/github/zhongqiu1245/CCS-Net",
+        "avatar": "https://avatars.githubusercontent.com/u/48090608?v=4",
+        "description": null,
         "topics": []
     },
     {
