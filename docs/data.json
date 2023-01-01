@@ -2551,6 +2551,14 @@
         ]
     },
     {
+        "uid": "github/MaudeDavidLab/GMEmbeddings",
+        "url": "https://github.com/MaudeDavidLab/GMEmbeddings",
+        "rel": "/software/repository/github/MaudeDavidLab/GMEmbeddings",
+        "avatar": "https://avatars.githubusercontent.com/u/36453608?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/MRChemSoft/mrchem",
         "url": "https://github.com/MRChemSoft/mrchem",
         "rel": "/software/repository/github/MRChemSoft/mrchem",
@@ -5770,6 +5778,16 @@
         ]
     },
     {
+        "uid": "github/LCOGT/banzai-nres",
+        "url": "https://github.com/LCOGT/banzai-nres",
+        "rel": "/software/repository/github/LCOGT/banzai-nres",
+        "avatar": "https://avatars.githubusercontent.com/u/3358238?v=4",
+        "description": "BANZAI Data Reduction Pipeline for NRES",
+        "topics": [
+            "backend"
+        ]
+    },
+    {
         "uid": "github/LCOGT/banzai",
         "url": "https://github.com/LCOGT/banzai",
         "rel": "/software/repository/github/LCOGT/banzai",
@@ -6452,6 +6470,14 @@
             "viral-metagenomes",
             "snakemake"
         ]
+    },
+    {
+        "uid": "github/fkeruzore/panco2",
+        "url": "https://github.com/fkeruzore/panco2",
+        "rel": "/software/repository/github/fkeruzore/panco2",
+        "avatar": "https://avatars.githubusercontent.com/u/26671073?v=4",
+        "description": "A Python library for pressure profile measurements in SZ observations of galaxy clusters.",
+        "topics": []
     },
     {
         "uid": "github/miguelzuma/hi_class_public",
@@ -8830,6 +8856,14 @@
         "rel": "/software/repository/github/ebachelet/pyLIMA",
         "avatar": "https://avatars.githubusercontent.com/u/14871821?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/IBMTRostock/GIFT",
+        "url": "https://github.com/IBMTRostock/GIFT",
+        "rel": "/software/repository/github/IBMTRostock/GIFT",
+        "avatar": "https://avatars.githubusercontent.com/u/93711119?v=4",
+        "description": "This work comes from the Institute for Biomedical Engineering (https://ibmt.med.uni-rostock.de/en/) at the University Medical Center Rostock",
         "topics": []
     },
     {
@@ -11524,6 +11558,14 @@
         ]
     },
     {
+        "uid": "github/RavenGan/GR2D2",
+        "url": "https://github.com/RavenGan/GR2D2",
+        "rel": "/software/repository/github/RavenGan/GR2D2",
+        "avatar": "https://avatars.githubusercontent.com/u/46891773?v=4",
+        "description": "Take Monte Carlo samples from the posterior distribution based on the graphical R2D2 prior, to estimate the precision matrix for multivariate Gaussian data",
+        "topics": []
+    },
+    {
         "uid": "github/abelson-lab/smMIP-tools",
         "url": "https://github.com/abelson-lab/smMIP-tools",
         "rel": "/software/repository/github/abelson-lab/smMIP-tools",
@@ -12163,6 +12205,14 @@
         "rel": "/software/repository/github/tvwenger/kd",
         "avatar": "https://avatars.githubusercontent.com/u/5921304?v=4",
         "description": "Utilities to calculate kinematic distances",
+        "topics": []
+    },
+    {
+        "uid": "github/astrosupriyo/pyTANSPEC",
+        "url": "https://github.com/astrosupriyo/pyTANSPEC",
+        "rel": "/software/repository/github/astrosupriyo/pyTANSPEC",
+        "avatar": "https://avatars.githubusercontent.com/u/29644902?v=4",
+        "description": "Python tool for extracting 1D TANSPEC spectra from 2D image",
         "topics": []
     },
     {
@@ -14016,6 +14066,14 @@
         "topics": []
     },
     {
+        "uid": "github/AndreinaCastillo/Genie_manuscript_data_analysis",
+        "url": "https://github.com/AndreinaCastillo/Genie_manuscript_data_analysis",
+        "rel": "/software/repository/github/AndreinaCastillo/Genie_manuscript_data_analysis",
+        "avatar": "https://avatars.githubusercontent.com/u/23280243?v=4",
+        "description": "Repository containing R code for the analysis of student pre- and post-recitation responses ",
+        "topics": []
+    },
+    {
         "uid": "github/Quantum-Dynamics-Hub/libra-code",
         "url": "https://github.com/Quantum-Dynamics-Hub/libra-code",
         "rel": "/software/repository/github/Quantum-Dynamics-Hub/libra-code",
@@ -14543,6 +14601,14 @@
         "rel": "/software/repository/github/edwardoughton/itmlogic",
         "avatar": "https://avatars0.githubusercontent.com/u/11899151?v=4",
         "description": "Longley-Rice Irregular Terrain Model (itmlogic)",
+        "topics": []
+    },
+    {
+        "uid": "github/cbio-astar-tools/GeneCloudOmics",
+        "url": "https://github.com/cbio-astar-tools/GeneCloudOmics",
+        "rel": "/software/repository/github/cbio-astar-tools/GeneCloudOmics",
+        "avatar": "https://avatars.githubusercontent.com/u/73512938?v=4",
+        "description": "A Biostatistical tool for Transcriptomics Analysis",
         "topics": []
     },
     {
@@ -18044,6 +18110,14 @@
         "rel": "/software/repository/github/lsncibb/microbiomeGWAS",
         "avatar": "https://avatars.githubusercontent.com/u/15255156?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/joshuakt/Oxygen-False-Positives",
+        "url": "https://github.com/joshuakt/Oxygen-False-Positives",
+        "rel": "/software/repository/github/joshuakt/Oxygen-False-Positives",
+        "avatar": "https://avatars.githubusercontent.com/u/37488322?v=4",
+        "description": "Python source code for planetary evolution model described in Krissansen-Totton et al. (2021; AGU Advances)",
         "topics": []
     },
     {
@@ -21608,6 +21682,23 @@
             "rstats",
             "peer-reviewed",
             "data-access"
+        ]
+    },
+    {
+        "uid": "github/ropensci/daiquiri",
+        "url": "https://github.com/ropensci/daiquiri",
+        "rel": "/software/repository/github/ropensci/daiquiri",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Data quality reporting for temporal datasets.",
+        "topics": [
+            "data-quality",
+            "initial-data-analysis",
+            "r",
+            "r-package",
+            "reproducible-research",
+            "rstats",
+            "temporal-data",
+            "time-series"
         ]
     },
     {
@@ -26734,6 +26825,14 @@
         "topics": []
     },
     {
+        "uid": "github/gmbrandt/xwavecal",
+        "url": "https://github.com/gmbrandt/xwavecal",
+        "rel": "/software/repository/github/gmbrandt/xwavecal",
+        "avatar": "https://avatars.githubusercontent.com/u/38594712?v=4",
+        "description": "A library of routines for wavelength calibrating echelle spectrographs for high precision radial velocity work. A limited data-reduction pipeline is included.",
+        "topics": []
+    },
+    {
         "uid": "github/wilkelab/Opfi",
         "url": "https://github.com/wilkelab/Opfi",
         "rel": "/software/repository/github/wilkelab/Opfi",
@@ -28078,6 +28177,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/3278167?v=4",
         "description": "This repository contains the basic outlier detection algorithm that we use to find the weirdest SDSS galaxies.",
         "topics": []
+    },
+    {
+        "uid": "github/LoganAMorrison/Hazma",
+        "url": "https://github.com/LoganAMorrison/Hazma",
+        "rel": "/software/repository/github/LoganAMorrison/Hazma",
+        "avatar": "https://avatars.githubusercontent.com/u/22247102?v=4",
+        "description": "Python package for computing indirect detection constraints on sub-GeV dark matter.",
+        "topics": [
+            "physics",
+            "quantum-field-theory",
+            "astrophysics",
+            "python"
+        ]
     },
     {
         "uid": "github/snfactory/binaryoffset",
@@ -29737,6 +29849,20 @@
         "topics": []
     },
     {
+        "uid": "github/arjunsavel/SImMER",
+        "url": "https://github.com/arjunsavel/SImMER",
+        "rel": "/software/repository/github/arjunsavel/SImMER",
+        "avatar": "https://avatars.githubusercontent.com/u/35353555?v=4",
+        "description": "An open-source & modular reduction pipeline for astronomical images of point sources.",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "python",
+            "astronomical-images",
+            "stars"
+        ]
+    },
+    {
         "uid": "github/jaimedelacruz/stic",
         "url": "https://github.com/jaimedelacruz/stic",
         "rel": "/software/repository/github/jaimedelacruz/stic",
@@ -29970,6 +30096,14 @@
         "rel": "/software/repository/github/parkus/fiducial_flare",
         "avatar": "https://avatars.githubusercontent.com/u/7536570?v=4",
         "description": "Generate spectra and lightcurves of a standardized far ultraviolet flare.",
+        "topics": []
+    },
+    {
+        "uid": "github/bodenlab/GRASP",
+        "url": "https://github.com/bodenlab/GRASP",
+        "rel": "/software/repository/github/bodenlab/GRASP",
+        "avatar": "https://avatars.githubusercontent.com/u/13028136?v=4",
+        "description": "Graphical Representation of Ancestral Sequence Predictions",
         "topics": []
     },
     {
@@ -30855,6 +30989,17 @@
         "topics": []
     },
     {
+        "uid": "github/fbreitwieser/krakenuniq",
+        "url": "https://github.com/fbreitwieser/krakenuniq",
+        "rel": "/software/repository/github/fbreitwieser/krakenuniq",
+        "avatar": "https://avatars.githubusercontent.com/u/516060?v=4",
+        "description": "\ud83d\udc19 KrakenUniq: Metagenomics classifier with unique k-mer counting for more specific results",
+        "topics": [
+            "bioinformatics",
+            "metagenomics"
+        ]
+    },
+    {
         "uid": "github/achael/eht-imaging",
         "url": "https://github.com/achael/eht-imaging",
         "rel": "/software/repository/github/achael/eht-imaging",
@@ -31439,6 +31584,14 @@
         ]
     },
     {
+        "uid": "github/statdivlab/rigr",
+        "url": "https://github.com/statdivlab/rigr",
+        "rel": "/software/repository/github/statdivlab/rigr",
+        "avatar": "https://avatars.githubusercontent.com/u/42418432?v=4",
+        "description": "Regression, Inference, and General Data Analysis Tools for R ",
+        "topics": []
+    },
+    {
         "uid": "github/hiddenSymmetries/simsopt",
         "url": "https://github.com/hiddenSymmetries/simsopt",
         "rel": "/software/repository/github/hiddenSymmetries/simsopt",
@@ -31624,6 +31777,14 @@
         "rel": "/software/repository/github/BioinfoUNIBA/REDItools2",
         "avatar": "https://avatars.githubusercontent.com/u/50454732?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/jonaselgammal/GPry",
+        "url": "https://github.com/jonaselgammal/GPry",
+        "rel": "/software/repository/github/jonaselgammal/GPry",
+        "avatar": "https://avatars.githubusercontent.com/u/77438543?v=4",
+        "description": "A Package for Bayesian inference of expensive likelihoods with Gaussian Processes",
         "topics": []
     },
     {
@@ -32385,6 +32546,14 @@
         "rel": "/software/repository/github/H-E-L-P/XID_plus",
         "avatar": "https://avatars.githubusercontent.com/u/7880370?v=4",
         "description": "Next generation XID development",
+        "topics": []
+    },
+    {
+        "uid": "github/sfarrens/sf_deconvolve",
+        "url": "https://github.com/sfarrens/sf_deconvolve",
+        "rel": "/software/repository/github/sfarrens/sf_deconvolve",
+        "avatar": "https://avatars.githubusercontent.com/u/6851839?v=4",
+        "description": "A Python code designed for PSF deconvolution using a low-rank approximation and sparsity. The code can handle a fixed PSF for the entire field or a stack of PSFs for each galaxy position.",
         "topics": []
     },
     {
@@ -35029,6 +35198,14 @@
         "topics": []
     },
     {
+        "uid": "github/V-Bernal/GeneNetTools",
+        "url": "https://github.com/V-Bernal/GeneNetTools",
+        "rel": "/software/repository/github/V-Bernal/GeneNetTools",
+        "avatar": "https://avatars.githubusercontent.com/u/44974039?v=4",
+        "description": "R package for Gaussian graphical models with (Ledoit Wolf) shrinkage ",
+        "topics": []
+    },
+    {
         "uid": "github/jkluter/MLG",
         "url": "https://github.com/jkluter/MLG",
         "rel": "/software/repository/github/jkluter/MLG",
@@ -36272,6 +36449,14 @@
         ]
     },
     {
+        "uid": "github/MeasureTransport/MParT",
+        "url": "https://github.com/MeasureTransport/MParT",
+        "rel": "/software/repository/github/MeasureTransport/MParT",
+        "avatar": "https://avatars.githubusercontent.com/u/97112235?v=4",
+        "description": "Monotone Parameterization Toolkit (MParT): A core library for constructing and using transport maps.",
+        "topics": []
+    },
+    {
         "uid": "github/Crompulence/cpl-library",
         "url": "https://github.com/Crompulence/cpl-library",
         "rel": "/software/repository/github/Crompulence/cpl-library",
@@ -36905,6 +37090,14 @@
             "geophysical-fluid-dynamics",
             "climate-model"
         ]
+    },
+    {
+        "uid": "github/javicarron/mtneedlet",
+        "url": "https://github.com/javicarron/mtneedlet",
+        "rel": "/software/repository/github/javicarron/mtneedlet",
+        "avatar": "https://avatars.githubusercontent.com/u/25009611?v=4",
+        "description": "This is a Python Package aimed at the use of needlets to filter spherical maps, detecting the maxima within the maps and analysing them using a multiple testing approach.",
+        "topics": []
     },
     {
         "uid": "github/nasa/K2CE",
