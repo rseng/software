@@ -662,6 +662,17 @@
         ]
     },
     {
+        "uid": "github/google/best",
+        "url": "https://github.com/google/best",
+        "rel": "/software/repository/github/google/best",
+        "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+        "description": "Bam Error Stats Tool (best): analysis of error types in aligned reads.",
+        "topics": [
+            "bioinformatics",
+            "sequencing"
+        ]
+    },
+    {
         "uid": "github/google/caliban",
         "url": "https://github.com/google/caliban",
         "rel": "/software/repository/github/google/caliban",
@@ -1460,6 +1471,18 @@
         "topics": [
             "data-analysis",
             "gmm"
+        ]
+    },
+    {
+        "uid": "github/pmelchior/spender",
+        "url": "https://github.com/pmelchior/spender",
+        "rel": "/software/repository/github/pmelchior/spender",
+        "avatar": "https://avatars.githubusercontent.com/u/1463403?v=4",
+        "description": "Spectrum encoder and decoder",
+        "topics": [
+            "astronomy",
+            "autoencoder",
+            "spectroscopy"
         ]
     },
     {
@@ -2436,6 +2459,14 @@
         "rel": "/software/repository/github/auranic/ClinTrajan",
         "avatar": "https://avatars0.githubusercontent.com/u/15074578?v=4",
         "description": "Finding trajectories, bifurcations and quantifying pseudotime in large clinical datasets",
+        "topics": []
+    },
+    {
+        "uid": "github/webbjj/m2mcluster",
+        "url": "https://github.com/webbjj/m2mcluster",
+        "rel": "/software/repository/github/webbjj/m2mcluster",
+        "avatar": "https://avatars.githubusercontent.com/u/8258656?v=4",
+        "description": "A code for made to measure modelling of star clusters",
         "topics": []
     },
     {
@@ -6870,6 +6901,14 @@
         ]
     },
     {
+        "uid": "github/agsreejith/CONTROL",
+        "url": "https://github.com/agsreejith/CONTROL",
+        "rel": "/software/repository/github/agsreejith/CONTROL",
+        "avatar": "https://avatars.githubusercontent.com/u/32366864?v=4",
+        "description": "V1.0 of CUTE data reduction pipeline",
+        "topics": []
+    },
+    {
         "uid": "github/xinyiguan/py2lispIDyOM",
         "url": "https://github.com/xinyiguan/py2lispIDyOM",
         "rel": "/software/repository/github/xinyiguan/py2lispIDyOM",
@@ -8712,6 +8751,14 @@
         ]
     },
     {
+        "uid": "github/kircherlab/ReMM",
+        "url": "https://github.com/kircherlab/ReMM",
+        "rel": "/software/repository/github/kircherlab/ReMM",
+        "avatar": "https://avatars.githubusercontent.com/u/26594270?v=4",
+        "description": "ReMM score snakemake workflow ",
+        "topics": []
+    },
+    {
         "uid": "github/AndreNicolasChene/DRAGRACES",
         "url": "https://github.com/AndreNicolasChene/DRAGRACES",
         "rel": "/software/repository/github/AndreNicolasChene/DRAGRACES",
@@ -10338,6 +10385,19 @@
         "avatar": "https://avatars1.githubusercontent.com/u/43466647?v=4",
         "description": "Reference implementation for mzTab-M 2.0 for metabolomics",
         "topics": []
+    },
+    {
+        "uid": "github/astrorama/sourcextractorplusplus",
+        "url": "https://github.com/astrorama/SourceXtractorPlusPlus",
+        "rel": "/software/repository/github/astrorama/sourcextractorplusplus",
+        "avatar": "https://avatars.githubusercontent.com/u/48352705?v=4",
+        "description": "SourceXtractor++, the next generation SExtractor",
+        "topics": [
+            "astronomy",
+            "c-plus-plus",
+            "science",
+            "model-fitting"
+        ]
     },
     {
         "uid": "github/byuflowlab/GXBeam.jl",
@@ -24374,6 +24434,17 @@
         "topics": []
     },
     {
+        "uid": "github/dolaver/calsagos",
+        "url": "https://github.com/dolaver/calsagos",
+        "rel": "/software/repository/github/dolaver/calsagos",
+        "avatar": "https://avatars.githubusercontent.com/u/77640476?v=4",
+        "description": "Config files for my GitHub profile.",
+        "topics": [
+            "config",
+            "github-config"
+        ]
+    },
+    {
         "uid": "github/Hegghammer/daiR",
         "url": "https://github.com/Hegghammer/daiR",
         "rel": "/software/repository/github/Hegghammer/daiR",
@@ -28236,6 +28307,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/1303822?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/yymao/abundancematching",
+        "url": "https://github.com/yymao/abundancematching",
+        "rel": "/software/repository/github/yymao/abundancematching",
+        "avatar": "https://avatars.githubusercontent.com/u/3792659?v=4",
+        "description": "A Python package for subhalo abundance matching (SHAM) with scatter.",
+        "topics": [
+            "subhalo-abundance-matching",
+            "abundance-matching",
+            "python",
+            "deconvolution",
+            "astrophysics"
+        ]
     },
     {
         "uid": "github/tseemann/mlst",
@@ -46140,6 +46225,14 @@
         "topics": []
     },
     {
+        "uid": "github/abeelen/powspec",
+        "url": "https://github.com/abeelen/powspec",
+        "rel": "/software/repository/github/abeelen/powspec",
+        "avatar": "https://avatars.githubusercontent.com/u/3973209?v=4",
+        "description": "Power and cross spectral density of 2D arrays",
+        "topics": []
+    },
+    {
         "uid": "github/copasi/COPASI",
         "url": "https://github.com/copasi/COPASI",
         "rel": "/software/repository/github/copasi/COPASI",
@@ -46541,6 +46634,14 @@
         "rel": "/software/repository/github/JanLeppert/GasChromatographySimulator.jl",
         "avatar": "https://avatars.githubusercontent.com/u/68964801?v=4",
         "description": "A package for the simulation of gas chromatography (GC)",
+        "topics": []
+    },
+    {
+        "uid": "github/dkoslicki/TAMPA",
+        "url": "https://github.com/dkoslicki/TAMPA",
+        "rel": "/software/repository/github/dkoslicki/TAMPA",
+        "avatar": "https://avatars.githubusercontent.com/u/6362936?v=4",
+        "description": "A collection of tools to visualize CAMI profiling outputs",
         "topics": []
     },
     {
@@ -47805,6 +47906,46 @@
         ]
     },
     {
+        "uid": "gitlab/leelamichaels/Tranquillity",
+        "url": "https://gitlab.com/leelamichaels/Tranquillity",
+        "rel": "/software/repository/gitlab/leelamichaels/Tranquillity",
+        "avatar": "https://gitlab.comNone",
+        "description": "Code Tranquillity release copy",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/leelamichaels/Elysium",
+        "url": "https://gitlab.com/leelamichaels/Elysium",
+        "rel": "/software/repository/gitlab/leelamichaels/Elysium",
+        "avatar": "https://gitlab.comNone",
+        "description": "Code Elysium release copy",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/leelamichaels/Infinity",
+        "url": "https://gitlab.com/leelamichaels/Infinity",
+        "rel": "/software/repository/gitlab/leelamichaels/Infinity",
+        "avatar": "https://gitlab.comNone",
+        "description": "Code Infinity release copy",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/leelamichaels/Burning_Arrow",
+        "url": "https://gitlab.com/leelamichaels/Burning_Arrow",
+        "rel": "/software/repository/gitlab/leelamichaels/Burning_Arrow",
+        "avatar": "https://gitlab.comNone",
+        "description": "Code Burning Arrow release copy",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/leelamichaels/Omega",
+        "url": "https://gitlab.com/leelamichaels/Omega",
+        "rel": "/software/repository/gitlab/leelamichaels/Omega",
+        "avatar": "https://gitlab.comNone",
+        "description": "Code Omega release copy",
+        "topics": []
+    },
+    {
         "uid": "gitlab/jerrytheo16/exoplanet",
         "url": "https://gitlab.com/jerrytheo16/exoplanet",
         "rel": "/software/repository/gitlab/jerrytheo16/exoplanet",
@@ -47919,6 +48060,25 @@
             "MATLAB",
             "Python",
             "Scientifc Computing"
+        ]
+    },
+    {
+        "uid": "gitlab/esa/pyxel",
+        "url": "https://gitlab.com/esa/pyxel",
+        "rel": "/software/repository/gitlab/esa/pyxel",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/10410719/square_logo.png",
+        "description": "Pyxel is a general detector simulation framework. An easy-to-use framework that can simulate a variety of imaging detector effects combined on images (e.g. radiation and optical effects, noises) made by CCD or CMOS-based detectors.",
+        "topics": [
+            "astronomy",
+            "camera",
+            "ccd",
+            "cmos",
+            "detector",
+            "imaging",
+            "mct",
+            "pixel",
+            "python",
+            "simulation"
         ]
     },
     {
