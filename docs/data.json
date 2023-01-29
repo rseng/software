@@ -976,6 +976,18 @@
         ]
     },
     {
+        "uid": "github/schochastics/signnet",
+        "url": "https://github.com/schochastics/signnet",
+        "rel": "/software/repository/github/schochastics/signnet",
+        "avatar": "https://avatars.githubusercontent.com/u/17147355?v=4",
+        "description": "R package for signed networks",
+        "topics": [
+            "sna",
+            "network-analysis",
+            "signed-networks"
+        ]
+    },
+    {
         "uid": "github/schochastics/netrankr",
         "url": "https://github.com/schochastics/netrankr",
         "rel": "/software/repository/github/schochastics/netrankr",
@@ -3176,6 +3188,14 @@
             "image",
             "python"
         ]
+    },
+    {
+        "uid": "github/Jammy2211/PyAutoGalaxy",
+        "url": "https://github.com/Jammy2211/PyAutoGalaxy",
+        "rel": "/software/repository/github/Jammy2211/PyAutoGalaxy",
+        "avatar": "https://avatars.githubusercontent.com/u/23455639?v=4",
+        "description": "PyAutoGalaxy: Open-Source Multiwavelength Galaxy Structure & Morphology",
+        "topics": []
     },
     {
         "uid": "github/nsoranzo/sspace_basic",
@@ -10637,6 +10657,14 @@
         ]
     },
     {
+        "uid": "github/ropensci/spiro",
+        "url": "https://github.com/ropensci/spiro",
+        "rel": "/software/repository/github/ropensci/spiro",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Work with data from cardiopulmonary exercise testing",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci/neotoma",
         "url": "https://github.com/ropensci/neotoma",
         "rel": "/software/repository/github/ropensci/neotoma",
@@ -13521,6 +13549,14 @@
         "topics": []
     },
     {
+        "uid": "github/henrycousins/gspa",
+        "url": "https://github.com/henrycousins/gspa",
+        "rel": "/software/repository/github/henrycousins/gspa",
+        "avatar": "https://avatars.githubusercontent.com/u/55973825?v=4",
+        "description": "Python implementation of gene set proximity analysis",
+        "topics": []
+    },
+    {
         "uid": "github/AdmiralenOla/Scoary",
         "url": "https://github.com/AdmiralenOla/Scoary",
         "rel": "/software/repository/github/AdmiralenOla/Scoary",
@@ -15338,6 +15374,22 @@
             "data-driven",
             "supernovae"
         ]
+    },
+    {
+        "uid": "github/XGI-MSU/WDMWaveletTransforms",
+        "url": "https://github.com/XGI-MSU/WDMWaveletTransforms",
+        "rel": "/software/repository/github/XGI-MSU/WDMWaveletTransforms",
+        "avatar": "https://avatars.githubusercontent.com/u/120123747?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/XGI-MSU/PyIMRPhenomD",
+        "url": "https://github.com/XGI-MSU/PyIMRPhenomD",
+        "rel": "/software/repository/github/XGI-MSU/PyIMRPhenomD",
+        "avatar": "https://avatars.githubusercontent.com/u/120123747?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/skypyproject/skypy",
@@ -19073,6 +19125,14 @@
             "matplotlib",
             "plotting"
         ]
+    },
+    {
+        "uid": "github/coolneighbors/unwise-verse",
+        "url": "https://github.com/coolneighbors/unWISE-verse",
+        "rel": "/software/repository/github/coolneighbors/unwise-verse",
+        "avatar": "https://avatars.githubusercontent.com/u/90220036?v=4",
+        "description": "Integrated flipbook / panoptes pipeline",
+        "topics": []
     },
     {
         "uid": "github/drupke/questfit",
@@ -27388,6 +27448,35 @@
         "topics": []
     },
     {
+        "uid": "github/SuperKogito/spafe",
+        "url": "https://github.com/SuperKogito/spafe",
+        "rel": "/software/repository/github/SuperKogito/spafe",
+        "avatar": "https://avatars.githubusercontent.com/u/15731839?v=4",
+        "description": ":sound: spafe: Simplified Python Audio Features Extraction",
+        "topics": [
+            "python",
+            "dsp",
+            "audio",
+            "music",
+            "audio-analysis",
+            "music-information-retrieval",
+            "features-extraction",
+            "mfcc",
+            "filterbank",
+            "signal-processing",
+            "frequency",
+            "frequency-analysis",
+            "time-frequency-analysis",
+            "frequencies",
+            "voice",
+            "sound",
+            "beat",
+            "pitch",
+            "speech-processing",
+            "gammatone-filterbanks"
+        ]
+    },
+    {
         "uid": "github/dgrin1/axionCAMB",
         "url": "https://github.com/dgrin1/axionCAMB",
         "rel": "/software/repository/github/dgrin1/axionCAMB",
@@ -28294,6 +28383,14 @@
             "gamma-ray-astronomy",
             "neutrino-astronomy"
         ]
+    },
+    {
+        "uid": "github/ylxu05/HN-PPISP",
+        "url": "https://github.com/ylxu05/HN-PPISP",
+        "rel": "/software/repository/github/ylxu05/HN-PPISP",
+        "avatar": "https://avatars.githubusercontent.com/u/107735788?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/bwkeller/PASTA",
@@ -30067,6 +30164,24 @@
         "avatar": "https://avatars.githubusercontent.com/u/11094466?v=4",
         "description": "VISIbility Based Line Extraction",
         "topics": []
+    },
+    {
+        "uid": "github/martinlackner/abcvoting",
+        "url": "https://github.com/martinlackner/abcvoting",
+        "rel": "/software/repository/github/martinlackner/abcvoting",
+        "avatar": "https://avatars.githubusercontent.com/u/46762723?v=4",
+        "description": "Python implementations of approval-based committee (multi-winner) voting rules",
+        "topics": [
+            "voting",
+            "python",
+            "research",
+            "social-choice",
+            "social-choice-theory",
+            "multiwinnervoting",
+            "approval-voting",
+            "voting-methods",
+            "committee"
+        ]
     },
     {
         "uid": "github/yuansh3354/CaSee",
@@ -33787,6 +33902,14 @@
         "rel": "/software/repository/github/Jane110111107/IsoTree",
         "avatar": "",
         "description": "an efficient de novo trascriptome assembler for RNA-Seq data. It can assemble transcripts from RNA-Seq reads (in fasta format). Unlike most of de novo assembly methods that build de Bruijn graph or splicing graph by connecting k-mers which are sets of overlapping substrings generated from reads, IsoTree constructs splicing graph by connecting reads directly. For each splicing graph, IsoTree applies an iterative scheme of \u2026",
+        "topics": []
+    },
+    {
+        "uid": "github/Nic5472K/ScientificData2021_HealthGym",
+        "url": "https://github.com/Nic5472K/ScientificData2021_HealthGym",
+        "rel": "/software/repository/github/Nic5472K/ScientificData2021_HealthGym",
+        "avatar": "https://avatars.githubusercontent.com/u/32753860?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -39631,6 +39754,35 @@
         ]
     },
     {
+        "uid": "github/BiomedSciAI/fuse-med-ml",
+        "url": "https://github.com/BiomedSciAI/fuse-med-ml",
+        "rel": "/software/repository/github/BiomedSciAI/fuse-med-ml",
+        "avatar": "https://avatars.githubusercontent.com/u/108874137?v=4",
+        "description": "A python framework accelerating ML based discovery in the medical field by encouraging code reuse. Batteries included :)",
+        "topics": [
+            "deep-learning",
+            "machine-learning",
+            "pytorch",
+            "collaboration",
+            "fuse-med-ml",
+            "fusemedml",
+            "fuse",
+            "medical",
+            "medical-imaging",
+            "healthcare",
+            "vision",
+            "multimodality",
+            "ai",
+            "python",
+            "cmmd",
+            "isic",
+            "ct",
+            "stoic",
+            "knight-challenge",
+            "hacktoberfest"
+        ]
+    },
+    {
         "uid": "github/HERA-Team/hera_opm",
         "url": "https://github.com/HERA-Team/hera_opm",
         "rel": "/software/repository/github/HERA-Team/hera_opm",
@@ -42644,12 +42796,38 @@
         "topics": []
     },
     {
+        "uid": "github/annajenul/UBayFS",
+        "url": "https://github.com/annajenul/UBayFS",
+        "rel": "/software/repository/github/annajenul/UBayFS",
+        "avatar": "https://avatars.githubusercontent.com/u/60505157?v=4",
+        "description": "UBayFS implements the UBayFS feature selection framework, together with an interactive Shiny dashbord.",
+        "topics": [
+            "feature-selection",
+            "r",
+            "ensemble-models",
+            "user-knowledge",
+            "bayesian-statistics"
+        ]
+    },
+    {
         "uid": "github/Goobley/Radynversion",
         "url": "https://github.com/Goobley/Radynversion",
         "rel": "/software/repository/github/Goobley/Radynversion",
         "avatar": "https://avatars.githubusercontent.com/u/9143392?v=4",
         "description": "Inverting Solar Flare Observations with Invertible Neural Nets (with RADYN physics) ",
         "topics": []
+    },
+    {
+        "uid": "github/cumbof/honto",
+        "url": "https://github.com/cumbof/honto",
+        "rel": "/software/repository/github/cumbof/honto",
+        "avatar": "https://avatars.githubusercontent.com/u/3764656?v=4",
+        "description": "A novel method for assessing and measuring homophily in networks",
+        "topics": [
+            "graphs",
+            "homophily",
+            "networks"
+        ]
     },
     {
         "uid": "github/eelregit/covdisc",
@@ -47242,6 +47420,18 @@
             "rna-modifications",
             "nanopore",
             "python"
+        ]
+    },
+    {
+        "uid": "github/EMBL-Hentze-group/htseq-clip",
+        "url": "https://github.com/EMBL-Hentze-group/htseq-clip",
+        "rel": "/software/repository/github/EMBL-Hentze-group/htseq-clip",
+        "avatar": "https://avatars.githubusercontent.com/u/55585244?v=4",
+        "description": "a toolset designed for the processing and analysis of eCLIP/iCLIP dataset",
+        "topics": [
+            "bioinformatics",
+            "ngs-analysis",
+            "eclip"
         ]
     },
     {
