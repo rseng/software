@@ -3495,6 +3495,14 @@
         "topics": []
     },
     {
+        "uid": "github/idruglab/hignn",
+        "url": "https://github.com/idrugLab/hignn",
+        "rel": "/software/repository/github/idruglab/hignn",
+        "avatar": "https://avatars.githubusercontent.com/u/58386268?v=4",
+        "description": "Code for \"HiGNN: A Hierarchical Informative Graph Neural Network for Molecular Property Prediction Equipped with Feature-Wise Attention\"",
+        "topics": []
+    },
+    {
         "uid": "github/eggnogdb/eggnog-mapper",
         "url": "https://github.com/eggnogdb/eggnog-mapper",
         "rel": "/software/repository/github/eggnogdb/eggnog-mapper",
@@ -10409,6 +10417,14 @@
         "topics": []
     },
     {
+        "uid": "github/ParkvilleData/MetaGenePipe",
+        "url": "https://github.com/ParkvilleData/MetaGenePipe",
+        "rel": "/software/repository/github/ParkvilleData/MetaGenePipe",
+        "avatar": "https://avatars.githubusercontent.com/u/44953352?v=4",
+        "description": "MGP",
+        "topics": []
+    },
+    {
         "uid": "github/CAMI-challenge/CAMITAX",
         "url": "https://github.com/CAMI-challenge/CAMITAX",
         "rel": "/software/repository/github/CAMI-challenge/CAMITAX",
@@ -10767,6 +10783,14 @@
         "rel": "/software/repository/github/winger/hawking_net",
         "avatar": "https://avatars.githubusercontent.com/u/734585?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/USU-Analytics-Solution-Center/Bruno.jl",
+        "url": "https://github.com/USU-Analytics-Solution-Center/Bruno.jl",
+        "rel": "/software/repository/github/USU-Analytics-Solution-Center/Bruno.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/94191472?v=4",
+        "description": "Repository for the Julia package with financial tools for data generation, asset pricing and strategy testing",
         "topics": []
     },
     {
@@ -11735,6 +11759,22 @@
         "topics": []
     },
     {
+        "uid": "github/wdecoster/NanoComp",
+        "url": "https://github.com/wdecoster/nanocomp",
+        "rel": "/software/repository/github/wdecoster/NanoComp",
+        "avatar": "https://avatars.githubusercontent.com/u/11660522?v=4",
+        "description": "Comparison of multiple long read datasets",
+        "topics": []
+    },
+    {
+        "uid": "github/wdecoster/nanoQC",
+        "url": "https://github.com/wdecoster/nanoQC",
+        "rel": "/software/repository/github/wdecoster/nanoQC",
+        "avatar": "https://avatars.githubusercontent.com/u/11660522?v=4",
+        "description": "Quality control tools for nanopore sequencing data",
+        "topics": []
+    },
+    {
         "uid": "github/wdecoster/nanolyse",
         "url": "https://github.com/wdecoster/nanolyse",
         "rel": "/software/repository/github/wdecoster/nanolyse",
@@ -12364,6 +12404,14 @@
         "topics": []
     },
     {
+        "uid": "github/SysBioUAB/hpi_predictor",
+        "url": "https://github.com/SysBioUAB/hpi_predictor",
+        "rel": "/software/repository/github/SysBioUAB/hpi_predictor",
+        "avatar": "https://avatars.githubusercontent.com/u/78474998?v=4",
+        "description": "Bash+R tool to predict host-pathogen protein-protein interactions based on numerical encoding of physicochemical descriptors",
+        "topics": []
+    },
+    {
         "uid": "github/magnusmanske/snpomatic",
         "url": "https://github.com/magnusmanske/snpomatic",
         "rel": "/software/repository/github/magnusmanske/snpomatic",
@@ -12532,6 +12580,14 @@
         ]
     },
     {
+        "uid": "github/cns-iu/HRA-supporting-information",
+        "url": "https://github.com/cns-iu/HRA-supporting-information",
+        "rel": "/software/repository/github/cns-iu/HRA-supporting-information",
+        "avatar": "https://avatars.githubusercontent.com/u/10944420?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/mirapy-org/mirapy",
         "url": "https://github.com/mirapy-org/mirapy",
         "rel": "/software/repository/github/mirapy-org/mirapy",
@@ -12566,6 +12622,14 @@
         "rel": "/software/repository/github/benjaminbolling/DynaGUI",
         "avatar": "https://avatars2.githubusercontent.com/u/56224950?v=4",
         "description": "A Dynamic Graphical User Interface package, which gives users a method to construct temporary, permanent and/or a set of GUI:s for users in a simple and fast manner combined with diagnostics tools (with advance 1D and 2D plotting methods).",
+        "topics": []
+    },
+    {
+        "uid": "github/benjaminbolling/RSW",
+        "url": "https://github.com/benjaminbolling/RSW",
+        "rel": "/software/repository/github/benjaminbolling/RSW",
+        "avatar": "https://avatars.githubusercontent.com/u/56224950?v=4",
+        "description": "A Computational Approach to Generate Multi-Shift Rotational Workforce Schedules.",
         "topics": []
     },
     {
@@ -13516,6 +13580,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/8182924?v=4",
         "description": "A code to fit the spectrum of quasar",
         "topics": []
+    },
+    {
+        "uid": "github/difuture-lmu/dsBinVal",
+        "url": "https://github.com/difuture-lmu/dsBinVal",
+        "rel": "/software/repository/github/difuture-lmu/dsBinVal",
+        "avatar": "https://avatars.githubusercontent.com/u/82653878?v=4",
+        "description": "ROC-GLM and calibration analysis for DataSHIELD",
+        "topics": [
+            "auc",
+            "calibration",
+            "datashield",
+            "distributed-computing",
+            "roc"
+        ]
     },
     {
         "uid": "github/zdelrosario/py_grama",
@@ -16365,6 +16443,14 @@
         "topics": []
     },
     {
+        "uid": "github/Ruiz-HCI-Lab/ggMOB",
+        "url": "https://github.com/Ruiz-HCI-Lab/ggMOB",
+        "rel": "/software/repository/github/Ruiz-HCI-Lab/ggMOB",
+        "avatar": "https://avatars.githubusercontent.com/u/41012125?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/FSEC-Photovoltaics/pvrpm-lcoe",
         "url": "https://github.com/FSEC-Photovoltaics/pvrpm-lcoe",
         "rel": "/software/repository/github/FSEC-Photovoltaics/pvrpm-lcoe",
@@ -16473,6 +16559,14 @@
         "rel": "/software/repository/github/SWAT-Sheffield/SAC",
         "avatar": "https://avatars.githubusercontent.com/u/9036395?v=4",
         "description": "The Sheffield Advanced Code",
+        "topics": []
+    },
+    {
+        "uid": "github/rivasiker/PhaseTypeR",
+        "url": "https://github.com/rivasiker/PhaseTypeR",
+        "rel": "/software/repository/github/rivasiker/PhaseTypeR",
+        "avatar": "https://avatars.githubusercontent.com/u/54534843?v=4",
+        "description": "General-purpose phase-type functions",
         "topics": []
     },
     {
@@ -26766,6 +26860,14 @@
         "topics": []
     },
     {
+        "uid": "github/andresmegias/radex-python",
+        "url": "https://github.com/andresmegias/radex-python",
+        "rel": "/software/repository/github/andresmegias/radex-python",
+        "avatar": "https://avatars.githubusercontent.com/u/109989219?v=4",
+        "description": "Python interface for using the software RADEX",
+        "topics": []
+    },
+    {
         "uid": "github/DKMS/hapl-o-Mat_WinBin",
         "url": "https://github.com/DKMS/Hapl-o-Mat_WinBin",
         "rel": "/software/repository/github/DKMS/hapl-o-Mat_WinBin",
@@ -29470,6 +29572,33 @@
         "avatar": "https://avatars.githubusercontent.com/u/3798865?v=4",
         "description": "Simulation of eco-evolutionary dynamics on multi-trait networks",
         "topics": []
+    },
+    {
+        "uid": "github/DLR-RM/BlenderProc",
+        "url": "https://github.com/DLR-RM/BlenderProc",
+        "rel": "/software/repository/github/DLR-RM/BlenderProc",
+        "avatar": "https://avatars.githubusercontent.com/u/25227811?v=4",
+        "description": "A procedural Blender pipeline for photorealistic training image generation",
+        "topics": [
+            "blender-pipeline",
+            "segmentation",
+            "depth-images",
+            "camera-positions",
+            "suncg-scene",
+            "camera-sampling",
+            "blender-installation",
+            "synthetic",
+            "blender",
+            "rendering",
+            "pose-estimation",
+            "synthetic-data",
+            "python",
+            "3d-graphics",
+            "computer-graphics",
+            "3d-reconstruction",
+            "3d-engines",
+            "3d-front-dataset"
+        ]
     },
     {
         "uid": "github/kimberg/voxbo",
@@ -34656,6 +34785,14 @@
         "rel": "/software/repository/github/SWIFTSIM/emulator",
         "avatar": "https://avatars.githubusercontent.com/u/37541309?v=4",
         "description": "The SWIFT simulation cosmological emulator (swift-emulator)",
+        "topics": []
+    },
+    {
+        "uid": "github/jeschaef/Graph4Med",
+        "url": "https://github.com/jeschaef/Graph4Med",
+        "rel": "/software/repository/github/jeschaef/Graph4Med",
+        "avatar": "https://avatars.githubusercontent.com/u/34156935?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -41240,6 +41377,14 @@
         "topics": []
     },
     {
+        "uid": "github/galizia-lab/pyview",
+        "url": "https://github.com/galizia-lab/pyview",
+        "rel": "/software/repository/github/galizia-lab/pyview",
+        "avatar": "https://avatars.githubusercontent.com/u/89973106?v=4",
+        "description": "GUI + API for processing and visualizing Calcium imaging data.  Largely based on the IDL software \"VIEW\" developed by Giovanni Galizia. Implemented in Python by Ajayrama Kumaraswamy",
+        "topics": []
+    },
+    {
         "uid": "github/IftachSadeh/ANNZ",
         "url": "https://github.com/IftachSadeh/ANNZ",
         "rel": "/software/repository/github/IftachSadeh/ANNZ",
@@ -44384,6 +44529,24 @@
         "topics": []
     },
     {
+        "uid": "github/blind-contours/CVtreeMLE",
+        "url": "https://github.com/blind-contours/CVtreeMLE",
+        "rel": "/software/repository/github/blind-contours/CVtreeMLE",
+        "avatar": "https://avatars.githubusercontent.com/u/54640903?v=4",
+        "description": ":deciduous_tree: :dart: Cross Validated Decision Trees with Targeted Maximum Likelihood Estimation",
+        "topics": [
+            "machine-learning",
+            "targeted-learning",
+            "statistics",
+            "variable-importance",
+            "causal-inference",
+            "decision-trees",
+            "robust-statistics",
+            "causal-effects",
+            "exposure-mixtures"
+        ]
+    },
+    {
         "uid": "github/nbarbey/TomograPy",
         "url": "https://github.com/nbarbey/TomograPy",
         "rel": "/software/repository/github/nbarbey/TomograPy",
@@ -45130,6 +45293,14 @@
         ]
     },
     {
+        "uid": "github/CSUBioGroup/GraphLncLoc",
+        "url": "https://github.com/CSUBioGroup/GraphLncLoc",
+        "rel": "/software/repository/github/CSUBioGroup/GraphLncLoc",
+        "avatar": "https://avatars.githubusercontent.com/u/52996140?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/r-lib/credentials",
         "url": "https://github.com/r-lib/credentials",
         "rel": "/software/repository/github/r-lib/credentials",
@@ -45218,6 +45389,21 @@
         "topics": [
             "direct-detection-experiments",
             "dark-matter"
+        ]
+    },
+    {
+        "uid": "github/markheckmann/OpenRepGrid.ic",
+        "url": "https://github.com/markheckmann/OpenRepGrid.ic",
+        "rel": "/software/repository/github/markheckmann/OpenRepGrid.ic",
+        "avatar": "https://avatars.githubusercontent.com/u/152927?v=4",
+        "description": "shiny app for interpretive clustering of repgrids:",
+        "topics": [
+            "repgrid",
+            "clustering",
+            "repertory",
+            "grid",
+            "constructs",
+            "shiny"
         ]
     },
     {
@@ -45921,6 +46107,14 @@
             "stellar-variability",
             "astronomy-software"
         ]
+    },
+    {
+        "uid": "github/ccsosa/GOCompare",
+        "url": "https://github.com/ccsosa/GOCompare",
+        "rel": "/software/repository/github/ccsosa/GOCompare",
+        "avatar": "https://avatars.githubusercontent.com/u/10407841?v=4",
+        "description": "This is an R package designed to analyze functional enrichment results between two species (A list of genes and their orthologues)",
+        "topics": []
     },
     {
         "uid": "github/yangyongsan-bio/GREAP",
