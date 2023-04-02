@@ -4290,6 +4290,26 @@
         ]
     },
     {
+        "uid": "github/neuroneural/brainchop",
+        "url": "https://github.com/neuroneural/brainchop",
+        "rel": "/software/repository/github/neuroneural/brainchop",
+        "avatar": "https://avatars.githubusercontent.com/u/77679632?v=4",
+        "description": "Brainchop: In-browser 3D MRI rendering and segmentation",
+        "topics": [
+            "deep-learning",
+            "3d-segmentation",
+            "frontend-app",
+            "javascript",
+            "neuroimaging",
+            "pyodide",
+            "tensorflowjs",
+            "three-js",
+            "medical-imaging",
+            "mri",
+            "mri-segmentation"
+        ]
+    },
+    {
         "uid": "github/miguelzuma/hi_class_public",
         "url": "https://github.com/miguelzuma/hi_class_public",
         "rel": "/software/repository/github/miguelzuma/hi_class_public",
@@ -5501,6 +5521,14 @@
         "rel": "/software/repository/github/travisseymour/EPICpy",
         "avatar": "https://avatars.githubusercontent.com/u/1205358?v=4",
         "description": "Cross Platform Python Interface for EPIC modeling using C++ EPIClib backend",
+        "topics": []
+    },
+    {
+        "uid": "github/JiangFangzhou/SIDM",
+        "url": "https://github.com/JiangFangzhou/SIDM",
+        "rel": "/software/repository/github/JiangFangzhou/SIDM",
+        "avatar": "https://avatars.githubusercontent.com/u/6954718?v=4",
+        "description": "analytical model for the density profiles of self-interacting dark-matter halos with inhabitant galaxies",
         "topics": []
     },
     {
@@ -6961,6 +6989,14 @@
             "moons",
             "exoplanets"
         ]
+    },
+    {
+        "uid": "github/theia-dev/Qiber3D",
+        "url": "https://github.com/theia-dev/Qiber3D",
+        "rel": "/software/repository/github/theia-dev/Qiber3D",
+        "avatar": "https://avatars.githubusercontent.com/u/53050231?v=4",
+        "description": "Automated quantification of fibrous networks",
+        "topics": []
     },
     {
         "uid": "github/lnferris/ocean_data_tools",
@@ -9959,6 +9995,14 @@
             "gaussian-processes",
             "mast-light-curve"
         ]
+    },
+    {
+        "uid": "github/yukiteruono/pbsim2",
+        "url": "https://github.com/yukiteruono/pbsim2",
+        "rel": "/software/repository/github/yukiteruono/pbsim2",
+        "avatar": "https://avatars.githubusercontent.com/u/17718124?v=4",
+        "description": "PBSIM2: a simulator for long read sequencers with a novel generative model of quality scores",
+        "topics": []
     },
     {
         "uid": "github/bfarr/exocartographer",
@@ -13319,6 +13363,14 @@
         "topics": []
     },
     {
+        "uid": "github/HITS-AIN/GPCC.jl",
+        "url": "https://github.com/HITS-AIN/GPCC.jl",
+        "rel": "/software/repository/github/HITS-AIN/GPCC.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/40384418?v=4",
+        "description": "Gaussian process cross correlation",
+        "topics": []
+    },
+    {
         "uid": "github/HITS-AIN/PINK",
         "url": "https://github.com/HITS-AIN/PINK",
         "rel": "/software/repository/github/HITS-AIN/PINK",
@@ -13841,6 +13893,23 @@
             "genomics",
             "animal-breeding",
             "database"
+        ]
+    },
+    {
+        "uid": "github/Griffan/VerifyBamID",
+        "url": "https://github.com/Griffan/VerifyBamID",
+        "rel": "/software/repository/github/Griffan/VerifyBamID",
+        "avatar": "https://avatars.githubusercontent.com/u/2037838?v=4",
+        "description": "VerifyBamID2: A robust tool for DNA contamination estimation from sequence reads using ancestry-agnostic method.",
+        "topics": [
+            "genetics",
+            "dna-sequences",
+            "qc-analysis",
+            "contamination",
+            "bioinformatics",
+            "biostatistics",
+            "bam",
+            "cram"
         ]
     },
     {
@@ -14914,6 +14983,18 @@
         "topics": []
     },
     {
+        "uid": "github/PabloVD/HaloGraphNet",
+        "url": "https://github.com/PabloVD/HaloGraphNet",
+        "rel": "/software/repository/github/PabloVD/HaloGraphNet",
+        "avatar": "https://avatars.githubusercontent.com/u/55508726?v=4",
+        "description": "Predict halo masses from simulations via graph neural networks",
+        "topics": [
+            "machine-learning",
+            "deep-learning",
+            "graph-neural-networks"
+        ]
+    },
+    {
         "uid": "github/ECP-copa/Cabana",
         "url": "https://github.com/ECP-copa/Cabana",
         "rel": "/software/repository/github/ECP-copa/Cabana",
@@ -15599,6 +15680,14 @@
         ]
     },
     {
+        "uid": "github/shergreen/SatGen",
+        "url": "https://github.com/shergreen/SatGen",
+        "rel": "/software/repository/github/shergreen/SatGen",
+        "avatar": "https://avatars.githubusercontent.com/u/842217?v=4",
+        "description": "A semi-analytical satellite galaxy and dark matter halo generator",
+        "topics": []
+    },
+    {
         "uid": "github/mzemp/halogen",
         "url": "https://github.com/mzemp/halogen",
         "rel": "/software/repository/github/mzemp/halogen",
@@ -15626,6 +15715,22 @@
         "topics": []
     },
     {
+        "uid": "github/matteobreschi/bajes",
+        "url": "https://github.com/matteobreschi/bajes",
+        "rel": "/software/repository/github/matteobreschi/bajes",
+        "avatar": "https://avatars.githubusercontent.com/u/42244716?v=4",
+        "description": "Bayesian Jenaer software",
+        "topics": [
+            "bayesian-inference",
+            "astrophysics",
+            "gravitational-waves",
+            "kilonovae",
+            "multi-messenger",
+            "python",
+            "sampling-methods"
+        ]
+    },
+    {
         "uid": "github/FireflySpectra/firefly_release",
         "url": "https://github.com/FireflySpectra/firefly_release",
         "rel": "/software/repository/github/FireflySpectra/firefly_release",
@@ -15646,6 +15751,14 @@
             "bridges",
             "structural-engineering"
         ]
+    },
+    {
+        "uid": "github/refresh-bio/agc",
+        "url": "https://github.com/refresh-bio/agc",
+        "rel": "/software/repository/github/refresh-bio/agc",
+        "avatar": "https://avatars.githubusercontent.com/u/16046310?v=4",
+        "description": "Assembled Genomes Compressor",
+        "topics": []
     },
     {
         "uid": "github/refresh-bio/whisper",
@@ -16806,6 +16919,27 @@
         "topics": []
     },
     {
+        "uid": "github/CMU-SAFARI/BLEND",
+        "url": "https://github.com/CMU-SAFARI/BLEND",
+        "rel": "/software/repository/github/CMU-SAFARI/BLEND",
+        "avatar": "https://avatars.githubusercontent.com/u/8065918?v=4",
+        "description": "BLEND is a mechanism that can efficiently find fuzzy seed matches between sequences to significantly improve the performance and accuracy while reducing the memory space usage of two important applications: 1) finding overlapping reads and 2) read mapping. Described by Firtina et al. (published in NARGAB https://doi.org/10.1093/nargab/lqad004)",
+        "topics": [
+            "bioinformatics",
+            "blend",
+            "de-novo-assembly",
+            "genome-analysis",
+            "genome-assembly",
+            "minimizers",
+            "read-mapping",
+            "strobemers",
+            "fuzzy-seeds",
+            "read-overlapping",
+            "seed-matching",
+            "spaced-seeds"
+        ]
+    },
+    {
         "uid": "github/fAndreuzzi/BisPy",
         "url": "https://github.com/fAndreuzzi/BisPy",
         "rel": "/software/repository/github/fAndreuzzi/BisPy",
@@ -17946,6 +18080,14 @@
         "topics": []
     },
     {
+        "uid": "github/swiftbiosciences/primerclip",
+        "url": "https://github.com/swiftbiosciences/primerclip",
+        "rel": "/software/repository/github/swiftbiosciences/primerclip",
+        "avatar": "https://avatars.githubusercontent.com/u/34242556?v=4",
+        "description": "Swift Accel-Amplicon primer trimming tool for fast alignment-based primer trimming",
+        "topics": []
+    },
+    {
         "uid": "github/geza-kovacs/tran_k2",
         "url": "https://github.com/geza-kovacs/tran_k2",
         "rel": "/software/repository/github/geza-kovacs/tran_k2",
@@ -17966,6 +18108,14 @@
             "optimisation",
             "evolutionary-algorithms"
         ]
+    },
+    {
+        "uid": "github/vpc-ccg/genion",
+        "url": "https://github.com/vpc-ccg/genion",
+        "rel": "/software/repository/github/vpc-ccg/genion",
+        "avatar": "https://avatars.githubusercontent.com/u/26337493?v=4",
+        "description": "GENe fusION",
+        "topics": []
     },
     {
         "uid": "github/vpc-ccg/svict",
@@ -18732,6 +18882,28 @@
             "galsim",
             "fisher-formalism",
             "cosmology"
+        ]
+    },
+    {
+        "uid": "github/morispi/LRez",
+        "url": "https://github.com/morispi/LRez",
+        "rel": "/software/repository/github/morispi/LRez",
+        "avatar": "https://avatars.githubusercontent.com/u/26629273?v=4",
+        "description": "Standalone tool and library allowing to work with barcoded linked-reads",
+        "topics": [
+            "barcode",
+            "barcodes",
+            "linked-reads",
+            "linked",
+            "reads",
+            "10x",
+            "10xgenomics",
+            "10x-genomics",
+            "index",
+            "haplotagging",
+            "tell-seq",
+            "stlfr",
+            "bioinformatics"
         ]
     },
     {
@@ -19937,6 +20109,22 @@
             "python",
             "exoplanets"
         ]
+    },
+    {
+        "uid": "github/hippke/pandora",
+        "url": "https://github.com/hippke/Pandora",
+        "rel": "/software/repository/github/hippke/pandora",
+        "avatar": "https://avatars.githubusercontent.com/u/11958117?v=4",
+        "description": "A fast transit-fitting algorithm to search for transits of exomoons",
+        "topics": []
+    },
+    {
+        "uid": "github/hippke/communication",
+        "url": "https://github.com/hippke/communication",
+        "rel": "/software/repository/github/hippke/communication",
+        "avatar": "https://avatars.githubusercontent.com/u/11958117?v=4",
+        "description": "Interstellar communication",
+        "topics": []
     },
     {
         "uid": "github/hippke/wotan",
@@ -21726,6 +21914,19 @@
         "topics": []
     },
     {
+        "uid": "github/polca/unfold",
+        "url": "https://github.com/polca/unfold",
+        "rel": "/software/repository/github/polca/unfold",
+        "avatar": "https://avatars.githubusercontent.com/u/58623740?v=4",
+        "description": "UNpacking For scenariO-based Lca Databases",
+        "topics": [
+            "ecoinvent",
+            "premise",
+            "prospective",
+            "scenario"
+        ]
+    },
+    {
         "uid": "github/onnela-lab/beiwe-backend",
         "url": "https://github.com/onnela-lab/beiwe-backend",
         "rel": "/software/repository/github/onnela-lab/beiwe-backend",
@@ -22895,6 +23096,18 @@
         "avatar": "https://avatars2.githubusercontent.com/u/25099235?v=4",
         "description": "Open data assimilation toolbox",
         "topics": []
+    },
+    {
+        "uid": "github/sstadick/perbase",
+        "url": "https://github.com/sstadick/perbase",
+        "rel": "/software/repository/github/sstadick/perbase",
+        "avatar": "https://avatars.githubusercontent.com/u/6712477?v=4",
+        "description": "Per-base per-nucleotide depth analysis",
+        "topics": [
+            "rust",
+            "bioinformatics",
+            "cli-app"
+        ]
     },
     {
         "uid": "github/hsso/crete",
@@ -25590,6 +25803,21 @@
         ]
     },
     {
+        "uid": "github/Aarhus-Psychiatry-Research/timeseriesflattener",
+        "url": "https://github.com/Aarhus-Psychiatry-Research/timeseriesflattener",
+        "rel": "/software/repository/github/Aarhus-Psychiatry-Research/timeseriesflattener",
+        "avatar": "https://avatars.githubusercontent.com/u/81359711?v=4",
+        "description": "A package for converting irregularly spaced time series, such as eletronic health records, into statically shaped dataframes. ",
+        "topics": [
+            "electronic-healthcare-data",
+            "machine-learning",
+            "time-series-analysis",
+            "irregular-time-series",
+            "python",
+            "python3"
+        ]
+    },
+    {
         "uid": "github/seeh/surprise",
         "url": "https://github.com/seeh/surprise",
         "rel": "/software/repository/github/seeh/surprise",
@@ -25647,6 +25875,22 @@
             "embodied-emissions",
             "low-carbon-systems",
             "material-demand"
+        ]
+    },
+    {
+        "uid": "github/grburgess/ronswanson",
+        "url": "https://github.com/grburgess/ronswanson",
+        "rel": "/software/repository/github/grburgess/ronswanson",
+        "avatar": "https://avatars.githubusercontent.com/u/6764007?v=4",
+        "description": "Ron Swanson builds tables for 3ML",
+        "topics": [
+            "3ml",
+            "astromodels",
+            "data-analysis",
+            "interpolation",
+            "python",
+            "ron-swanson",
+            "spectral-fitting"
         ]
     },
     {
@@ -26272,6 +26516,14 @@
             "optimization",
             "machine-learning"
         ]
+    },
+    {
+        "uid": "github/BGI-Qingdao/TGS-GapCloser",
+        "url": "https://github.com/BGI-Qingdao/TGS-GapCloser",
+        "rel": "/software/repository/github/BGI-Qingdao/TGS-GapCloser",
+        "avatar": "https://avatars.githubusercontent.com/u/39953106?v=4",
+        "description": "A gap-closing software tool that uses long reads to enhance genome assembly.",
+        "topics": []
     },
     {
         "uid": "github/nyusngroup/pyMCZ",
@@ -27453,6 +27705,14 @@
         ]
     },
     {
+        "uid": "github/ABM4ALL/Melodie",
+        "url": "https://github.com/ABM4ALL/Melodie",
+        "rel": "/software/repository/github/ABM4ALL/Melodie",
+        "avatar": "https://avatars.githubusercontent.com/u/88455886?v=4",
+        "description": "A general framework for developing agent-based models in Python.",
+        "topics": []
+    },
+    {
         "uid": "github/raddleverse/MimiBRICK.jl",
         "url": "https://github.com/raddleverse/MimiBRICK.jl",
         "rel": "/software/repository/github/raddleverse/MimiBRICK.jl",
@@ -28020,6 +28280,14 @@
         "topics": []
     },
     {
+        "uid": "github/NickSwainston/pulsar_spectra",
+        "url": "https://github.com/NickSwainston/pulsar_spectra",
+        "rel": "/software/repository/github/NickSwainston/pulsar_spectra",
+        "avatar": "https://avatars.githubusercontent.com/u/18390846?v=4",
+        "description": "A simple interface to record pulsar's flux density measurements for a large number of papers and perform fitting of spectral models.",
+        "topics": []
+    },
+    {
         "uid": "github/pytoolz/toolz",
         "url": "https://github.com/pytoolz/toolz",
         "rel": "/software/repository/github/pytoolz/toolz",
@@ -28453,11 +28721,27 @@
         ]
     },
     {
+        "uid": "github/torluca/morphofit",
+        "url": "https://github.com/torluca/morphofit",
+        "rel": "/software/repository/github/torluca/morphofit",
+        "avatar": "https://avatars.githubusercontent.com/u/38278229?v=4",
+        "description": "A Python package for the morphological analysis of galaxies (Tortorelli & Mercurio 2023).",
+        "topics": []
+    },
+    {
         "uid": "github/AstroVPK/kali",
         "url": "https://github.com/AstroVPK/kali",
         "rel": "/software/repository/github/AstroVPK/kali",
         "avatar": "https://avatars.githubusercontent.com/u/11365671?v=4",
         "description": "A library to model a time series as a Continuous-time ARMA process",
+        "topics": []
+    },
+    {
+        "uid": "github/SwiftVISA/SwiftVISASwift",
+        "url": "https://github.com/SwiftVISA/SwiftVISASwift",
+        "rel": "/software/repository/github/SwiftVISA/SwiftVISASwift",
+        "avatar": "https://avatars.githubusercontent.com/u/51682419?v=4",
+        "description": "A Swift backend for communicating to instruments over TCPIP over the VISA protocol.",
         "topics": []
     },
     {
@@ -29212,6 +29496,14 @@
             "catalog",
             "lightcurves"
         ]
+    },
+    {
+        "uid": "github/napakalas/casbert",
+        "url": "https://github.com/napakalas/casbert",
+        "rel": "/software/repository/github/napakalas/casbert",
+        "avatar": "https://avatars.githubusercontent.com/u/3060947?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/stemangiola/tidyHeatmap",
@@ -30793,6 +31085,14 @@
         "rel": "/software/repository/github/maickrau/MBG",
         "avatar": "https://avatars.githubusercontent.com/u/1543674?v=4",
         "description": "Minimizer based sparse de Bruijn graph constructor.",
+        "topics": []
+    },
+    {
+        "uid": "github/maickrau/GraphAligner",
+        "url": "https://github.com/maickrau/GraphAligner",
+        "rel": "/software/repository/github/maickrau/GraphAligner",
+        "avatar": "https://avatars.githubusercontent.com/u/1543674?v=4",
+        "description": "Sequence to graph aligner for long reads",
         "topics": []
     },
     {
@@ -32785,6 +33085,18 @@
         "topics": []
     },
     {
+        "uid": "github/SpaceOdyssey/Blobby3D",
+        "url": "https://github.com/SpaceOdyssey/Blobby3D",
+        "rel": "/software/repository/github/SpaceOdyssey/Blobby3D",
+        "avatar": "https://avatars.githubusercontent.com/u/20017927?v=4",
+        "description": "Blobby3D is a tool to perform Bayesian inference for gas kinematics on emission line observations of galaxies using Integral Field Spectroscopy.",
+        "topics": [
+            "astrophysics",
+            "bayesian-inference",
+            "spectroscopy"
+        ]
+    },
+    {
         "uid": "github/LINNAE-project/SFB-Annotator",
         "url": "https://github.com/LINNAE-project/SFB-Annotator",
         "rel": "/software/repository/github/LINNAE-project/SFB-Annotator",
@@ -34190,6 +34502,19 @@
         ]
     },
     {
+        "uid": "github/delphes/delphes",
+        "url": "https://github.com/delphes/delphes",
+        "rel": "/software/repository/github/delphes/delphes",
+        "avatar": "https://avatars.githubusercontent.com/u/8037711?v=4",
+        "description": "A framework for fast simulation of a generic collider experiment",
+        "topics": [
+            "physics-simulation",
+            "delphes",
+            "detector-simulation",
+            "hep"
+        ]
+    },
+    {
         "uid": "github/TearsWaiting/MIMML",
         "url": "https://github.com/TearsWaiting/MIMML",
         "rel": "/software/repository/github/TearsWaiting/MIMML",
@@ -34630,6 +34955,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/38412724?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/marbl/Winnowmap",
+        "url": "https://github.com/marbl/Winnowmap",
+        "rel": "/software/repository/github/marbl/Winnowmap",
+        "avatar": "https://avatars.githubusercontent.com/u/6492934?v=4",
+        "description": "Long read / genome alignment software",
+        "topics": [
+            "pacbio",
+            "nanopore",
+            "genome-analysis"
+        ]
     },
     {
         "uid": "github/marbl/Krona",
@@ -35079,6 +35416,17 @@
             "long-reads",
             "sequence",
             "chimera"
+        ]
+    },
+    {
+        "uid": "github/natir/rustyread",
+        "url": "https://github.com/natir/rustyread",
+        "rel": "/software/repository/github/natir/rustyread",
+        "avatar": "https://avatars.githubusercontent.com/u/3991375?v=4",
+        "description": "A long read simulator based on badread idea",
+        "topics": [
+            "bioinformatics",
+            "long-reads"
         ]
     },
     {
@@ -38964,6 +39312,18 @@
         "topics": []
     },
     {
+        "uid": "github/moble/scri",
+        "url": "https://github.com/moble/scri",
+        "rel": "/software/repository/github/moble/scri",
+        "avatar": "https://avatars.githubusercontent.com/u/1470769?v=4",
+        "description": "Python/numba code for manipulating time-dependent functions of spin-weighted spherical harmonics",
+        "topics": [
+            "astronomy",
+            "gravitational-waves",
+            "python"
+        ]
+    },
+    {
         "uid": "github/guynir42/radon",
         "url": "https://github.com/guynir42/radon",
         "rel": "/software/repository/github/guynir42/radon",
@@ -39749,6 +40109,22 @@
         "rel": "/software/repository/github/dpseidel/stmove",
         "avatar": "https://avatars1.githubusercontent.com/u/16724456?v=4",
         "description": "Build reproducible reports for spatial-temporal animal movement analysis",
+        "topics": []
+    },
+    {
+        "uid": "github/ycwu1030/EvoEMD",
+        "url": "https://github.com/ycwu1030/EvoEMD",
+        "rel": "/software/repository/github/ycwu1030/EvoEMD",
+        "avatar": "https://avatars.githubusercontent.com/u/39174521?v=4",
+        "description": "Evolution with an Early Matter-Dominated era",
+        "topics": []
+    },
+    {
+        "uid": "github/computational-chemical-biology/ChemWalker",
+        "url": "https://github.com/computational-chemical-biology/ChemWalker",
+        "rel": "/software/repository/github/computational-chemical-biology/ChemWalker",
+        "avatar": "https://avatars.githubusercontent.com/u/50704327?v=4",
+        "description": null,
         "topics": []
     },
     {
