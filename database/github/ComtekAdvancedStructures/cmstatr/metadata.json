@@ -37,7 +37,7 @@
     "doi": "https://doi.org/10.5281/zenodo.3930475",
     "name": "cmstatr",
     "full_name": "ComtekAdvancedStructures/cmstatr",
-    "html_url": "https://github.com/ComtekAdvancedStructures/cmstatr",
+    "html_url": "https://github.com/cmstatr/cmstatr",
     "private": false,
     "description": "An R Package for Statistical Analysis of Composite Material Data",
     "created_at": "2016-09-07T17:33:12Z",

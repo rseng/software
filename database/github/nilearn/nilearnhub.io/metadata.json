@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/nilearn/nilearnhub.io",
-    "url": null,
+    "url": "https://github.com/nilearn/nilearn",
     "data": {
         "title": "nilearn",
         "url": "https://nilearn.github.io/",

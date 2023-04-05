@@ -39,5 +39,6 @@
             "networks"
         ]
     },
-    "doi": "https://doi.org/10.5281/zenodo.4716483"
+    "doi": "https://doi.org/10.5281/zenodo.4716483",
+    "html_url": "https://github.com/PoisotLab/EcologicalNetworks.jl"
 }

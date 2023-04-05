@@ -71,8 +71,11 @@ rse export --type static-web docs/
 rse export --type static-web docs/ --force # if exists
 ```
 
-Further, a static API is exported to [https://rseng.github.io/software/data.json](https://rseng.github.io/software/data.json) that provides a listing of your software repositories
-for some programmatic usage.
+Further, a static API is exported to [https://rseng.github.io/software/data.json](https://rseng.github.io/software/data.json) that provides a listing of your software repositories for some programmatic usage. We also clean (and [archive](archive)) repositories that are no longer found:
+
+```bash
+$ python .github/scripts/clean-database.py $(pwd)
+```
 
 # Development Work
 

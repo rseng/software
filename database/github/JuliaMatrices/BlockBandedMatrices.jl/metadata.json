@@ -35,5 +35,6 @@
         },
         "topics": []
     },
-    "rsotm": "2022-02"
+    "rsotm": "2022-02",
+    "html_url": "https://github.com/JuliaLinearAlgebra/BlockBandedMatrices.jl"
 }

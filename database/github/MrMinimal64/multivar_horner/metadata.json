@@ -50,5 +50,6 @@
             "evaluation"
         ]
     },
-    "doi": "https://doi.org/10.5281/zenodo.4062422"
+    "doi": "https://doi.org/10.5281/zenodo.4062422",
+    "html_url": "https://github.com/jannikmi/multivar_horner"
 }

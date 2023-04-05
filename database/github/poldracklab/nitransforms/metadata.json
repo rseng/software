@@ -35,5 +35,6 @@
         },
         "topics": []
     },
-    "doi": "https://doi.org/10.5281/zenodo.5499694"
+    "doi": "https://doi.org/10.5281/zenodo.5499694",
+    "html_url": "https://github.com/nipy/nitransforms"
 }

@@ -36,7 +36,7 @@
     },
     "name": "AMBER",
     "full_name": "AA-ALERT/AMBER",
-    "html_url": "https://github.com/AA-ALERT/AMBER",
+    "html_url": "https://github.com/TRASAL/AMBER",
     "private": false,
     "description": "A many-core transient searching pipeline, designed to search in real-time for Fast Radio Bursts.",
     "created_at": "2015-03-27T14:59:41Z",

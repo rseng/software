@@ -1,7 +1,7 @@
 {
     "parser": "github",
     "uid": "github/jkbonfield/crumble",
-    "url": null,
+    "url": "https://github.com/jkbonfield/crumble",
     "data": {
         "title": "Crumble",
         "url": "https://github.com/jkbonfield/crumble",
@@ -35,5 +35,6 @@
             "type": "User"
         },
         "timestamp": "2022-07-18 17:43:36.923298"
-    }
+    },
+    "html_url": "https://github.com/stuart-lab/signac"
 }

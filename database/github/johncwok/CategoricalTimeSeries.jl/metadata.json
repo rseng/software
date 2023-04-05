@@ -39,5 +39,6 @@
             "julia"
         ]
     },
-    "doi": "https://doi.org/10.6084/m9.figshare.16917625"
+    "doi": "https://doi.org/10.6084/m9.figshare.16917625",
+    "html_url": "https://github.com/CNelias/CategoricalTimeSeries.jl"
 }

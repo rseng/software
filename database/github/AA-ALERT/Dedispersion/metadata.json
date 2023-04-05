@@ -36,7 +36,7 @@
     },
     "name": "Dedispersion",
     "full_name": "AA-ALERT/Dedispersion",
-    "html_url": "https://github.com/AA-ALERT/Dedispersion",
+    "html_url": "https://github.com/TRASAL/Dedispersion",
     "private": false,
     "description": "Radio astronomy dedispersion algorithm implemented for many-core accelerators.",
     "created_at": "2013-09-20T14:09:03Z",

@@ -52,5 +52,6 @@
             "pypi-package"
         ]
     },
-    "doi": "https://doi.org/10.5281/zenodo.6321270"
+    "doi": "https://doi.org/10.5281/zenodo.6321270",
+    "html_url": "https://github.com/open-atmos/PySDM"
 }
