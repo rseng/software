@@ -1,7 +1,7 @@
 {
     "parser": "github",
-    "uid": "github/williamjameshandley/fgivenx",
-    "url": "https://github.com/williamjameshandley/fgivenx",
+    "uid": "github.com/handley-lab/fgivenx",
+    "url": "https://github.com/handley-lab/fgivenx",
     "data": {
         "doi": [
             "https://ui.adsabs.harvard.edu/abs/2019PhRvD.100b3501H",
@@ -9,7 +9,7 @@
             "https://ui.adsabs.harvard.edu/abs/2019ascl.soft09014H/abstract"
         ],
         "title": "fgivenx: Functional posterior plotter",
-        "url": "https://github.com/williamjameshandley/fgivenx",
+        "url": "https://github.com/handley-lab/fgivenx"
         "name": "fgivenx",
         "full_name": "williamjameshandley/fgivenx",
         "html_url": "https://github.com/williamjameshandley/fgivenx",
@@ -48,6 +48,5 @@
         ],
         "timestamp": "2022-07-17 17:15:51.474703",
         "avatar": "https://avatars.githubusercontent.com/u/3708486?v=4"
-    },
-    "html_url": "https://github.com/handley-lab/fgivenx"
+    }
 }
