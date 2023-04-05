@@ -1694,7 +1694,7 @@ github/smithlabcode/falco
 github/johnpaulett/python-hl7
 github/soedinglab/MMseqs2
 github/joe-antognini/kozai
-trinityrnaseq/trinityrnaseq/wiki
+trinityrnaseq/trinityrnaseq
 github/planck-npipe/hillipop
 github/aarondotter/iso
 github/VeinsOfTheEarth/RivGraph
@@ -2693,7 +2693,7 @@ github/ianfhunter/GNOLL
 github/SPARTA-dev/SPARTA
 github/ropensci/treestartr
 github/symmy596/Polypy
-broadinstitute/pilon/wiki
+broadinstitute/pilon
 github/jluastro/PopSyCLE
 github/RuthAngus/GProtation
 github/akcochrane/TEfits
