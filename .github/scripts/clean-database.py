@@ -66,14 +66,9 @@ def clean(database, archive):
             archives.add(os.path.dirname(relpath))
 
         elif res.status_code in [301, 302]:
-            if "gitlab" in res.url:
-                import IPython
-
-                IPython.embed()
-                sys.exit()
             print(f"Found repository {relpath} with moved location, updating")
             new_location = requests.head(res.headers["Location"])
-            meta["html_url"] = new_location.url
+            meta["html_url"] = new_location.url            
             save_json(meta, path)
 
     # Read in repos.txt and remove archived
@@ -86,12 +81,6 @@ def clean(database, archive):
     # Save back to file
     with open("repos.txt", "w") as fd:
         fd.write("\n".join(list(repos)))
-
-    import IPython
-
-    IPython.embed()
-    sys.exit()
-
 
 def main():
 
