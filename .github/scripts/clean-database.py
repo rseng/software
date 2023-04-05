@@ -36,18 +36,31 @@ def save_json(meta, path):
         fd.write(json.dumps(meta, indent=4))
 
 
-def clean(database, archive):
+def clean(repos_file, database, archive):
     """
     Clean the database
     """
     # Read in repos.txt and remove archived
+    with open(repos_file, "r") as fd:
+        subset = fd.readlines()
+
     with open("repos.txt", "r") as fd:
         repos = fd.readlines()
+
     repos = set([x.strip() for x in repos if x.strip()])
+    subset = set([x.strip() for x in subset if x.strip()])
 
     for path in recursive_find(database, "*metadata.json"):
         meta = read_json(path)
         relpath = os.path.relpath(path, database)
+
+        # Ensure UID is correct
+        uid = meta['url'].rsplit('/', 3)
+        uid = "/".join(uid[1:]).replace('.com', '')
+
+        # Only look at subset
+        if uid not in subset:
+            continue
 
         # Spurious bug with empty url
         if meta["url"] is None:
@@ -78,10 +91,6 @@ def clean(database, archive):
             meta["url"] = new_location.url                  
             save_json(meta, path)
 
-        # Ensure UID is correct
-        uid = meta['url'].rsplit('/', 3)
-        uid = "/".join(uid[1:]).replace('.com', '')
-
         if uid not in relpath:
            old_uid = os.path.dirname(relpath)
            shutil.move(os.path.dirname(path), os.path.join(database, uid))
@@ -97,17 +106,18 @@ def clean(database, archive):
 def main():
 
     # python .github/scripts/clean-database.py $(pwd)
-    if len(sys.argv) < 2:
-        sys.exit("Please provide a root path with the database and argument")
+    if len(sys.argv) < 3:
+        sys.exit("Please provide a root path (with the database and argument) and a text file of repos.")
 
     root = os.path.abspath(sys.argv[1])
+    repos_file = os.path.abspath(sys.argv[2])
     database = os.path.join(root, "database")
     archive = os.path.join(root, "archive")
     for path in database, archive:
         if not os.path.exists(path):
             sys.exit(f"{path} does not exist.")
 
-    clean(database, archive)
+    clean(repos_file, database, archive)
 
 
 if __name__ == "__main__":

@@ -20,11 +20,29 @@ jobs:
         cd /tmp/rse
         sudo pip3 install .[all]
         rse --version
-    - name: Clean Repos
+
+    - name: Shpc Listing
+      run: |          
+        # Remove default remote registry and add PWD
+        shpc config remove registry https://github.com/singularityhub/shpc-registry
+        shpc config add registry $(pwd)
+        shpc show > listing.txt
+
+    # Run a specific letter matched to a day of the month A==1, Z==26
+    - name: Calendar Updater
+      uses: vsoch/split-list-action@main
+      with:
+        ids_file: repos.txt
+        outfile: repos-subset.txt
+
+        # One letter assigned to each day
+        calendar_split: true
+
+    - name: Clean Repos Subset
       env:
         RSE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python .github/scripts/clean-database.py $(pwd)
+        python .github/scripts/clean-database.py $(pwd) repos-subset.txt
         rse export repos.txt --force
 
     - name: Export site to docs/
