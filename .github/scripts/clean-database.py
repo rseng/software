@@ -45,9 +45,9 @@ def clean(database, archive):
         repos = fd.readlines()
     repos = set([x.strip() for x in repos if x.strip()])
 
-    relpath = os.path.relpath(path, database)
     for path in recursive_find(database, "*metadata.json"):
         meta = read_json(path)
+        relpath = os.path.relpath(path, database)
 
         # Spurious bug with empty url
         if meta["url"] is None:
