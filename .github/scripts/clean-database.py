@@ -40,10 +40,16 @@ def clean(database, archive):
     """
     Clean the database
     """
-    archives = set()
+    # Read in repos.txt and remove archived
+    with open("repos.txt", "r") as fd:
+        repos = fd.readlines()
+    repos = set([x.strip() for x in repos if x.strip()])
+
+    relpath = os.path.relpath(path, database)
     for path in recursive_find(database, "*metadata.json"):
         meta = read_json(path)
 
+        # Spurious bug with empty url
         if meta["url"] is None:
             meta["url"] = meta["data"]["url"]
             save_json(meta, path)
@@ -54,7 +60,6 @@ def clean(database, archive):
             print("Issue with {path}")
             continue
 
-        relpath = os.path.relpath(path, database)
         if res.status_code == 200:
             continue
 
@@ -63,20 +68,27 @@ def clean(database, archive):
             newpath = os.path.join(archive, relpath)
             newdir = os.path.dirname(newpath)
             shutil.move(os.path.dirname(path), newdir)
-            archives.add(os.path.dirname(relpath))
+            uid = os.path.dirname(relpath)
+            if uid in repos:
+                repos.remove(uid)
 
         elif res.status_code in [301, 302]:
             print(f"Found repository {relpath} with moved location, updating")
             new_location = requests.head(res.headers["Location"])
-            meta["html_url"] = new_location.url            
+            meta["url"] = new_location.url                  
             save_json(meta, path)
 
-    # Read in repos.txt and remove archived
-    with open("repos.txt", "r") as fd:
-        repos = fd.readlines()
-    repos = set([x.strip() for x in repos if x.strip()])
-    for to_remove in archives:
-        repos.remove(to_remove)
+        # Ensure UID is correct
+        uid = meta['url'].rsplit('/', 3)
+        uid = "/".join(uid[1:]).replace('.com', '')
+
+        if uid not in relpath:
+           old_uid = os.path.dirname(relpath)
+           shutil.move(os.path.dirname(path), os.path.join(database, uid))
+           print(f"{relpath} should be {uid}")
+           if old_uid in repos:
+               repos.remove(old_uid)
+           repos.add(uid)
 
     # Save back to file
     with open("repos.txt", "w") as fd:

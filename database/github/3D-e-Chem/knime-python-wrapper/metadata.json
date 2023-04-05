@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/3D-e-Chem/knime-python-wrapper",
-    "url": "https://api.github.com/repos/3D-e-Chem/knime-python-wrapper",
+    "url": "https://github.com/3D-e-Chem/knime-python-wrapper",
     "data": {
         "timestamp": "2020-07-05 00:17:07.148367",
         "name": "knime-python-wrapper",
-        "url": "https://api.github.com/repos/3D-e-Chem/knime-python-wrapper",
+        "url": "https://github.com/3D-e-Chem/knime-python-wrapper",
         "full_name": "3D-e-Chem/knime-python-wrapper",
         "html_url": "https://github.com/3D-e-Chem/knime-python-wrapper",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "10.5281/zenodo.597238",
     "name": "knime-python-wrapper",
     "full_name": "3D-e-Chem/knime-python-wrapper",
-    "html_url": "https://github.com/3D-e-Chem/knime-python-wrapper",
     "private": false,
     "description": "Utilities for development of KNIME nodes calling Python scripts.",
     "created_at": "2016-07-11T12:11:54Z",

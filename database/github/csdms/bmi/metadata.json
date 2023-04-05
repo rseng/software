@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/csdms/bmi",
-    "url": "https://api.github.com/repos/csdms/bmi",
+    "url": "https://github.com/csdms/bmi",
     "data": {
         "timestamp": "2020-07-26 00:16:59.110502",
         "name": "bmi",
-        "url": "https://api.github.com/repos/csdms/bmi",
+        "url": "https://github.com/csdms/bmi",
         "full_name": "csdms/bmi",
         "html_url": "https://github.com/csdms/bmi",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "https://doi.org/10.5281/zenodo.3955010",
     "name": "bmi",
     "full_name": "csdms/bmi",
-    "html_url": "https://github.com/csdms/bmi",
     "private": false,
     "description": "The Basic Model Interface",
     "created_at": "2014-06-05T20:23:42Z",

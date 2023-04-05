@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/DreamCloud-Project/AMALTHEA-SimGrid",
-    "url": "https://api.github.com/repos/DreamCloud-Project/AMALTHEA-SimGrid",
+    "url": "https://github.com/DreamCloud-Project/AMALTHEA-SimGrid",
     "data": {
         "timestamp": "2020-07-05 00:17:52.705331",
         "name": "AMALTHEA-SimGrid",
-        "url": "https://api.github.com/repos/DreamCloud-Project/AMALTHEA-SimGrid",
+        "url": "https://github.com/DreamCloud-Project/AMALTHEA-SimGrid",
         "full_name": "DreamCloud-Project/AMALTHEA-SimGrid",
         "html_url": "https://github.com/DreamCloud-Project/AMALTHEA-SimGrid",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "AMALTHEA-SimGrid",
     "full_name": "DreamCloud-Project/AMALTHEA-SimGrid",
-    "html_url": "https://github.com/DreamCloud-Project/AMALTHEA-SimGrid",
     "private": false,
     "description": "Simulator for cloud applications described using the Amalthea application model on top of SimGrid",
     "created_at": "2015-10-26T18:35:34Z",

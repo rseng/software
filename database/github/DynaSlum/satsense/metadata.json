@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/DynaSlum/satsense",
-    "url": "https://api.github.com/repos/DynaSlum/satsense",
+    "url": "https://github.com/DynaSlum/satsense",
     "data": {
         "timestamp": "2020-07-05 00:17:24.777997",
         "name": "satsense",
-        "url": "https://api.github.com/repos/DynaSlum/satsense",
+        "url": "https://github.com/DynaSlum/satsense",
         "full_name": "DynaSlum/satsense",
         "html_url": "https://github.com/DynaSlum/satsense",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "10.5281/zenodo.1463015",
     "name": "satsense",
     "full_name": "DynaSlum/satsense",
-    "html_url": "https://github.com/DynaSlum/satsense",
     "private": false,
     "description": "Satsense is a Python library for land use/cover classification using satellite imagery",
     "created_at": "2018-02-13T14:24:41Z",

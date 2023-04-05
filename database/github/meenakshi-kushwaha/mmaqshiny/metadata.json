@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/meenakshi-kushwaha/mmaqshiny",
-    "url": "https://api.github.com/repos/meenakshi-kushwaha/mmaqshiny",
+    "url": "https://github.com/meenakshi-kushwaha/mmaqshiny",
     "data": {
         "timestamp": "2020-07-05 00:17:04.896865",
         "name": "mmaqshiny",
-        "url": "https://api.github.com/repos/meenakshi-kushwaha/mmaqshiny",
+        "url": "https://github.com/meenakshi-kushwaha/mmaqshiny",
         "full_name": "meenakshi-kushwaha/mmaqshiny",
         "html_url": "https://github.com/meenakshi-kushwaha/mmaqshiny",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "https://doi.org/10.5281/zenodo.3911659",
     "name": "mmaqshiny",
     "full_name": "meenakshi-kushwaha/mmaqshiny",
-    "html_url": "https://github.com/meenakshi-kushwaha/mmaqshiny",
     "private": false,
     "description": "R-Shiny package to explore Air-Pollution Mobile Monitoring data ",
     "created_at": "2020-05-13T17:28:11Z",

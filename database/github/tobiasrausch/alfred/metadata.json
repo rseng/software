@@ -1,10 +1,10 @@
 {
     "parser": "github",
     "uid": "github/tobiasrausch/alfred",
-    "url": "https://api.github.com/repos/tobiasrausch/alfred",
+    "url": "https://github.com/tobiasrausch/alfred",
     "data": {
         "title": "Alfred",
-        "url": "https://api.github.com/repos/tobiasrausch/alfred",
+        "url": "https://github.com/tobiasrausch/alfred",
         "credit": [],
         "tags": [
             "high-throughput-sequencing",
@@ -53,7 +53,6 @@
     "doi": "10.1093/bioinformatics/bty1007",
     "name": "alfred",
     "full_name": "tobiasrausch/alfred",
-    "html_url": "https://github.com/tobiasrausch/alfred",
     "private": false,
     "description": "BAM Statistics, Feature Counting and Annotation",
     "created_at": "2016-02-25T08:32:15Z",

@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/3D-e-Chem/kripodb",
-    "url": "https://api.github.com/repos/3D-e-Chem/kripodb",
+    "url": "https://github.com/3D-e-Chem/kripodb",
     "data": {
         "timestamp": "2020-07-05 00:17:07.653482",
         "name": "kripodb",
-        "url": "https://api.github.com/repos/3D-e-Chem/kripodb",
+        "url": "https://github.com/3D-e-Chem/kripodb",
         "full_name": "3D-e-Chem/kripodb",
         "html_url": "https://github.com/3D-e-Chem/kripodb",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "10.5281/zenodo.597178",
     "name": "kripodb",
     "full_name": "3D-e-Chem/kripodb",
-    "html_url": "https://github.com/3D-e-Chem/kripodb",
     "private": false,
     "description": "Library to interact with Kripo fragment, fingerprint and similarity data files.",
     "created_at": "2016-01-12T14:08:39Z",

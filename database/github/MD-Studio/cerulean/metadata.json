@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/MD-Studio/cerulean",
-    "url": "https://api.github.com/repos/MD-Studio/cerulean",
+    "url": "https://github.com/MD-Studio/cerulean",
     "data": {
         "timestamp": "2020-07-05 00:17:24.937641",
         "name": "cerulean",
-        "url": "https://api.github.com/repos/MD-Studio/cerulean",
+        "url": "https://github.com/MD-Studio/cerulean",
         "full_name": "MD-Studio/cerulean",
         "html_url": "https://github.com/MD-Studio/cerulean",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "10.5281/zenodo.1478077",
     "name": "cerulean",
     "full_name": "MD-Studio/cerulean",
-    "html_url": "https://github.com/MD-Studio/cerulean",
     "private": false,
     "description": "A Python 3 library for talking to HPC clusters and supercomputers",
     "created_at": "2018-10-10T09:26:42Z",

@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/ropensci/plotly",
-    "url": "https://api.github.com/repos/ropensci/plotly",
+    "url": "https://github.com/ropensci/plotly",
     "data": {
         "timestamp": "2020-07-04 13:22:37.901769",
         "name": "plotly",
-        "url": "https://api.github.com/repos/ropensci/plotly",
+        "url": "https://github.com/ropensci/plotly",
         "full_name": "ropensci/plotly",
         "html_url": "https://github.com/ropensci/plotly",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "plotly",
     "full_name": "ropensci/plotly",
-    "html_url": "https://github.com/ropensci/plotly",
     "private": false,
     "description": "An interactive graphing library for R",
     "created_at": "2013-11-21T05:56:51Z",

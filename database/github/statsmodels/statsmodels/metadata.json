@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/statsmodels/statsmodels",
-    "url": "https://api.github.com/repos/statsmodels/statsmodels",
+    "url": "https://github.com/statsmodels/statsmodels",
     "data": {
         "timestamp": "2020-07-04 13:22:43.991776",
         "name": "statsmodels",
-        "url": "https://api.github.com/repos/statsmodels/statsmodels",
+        "url": "https://github.com/statsmodels/statsmodels",
         "full_name": "statsmodels/statsmodels",
         "html_url": "https://github.com/statsmodels/statsmodels",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "statsmodels",
     "full_name": "statsmodels/statsmodels",
-    "html_url": "https://github.com/statsmodels/statsmodels",
     "private": false,
     "description": "Statsmodels: statistical modeling and econometrics in Python",
     "created_at": "2011-06-12T17:04:50Z",

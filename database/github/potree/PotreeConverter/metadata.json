@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/potree/PotreeConverter",
-    "url": "https://api.github.com/repos/potree/PotreeConverter",
+    "url": "https://github.com/potree/PotreeConverter",
     "data": {
         "timestamp": "2020-07-05 00:17:18.247013",
         "name": "PotreeConverter",
-        "url": "https://api.github.com/repos/potree/PotreeConverter",
+        "url": "https://github.com/potree/PotreeConverter",
         "full_name": "potree/PotreeConverter",
         "html_url": "https://github.com/potree/PotreeConverter",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "PotreeConverter",
     "full_name": "potree/PotreeConverter",
-    "html_url": "https://github.com/potree/PotreeConverter",
     "private": false,
     "description": "Create multi res point cloud to use with potree",
     "created_at": "2014-02-08T09:23:58Z",

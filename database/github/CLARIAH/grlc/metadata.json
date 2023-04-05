@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/CLARIAH/grlc",
-    "url": "https://api.github.com/repos/CLARIAH/grlc",
+    "url": "https://github.com/CLARIAH/grlc",
     "data": {
         "timestamp": "2020-07-04 13:22:39.072176",
         "name": "grlc",
-        "url": "https://api.github.com/repos/CLARIAH/grlc",
+        "url": "https://github.com/CLARIAH/grlc",
         "full_name": "CLARIAH/grlc",
         "html_url": "https://github.com/CLARIAH/grlc",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "grlc",
     "full_name": "CLARIAH/grlc",
-    "html_url": "https://github.com/CLARIAH/grlc",
     "private": false,
     "description": "grlc builds Web APIs using shared SPARQL queries",
     "created_at": "2015-11-13T15:49:10Z",

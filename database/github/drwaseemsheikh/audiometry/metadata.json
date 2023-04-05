@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/drwaseemsheikh/audiometry",
-    "url": "https://api.github.com/repos/drwaseemsheikh/audiometry",
+    "url": "https://github.com/drwaseemsheikh/audiometry",
     "data": {
         "timestamp": "2020-07-05 00:17:04.337685",
         "name": "audiometry",
-        "url": "https://api.github.com/repos/drwaseemsheikh/audiometry",
+        "url": "https://github.com/drwaseemsheikh/audiometry",
         "full_name": "drwaseemsheikh/audiometry",
         "html_url": "https://github.com/drwaseemsheikh/audiometry",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "https://doi.org/10.5281/zenodo.3924784",
     "name": "audiometry",
     "full_name": "drwaseemsheikh/audiometry",
-    "html_url": "https://github.com/drwaseemsheikh/audiometry",
     "private": false,
     "description": "Audiometry is an application framework written in C# and based on WPF and .NET that enables accurate digital recording, search, analysis, graphical visualization, and reproduction of human audio-vestibular impairment test data to assist in hearing loss or disability diagnosis.",
     "created_at": "2019-10-06T20:45:03Z",
