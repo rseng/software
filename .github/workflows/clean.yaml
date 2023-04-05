@@ -24,7 +24,7 @@ jobs:
       env:
         RSE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python .github/scripts/clean-database.py
+        python .github/scripts/clean-database.py $(pwd)
         rse export repos.txt --force
 
     - name: Export site to docs/
