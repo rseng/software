@@ -21,13 +21,6 @@ jobs:
         sudo pip3 install .[all]
         rse --version
 
-    - name: Shpc Listing
-      run: |          
-        # Remove default remote registry and add PWD
-        shpc config remove registry https://github.com/singularityhub/shpc-registry
-        shpc config add registry $(pwd)
-        shpc show > listing.txt
-
     # Run a specific letter matched to a day of the month A==1, Z==26
     - name: Calendar Updater
       uses: vsoch/split-list-action@main
