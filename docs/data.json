@@ -2108,6 +2108,14 @@
         "topics": []
     },
     {
+        "uid": "github/husseinaluie/FlowSieve",
+        "url": "https://github.com/husseinaluie/FlowSieve",
+        "rel": "/software/repository/github/husseinaluie/FlowSieve",
+        "avatar": "https://avatars.githubusercontent.com/u/16828501?v=4",
+        "description": "FlowSieve coarse-graining code base",
+        "topics": []
+    },
+    {
         "uid": "github/freesurfer/freesurfer",
         "url": "https://github.com/freesurfer/freesurfer",
         "rel": "/software/repository/github/freesurfer/freesurfer",
@@ -4299,6 +4307,14 @@
         "topics": []
     },
     {
+        "uid": "github/cbg-ethz/LolliPop",
+        "url": "https://github.com/cbg-ethz/LolliPop",
+        "rel": "/software/repository/github/cbg-ethz/LolliPop",
+        "avatar": "https://avatars.githubusercontent.com/u/12068026?v=4",
+        "description": "Deconvolution for Wastewater Genomics",
+        "topics": []
+    },
+    {
         "uid": "github/cbg-ethz/shorah",
         "url": "https://github.com/cbg-ethz/shorah",
         "rel": "/software/repository/github/cbg-ethz/shorah",
@@ -5584,6 +5600,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/52435497?v=4",
         "description": "NuclearToolkit.jl: Julia package for nuclear structure calculations",
         "topics": []
+    },
+    {
+        "uid": "github/flekschas/regl-scatterplot",
+        "url": "https://github.com/flekschas/regl-scatterplot",
+        "rel": "/software/repository/github/flekschas/regl-scatterplot",
+        "avatar": "https://avatars.githubusercontent.com/u/932103?v=4",
+        "description": "Scalable WebGL-based scatter plot library build with Regl",
+        "topics": [
+            "scatterplot",
+            "visualization",
+            "2d",
+            "webgl",
+            "regl",
+            "scatter-plot"
+        ]
     },
     {
         "uid": "github/haowenz/chromap",
@@ -11470,6 +11501,14 @@
         "topics": []
     },
     {
+        "uid": "github/Illumina/SpliceAI",
+        "url": "https://github.com/Illumina/SpliceAI",
+        "rel": "/software/repository/github/Illumina/SpliceAI",
+        "avatar": "https://avatars.githubusercontent.com/u/11462464?v=4",
+        "description": "A deep learning-based tool to identify splice variants",
+        "topics": []
+    },
+    {
         "uid": "github/Illumina/akt",
         "url": "https://github.com/Illumina/akt",
         "rel": "/software/repository/github/Illumina/akt",
@@ -15982,6 +16021,14 @@
             "planetary-science",
             "symplectic-integrator"
         ]
+    },
+    {
+        "uid": "github/tylertrimble/viswaternet",
+        "url": "https://github.com/tylertrimble/viswaternet",
+        "rel": "/software/repository/github/tylertrimble/viswaternet",
+        "avatar": "https://avatars.githubusercontent.com/u/102005076?v=4",
+        "description": "A Python package for easy generation and customization of water distribution network visualizations.",
+        "topics": []
     },
     {
         "uid": "github/SharmaLlama/ticktack",
@@ -29944,6 +29991,20 @@
         "topics": []
     },
     {
+        "uid": "github/icesat2py/icepyx",
+        "url": "https://github.com/icesat2py/icepyx",
+        "rel": "/software/repository/github/icesat2py/icepyx",
+        "avatar": "https://avatars.githubusercontent.com/u/57814535?v=4",
+        "description": "Python tools for obtaining and working with ICESat-2 data",
+        "topics": [
+            "icesat-2",
+            "community-driven",
+            "python3",
+            "hacktoberfest",
+            "closember"
+        ]
+    },
+    {
         "uid": "github/sverhoeven/docker-cartodb",
         "url": "https://github.com/sverhoeven/docker-cartodb",
         "rel": "/software/repository/github/sverhoeven/docker-cartodb",
@@ -37250,6 +37311,14 @@
         "topics": []
     },
     {
+        "uid": "github/trygvrad/DF-XRM_viz",
+        "url": "https://github.com/trygvrad/DF-XRM_viz",
+        "rel": "/software/repository/github/trygvrad/DF-XRM_viz",
+        "avatar": "https://avatars.githubusercontent.com/u/2361452?v=4",
+        "description": "Visualization of DF-XRM",
+        "topics": []
+    },
+    {
         "uid": "github/egonw/bacting",
         "url": "https://github.com/egonw/bacting",
         "rel": "/software/repository/github/egonw/bacting",
@@ -40757,6 +40826,35 @@
         "topics": []
     },
     {
+        "uid": "github/ttgump/scDHMap",
+        "url": "https://github.com/ttgump/scDHMap",
+        "rel": "/software/repository/github/ttgump/scDHMap",
+        "avatar": "https://avatars.githubusercontent.com/u/1187979?v=4",
+        "description": "Model-based deep hyperbolic manifold learning for visualizing complex hierarchical structures in single-cell genomics data",
+        "topics": [
+            "deep-learning",
+            "hyperbolic-embeddings",
+            "single-cell",
+            "dimensionality-reduction",
+            "manifold-learning",
+            "visualization"
+        ]
+    },
+    {
+        "uid": "github/ttgump/scDeepCluster_pytorch",
+        "url": "https://github.com/ttgump/scDeepCluster_pytorch",
+        "rel": "/software/repository/github/ttgump/scDeepCluster_pytorch",
+        "avatar": "https://avatars.githubusercontent.com/u/1187979?v=4",
+        "description": "Pytorch implementation of scDeepCluster for Single Cell RNA-seq data",
+        "topics": [
+            "deep-learning",
+            "unsupervised-learning",
+            "single-cell-rna-seq",
+            "clustering",
+            "single-cell"
+        ]
+    },
+    {
         "uid": "github/wiki/Install-macs2",
         "url": null,
         "rel": "/software/repository/github/wiki/Install-macs2",
@@ -42290,6 +42388,26 @@
         "avatar": "https://avatars.githubusercontent.com/u/13696008?v=4",
         "description": "Calculate and plot distributions of genomic ranges",
         "topics": []
+    },
+    {
+        "uid": "github/vocalpy/crowsetta",
+        "url": "https://github.com/vocalpy/crowsetta",
+        "rel": "/software/repository/github/vocalpy/crowsetta",
+        "avatar": "https://avatars.githubusercontent.com/u/99543036?v=4",
+        "description": "A tool to work with any format for annotating vocalizations",
+        "topics": [
+            "dataset",
+            "annotation",
+            "csv",
+            "python",
+            "python3",
+            "annotation-format",
+            "birdsong",
+            "animal-communication",
+            "animal-vocalizations",
+            "bioacoustics",
+            "bioacoustic-analysis"
+        ]
     },
     {
         "uid": "github/tud-hri/joan",
@@ -44148,6 +44266,20 @@
             "nanopore",
             "assembly",
             "alignment"
+        ]
+    },
+    {
+        "uid": "github/Yingjie4Science/SDGdetector",
+        "url": "https://github.com/Yingjie4Science/SDGdetector",
+        "rel": "/software/repository/github/Yingjie4Science/SDGdetector",
+        "avatar": "https://avatars.githubusercontent.com/u/40079217?v=4",
+        "description": "A novel R package that can identify and visualize 17 Sustainable Development Goals and associated 169 Targets in text",
+        "topics": [
+            "r-package",
+            "sdg",
+            "sdgs",
+            "sustainable-development-goals",
+            "text-mining"
         ]
     },
     {
