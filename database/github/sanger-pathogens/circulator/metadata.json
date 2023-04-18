@@ -1,10 +1,10 @@
 {
     "parser": "github",
     "uid": "github/sanger-pathogens/circlator",
-    "url": "http://sanger-pathogens.github.io/circlator/",
+    "url": "https://github.com/sanger-pathogens/circlator",
     "data": {
         "title": "Circlator",
-        "url": "http://sanger-pathogens.github.io/circlator/",
+        "url": "https://github.com/sanger-pathogens/circlator",
         "credit": [],
         "tags": [
             "genome-assembly",

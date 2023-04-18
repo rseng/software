@@ -55,8 +55,8 @@ def clean(repos_file, database, archive):
         relpath = os.path.relpath(path, database)
 
         # Ensure UID is correct
-        uid = meta['url'].rsplit('/', 3)
-        uid = "/".join(uid[1:]).replace('.com', '')
+        uid = meta["url"].rsplit("/", 3)
+        uid = "/".join(uid[1:]).replace(".com", "")
 
         # Only look at subset
         if uid not in subset:
@@ -88,26 +88,31 @@ def clean(repos_file, database, archive):
         elif res.status_code in [301, 302]:
             print(f"Found repository {relpath} with moved location, updating")
             new_location = requests.head(res.headers["Location"])
-            meta["url"] = new_location.url                  
+            meta["url"] = new_location.url
             save_json(meta, path)
 
         if uid not in relpath:
-           old_uid = os.path.dirname(relpath)
-           shutil.move(os.path.dirname(path), os.path.join(database, uid))
-           print(f"{relpath} should be {uid}")
-           if old_uid in repos:
-               repos.remove(old_uid)
-           repos.add(uid)
+            old_uid = os.path.dirname(relpath)
+            shutil.move(os.path.dirname(path), os.path.join(database, uid))
+            print(f"{relpath} should be {uid}")
+            if old_uid in repos:
+                repos.remove(old_uid)
+            repos.add(uid)
 
     # Save back to file
+    # This largely isn't needed because we re-generate with export
+    # But might as well try to maintain consistency here.
     with open("repos.txt", "w") as fd:
         fd.write("\n".join(list(repos)))
+
 
 def main():
 
     # python .github/scripts/clean-database.py $(pwd)
     if len(sys.argv) < 3:
-        sys.exit("Please provide a root path (with the database and argument) and a text file of repos.")
+        sys.exit(
+            "Please provide a root path (with the database and argument) and a text file of repos."
+        )
 
     root = os.path.abspath(sys.argv[1])
     repos_file = os.path.abspath(sys.argv[2])

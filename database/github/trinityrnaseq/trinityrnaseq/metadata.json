@@ -1,10 +1,10 @@
 {
     "parser": "github",
-    "uid": "github/trinityrnaseq/wiki",
-    "url": "https://github.com/trinityrnaseq/trinityrnaseq/wiki",
+    "uid": "github/trinityrnaseq/trinityrnaseq",
+    "url": "https://github.com/trinityrnaseq/trinityrnaseq",
     "data": {
         "title": "Trinity",
-        "url": "https://github.com/trinityrnaseq/trinityrnaseq/wiki",
+        "url": "https://github.com/trinityrnaseq/trinityrnaseq",
         "credit": [
             "Alexie Papanicolaou",
             "Aviv Regev",
