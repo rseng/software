@@ -1802,6 +1802,18 @@
         "topics": []
     },
     {
+        "uid": "github/linuxscout/pyarabic",
+        "url": "https://github.com/linuxscout/pyarabic",
+        "rel": "/software/repository/github/linuxscout/pyarabic",
+        "avatar": "https://avatars.githubusercontent.com/u/450792?v=4",
+        "description": "pyarabic",
+        "topics": [
+            "nlp-library",
+            "arabic-language",
+            "text-processing"
+        ]
+    },
+    {
         "uid": "github/RemoteSensingTools/vSmartMOM.jl",
         "url": "https://github.com/RemoteSensingTools/vSmartMOM.jl",
         "rel": "/software/repository/github/RemoteSensingTools/vSmartMOM.jl",
@@ -5562,6 +5574,14 @@
         ]
     },
     {
+        "uid": "github/biomed-AI/GraphBepi",
+        "url": "https://github.com/biomed-AI/GraphBepi",
+        "rel": "/software/repository/github/biomed-AI/GraphBepi",
+        "avatar": "https://avatars.githubusercontent.com/u/57830798?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/faircloth-lab/phyluce",
         "url": "https://github.com/faircloth-lab/phyluce",
         "rel": "/software/repository/github/faircloth-lab/phyluce",
@@ -7163,6 +7183,21 @@
         "topics": []
     },
     {
+        "uid": "github/markusbonse/applefy",
+        "url": "https://github.com/markusbonse/applefy",
+        "rel": "/software/repository/github/markusbonse/applefy",
+        "avatar": "https://avatars.githubusercontent.com/u/19818846?v=4",
+        "description": "A Python package for calculating detection limits for exoplanet high contrast imaging (HCI) datasets.",
+        "topics": [
+            "bootstrap",
+            "direct-imaging",
+            "exoplanet-detection",
+            "exoplanets",
+            "high-contrast-imaging",
+            "python"
+        ]
+    },
+    {
         "uid": "github/NeamulKabir/EnsembleFam",
         "url": "https://github.com/NeamulKabir/EnsembleFam",
         "rel": "/software/repository/github/NeamulKabir/EnsembleFam",
@@ -7711,6 +7746,14 @@
         "rel": "/software/repository/github/hues-platform/cesar-p-core",
         "avatar": "https://avatars.githubusercontent.com/u/22130502?v=4",
         "description": "CESAR-P code library",
+        "topics": []
+    },
+    {
+        "uid": "github/parsotat/batanalysis",
+        "url": "https://github.com/parsotat/BatAnalysis",
+        "rel": "/software/repository/github/parsotat/batanalysis",
+        "avatar": "https://avatars.githubusercontent.com/u/25468716?v=4",
+        "description": "A python HEASOFT wrapper for processing Swift-BAT data.",
         "topics": []
     },
     {
@@ -8263,6 +8306,14 @@
             "jupyter",
             "image-processing"
         ]
+    },
+    {
+        "uid": "github/gpantel/MolPainter",
+        "url": "https://github.com/gpantel/MolPainter",
+        "rel": "/software/repository/github/gpantel/MolPainter",
+        "avatar": "https://avatars.githubusercontent.com/u/5740723?v=4",
+        "description": "A Tool for Drawing Complex Planar Molecular Systems of Arbitrary Composition and Placement",
+        "topics": []
     },
     {
         "uid": "github/OSU-BMBL/IDAM",
@@ -22711,6 +22762,16 @@
         ]
     },
     {
+        "uid": "github/Qiskit/qiskit-experiments",
+        "url": "https://github.com/Qiskit/qiskit-experiments",
+        "rel": "/software/repository/github/Qiskit/qiskit-experiments",
+        "avatar": "https://avatars.githubusercontent.com/u/30696987?v=4",
+        "description": "Qiskit Experiments",
+        "topics": [
+            "qiskit"
+        ]
+    },
+    {
         "uid": "github/KathrynJones1/catwoman",
         "url": "https://github.com/KathrynJones1/catwoman",
         "rel": "/software/repository/github/KathrynJones1/catwoman",
@@ -24467,6 +24528,14 @@
             "unconf",
             "data-extraction"
         ]
+    },
+    {
+        "uid": "github/biaslab/RxInfer.jl",
+        "url": "https://github.com/biaslab/RxInfer.jl",
+        "rel": "/software/repository/github/biaslab/RxInfer.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/6670190?v=4",
+        "description": "Julia package for automated Bayesian inference on a factor graph with reactive message passing",
+        "topics": []
     },
     {
         "uid": "github/maxbernyk/lightcone",
@@ -27777,6 +27846,19 @@
         "topics": []
     },
     {
+        "uid": "github/tornede/py_experimenter",
+        "url": "https://github.com/tornede/py_experimenter",
+        "rel": "/software/repository/github/tornede/py_experimenter",
+        "avatar": "https://avatars.githubusercontent.com/u/47322192?v=4",
+        "description": "The PyExperimenter is a tool for the automatic execution of experiments, e.g. for machine learning (ML), capturing corresponding results in a unified manner in a database. ",
+        "topics": [
+            "database",
+            "executor",
+            "experiments",
+            "python"
+        ]
+    },
+    {
         "uid": "github/elixir-luxembourg/daisy",
         "url": "https://github.com/elixir-luxembourg/daisy",
         "rel": "/software/repository/github/elixir-luxembourg/daisy",
@@ -29339,6 +29421,22 @@
         "rel": "/software/repository/github/dynamics-of-stellar-systems/dynamite_release",
         "avatar": "https://avatars.githubusercontent.com/u/53822020?v=4",
         "description": "dynamics, age and metallicity indicators tracing evolution",
+        "topics": []
+    },
+    {
+        "uid": "github/ajeldorado/falco-python",
+        "url": "https://github.com/ajeldorado/falco-python",
+        "rel": "/software/repository/github/ajeldorado/falco-python",
+        "avatar": "https://avatars.githubusercontent.com/u/7228719?v=4",
+        "description": "Fast Linearized Coronagraph Optimizer (FALCO) in Python 3",
+        "topics": []
+    },
+    {
+        "uid": "github/ajeldorado/falco-matlab",
+        "url": "https://github.com/ajeldorado/falco-matlab",
+        "rel": "/software/repository/github/ajeldorado/falco-matlab",
+        "avatar": "https://avatars.githubusercontent.com/u/7228719?v=4",
+        "description": "Fast Linearized Coronagraph Optimizer (FALCO) in MATLAB",
         "topics": []
     },
     {
@@ -31182,6 +31280,14 @@
         ]
     },
     {
+        "uid": "github/jeremiah-corrado/fem_2d",
+        "url": "https://github.com/jeremiah-corrado/fem_2d",
+        "rel": "/software/repository/github/jeremiah-corrado/fem_2d",
+        "avatar": "https://avatars.githubusercontent.com/u/62707311?v=4",
+        "description": "A rust library for 2D Finite Element Method computations",
+        "topics": []
+    },
+    {
         "uid": "github/carlosandrepaes/GaPP",
         "url": "https://github.com/carlosandrepaes/GaPP",
         "rel": "/software/repository/github/carlosandrepaes/GaPP",
@@ -32026,6 +32132,14 @@
         "rel": "/software/repository/github/nlesc-sherlock/Rig",
         "avatar": "https://avatars1.githubusercontent.com/u/15137410?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/cdfortenbach/JET",
+        "url": "https://github.com/cdfortenbach/JET",
+        "rel": "/software/repository/github/cdfortenbach/JET",
+        "avatar": "https://avatars.githubusercontent.com/u/52048879?v=4",
+        "description": "Computer tool that can be used to optimize lists of exoplanet targets for atmospheric characterization by JWST.",
         "topics": []
     },
     {
@@ -34170,6 +34284,22 @@
         "topics": []
     },
     {
+        "uid": "github/Gabaldonlab/crossmapper",
+        "url": "https://github.com/Gabaldonlab/crossmapper",
+        "rel": "/software/repository/github/Gabaldonlab/crossmapper",
+        "avatar": "https://avatars.githubusercontent.com/u/9263059?v=4",
+        "description": "Crossmapper software",
+        "topics": []
+    },
+    {
+        "uid": "github/Gabaldonlab/perSVade",
+        "url": "https://github.com/Gabaldonlab/perSVade",
+        "rel": "/software/repository/github/Gabaldonlab/perSVade",
+        "avatar": "https://avatars.githubusercontent.com/u/9263059?v=4",
+        "description": "perSVade: personalized Structural Variation detection",
+        "topics": []
+    },
+    {
         "uid": "github/trinotate/trinotatehub.io",
         "url": null,
         "rel": "/software/repository/github/trinotate/trinotatehub.io",
@@ -34203,6 +34333,20 @@
             "maximum-likelihood",
             "biological-sequence-analysis",
             "sequence-alignment"
+        ]
+    },
+    {
+        "uid": "github/Cascella-Group-UiO/HyMD",
+        "url": "https://github.com/Cascella-Group-UiO/HyMD",
+        "rel": "/software/repository/github/Cascella-Group-UiO/HyMD",
+        "avatar": "https://avatars.githubusercontent.com/u/63226974?v=4",
+        "description": "Massively parallel hybrid particle-field molecular dynamics in Python.",
+        "topics": [
+            "hybrid-particle-field",
+            "coarse-grained",
+            "chemistry",
+            "physics",
+            "molecular-dynamics"
         ]
     },
     {
@@ -35033,6 +35177,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/40573575?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/Yash-10/beta-sgp",
+        "url": "https://github.com/Yash-10/beta-sgp",
+        "rel": "/software/repository/github/Yash-10/beta-sgp",
+        "avatar": "https://avatars.githubusercontent.com/u/68844397?v=4",
+        "description": "Scaled Gradient Projection (SGP) algorithm with beta divergence",
+        "topics": [
+            "astronomy",
+            "image-restoration",
+            "mathematical-optimization"
+        ]
     },
     {
         "uid": "github/nexml/nexml.java",
@@ -37099,6 +37255,22 @@
             "gaussian-processes",
             "hacktoberfest"
         ]
+    },
+    {
+        "uid": "github/biofold/PhD-SNPg",
+        "url": "https://github.com/biofold/PhD-SNPg",
+        "rel": "/software/repository/github/biofold/PhD-SNPg",
+        "avatar": "https://avatars.githubusercontent.com/u/15142086?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/biofold/ddgun",
+        "url": "https://github.com/biofold/ddgun",
+        "rel": "/software/repository/github/biofold/ddgun",
+        "avatar": "https://avatars.githubusercontent.com/u/15142086?v=4",
+        "description": "predict stability change upon mutation",
+        "topics": []
     },
     {
         "uid": "github/dentalfloss1/transients-simulations",
@@ -41548,6 +41720,26 @@
         "avatar": "https://avatars.githubusercontent.com/u/32890768?v=4",
         "description": "Atlite: Light-weight version of Aarhus RE Atlas for converting weather data to power systems data",
         "topics": []
+    },
+    {
+        "uid": "github/PyPSA/linopy",
+        "url": "https://github.com/PyPSA/linopy",
+        "rel": "/software/repository/github/PyPSA/linopy",
+        "avatar": "https://avatars.githubusercontent.com/u/32890768?v=4",
+        "description": "Linear optimization with N-D labeled arrays in Python",
+        "topics": [
+            "optimisation",
+            "python",
+            "optimization",
+            "xarray",
+            "cbc",
+            "gurobi",
+            "cplex",
+            "glpk",
+            "xpress",
+            "linear-optimization",
+            "linear-optimisation"
+        ]
     },
     {
         "uid": "github/Kuifje02/vrpy",
@@ -48475,6 +48667,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/16266790?v=4",
         "description": "data evaluation in perpendicular line scanning FCS",
         "topics": []
+    },
+    {
+        "uid": "github/matthewholman/assist",
+        "url": "https://github.com/matthewholman/assist",
+        "rel": "/software/repository/github/matthewholman/assist",
+        "avatar": "https://avatars.githubusercontent.com/u/3812057?v=4",
+        "description": "ASSIST is a software package for ephemeris-quality integrations of test particles.",
+        "topics": [
+            "astrophysics",
+            "integrator",
+            "n-body",
+            "planetary-science"
+        ]
     },
     {
         "uid": "github/mlhutchins/LWPC",
