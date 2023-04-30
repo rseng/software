@@ -1,0 +1,27 @@
+{
+    "parser": "github",
+    "uid": "github/JFFleming/RCFV_Reader",
+    "url": "https://github.com/JFFleming/RCFV_Reader",
+    "data": {
+        "doi": "10.1186/s12859-023-05270-8",
+        "name": "RCFV_Reader",
+        "url": "https://github.com/JFFleming/RCFV_Reader",
+        "full_name": "JFFleming/RCFV_Reader",
+        "html_url": "https://github.com/JFFleming/RCFV_Reader",
+        "description": "RCFV reader is a new software to quickly calculate normalised relative compositional frequency variability.",
+        "created_at": "2022-11-08T19:57:23Z",
+        "updated_at": "2022-11-08T19:58:15Z",
+        "clone_url": "https://github.com/JFFleming/RCFV_Reader.git",
+        "size": 16,
+        "language": "Perl",
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/JFFleming",
+            "avatar_url": "https://avatars.githubusercontent.com/u/84772413?v=4",
+            "login": "JFFleming",
+            "type": "User"
+        },
+        "timestamp": "2023-04-30 00:39:06.201665",
+        "avatar": "https://avatars.githubusercontent.com/u/84772413?v=4"
+    }
+}
