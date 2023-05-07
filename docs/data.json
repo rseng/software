@@ -462,6 +462,19 @@
         "topics": []
     },
     {
+        "uid": "gitlab/cosmograil/starred",
+        "url": "https://gitlab.com/cosmograil/starred",
+        "rel": "/software/repository/gitlab/cosmograil/starred",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/38194257/starred_main_image.png",
+        "description": "A two-channel deconvolution method with Starlet regularization",
+        "topics": [
+            "Deconvolution",
+            "astronomy",
+            "psf",
+            "python"
+        ]
+    },
+    {
         "uid": "gitlab/cosmograil/PyCS3",
         "url": "https://gitlab.com/cosmograil/PyCS3",
         "rel": "/software/repository/gitlab/cosmograil/PyCS3",
@@ -6423,6 +6436,14 @@
             "debruijn-graph",
             "structural-variants"
         ]
+    },
+    {
+        "uid": "github/witseie/fpgaperm",
+        "url": "https://github.com/witseie/fpgaperm",
+        "rel": "/software/repository/github/witseie/fpgaperm",
+        "avatar": "https://avatars.githubusercontent.com/u/10668039?v=4",
+        "description": "Permutation testing for GWAS using FPGAs",
+        "topics": []
     },
     {
         "uid": "github/pennucci/PulsePortraiture",
@@ -12758,6 +12779,23 @@
         ]
     },
     {
+        "uid": "github/prashjet/popkinmocks",
+        "url": "https://github.com/prashjet/popkinmocks",
+        "rel": "/software/repository/github/prashjet/popkinmocks",
+        "avatar": "https://avatars.githubusercontent.com/u/34376548?v=4",
+        "description": "Create mock IFU datacubes for stellar population and kinematic modelling.",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "datacube",
+            "galaxy",
+            "python",
+            "spectroscopy",
+            "stellar-kinematics",
+            "stellar-populations"
+        ]
+    },
+    {
         "uid": "github/kateharborne/SimSpin",
         "url": "https://github.com/kateharborne/SimSpin",
         "rel": "/software/repository/github/kateharborne/SimSpin",
@@ -13707,6 +13745,14 @@
             "rna-seq",
             "fusion"
         ]
+    },
+    {
+        "uid": "github/iric-soft/km",
+        "url": "https://github.com/iric-soft/km",
+        "rel": "/software/repository/github/iric-soft/km",
+        "avatar": "https://avatars.githubusercontent.com/u/26148135?v=4",
+        "description": "km : a software for RNA-seq investigation using k-mer decomposition",
+        "topics": []
     },
     {
         "uid": "github/CBIIT-CGBB/gcMECM",
@@ -19790,6 +19836,23 @@
             "c-plus-plus",
             "python",
             "density-functional-theory"
+        ]
+    },
+    {
+        "uid": "github/Zstone19/pypetal",
+        "url": "https://github.com/Zstone19/pypetal",
+        "rel": "/software/repository/github/Zstone19/pypetal",
+        "avatar": "https://avatars.githubusercontent.com/u/61068045?v=4",
+        "description": "A pipeline for estimating AGN time lags",
+        "topics": [
+            "agn",
+            "astronomy",
+            "drw",
+            "gaussian-processes",
+            "modeling",
+            "python",
+            "time-series",
+            "pipeline"
         ]
     },
     {
@@ -26192,6 +26255,20 @@
         "topics": []
     },
     {
+        "uid": "github/BiodataAnalysisGroup/kmerAnalyzer",
+        "url": "https://github.com/BiodataAnalysisGroup/kmerAnalyzer",
+        "rel": "/software/repository/github/BiodataAnalysisGroup/kmerAnalyzer",
+        "avatar": "https://avatars.githubusercontent.com/u/9251685?v=4",
+        "description": "An alignment-free method capable of processing and counting k-mers in a reasonable time, while evaluating multiple values of the k parameter concurrently.",
+        "topics": [
+            "k-mers",
+            "unsupervised-learning",
+            "phylogenetics",
+            "feature-selection",
+            "sars-cov-2"
+        ]
+    },
+    {
         "uid": "github/OpenMDAO/dymos",
         "url": "https://github.com/OpenMDAO/dymos",
         "rel": "/software/repository/github/OpenMDAO/dymos",
@@ -26753,6 +26830,14 @@
         "rel": "/software/repository/github/ndaniyar/aphot",
         "avatar": "https://avatars.githubusercontent.com/u/723917?v=4",
         "description": "Photon Asymmetry",
+        "topics": []
+    },
+    {
+        "uid": "github/sheinasim/HiFiAdapterFilt",
+        "url": "https://github.com/sheinasim/HiFiAdapterFilt",
+        "rel": "/software/repository/github/sheinasim/HiFiAdapterFilt",
+        "avatar": "https://avatars.githubusercontent.com/u/7445687?v=4",
+        "description": "Remove CCS reads with remnant PacBio adapter sequences and convert outputs to a compressed .fastq (.fastq.gz).",
         "topics": []
     },
     {
@@ -27694,6 +27779,14 @@
         "topics": []
     },
     {
+        "uid": "github/exciting/excitingtools",
+        "url": "https://github.com/exciting/excitingtools",
+        "rel": "/software/repository/github/exciting/excitingtools",
+        "avatar": "https://avatars.githubusercontent.com/u/436341?v=4",
+        "description": "An exciting Workflow Tool",
+        "topics": []
+    },
+    {
         "uid": "github/pcubillos/mc3",
         "url": "https://github.com/pcubillos/mc3",
         "rel": "/software/repository/github/pcubillos/mc3",
@@ -28475,6 +28568,24 @@
         "topics": [
             "charmm-gui",
             "free-energy-calculations"
+        ]
+    },
+    {
+        "uid": "github/fzi-forschungszentrum-informatik/TSInterpret",
+        "url": "https://github.com/fzi-forschungszentrum-informatik/TSInterpret",
+        "rel": "/software/repository/github/fzi-forschungszentrum-informatik/TSInterpret",
+        "avatar": "https://avatars.githubusercontent.com/u/8257565?v=4",
+        "description": "An Open-Source Library for the interpretability of time series classifiers",
+        "topics": [
+            "counterfactual-explanations",
+            "explainable-ai",
+            "explainable-artificial-intelligence",
+            "explainable-ml",
+            "feature-attribution",
+            "interpretability",
+            "interpretable-machine-learning",
+            "interpretable-ml",
+            "time-series"
         ]
     },
     {
@@ -47137,6 +47248,14 @@
         "rel": "/software/repository/github/patscott/pippi",
         "avatar": "https://avatars.githubusercontent.com/u/1249657?v=4",
         "description": "Pippi: parse it, plot it.  A program for operating on MCMC chains and related lists of samples from a function or distribution.",
+        "topics": []
+    },
+    {
+        "uid": "github/PaulRitsche/DLTrack",
+        "url": "https://github.com/PaulRitsche/DL_Track_US",
+        "rel": "/software/repository/github/PaulRitsche/DLTrack",
+        "avatar": "https://avatars.githubusercontent.com/u/71383228?v=4",
+        "description": "This repositories contains code for automatic analysis of human lower limb ultrasonography images.",
         "topics": []
     },
     {
