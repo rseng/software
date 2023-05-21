@@ -122,6 +122,16 @@
         "topics": []
     },
     {
+        "uid": "github/vatlab/sos-notebook",
+        "url": "https://github.com/vatlab/sos-notebook",
+        "rel": "/software/repository/github/vatlab/sos-notebook",
+        "avatar": "https://avatars.githubusercontent.com/u/20074389?v=4",
+        "description": "Multi-language Jupyter Notebook",
+        "topics": [
+            "jupyter-kernels"
+        ]
+    },
+    {
         "uid": "github/Music-and-Culture-Technology-Lab/omnizart",
         "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
         "rel": "/software/repository/github/Music-and-Culture-Technology-Lab/omnizart",
@@ -1329,6 +1339,24 @@
         "topics": []
     },
     {
+        "uid": "github/Ouranosinc/xclim",
+        "url": "https://github.com/Ouranosinc/xclim",
+        "rel": "/software/repository/github/Ouranosinc/xclim",
+        "avatar": "https://avatars.githubusercontent.com/u/1696763?v=4",
+        "description": "Library of derived climate variables, ie climate indicators, based on xarray. ",
+        "topics": [
+            "climate-analysis",
+            "climate-science",
+            "python",
+            "xarray",
+            "icclim",
+            "netcdf4",
+            "xclim",
+            "anuclim",
+            "dask"
+        ]
+    },
+    {
         "uid": "github/pfaucon/PBSIM-PacBio-Simulator",
         "url": "https://github.com/pfaucon/PBSIM-PacBio-Simulator",
         "rel": "/software/repository/github/pfaucon/PBSIM-PacBio-Simulator",
@@ -2439,6 +2467,23 @@
         "topics": []
     },
     {
+        "uid": "github/nialov/fractopo",
+        "url": "https://github.com/nialov/fractopo",
+        "rel": "/software/repository/github/nialov/fractopo",
+        "avatar": "https://avatars.githubusercontent.com/u/47318483?v=4",
+        "description": "fractopo is a Python package with tools for validating and analyzing lineament and fracture trace maps",
+        "topics": [
+            "analysis",
+            "fracture",
+            "geology",
+            "topology",
+            "geometry",
+            "spatial-analysis",
+            "fractopo",
+            "python"
+        ]
+    },
+    {
         "uid": "github/paumard/cubefit",
         "url": "https://github.com/paumard/cubefit",
         "rel": "/software/repository/github/paumard/cubefit",
@@ -3515,6 +3560,14 @@
         "topics": []
     },
     {
+        "uid": "github/webbjj/clustertools",
+        "url": "https://github.com/webbjj/clustertools",
+        "rel": "/software/repository/github/webbjj/clustertools",
+        "avatar": "https://avatars.githubusercontent.com/u/8258656?v=4",
+        "description": "A Python package with tools for analysing star clusters.",
+        "topics": []
+    },
+    {
         "uid": "github/ModellingWebLab/chaste-codegen",
         "url": "https://github.com/ModellingWebLab/chaste-codegen",
         "rel": "/software/repository/github/ModellingWebLab/chaste-codegen",
@@ -3713,6 +3766,14 @@
         "rel": "/software/repository/github/jesford/cluster-lensing",
         "avatar": "https://avatars.githubusercontent.com/u/6848077?v=4",
         "description": "Galaxy Cluster and Weak Lensing Tools",
+        "topics": []
+    },
+    {
+        "uid": "github/alawryaguila/multi-view-AE",
+        "url": "https://github.com/alawryaguila/multi-view-AE",
+        "rel": "/software/repository/github/alawryaguila/multi-view-AE",
+        "avatar": "https://avatars.githubusercontent.com/u/47194980?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -4318,6 +4379,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/24868453?v=4",
         "description": "A Python-based tool to parametrize the rotation curve and the gravitational potential of disk-like galaxies",
         "topics": []
+    },
+    {
+        "uid": "github/WBK-Robotics/pybullet_industrial",
+        "url": "https://github.com/WBK-Robotics/pybullet_industrial",
+        "rel": "/software/repository/github/WBK-Robotics/pybullet_industrial",
+        "avatar": "https://avatars.githubusercontent.com/u/104063446?v=4",
+        "description": "A simulation package extending pybullet for industrial robot applications",
+        "topics": [
+            "industrial-automation",
+            "robotics",
+            "simulation-framework"
+        ]
     },
     {
         "uid": "github/MrOlm/drep",
@@ -10164,6 +10237,18 @@
         "topics": []
     },
     {
+        "uid": "github/tibordome/cosmic_profiles",
+        "url": "https://github.com/tibordome/cosmic_profiles",
+        "rel": "/software/repository/github/tibordome/cosmic_profiles",
+        "avatar": "https://avatars.githubusercontent.com/u/64734836?v=4",
+        "description": "Implements 3D point cloud algorithms for estimation and fitting of shape and density profiles",
+        "topics": [
+            "astronomy",
+            "cosmological-simulations",
+            "point-cloud"
+        ]
+    },
+    {
         "uid": "github/cespinosa/pyHIIexplorerV2",
         "url": "https://github.com/cespinosa/pyHIIexplorerV2",
         "rel": "/software/repository/github/cespinosa/pyHIIexplorerV2",
@@ -12573,6 +12658,22 @@
             "bioinformatics",
             "command-line",
             "tool"
+        ]
+    },
+    {
+        "uid": "github/ictr/covid19-outbreak-simulator",
+        "url": "https://github.com/ictr/covid19-outbreak-simulator",
+        "rel": "/software/repository/github/ictr/covid19-outbreak-simulator",
+        "avatar": "https://avatars.githubusercontent.com/u/62562139?v=4",
+        "description": "Population-based Forward-time Simulator for the Outbreak of COVID-19",
+        "topics": [
+            "covid-19",
+            "simulation",
+            "quarantine",
+            "virus",
+            "outbreak",
+            "simulate-scenarios",
+            "population-model"
         ]
     },
     {
@@ -18532,6 +18633,16 @@
         "topics": []
     },
     {
+        "uid": "github/ComplexGroupInteractions/xgi",
+        "url": "https://github.com/xgi-org/xgi",
+        "rel": "/software/repository/github/ComplexGroupInteractions/xgi",
+        "avatar": "https://avatars.githubusercontent.com/u/85237625?v=4",
+        "description": "CompleX Group Interactions (XGI) provides an ecosystem for the analysis and representation of complex systems with group interactions.",
+        "topics": [
+            "hypergraphs"
+        ]
+    },
+    {
         "uid": "github/stan-dev/stan",
         "url": "https://github.com/stan-dev/stan",
         "rel": "/software/repository/github/stan-dev/stan",
@@ -20288,6 +20399,14 @@
         "topics": []
     },
     {
+        "uid": "github/gymreklab/chips",
+        "url": "https://github.com/gymreklab/chips",
+        "rel": "/software/repository/github/gymreklab/chips",
+        "avatar": "https://avatars.githubusercontent.com/u/19779699?v=4",
+        "description": "Simulation tool for ChIP- and other -seq experiments",
+        "topics": []
+    },
+    {
         "uid": "github/gymreklab/GangSTR",
         "url": "https://github.com/gymreklab/GangSTR",
         "rel": "/software/repository/github/gymreklab/GangSTR",
@@ -20722,6 +20841,14 @@
             "shimmer",
             "ppg"
         ]
+    },
+    {
+        "uid": "github/BoPeng/simuPOP",
+        "url": "https://github.com/BoPeng/simuPOP",
+        "rel": "/software/repository/github/BoPeng/simuPOP",
+        "avatar": "https://avatars.githubusercontent.com/u/9889312?v=4",
+        "description": "A general-purpose forward-time population genetics simulation environment.",
+        "topics": []
     },
     {
         "uid": "github/minaskar/zeus",
@@ -30329,6 +30456,29 @@
         "topics": []
     },
     {
+        "uid": "github/edgardomortiz/Captus",
+        "url": "https://github.com/edgardomortiz/Captus",
+        "rel": "/software/repository/github/edgardomortiz/Captus",
+        "avatar": "https://avatars.githubusercontent.com/u/5767612?v=4",
+        "description": "Assembly of Phylogenomic Datasets from High-Throughput Sequencing data",
+        "topics": [
+            "ngs",
+            "phylogenomics",
+            "alignment",
+            "genome-skimming",
+            "high-throughput-sequencing",
+            "hybridization-capture",
+            "next-generation-sequencing",
+            "phylogenetics",
+            "rna-seq",
+            "whole-genome-sequencing",
+            "phylotranscriptomics",
+            "targeted-capture",
+            "orthologs",
+            "paralogs"
+        ]
+    },
+    {
         "uid": "github/legolason/PyQSOFit",
         "url": "https://github.com/legolason/PyQSOFit",
         "rel": "/software/repository/github/legolason/PyQSOFit",
@@ -37830,6 +37980,18 @@
         "topics": []
     },
     {
+        "uid": "github/Gabaldonlab/jloh",
+        "url": "https://github.com/Gabaldonlab/jloh",
+        "rel": "/software/repository/github/Gabaldonlab/jloh",
+        "avatar": "https://avatars.githubusercontent.com/u/9263059?v=4",
+        "description": "A tool to extract LOH blocks from VCF, BAM and FASTA data",
+        "topics": [
+            "heterozygosity",
+            "bioinformatics",
+            "genomics"
+        ]
+    },
+    {
         "uid": "github/Gabaldonlab/karyon",
         "url": "https://github.com/Gabaldonlab/karyon",
         "rel": "/software/repository/github/Gabaldonlab/karyon",
@@ -38829,6 +38991,19 @@
         "avatar": "https://avatars3.githubusercontent.com/u/42640986?v=4",
         "description": "Monolithic Fluid-Structure Interaction (FSI) solver",
         "topics": []
+    },
+    {
+        "uid": "github/KVSlab/VaMPy",
+        "url": "https://github.com/KVSlab/VaMPy",
+        "rel": "/software/repository/github/KVSlab/VaMPy",
+        "avatar": "https://avatars.githubusercontent.com/u/42640986?v=4",
+        "description": "A collection of tools for pre-processing, simulating, and post-processing vascular morphologies.",
+        "topics": [
+            "vascular",
+            "pre-processing",
+            "post-processing",
+            "computational-fluid-dynamics"
+        ]
     },
     {
         "uid": "github/creanero/locus",
@@ -44807,6 +44982,19 @@
         "topics": []
     },
     {
+        "uid": "github/algolab/shark",
+        "url": "https://github.com/AlgoLab/shark",
+        "rel": "/software/repository/github/algolab/shark",
+        "avatar": "https://avatars.githubusercontent.com/u/449800?v=4",
+        "description": "Mapping-free software for fishing relevant reads in an RNA-Seq sample",
+        "topics": [
+            "bioinformatics",
+            "rna-seq",
+            "alignment-free",
+            "filtering"
+        ]
+    },
+    {
         "uid": "github/Lyalpha/spalipy",
         "url": "https://github.com/Lyalpha/spalipy",
         "rel": "/software/repository/github/Lyalpha/spalipy",
@@ -48301,6 +48489,20 @@
         ]
     },
     {
+        "uid": "github/AngryMaciek/hypercomplex",
+        "url": "https://github.com/AngryMaciek/hypercomplex",
+        "rel": "/software/repository/github/AngryMaciek/hypercomplex",
+        "avatar": "https://avatars.githubusercontent.com/u/19755308?v=4",
+        "description": "Abstract & fast header-only C++ template library for lattice-based cryptosystems in high-dimensional algebras",
+        "topics": [
+            "algebra",
+            "mathematics",
+            "precision",
+            "cryptography",
+            "post-quantum-cryptography"
+        ]
+    },
+    {
         "uid": "github/reggiebernardo/PTAfast",
         "url": "https://github.com/reggiebernardo/PTAfast",
         "rel": "/software/repository/github/reggiebernardo/PTAfast",
@@ -51395,6 +51597,14 @@
         "rel": "/software/repository/gitlab/aroffringa/aoflagger",
         "avatar": "https://gitlab.comNone",
         "description": "The AOFlagger is a tool that can find and remove radio-frequency interference (RFI) in radio astronomical observations. It can make use of Lua scripts to make flagging strategies flexible, and the tools are applicable to a wide set of telescopes.",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/pvst/asi",
+        "url": "https://gitlab.com/pvst/asi",
+        "rel": "/software/repository/gitlab/pvst/asi",
+        "avatar": "https://gitlab.comNone",
+        "description": "Atomic Simulations Interface",
         "topics": []
     },
     {
