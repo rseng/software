@@ -5225,6 +5225,14 @@
         "topics": []
     },
     {
+        "uid": "github/moldyn/msmhelper",
+        "url": "https://github.com/moldyn/msmhelper",
+        "rel": "/software/repository/github/moldyn/msmhelper",
+        "avatar": "https://avatars.githubusercontent.com/u/45035941?v=4",
+        "description": "Helper function for Markov State Models",
+        "topics": []
+    },
+    {
         "uid": "github/yjx1217/RecombineX",
         "url": "https://github.com/yjx1217/RecombineX",
         "rel": "/software/repository/github/yjx1217/RecombineX",
@@ -10740,11 +10748,27 @@
         ]
     },
     {
+        "uid": "github/bioexcel/biobb_wf_flexdyn",
+        "url": "https://github.com/bioexcel/biobb_wf_flexdyn",
+        "rel": "/software/repository/github/bioexcel/biobb_wf_flexdyn",
+        "avatar": "https://avatars.githubusercontent.com/u/15978232?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/chrisaberson/BetterReg",
         "url": "https://github.com/chrisaberson/BetterReg",
         "rel": "/software/repository/github/chrisaberson/BetterReg",
         "avatar": "https://avatars.githubusercontent.com/u/18057823?v=4",
         "description": "Better statistics for regression (OLS and logistic)",
+        "topics": []
+    },
+    {
+        "uid": "github/ZhenjiangFan/DAG-deepVASE",
+        "url": "https://github.com/ZhenjiangFan/DAG-deepVASE",
+        "rel": "/software/repository/github/ZhenjiangFan/DAG-deepVASE",
+        "avatar": "https://avatars.githubusercontent.com/u/21962827?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -11403,6 +11427,21 @@
         "topics": []
     },
     {
+        "uid": "github/spglib/spgrep",
+        "url": "https://github.com/spglib/spgrep",
+        "rel": "/software/repository/github/spglib/spgrep",
+        "avatar": "https://avatars.githubusercontent.com/u/64672219?v=4",
+        "description": "On-the-fly generator of space-group irreducible representations",
+        "topics": [
+            "crystallography",
+            "group-theory",
+            "irreducible-representations",
+            "materials-science",
+            "python",
+            "representation-theory"
+        ]
+    },
+    {
         "uid": "github/dstndstn/tractor",
         "url": "https://github.com/dstndstn/tractor",
         "rel": "/software/repository/github/dstndstn/tractor",
@@ -11623,6 +11662,14 @@
         "rel": "/software/repository/github/csuhjhjhj/GCNCMI",
         "avatar": "https://avatars.githubusercontent.com/u/63285288?v=4",
         "description": "CircRNA-miRNA interaction Prediction Based on Graph Neural Network",
+        "topics": []
+    },
+    {
+        "uid": "github/highamm/sptotal",
+        "url": "https://github.com/highamm/sptotal",
+        "rel": "/software/repository/github/highamm/sptotal",
+        "avatar": "https://avatars.githubusercontent.com/u/34220951?v=4",
+        "description": "Package for Fitting Spatial Linear Models and Predicting Total Abundances for Finite Populations",
         "topics": []
     },
     {
@@ -12658,6 +12705,24 @@
             "bioinformatics",
             "command-line",
             "tool"
+        ]
+    },
+    {
+        "uid": "github/shenwei356/unikmer",
+        "url": "https://github.com/shenwei356/unikmer",
+        "rel": "/software/repository/github/shenwei356/unikmer",
+        "avatar": "https://avatars.githubusercontent.com/u/2655946?v=4",
+        "description": "Toolkit for k-mer with taxonomic information",
+        "topics": [
+            "kmer",
+            "golang",
+            "unique",
+            "union",
+            "intersection",
+            "difference",
+            "unik",
+            "k-mer",
+            "set"
         ]
     },
     {
@@ -15345,6 +15410,18 @@
         "topics": []
     },
     {
+        "uid": "github/jean-pierreBoth/gsearch",
+        "url": "https://github.com/jean-pierreBoth/gsearch",
+        "rel": "/software/repository/github/jean-pierreBoth/gsearch",
+        "avatar": "https://avatars.githubusercontent.com/u/19845045?v=4",
+        "description": "Approximate nearest neighbour search for microbial genomes based on hash metric",
+        "topics": [
+            "average-nucleotide-identity",
+            "nearest-neighbor-search",
+            "probminhash-similarity"
+        ]
+    },
+    {
         "uid": "github/Julian/jsonschema",
         "url": "https://github.com/Julian/jsonschema",
         "rel": "/software/repository/github/Julian/jsonschema",
@@ -15945,6 +16022,14 @@
         "rel": "/software/repository/github/eblur/dust",
         "avatar": "https://avatars.githubusercontent.com/u/2516513?v=4",
         "description": "For calculating dust scattering and extinction",
+        "topics": []
+    },
+    {
+        "uid": "github/chombo-discharge/chombo-discharge",
+        "url": "https://github.com/chombo-discharge/chombo-discharge",
+        "rel": "/software/repository/github/chombo-discharge/chombo-discharge",
+        "avatar": "https://avatars.githubusercontent.com/u/82454163?v=4",
+        "description": "Beta release of chombo-discharge, a research code for low-temperature plasma which uses a Cartesian cut-cell formalism.",
         "topics": []
     },
     {
@@ -17781,6 +17866,14 @@
             "data-science",
             "datasets"
         ]
+    },
+    {
+        "uid": "github/Sarc-Graph/sarcgraph",
+        "url": "https://github.com/Sarc-Graph/sarcgraph",
+        "rel": "/software/repository/github/Sarc-Graph/sarcgraph",
+        "avatar": "https://avatars.githubusercontent.com/u/111386973?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/DeepRank/deeprank",
@@ -31580,6 +31673,14 @@
         ]
     },
     {
+        "uid": "github/JGCRI/osiris",
+        "url": "https://github.com/JGCRI/osiris",
+        "rel": "/software/repository/github/JGCRI/osiris",
+        "avatar": "https://avatars.githubusercontent.com/u/8431983?v=4",
+        "description": "Processes climate impacts on agricultural yields for GCAM",
+        "topics": []
+    },
+    {
         "uid": "github/JGCRI/plutus",
         "url": "https://github.com/JGCRI/plutus",
         "rel": "/software/repository/github/JGCRI/plutus",
@@ -32128,6 +32229,22 @@
         "rel": "/software/repository/github/tbronzwaer/raptor",
         "avatar": "https://avatars.githubusercontent.com/u/8244822?v=4",
         "description": "Public version of the RAPTOR code for radiative transfer in arbitrary spacetimes. See README file for instructions and contact details.",
+        "topics": []
+    },
+    {
+        "uid": "github/citiususc/veryfasttree",
+        "url": "https://github.com/citiususc/veryfasttree",
+        "rel": "/software/repository/github/citiususc/veryfasttree",
+        "avatar": "https://avatars.githubusercontent.com/u/5822373?v=4",
+        "description": "Speeding up the estimation of phylogenetic trees for large alignments through parallelization and vectorization strategies",
+        "topics": []
+    },
+    {
+        "uid": "github/citiususc/BigSeqKit",
+        "url": "https://github.com/citiususc/BigSeqKit",
+        "rel": "/software/repository/github/citiususc/BigSeqKit",
+        "avatar": "https://avatars.githubusercontent.com/u/5822373?v=4",
+        "description": "BigSeqKit: a parallel Big Data toolkit to process FASTA and FASTQ files at scale",
         "topics": []
     },
     {
@@ -35786,6 +35903,14 @@
         "rel": "/software/repository/github/yuhuan-wu/mobilesal",
         "avatar": "https://avatars.githubusercontent.com/u/10758259?v=4",
         "description": "[IEEE TPAMI21] MobileSal: Extremely Efficient RGB-D Salient Object Detection [PyTorch & Jittor]",
+        "topics": []
+    },
+    {
+        "uid": "github/USNavalResearchLaboratory/eispac",
+        "url": "https://github.com/USNavalResearchLaboratory/eispac",
+        "rel": "/software/repository/github/USNavalResearchLaboratory/eispac",
+        "avatar": "https://avatars.githubusercontent.com/u/20360572?v=4",
+        "description": "Read the Docs",
         "topics": []
     },
     {
@@ -40828,6 +40953,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/2295093?v=4",
         "description": "A software package to reduce angular differential imaging data from Subaru/HiCIAO",
         "topics": []
+    },
+    {
+        "uid": "github/Cristianetaniguti/Reads2Map",
+        "url": "https://github.com/Cristianetaniguti/Reads2Map",
+        "rel": "/software/repository/github/Cristianetaniguti/Reads2Map",
+        "avatar": "https://avatars.githubusercontent.com/u/7572527?v=4",
+        "description": "WDL workflows to build genetic maps from sequencing reads",
+        "topics": [
+            "genotyping-by-sequencing",
+            "haplotypes",
+            "linkage-mapping",
+            "pipelines",
+            "variant-calling",
+            "wdl"
+        ]
     },
     {
         "uid": "github/umbralcalc/foxi",
@@ -47088,6 +47228,14 @@
         "rel": "/software/repository/github/cholla-hydro/cholla",
         "avatar": "https://avatars.githubusercontent.com/u/18468918?v=4",
         "description": "A GPU-based hydro code",
+        "topics": []
+    },
+    {
+        "uid": "github/vinisalazar/metaphor",
+        "url": "https://github.com/vinisalazar/metaphor",
+        "rel": "/software/repository/github/vinisalazar/metaphor",
+        "avatar": "https://avatars.githubusercontent.com/u/17276653?v=4",
+        "description": "Metaphor: a general-purpose workflow for assembly and binning of metagenomes",
         "topics": []
     },
     {
