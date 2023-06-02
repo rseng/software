@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/eWaterCycle/eWaterleaf",
-    "url": "https://api.github.com/repos/eWaterCycle/eWaterleaf",
+    "url": "https://github.com/eWaterCycle/eWaterleaf",
     "data": {
         "timestamp": "2020-07-05 00:17:12.923314",
         "name": "eWaterleaf",
-        "url": "https://api.github.com/repos/eWaterCycle/eWaterleaf",
+        "url": "https://github.com/eWaterCycle/eWaterleaf",
         "full_name": "eWaterCycle/eWaterleaf",
         "html_url": "https://github.com/eWaterCycle/eWaterleaf",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "10.5281/zenodo.594690",
     "name": "eWaterleaf",
     "full_name": "eWaterCycle/eWaterleaf",
-    "html_url": "https://github.com/eWaterCycle/eWaterleaf",
     "private": false,
     "description": "Simple leaflet-based visualization for the eWaterCycle project",
     "created_at": "2014-06-06T17:39:14Z",

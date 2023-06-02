@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/numba/numba",
-    "url": "https://api.github.com/repos/numba/numba",
+    "url": "https://github.com/numba/numba",
     "data": {
         "timestamp": "2020-07-04 13:22:19.857861",
         "name": "numba",
-        "url": "https://api.github.com/repos/numba/numba",
+        "url": "https://github.com/numba/numba",
         "full_name": "numba/numba",
         "html_url": "https://github.com/numba/numba",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "numba",
     "full_name": "numba/numba",
-    "html_url": "https://github.com/numba/numba",
     "private": false,
     "description": "NumPy aware dynamic Python compiler using LLVM",
     "created_at": "2012-03-08T11:12:43Z",

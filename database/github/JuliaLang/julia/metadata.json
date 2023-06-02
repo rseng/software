@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/JuliaLang/julia",
-    "url": "https://api.github.com/repos/JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
     "data": {
         "timestamp": "2020-07-04 13:22:34.959679",
         "name": "julia",
-        "url": "https://api.github.com/repos/JuliaLang/julia",
+        "url": "https://github.com/JuliaLang/julia",
         "full_name": "JuliaLang/julia",
         "html_url": "https://github.com/JuliaLang/julia",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "julia",
     "full_name": "JuliaLang/julia",
-    "html_url": "https://github.com/JuliaLang/julia",
     "private": false,
     "description": "The Julia Language: A fresh approach to technical computing.",
     "created_at": "2011-04-21T07:01:50Z",

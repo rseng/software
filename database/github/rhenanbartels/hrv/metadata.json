@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/rhenanbartels/hrv",
-    "url": "https://api.github.com/repos/rhenanbartels/hrv",
+    "url": "https://github.com/rhenanbartels/hrv",
     "data": {
         "timestamp": "2020-07-26 00:16:58.975681",
         "name": "hrv",
-        "url": "https://api.github.com/repos/rhenanbartels/hrv",
+        "url": "https://github.com/rhenanbartels/hrv",
         "full_name": "rhenanbartels/hrv",
         "html_url": "https://github.com/rhenanbartels/hrv",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "https://doi.org/10.5281/zenodo.3960216",
     "name": "hrv",
     "full_name": "rhenanbartels/hrv",
-    "html_url": "https://github.com/rhenanbartels/hrv",
     "private": false,
     "description": "A Python package for heart rate variability analysis",
     "created_at": "2016-10-13T23:49:51Z",

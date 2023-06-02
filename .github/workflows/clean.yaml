@@ -1,0 +1,83 @@
+name: clean-software
+
+on:
+  workflow_dispatch:
+  pull_request: []
+  schedule:
+    # Weekly
+    - cron: 0 7 * * 0
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+    - name: Install Research Software Encyclopedia
+      run: |
+        sudo apt-get update && sudo apt-get install -y python3 python3-pip python3-setuptools
+        git clone https://github.com/rseng/rse /tmp/rse
+        cd /tmp/rse
+        sudo pip3 install .[all]
+        rse --version
+
+    # Run a specific letter matched to a day of the month A==1, Z==26
+    - name: Calendar Updater
+      uses: vsoch/split-list-action@main
+      with:
+        ids_file: repos.txt
+        outfile: repos-subset.txt
+
+        # One letter assigned to each day
+        calendar_split: true
+
+    - name: Clean Repos Subset
+      env:
+        RSE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python .github/scripts/clean-database.py $(pwd) repos-subset.txt
+        rse export repos.txt --force
+
+    - name: Export site to docs/
+      uses: rseng/rse-action@0.0.13
+      with:        
+        config: rse.ini
+        export_dir: docs
+        force: true
+        prefix: software
+        host: https://rseng.github.io
+
+    - name: Checkout New Branch
+      if: (github.event_name == 'pull_request')
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_AGAINST: "master"
+      run: |
+        printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+        export BRANCH_FROM="update/software-$(date '+%Y-%m-%d')"
+        git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git branch
+        git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
+        git branch
+
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+
+        git add database/*
+        git add docs/*
+
+        if git diff-index --quiet HEAD --; then
+           printf "No changes\n"
+        else
+           printf "Changes\n"
+           git commit -m "Automated deployment to update software database $(date '+%Y-%m-%d')"
+           git push origin "${BRANCH_FROM}"
+        fi
+        echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
+
+    - name: Open Pull Request
+      if: (github.event_name == 'pull_request')
+      uses: vsoch/pull-request-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PULL_REQUEST_BRANCH: "master"

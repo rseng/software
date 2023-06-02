@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/FEniCS/ffcx",
-    "url": "https://api.github.com/repos/FEniCS/ffcx",
+    "url": "https://github.com/FEniCS/ffcx",
     "data": {
         "timestamp": "2020-07-04 13:22:23.673635",
         "name": "ffcx",
-        "url": "https://api.github.com/repos/FEniCS/ffcx",
+        "url": "https://github.com/FEniCS/ffcx",
         "full_name": "FEniCS/ffcx",
         "html_url": "https://github.com/FEniCS/ffcx",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "ffcx",
     "full_name": "FEniCS/ffcx",
-    "html_url": "https://github.com/FEniCS/ffcx",
     "private": false,
     "description": "Next generation FEniCS Form Compiler",
     "created_at": "2018-04-05T14:06:14Z",

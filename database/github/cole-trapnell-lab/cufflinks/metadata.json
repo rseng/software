@@ -1,10 +1,10 @@
 {
     "parser": "github",
     "uid": "github/cole-trapnell-lab/cufflinks",
-    "url": null,
+    "url": "https://github.com/cole-trapnell-lab/cufflinks",
     "data": {
         "title": "Cufflinks",
-        "url": "http://cole-trapnell-lab.github.io/cufflinks/",
+        "url": "https://github.com/cole-trapnell-lab/cufflinks",
         "credit": [
             "Cole Trapnell",
             "Geo Pertea"

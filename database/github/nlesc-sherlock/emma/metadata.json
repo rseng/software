@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/nlesc-sherlock/emma",
-    "url": "https://api.github.com/repos/nlesc-sherlock/emma",
+    "url": "https://github.com/nlesc-sherlock/emma",
     "data": {
         "timestamp": "2020-07-05 00:17:21.170967",
         "name": "emma",
-        "url": "https://api.github.com/repos/nlesc-sherlock/emma",
+        "url": "https://github.com/nlesc-sherlock/emma",
         "full_name": "nlesc-sherlock/emma",
         "html_url": "https://github.com/nlesc-sherlock/emma",
         "private": false,
@@ -37,7 +37,6 @@
     "doi": "10.5281/zenodo.996294",
     "name": "emma",
     "full_name": "nlesc-sherlock/emma",
-    "html_url": "https://github.com/nlesc-sherlock/emma",
     "private": false,
     "description": "Ansible playbook to create a cluster with GlusterFS, Docker, Spark and JupyterHub services",
     "created_at": "2017-02-12T19:57:58Z",

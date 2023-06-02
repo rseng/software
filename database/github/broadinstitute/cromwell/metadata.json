@@ -1,11 +1,11 @@
 {
     "parser": "github",
     "uid": "github/broadinstitute/cromwell",
-    "url": "https://api.github.com/repos/broadinstitute/cromwell",
+    "url": "https://github.com/broadinstitute/cromwell",
     "data": {
         "timestamp": "2020-07-04 13:22:41.059112",
         "name": "cromwell",
-        "url": "https://api.github.com/repos/broadinstitute/cromwell",
+        "url": "https://github.com/broadinstitute/cromwell",
         "full_name": "broadinstitute/cromwell",
         "html_url": "https://github.com/broadinstitute/cromwell",
         "private": false,
@@ -36,7 +36,6 @@
     },
     "name": "cromwell",
     "full_name": "broadinstitute/cromwell",
-    "html_url": "https://github.com/broadinstitute/cromwell",
     "private": false,
     "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
     "created_at": "2015-04-17T19:39:36Z",
