@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/DTsuna/CHIPS",
+    "url": "https://github.com/DTsuna/CHIPS",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2023ApJ...945..104T",
+            "https://ui.adsabs.harvard.edu/abs/2022ApJ...929..177T",
+            "https://ui.adsabs.harvard.edu/abs/2023ascl.soft06046T/abstract"
+        ],
+        "title": "CHIPS: Circumstellar matter and light curves of interaction-powered transients simulator",
+        "url": "https://github.com/DTsuna/CHIPS",
+        "name": "CHIPS",
+        "full_name": "DTsuna/CHIPS",
+        "html_url": "https://github.com/DTsuna/CHIPS",
+        "description": "Open source code to unveil the Complete History of Interaction-Powered Supernovae",
+        "created_at": "2018-12-12T14:00:13Z",
+        "updated_at": "2023-04-18T21:11:26Z",
+        "clone_url": "https://github.com/DTsuna/CHIPS.git",
+        "size": 59740,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "Fortran",
+        "open_issues_count": 1,
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/DTsuna",
+            "avatar_url": "https://avatars.githubusercontent.com/u/20248820?v=4",
+            "login": "DTsuna",
+            "type": "User"
+        },
+        "timestamp": "2023-07-02 00:53:49.831327",
+        "avatar": "https://avatars.githubusercontent.com/u/20248820?v=4"
+    }
+}

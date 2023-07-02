@@ -31,8 +31,7 @@ jobs:
           rse scrape rsnl
           rse scrape biotools
           rse scrape biogrids
-          # disabled temporarily - certs need update
-          #rse scrape hal
+          rse scrape hal
           rse scrape ropensci
           rse export repos.txt --force
 
