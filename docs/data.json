@@ -11763,6 +11763,14 @@
         "topics": []
     },
     {
+        "uid": "github/ulebreui/shark",
+        "url": "https://github.com/ulebreui/shark",
+        "rel": "/software/repository/github/ulebreui/shark",
+        "avatar": "https://avatars.githubusercontent.com/u/74534531?v=4",
+        "description": "This is the public repository of the shark code (Lebreuilly et al., 2023)",
+        "topics": []
+    },
+    {
         "uid": "github/wasserman-group/pyCADMium",
         "url": "https://github.com/wasserman-group/pyCADMium",
         "rel": "/software/repository/github/wasserman-group/pyCADMium",
@@ -12811,6 +12819,14 @@
         "rel": "/software/repository/github/oliverphilcox/encore",
         "avatar": "https://avatars.githubusercontent.com/u/30410089?v=4",
         "description": "encore: Efficient isotropic 2-, 3-, 4-, 5- and 6-point correlation functions in C++ and CUDA",
+        "topics": []
+    },
+    {
+        "uid": "github/oliverphilcox/PolyBin",
+        "url": "https://github.com/oliverphilcox/PolyBin",
+        "rel": "/software/repository/github/oliverphilcox/PolyBin",
+        "avatar": "https://avatars.githubusercontent.com/u/30410089?v=4",
+        "description": "Binned polyspectrum estimation on the full sky, optionally polarized and mask-deconvolved",
         "topics": []
     },
     {
@@ -22046,6 +22062,14 @@
         "topics": []
     },
     {
+        "uid": "github/fgbuster/fgbuster",
+        "url": "https://github.com/fgbuster/fgbuster",
+        "rel": "/software/repository/github/fgbuster/fgbuster",
+        "avatar": "https://avatars.githubusercontent.com/u/37635391?v=4",
+        "description": "Parametric component separation for Cosmic Microwave Background observations",
+        "topics": []
+    },
+    {
         "uid": "github/ShubhadeepSadhukhan1993/fastSF",
         "url": "https://github.com/ShubhadeepSadhukhan1993/fastSF",
         "rel": "/software/repository/github/ShubhadeepSadhukhan1993/fastSF",
@@ -24471,6 +24495,14 @@
         ]
     },
     {
+        "uid": "github/Extraweich/homopy",
+        "url": "https://github.com/Extraweich/homopy",
+        "rel": "/software/repository/github/Extraweich/homopy",
+        "avatar": "https://avatars.githubusercontent.com/u/50912803?v=4",
+        "description": "Your solution for stiffness problems",
+        "topics": []
+    },
+    {
         "uid": "github/flemingtonlab/SpliceV",
         "url": "https://github.com/flemingtonlab/SpliceV",
         "rel": "/software/repository/github/flemingtonlab/SpliceV",
@@ -24868,6 +24900,14 @@
         "rel": "/software/repository/github/olivecha/guitarsounds",
         "avatar": "https://avatars.githubusercontent.com/u/78630053?v=4",
         "description": "python library to analyse guitar sounds",
+        "topics": []
+    },
+    {
+        "uid": "github/eXtremeGravityInstitute/LISA-Massive-Black-Hole",
+        "url": "https://github.com/eXtremeGravityInstitute/LISA-Massive-Black-Hole",
+        "rel": "/software/repository/github/eXtremeGravityInstitute/LISA-Massive-Black-Hole",
+        "avatar": "https://avatars.githubusercontent.com/u/37002921?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -34261,6 +34301,14 @@
         "topics": []
     },
     {
+        "uid": "github/DMGW-Goethe/imripy",
+        "url": "https://github.com/DMGW-Goethe/imripy",
+        "rel": "/software/repository/github/DMGW-Goethe/imripy",
+        "avatar": "https://avatars.githubusercontent.com/u/93539226?v=4",
+        "description": "A python code able to simulate Intermediate Mass Ratio Inspirals (IMRI)",
+        "topics": []
+    },
+    {
         "uid": "github/basp-group/purify",
         "url": "https://github.com/basp-group/purify",
         "rel": "/software/repository/github/basp-group/purify",
@@ -35576,6 +35624,14 @@
         "rel": "/software/repository/github/astrobrent/itera",
         "avatar": "https://avatars.githubusercontent.com/u/3286205?v=4",
         "description": "ITERA: IDL line ratio tool",
+        "topics": []
+    },
+    {
+        "uid": "github/hpc4cmb/toast",
+        "url": "https://github.com/hpc4cmb/toast",
+        "rel": "/software/repository/github/hpc4cmb/toast",
+        "avatar": "https://avatars.githubusercontent.com/u/19177696?v=4",
+        "description": "Time Ordered Astrophysics Scalable Tools",
         "topics": []
     },
     {
@@ -37609,6 +37665,24 @@
         ]
     },
     {
+        "uid": "github/taxprofiler/taxpasta",
+        "url": "https://github.com/taxprofiler/taxpasta",
+        "rel": "/software/repository/github/taxprofiler/taxpasta",
+        "avatar": "https://avatars.githubusercontent.com/u/104501065?v=4",
+        "description": "TAXnomic Profile Aggregation and STAndardisation",
+        "topics": [
+            "metagenomics",
+            "python",
+            "standardisation",
+            "bioinformatics",
+            "profiling",
+            "classification",
+            "metagenomic-classification",
+            "taxonomic-classifications",
+            "taxonomic-profiling"
+        ]
+    },
+    {
         "uid": "github/dansarie/sboxgates",
         "url": "https://github.com/dansarie/sboxgates",
         "rel": "/software/repository/github/dansarie/sboxgates",
@@ -38871,6 +38945,14 @@
         "topics": []
     },
     {
+        "uid": "github/lgbouma/gyro-interp",
+        "url": "https://github.com/lgbouma/gyro-interp",
+        "rel": "/software/repository/github/lgbouma/gyro-interp",
+        "avatar": "https://avatars.githubusercontent.com/u/13185735?v=4",
+        "description": "Gyrochronology via interpolation of open cluster rotation sequences.",
+        "topics": []
+    },
+    {
         "uid": "github/utrillalab/repromin",
         "url": "https://github.com/utrillalab/repromin",
         "rel": "/software/repository/github/utrillalab/repromin",
@@ -38991,6 +39073,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/23232265?v=4",
         "description": "Python code to fit absorption lines semi-interactively",
         "topics": []
+    },
+    {
+        "uid": "github/jrenaud90/TidalPy",
+        "url": "https://github.com/jrenaud90/TidalPy",
+        "rel": "/software/repository/github/jrenaud90/TidalPy",
+        "avatar": "https://avatars.githubusercontent.com/u/6547310?v=4",
+        "description": "Software suite to perform solid-body tidal dissipation calculations for rocky and icy worlds",
+        "topics": [
+            "science-research",
+            "tides",
+            "exoplanets",
+            "planetary-science",
+            "orbital-mechanics",
+            "orbital-dynamics"
+        ]
     },
     {
         "uid": "github/JorenSix/Olaf",
@@ -41115,6 +41212,14 @@
         "rel": "/software/repository/github/marbl/Mash",
         "avatar": "https://avatars.githubusercontent.com/u/6492934?v=4",
         "description": "Fast genome and metagenome distance estimation using MinHash",
+        "topics": []
+    },
+    {
+        "uid": "github/marbl/MashMap",
+        "url": "https://github.com/marbl/MashMap",
+        "rel": "/software/repository/github/marbl/MashMap",
+        "avatar": "https://avatars.githubusercontent.com/u/6492934?v=4",
+        "description": "A fast approximate aligner for long DNA sequences",
         "topics": []
     },
     {
@@ -49202,6 +49307,14 @@
         "topics": []
     },
     {
+        "uid": "github/geodynamics/burnman",
+        "url": "https://github.com/geodynamics/burnman",
+        "rel": "/software/repository/github/geodynamics/burnman",
+        "avatar": "https://avatars.githubusercontent.com/u/4052461?v=4",
+        "description": "BurnMan is a library for modeling mantle thermodynamics and thermoelasticity constrained by mineral physics experiments.",
+        "topics": []
+    },
+    {
         "uid": "github/morriscb/The-wiZZ",
         "url": "https://github.com/morriscb/the-wizz",
         "rel": "/software/repository/github/morriscb/The-wiZZ",
@@ -51079,6 +51192,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/57907108?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/QuaCaTeam/quaca",
+        "url": "https://github.com/QuaCaTeam/quaca",
+        "rel": "/software/repository/github/QuaCaTeam/quaca",
+        "avatar": "https://avatars.githubusercontent.com/u/65653300?v=4",
+        "description": "QuaCa is an open-source library which provides fast calculations of nonequilibrium atom-surface interactions.",
+        "topics": [
+            "physics",
+            "fluctuations",
+            "integration",
+            "casimir",
+            "quantum"
+        ]
     },
     {
         "uid": "github/exomishra/kobe",
