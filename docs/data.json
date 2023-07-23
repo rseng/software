@@ -1397,6 +1397,14 @@
         "topics": []
     },
     {
+        "uid": "github/codemeleon/seqPanther",
+        "url": "https://github.com/codemeleon/seqPanther",
+        "rel": "/software/repository/github/codemeleon/seqPanther",
+        "avatar": "https://avatars.githubusercontent.com/u/7693569?v=4",
+        "description": "Variant Caller and Patcher",
+        "topics": []
+    },
+    {
         "uid": "github/C0PEP0D/otto",
         "url": "https://github.com/C0PEP0D/otto",
         "rel": "/software/repository/github/C0PEP0D/otto",
@@ -12177,6 +12185,23 @@
         "topics": []
     },
     {
+        "uid": "github/ECP-WarpX/WarpX",
+        "url": "https://github.com/ECP-WarpX/WarpX",
+        "rel": "/software/repository/github/ECP-WarpX/WarpX",
+        "avatar": "https://avatars.githubusercontent.com/u/32690356?v=4",
+        "description": "WarpX is an advanced, time-based electromagnetic & electrostatic Particle-In-Cell code.",
+        "topics": [
+            "laser",
+            "plasma",
+            "physics",
+            "gpu",
+            "simulation",
+            "particle-in-cell",
+            "pic",
+            "research"
+        ]
+    },
+    {
         "uid": "github/PyTables/PyTables",
         "url": "https://github.com/PyTables/PyTables",
         "rel": "/software/repository/github/PyTables/PyTables",
@@ -12286,6 +12311,14 @@
         "rel": "/software/repository/github/cns-iu/HRA-supporting-information",
         "avatar": "https://avatars.githubusercontent.com/u/10944420?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mkplummer/Imber",
+        "url": "https://github.com/mkplummer/Imber",
+        "rel": "/software/repository/github/mkplummer/Imber",
+        "avatar": "https://avatars.githubusercontent.com/u/80552610?v=4",
+        "description": "Python module for both numerical simulation of stellar/substellar surfaces and fitting the resulting spectral line profiles and photometric light curves with analytical models.",
         "topics": []
     },
     {
@@ -16076,6 +16109,16 @@
             "spectroscopy",
             "hitran",
             "exomol"
+        ]
+    },
+    {
+        "uid": "github/mdolab/pygeo",
+        "url": "https://github.com/mdolab/pygeo",
+        "rel": "/software/repository/github/mdolab/pygeo",
+        "avatar": "https://avatars.githubusercontent.com/u/26934866?v=4",
+        "description": "pyGeo provides geometric design variables and constraints suitable for gradient-based optimization.",
+        "topics": [
+            "mach"
         ]
     },
     {
@@ -24714,6 +24757,29 @@
         "topics": []
     },
     {
+        "uid": "github/mathLab/PINA",
+        "url": "https://github.com/mathLab/PINA",
+        "rel": "/software/repository/github/mathLab/PINA",
+        "avatar": "https://avatars.githubusercontent.com/u/14195552?v=4",
+        "description": "Physics-Informed Neural networks for Advanced modeling",
+        "topics": [
+            "physics-informed-neural-networks",
+            "modeling",
+            "machine-learning",
+            "deep-learning",
+            "python",
+            "pytorch",
+            "differential-equations",
+            "neural-network",
+            "ode",
+            "pde",
+            "physics-informed",
+            "hacktoberfest",
+            "lightining",
+            "pinn"
+        ]
+    },
+    {
         "uid": "github/mgalardini/pyseer",
         "url": "https://github.com/mgalardini/pyseer",
         "rel": "/software/repository/github/mgalardini/pyseer",
@@ -25577,6 +25643,14 @@
         "rel": "/software/repository/github/mmp2/megaman",
         "avatar": "https://avatars.githubusercontent.com/u/5679461?v=4",
         "description": "megaman: Manifold Learning for Millions of Points ",
+        "topics": []
+    },
+    {
+        "uid": "github/carlodev/SyntheticEddyMethod.jl",
+        "url": "https://github.com/carlodev/SyntheticEddyMethod.jl",
+        "rel": "/software/repository/github/carlodev/SyntheticEddyMethod.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/100294007?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -33264,6 +33338,14 @@
         "topics": []
     },
     {
+        "uid": "github/mlujnie/simple",
+        "url": "https://github.com/mlujnie/simple",
+        "rel": "/software/repository/github/mlujnie/simple",
+        "avatar": "https://avatars.githubusercontent.com/u/44762816?v=4",
+        "description": "Simple Intensity Map Producer for Line Emission (public code)",
+        "topics": []
+    },
+    {
         "uid": "github/aL3x-O-o-Hung/CAT-Net",
         "url": "https://github.com/aL3x-O-o-Hung/CAT-Net",
         "rel": "/software/repository/github/aL3x-O-o-Hung/CAT-Net",
@@ -37726,6 +37808,14 @@
         "topics": []
     },
     {
+        "uid": "github/esquivas/guacho",
+        "url": "https://github.com/esquivas/guacho",
+        "rel": "/software/repository/github/esquivas/guacho",
+        "avatar": "https://avatars.githubusercontent.com/u/7807803?v=4",
+        "description": "A 3D uniform mesh parallel HD/MHD code for astrophysics",
+        "topics": []
+    },
+    {
         "uid": "github/xpsi-group/xpsi",
         "url": "https://github.com/xpsi-group/xpsi",
         "rel": "/software/repository/github/xpsi-group/xpsi",
@@ -40366,6 +40456,26 @@
         "topics": []
     },
     {
+        "uid": "github/paulbrodersen/netgraph",
+        "url": "https://github.com/paulbrodersen/netgraph",
+        "rel": "/software/repository/github/paulbrodersen/netgraph",
+        "avatar": "https://avatars.githubusercontent.com/u/8046146?v=4",
+        "description": "Publication-quality network visualisations in python",
+        "topics": [
+            "network",
+            "visualization",
+            "network-analysis",
+            "publication-quality-plots",
+            "graph",
+            "graph-tool",
+            "igraph",
+            "matplotlib",
+            "network-science",
+            "networkx",
+            "python"
+        ]
+    },
+    {
         "uid": "github/fjprichard/PyAFBF",
         "url": "https://github.com/fjprichard/PyAFBF",
         "rel": "/software/repository/github/fjprichard/PyAFBF",
@@ -42719,6 +42829,14 @@
         ]
     },
     {
+        "uid": "github/mpi4py/shmem4py",
+        "url": "https://github.com/mpi4py/shmem4py",
+        "rel": "/software/repository/github/mpi4py/shmem4py",
+        "avatar": "https://avatars.githubusercontent.com/u/5232933?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ahmedmagds/GNUVID",
         "url": "https://github.com/ahmedmagds/GNUVID",
         "rel": "/software/repository/github/ahmedmagds/GNUVID",
@@ -44310,6 +44428,21 @@
         "topics": []
     },
     {
+        "uid": "github/rribeiro-sci/pygomodo",
+        "url": "https://github.com/rribeiro-sci/pygomodo",
+        "rel": "/software/repository/github/rribeiro-sci/pygomodo",
+        "avatar": "https://avatars.githubusercontent.com/u/33298926?v=4",
+        "description": "GPCRs modeling and docking with python",
+        "topics": [
+            "bioinformatics",
+            "bioinformatics-pipeline",
+            "bioinformatics-tool",
+            "gpcr",
+            "homology-modeling",
+            "molecular-docking"
+        ]
+    },
+    {
         "uid": "github/swagnercarena/ovejero",
         "url": "https://github.com/swagnercarena/ovejero",
         "rel": "/software/repository/github/swagnercarena/ovejero",
@@ -45288,6 +45421,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/38346844?v=4",
         "description": "A Python API for Sub-halo Clustering and Abundance Matching",
         "topics": []
+    },
+    {
+        "uid": "github/roualdes/bridgestan",
+        "url": "https://github.com/roualdes/bridgestan",
+        "rel": "/software/repository/github/roualdes/bridgestan",
+        "avatar": "https://avatars.githubusercontent.com/u/3252729?v=4",
+        "description": "BridgeStan provides efficient in-memory access through Python, Julia, and R to the methods of a Stan model.",
+        "topics": [
+            "c",
+            "cpp",
+            "julia",
+            "python",
+            "r",
+            "stan"
+        ]
     },
     {
         "uid": "github/wtraylor/modular_megafauna_model",
@@ -47353,6 +47501,14 @@
         "rel": "/software/repository/github/msyazwanfaid/Authentication-Algorithm-for-New-Moon-Visibility-Report",
         "avatar": "https://avatars.githubusercontent.com/u/34955054?v=4",
         "description": "Authentication Algorithm for New Moon Visibility Report",
+        "topics": []
+    },
+    {
+        "uid": "github/msyazwanfaid/hilalpy",
+        "url": "https://github.com/msyazwanfaid/hilalpy",
+        "rel": "/software/repository/github/msyazwanfaid/hilalpy",
+        "avatar": "https://avatars.githubusercontent.com/u/34955054?v=4",
+        "description": "A package to analyse the data of Moon sighting for lunar crescent visibility criterion",
         "topics": []
     },
     {
@@ -50343,6 +50499,18 @@
         ]
     },
     {
+        "uid": "github/dib-lab/dammit",
+        "url": "https://github.com/dib-lab/dammit",
+        "rel": "/software/repository/github/dib-lab/dammit",
+        "avatar": "https://avatars.githubusercontent.com/u/1740697?v=4",
+        "description": "just annotate it, dammit!",
+        "topics": [
+            "annotation",
+            "transcriptomics",
+            "bioinformatics"
+        ]
+    },
+    {
         "uid": "github/scikit-learn-contrib/hdbscan",
         "url": "https://github.com/scikit-learn-contrib/hdbscan",
         "rel": "/software/repository/github/scikit-learn-contrib/hdbscan",
@@ -50670,6 +50838,19 @@
         "topics": []
     },
     {
+        "uid": "github/bcgsc/goldrush",
+        "url": "https://github.com/bcgsc/goldrush",
+        "rel": "/software/repository/github/bcgsc/goldrush",
+        "avatar": "https://avatars.githubusercontent.com/u/2319317?v=4",
+        "description": "Linear-time de novo Long Read Assembler",
+        "topics": [
+            "bioinformatics",
+            "bioinformatics-tool",
+            "genome-assembly",
+            "long-read-sequencing"
+        ]
+    },
+    {
         "uid": "github/bcgsc/ntCard",
         "url": "https://github.com/bcgsc/ntCard",
         "rel": "/software/repository/github/bcgsc/ntCard",
@@ -50763,6 +50944,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/2319317?v=4",
         "description": "Correct and scaffold assemblies using long reads",
         "topics": []
+    },
+    {
+        "uid": "github/bcgsc/tigmint",
+        "url": "https://github.com/bcgsc/tigmint",
+        "rel": "/software/repository/github/bcgsc/tigmint",
+        "avatar": "https://avatars.githubusercontent.com/u/2319317?v=4",
+        "description": "\u26d3 Correct misassemblies using linked AND long reads",
+        "topics": [
+            "misassembly-correction",
+            "genome-scaffolding",
+            "genome-assembly",
+            "linked-reads",
+            "10xgenomics",
+            "bioinformatics",
+            "bioinformatics-tool"
+        ]
     },
     {
         "uid": "github/bcgsc/arcs",
