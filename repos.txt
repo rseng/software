@@ -67,6 +67,7 @@ gitlab/fibreglass/pivc
 gitlab/dglaeser/fieldcompare
 gitlab/sevecekp/sph
 gitlab/souvlaki/thalassa
+gitlab/cirad-apps/phylostems
 gitlab/programgreg/tagginglatencyestimator
 gitlab/mcfuman/SpectraPy
 gitlab/fduchate/predihood
@@ -82,6 +83,7 @@ gitlab/chrjan/seq-seq-pan
 gitlab/remikz/nccmp
 gitlab/clairedavies/sedbys
 gitlab/loic.cg.rossi/pymiedap
+gitlab/sigcorr/sigcorr
 gitlab/jerrytheo16/exoplanet
 gitlab/davidtourigny/dynamic-fba
 gitlab/aroffringa/wsclean
@@ -137,6 +139,7 @@ github/wdecoster/nanomath
 github/wdecoster/chopper
 github/wdecoster/nano-snakemake
 github/wdecoster/nanostat
+github/Valcin/BE_HaPPy
 github/lsncibb/microbiomeGWAS
 github/upb-lea/openmodelica-microgrid-gym
 github/upb-lea/gym-electric-motor
@@ -179,6 +182,7 @@ github/gmarcais/Jellyfish
 github/gmarcais/Quorum
 github/mgieles/limepy
 github/aothmane-control/Algebraic-differentiators
+github/PyPO-dev/PyPO
 github/SimonPfeifer/cows
 github/ArnaudCassan/microlensing
 github/fwhigh/stellar-locus-regression
@@ -291,6 +295,7 @@ github/eScatter/pyelsepa
 github/cjbarrie/academictwitteR
 github/jczarnowski/DeepFactors
 github/pavanvyn/triple-stability
+github/jmsdsouzaPhD/GWDALI
 github/JelfsMaterialsGroup/stk
 github/jarvist/Julia-Phonons
 github/gogrean/PyXel
@@ -386,6 +391,7 @@ github/fkiwy/Finder_charts
 github/fkiwy/AstroToolBox
 github/iopenshell/ezSpectrum
 github/mdsteiner/EFAtools
+github/SeaIce-Math/SubZero
 github/exobssim/rapoc-public
 github/azizka/IUCNN
 github/BioGearsEngine/core
@@ -420,6 +426,7 @@ github/grazianoucci/cosmic_variance
 github/quantling/pyndl
 github/mariogrs/Simfast21
 github/isovic/graphmap
+github/fogellab/multiWGCNA
 github/ashleefv/ACEInhibPKPD
 github/firedrakeproject/gusto
 github/firedrakeproject/firedrake
@@ -445,6 +452,7 @@ github/lime-rt/lime
 github/AstrobioMike/GToTree
 github/mbhall88/rasusa
 github/NielsenBerkeleyLab/sconce
+github/aymgal/COOLEST
 github/thachnguyen/CRISPRnano
 github/GeoffDuniam/FITS-Code-Examples
 github/CMU-SAFARI/BLEND
@@ -572,10 +580,12 @@ github/engyasin/Offline_MOT
 github/zavolanlab/PAQR2
 github/tkonolige/city2ba
 github/RealTimeGenomics/rtg-tools
+github/RichardObi/medigan
 github/coccoinomane/zelda
 github/coccoinomane/song
 github/shergreen/SatGen
 github/jamesaird/FAST
+github/ulebreui/shark
 github/idefix-code/idefix
 github/mjuric/galfast
 github/auranic/ClinTrajan
@@ -583,6 +593,7 @@ github/vortex-exoplanet/VIP
 github/spectrapepper/spectrapepper
 github/devanshkv/fetch
 github/GabrieleParimbelli/COLIBRI
+github/phylo42/RAPPAS
 github/jonathansick/skyoffset
 github/jonathansick/starfish
 github/jonathansick/MoAstro
@@ -804,6 +815,7 @@ github/JuliaSmoothOptimizers/PDENLPModels.jl
 github/gianthk/ciclope
 github/thomasorb/orbs
 github/thomasorb/orcs
+github/fchuffar/protopackage
 github/fchuffar/dmethr
 github/fchuffar/epimedtools
 github/benstahl92/deepSIP
@@ -853,6 +865,7 @@ github/sczesla/PyAstronomy
 github/FofanovLab/mtsv_tools
 github/fabiopardo/tonic
 github/fabiopardo/qmap
+github/PabloVD/HAYASHI
 github/PabloVD/21cmDeepLearning
 github/PabloVD/HaloGraphNet
 github/PabloVD/CosmoGraphNet
@@ -871,6 +884,7 @@ github/PyFstat/PyFstat
 github/OpenDA-Association/OpenDA
 github/ExoplanetML/Nigraha
 github/merenlab/anvio
+github/rribeiro-sci/pygomodo
 github/astrom-tom/specstack
 github/astrom-tom/dfitspy
 github/johncwok/CategoricalTimeSeries.jl
@@ -887,7 +901,9 @@ github/JuliaOcean/PlanktonIndividuals.jl
 github/JuliaOcean/AIBECS.jl
 github/zclaytor/kiauhoku
 github/zclaytor/butterpy
+github/pierrehoudayer/RUBIS
 github/thomasdenecker/START-R
+github/mkplummer/Imber
 github/soichiro-hattori/unpopular
 github/szymon-datalions/pyinterpolate
 github/NeamulKabir/EnsembleFam
@@ -895,6 +911,8 @@ github/morphometry/papaya2
 github/gvilitechltd/LibSWIFFT
 github/OwenWard/ppdiag
 github/lightning-project/lightning
+github/wlloyduw/ContainerProfiler
+github/robdjeff/eagles
 github/easystats/performance
 github/easystats/parameters
 github/easystats/effectsize
@@ -907,6 +925,7 @@ github/exoclime/HELIOS
 github/exoclime/HELIOS-K
 github/exoclime/Helios-r2
 github/exoclime/VULCAN
+github/exoclime/HELA
 github/exoclime/FastChem
 github/matteobreschi/bajes
 github/lucaborsato/trades
@@ -966,6 +985,7 @@ github/KeplerGO/kadenza
 github/KeplerGO/k2mosaic
 github/KeplerGO/K2fov
 github/lanl/PyBNF
+github/lanl/swiftbat_python
 github/lanl/CosmicEmu
 github/lanl/GLUE
 github/lanl/spiner
@@ -1054,6 +1074,7 @@ github/jspsych/jspsych
 github/niemasd/CoaTran
 github/ShubhadeepSadhukhan1993/fastSF
 github/AstroVPK/kali
+github/PabloMSanAla/fabada
 github/tbisbas/PDFchem
 github/cran/irtplay
 github/robashaw/libecpint
@@ -1123,6 +1144,7 @@ github/jfarek/alignstats
 github/weecology/retriever
 github/tomasstolker/ARTES
 github/tomasstolker/pycrires
+github/tomasstolker/species
 github/santeripuranen/SpydrPick
 github/IPIS-XieLei/CNTSeg
 github/xstarkit/mpi_xstar
@@ -1190,6 +1212,8 @@ github/bancaditalia/black-it
 github/pfaucon/PBSIM-PacBio-Simulator
 github/ProjectPyRhO/PyRhO
 github/morispi/LRez
+github/DochtermannLab/BehavioralHeritability
+github/DochtermannLab/G-PopComparison
 github/keatonb/Pyriod
 github/keatonb/TESS_PRF
 github/LindleyLentati/Cobra
@@ -1234,6 +1258,7 @@ github/orcasgit/python-fitbit
 github/KIT-MBS/pyREX
 github/fhcrc/seqmagick
 github/cdfortenbach/JET
+github/fgbuster/fgbuster
 github/JieZheng-ShanghaiTech/PiLSL
 github/joe-antognini/kozai
 github/hjens/lasso_spectra
@@ -1246,6 +1271,7 @@ github/leprojetcastor/castor
 github/igmhub/picca
 github/igmhub/baofit
 github/ICESat2-SlideRule/paper
+github/mdolab/pygeo
 github/SciOmicsLab/PhenoComb
 github/weizhongli/cdhit
 github/nilearn/nilearnhub.io
@@ -1264,6 +1290,7 @@ github/milicolazo/Pyedra
 github/metawards/MetaWards
 github/zachetienne/nrpytutorial
 github/Multiversario/satcand
+github/galaxyproject/ansible-tiaas2
 github/galaxyproject/galaxy-lib
 github/cosmostat/pmclib
 github/cosmostat/CosmoPMC
@@ -1271,6 +1298,7 @@ github/cosmostat/nicaea
 github/ronshnapp/MyPTV
 github/SPARTA-dev/SPARTA
 github/MRChemSoft/mrchem
+github/ECP-WarpX/WarpX
 github/bokeh/bokeh
 github/OpenMDAO/dymos
 github/mpokorny/vysmaw
@@ -1374,6 +1402,7 @@ github/jfwallin/JSPAM
 github/standage/AEGeAn
 github/RongquanWang/ELF-DPC
 github/savage13/sacio
+github/fairtracks/omnipy_examples
 github/gerddie/maxflow
 github/jaimedelacruz/stic
 github/dtcc-platform/dtcc-builder
@@ -1395,6 +1424,7 @@ github/BasilioRuiz/SIR-code
 github/bcalden/ClusterPyXT
 github/mrempel/geohexviz
 github/pysat/pysat
+github/jrenaud90/TidalPy
 github/neuroanatomy/reorient
 github/matchms/matchms
 github/matchms/ms2deepscore
@@ -1418,6 +1448,7 @@ github/WorkflowConversion/CTDopts
 github/agombolay/ribose-map
 github/MicGrasso/bigonlight
 github/RajLabMSSM/echolocatoR
+github/AndreyTavleev/DiscVerSt
 github/minaskar/pocomc
 github/minaskar/zeus
 github/minaskar/hankl
@@ -1497,6 +1528,7 @@ github/DSIMB/medusa
 github/sina-cb/Tn-seqExplorer
 github/bwoshea/ZEUS-MP_2
 github/ClaudioZandonella/PRDA
+github/mlujnie/simple
 github/anchal-009/SAVED21cm
 github/gmzsebastian/FLEET
 github/aamedinburgh/igmtransmission
@@ -1738,6 +1770,7 @@ github/rgerum/pylustrator
 github/marbl/Mash
 github/marbl/Krona
 github/marbl/Winnowmap
+github/marbl/MashMap
 github/gerthmicha/wolbachia-mlst
 github/lanzen/ampliconnoise
 github/Social-Evolution-and-Behavior/anTraX
@@ -1770,6 +1803,7 @@ github/champsproject/ldds
 github/discsim/frank
 github/c-martinez/BeyondTheBook
 github/msyazwanfaid/Authentication-Algorithm-for-New-Moon-Visibility-Report
+github/msyazwanfaid/hilalpy
 github/jeaadams/ExoPix
 github/fenderglass/Flye
 github/fenderglass/Ragout
@@ -1777,10 +1811,12 @@ github/Yu-Group/veridical-flow
 github/YonghuiDong/RawHummus
 github/hungyipu/Odyssey
 github/aliojjati/MGCAMB
+github/AlexMaraio/WeakLensingQML
 github/MJTemple/qsogen
 github/barnabytprowe/imcom
 github/pezmaster31/bamtools
 github/atomec-project/atoMEC
+github/Ayuei/DeBEIR
 github/elkebir-group/derna
 github/elkebir-group/Jumper
 github/nitadori/SCF-FDPS
@@ -1798,6 +1834,7 @@ github/rmaphoh/AutoMorph
 github/scikit-image/scikit-image
 github/dansarie/sboxgates
 github/SWAT-Sheffield/SAC
+github/alexrhowe/APOLLO
 github/kegiljarhus/pyBEMT
 github/ZacharyJia/opsdn
 github/uclchem/Chemulator
@@ -1822,11 +1859,13 @@ github/astrosmili/smili
 github/tony-travis/PIQUE
 github/dunnkers/fseval
 github/astronomyk/SimCADO
+github/mpi4py/shmem4py
 github/darrencroton/sage
 github/equipeGST/RiboDoc
 github/1054/Crab.Toolkit.michi2
 github/ahmedmoustafa/JAligner
 github/voutcn/megahit
+github/carlodev/SyntheticEddyMethod.jl
 github/healpy/healpy
 github/biolab-unige/nifti2dicom
 github/lwang-astro/SDAR
@@ -1867,7 +1906,9 @@ github/ELELAB/cancermuts
 github/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP
 github/JanLeppert/GasChromatographySimulator.jl
 github/ndaniel/fusioncatcher
+github/JulianBMunoz/RelicFast
 github/JulianBMunoz/Zeus21
+github/JulianBMunoz/21cmvFAST
 github/xuanxu/starmatrix
 github/EnricoCorsaro/DIAMONDS
 github/EnricoCorsaro/FAMED
@@ -1877,6 +1918,7 @@ github/FAIR-data-for-CAPACITY/FHIR-to-CAPACITY
 github/mneeleman/qubefit
 github/clwainwright/CosmoTransitions
 github/ofionnad/radiowinds
+github/oliverphilcox/PolyBin
 github/oliverphilcox/RascalC
 github/oliverphilcox/HIPSTER
 github/oliverphilcox/HADES
@@ -1960,10 +2002,12 @@ github/smeingast/PNICER
 github/barbagroup/geoclaw-landspill
 github/jteutenberg/downpore
 github/mary77/scQcut
+github/souzamonteiro/cnatool
 github/rafaeleufrasio/lightning
 github/EMBL-Hentze-group/htseq-clip
 github/gt1/bambamc
 github/rorybarnes/EqTide
+github/EGaraldi/corecon
 github/EGaraldi/ZInCo
 github/JEFworks-Lab/STdeconvolve
 github/nlesc/embodied-emotions-scripts
@@ -1977,10 +2021,12 @@ github/Hoohm/CITE-seq-Count
 github/pwry/lextes
 github/UM-Bridge/umbridge
 github/lu-yizhou/ClusterSeg
+github/lgbouma/gyro-interp
 github/witseie/fpgaperm
 github/adrijd/beamconv
 github/silburt/DeepMoon
 github/BoPeng/simuPOP
+github/pipliggins/EVolve
 github/viromelab/tracespipe
 github/AFD-Illinois/ebhlight
 github/AFD-Illinois/iharm3d
@@ -2048,6 +2094,7 @@ github/abs-tudelft/variant-calling-at-scale
 github/CFSAN-Biostatistics/SeroTools
 github/roban/CosmoloPy
 github/watts-dev/watts
+github/davi-rodrigues/NAVanalysis
 github/ernewton/tellrv
 github/rvaser/bioparser
 github/rvaser/spoa
@@ -2059,11 +2106,13 @@ github/kathlandgren/SWAMPE
 github/chrishales/pieflag
 github/henrikju/resolve
 github/Yingjie4Science/SDGdetector
+github/vidakris/flatwrm
 github/Qiskit/qiskit-experiments
 github/Qiskit/rustworkx
 github/EISy-as-Py/hardy
 github/nicolet5/DiffCapAnalyzer
 github/aobr/gsf
+github/paulbrodersen/netgraph
 github/GRIT-RBSim/GRIT
 github/medema-group/bigslice
 github/egonw/bacting
@@ -2086,6 +2135,7 @@ github/GilbertLabUCSF/CanDI
 github/Single-Cell-Graph-Learning/scSGL
 github/SofieVG/FlowSOM
 github/rksyouyou/SASOM-analysis
+github/prmunday/Immunolyser
 github/SWE-UniStuttgart/Qlunc
 github/ComtekAdvancedStructures/cmstatr
 github/FlowModelingControl/flowtorch
@@ -2147,6 +2197,7 @@ github/ucl-exoplanets/TauREx3_public
 github/ucl-exoplanets/ExoTETHyS
 github/ucl-exoplanets/ExoGAN_public
 github/ruta-k/uGMRT-pipeline
+github/pyamg/pyamg
 github/rychallener/ThERESA
 github/matsen/pplacer
 github/mdshw5/pyfaidx
@@ -2211,6 +2262,7 @@ github/dkoboldt/varscan
 github/cdominik/optool
 github/big-data-lab-team/spot
 github/xinglunju/pyAmor
+github/cconroy20/alf
 github/cconroy20/fsps
 github/markusbonse/applefy
 github/icecube/FIRESONG
@@ -2262,6 +2314,7 @@ github/ropensci-archive/reviewer
 github/ropensci-archive/monkeylearn
 github/ropensci-archive/arresteddev
 github/ropensci-archive/rodev
+github/geodynamics/burnman
 github/szwiep/py_SBeLT
 github/FEniCS/ffcx
 github/FEniCS/basix
@@ -2391,6 +2444,7 @@ github/FCS-analysis/multipletau
 github/snugel/cas-offinder
 github/teuben/QAC
 github/teuben/nemo
+github/teuben/DataComb
 github/GalacticDynamics-Oxford/Agama
 github/fakedrtom/oncogemini
 github/PDB-REDO/libcifpp
@@ -2436,6 +2490,7 @@ github/jeschaef/Graph4Med
 github/arnikz/PIQMIe
 github/obreschkow/dftools
 github/spacetelescope/imexam
+github/spacetelescope/jdaviz
 github/spacetelescope/pystortion
 github/spacetelescope/stsynphot_refactor
 github/spacetelescope/mirage
@@ -2478,12 +2533,14 @@ github/yatiml/yatiml
 github/NorwegianVeterinaryInstitute/ALPPACA
 github/SteveMacenski/slam_toolbox
 github/osallou/cassiopee-c
+github/taxprofiler/taxpasta
 github/BiodataAnalysisGroup/UMIc
 github/BiodataAnalysisGroup/kmerAnalyzer
 github/dvallesp/vortex
 github/dvallesp/asohf
 github/jboynyc/textnets
 github/ilaudy/PIAO
+github/dib-lab/dammit
 github/dib-lab/sourmash
 github/catboost/catboost
 github/tjiangHIT/cuteSV
@@ -2496,6 +2553,7 @@ github/nasa/K2CE
 github/nasa/KeplerPORTs
 github/nasa/simupy-flight
 github/nasa/kepler-robovetter
+github/nasa/prog_models
 github/Michalychforever/AsPy
 github/lumen-org/lumen
 github/ElsevierSoftwareX/SOFTX_2020_119
@@ -2517,6 +2575,7 @@ github/mmahmoudian/sivs
 github/neeravkaushal/RIDs-in-WCDs
 github/MIT-STARLab/deconfuser
 github/KULL-Centre/DEERpredict
+github/hpc4cmb/toast
 github/pydata/xarray
 github/Kamuish/archi
 github/auckland-cosmo/PyUltraLight
@@ -2556,8 +2615,10 @@ github/Bishop-Laboratory/RLoop-QC-Meta-Analysis-Miller-2022
 github/sandmanns/CopyDetective
 github/freebayes/freebayes
 github/tariks/peakachu
+github/EpiVec/TDLM
 github/ywx649999311/vizic
 github/ywx649999311/EzTao
+github/codemeleon/seqPanther
 github/CosmoTool/ECLIPSE
 github/idptools/metapredict
 github/bio-ontology-research-group/deepgoplus
@@ -2677,6 +2738,7 @@ github/iomega/spec2vec
 github/agreenbaum/ImPlaneIA
 github/agreenbaum/gsgs
 github/bethgelab/foolbox
+github/rikenbit/iTensor
 github/rikenbit/nnTensor
 github/benmontet/f3
 github/avigan/SPHERE
@@ -2722,12 +2784,14 @@ github/davek44/Glimmer-MG
 github/ccsosa/GOCompare
 github/N-BodyShop/smooth
 github/dpseidel/stmove
+github/JorenSix/Olaf
 github/JorenSix/Panako
 github/ucberkeleyseti/turbo_seti
 github/ucberkeleyseti/blimpy
 github/ml-evs/matador
 github/alejandrobll/py-sphviewer
 github/gasparl/possa
+github/BarquistLab/mason_paper
 github/samb8s/PsrPopPy
 github/openscm/openscm-twolayermodel
 github/DrafProject/elmada
@@ -2747,6 +2811,7 @@ github/ChrisBeaumont/brut
 github/djones1040/PythonPhot
 github/jpmens/jo
 github/hetalang/heta-compiler
+github/lczech/gappa
 github/dfm/celerite
 github/dfm/corner.py
 github/dfm/photodynam
@@ -2800,6 +2865,7 @@ github/csb5/lofreq
 github/pyomeca/ezc3d
 github/pyomeca/biorbd
 github/pyomeca/biosiglive
+github/roualdes/bridgestan
 github/kblin/ncbi-acc-download
 github/jeffcsauer/arcos_arcospy_information
 github/Krona/wiki
@@ -2830,6 +2896,7 @@ github/yjx1217/RecombineX
 github/vcflib/vcflib
 github/vcflib/bio-vcf
 github/riogroup/SORA
+github/PedroBarbosa/VETA
 github/nebblu/ReACT
 github/feature-engine/feature_engine
 github/JohannesBuchner/nway
@@ -2876,6 +2943,7 @@ github/genner-lab/meta-fish-lib
 github/cbirdferrer/collatrix
 github/jfalconbarroso/BAYES-LOSVD
 github/tomlouden/spiderman
+github/esquivas/guacho
 github/Illumina/strelka
 github/Illumina/manta
 github/Illumina/akt
@@ -2883,6 +2951,7 @@ github/Illumina/SpliceAI
 github/Illumina/canvas
 github/Illumina/MarViN
 github/Illumina/ExpansionHunterDenovo
+github/Anirbancosmo/limpy
 github/vijayvarma392/binaryBHexp
 github/pmelsted/pizzly
 github/RussellJurek/busy-function-fitting
@@ -2905,6 +2974,7 @@ github/ArtRand/signalAlign
 github/dsheward-astro/pynaple
 github/teoxxx/rlos
 github/dgrun/FateID
+github/vmmunoza/nuHawkHunter
 github/raredd/kmdata
 github/free1234hm/CLAM
 github/realfastvla/realfast
@@ -2951,6 +3021,7 @@ github/bfarr/exocartographer
 github/bfarr/kombine
 github/eelregit/covdisc
 github/eelregit/mcfit
+github/exoml/plan-net
 github/beastraban/INSANE
 github/UrbanRuralSystems/ur-scape
 github/PaulRitsche/DLTrack
@@ -2977,6 +3048,7 @@ github/hues-platform/cesar-p-core
 github/shadden/celmech
 github/einsteinpy/einsteinpy
 github/CadenArmstrong/simuTrans
+github/AarhusCosmology/connect_public
 github/hannorein/rebound
 github/mmollina/viewpoly
 github/AngusWright/LAMBDAR
@@ -3004,6 +3076,7 @@ github/tupui/scipy
 github/mavrix93/LightCurvesClassifier
 github/EC-Earth/ece2cmor3
 github/scotthgn/relagn
+github/scotthgn/AGNvar
 github/panoptes-organization/panoptes
 github/dsoave/JLS
 github/swiftbiosciences/primerclip
@@ -3094,11 +3167,13 @@ github/sevimcengiz/Oryx-MRSI
 github/lnferris/ocean_data_tools
 github/smirarab/pasta
 github/smirarab/sepp
+github/TRI-AMDD/GMP-featurizer
 github/NLeSC-GO-common-infrastructure/marzipan
 github/GoekeLab/xpore
 github/NuGrid/NuPyCEE
 github/johannes-titz/cofad
 github/y-256/libdivsufsort
+github/sid-krish/Rhometa_Full_Genome
 github/CPM-project/MCPM
 github/MASILab/pyPheWAS
 github/seung-lab/FlyWirePaper
@@ -3210,6 +3285,7 @@ github/sfeeney/ddspectra
 github/nathanchara/l1periodogram
 github/RadioAstronomySoftwareGroup/pyuvdata
 github/lorenzo-rovigatti/oxDNA
+github/snad-space/coniferest
 github/snad-space/zwad
 github/snad-space/ztf-viewer
 github/matplotlib/matplotlib
@@ -3265,6 +3341,7 @@ github/mgm8/pyngham
 github/klho/FLAM
 github/mostanes/umbrella2
 github/rohinkumar/correlcalc
+github/Jesper-Karsten/MBASC
 github/rajewsky-lab/dropbead
 github/rajewsky-lab/novosparc
 github/rajewsky-lab/spacemake
@@ -3367,6 +3444,7 @@ github/delve-team/delve
 github/aztekas-code/aztekas-main
 github/bencebeky/spotrod
 github/dengzhuo-AI/Real-Fundus
+github/eXtremeGravityInstitute/LISA-Massive-Black-Hole
 github/eXtremeGravityInstitute/QuickCBC
 github/aarondotter/iso
 github/savila/halogen
@@ -3419,6 +3497,7 @@ github/SSDataLab/psfmachine
 github/smsharma/fermi-gce-flows
 github/smsharma/dark-photons-perturbations
 github/smsharma/mining-for-substructure-lens
+github/kmsurrao/reMASTERed
 github/kungfugo/BellDiagonalQudits.jl
 github/DirectDM/directdm-mma
 github/DirectDM/directdm-py
@@ -3448,6 +3527,7 @@ github/SimCab-CHU/ifCNVR
 github/skendrew/milkywayproject_triggering
 github/skendrew/midIR_sensitivity
 github/MingBit/PySCNet
+github/mathLab/PINA
 github/Goobley/Radynversion
 github/TheMillerLab/genetex
 github/soedinglab/hh-suite
@@ -3489,12 +3569,14 @@ github/rpetit3/fastq-dl
 github/LSSTDESC/WeakLensingDeblending
 github/LSSTDESC/descqa
 github/LSSTDESC/chroma
+github/LSSTDESC/NaMaster
 github/LSSTDESC/snmachine
 github/LSSTDESC/Spectractor
 github/LSSTDESC/CCL
 github/LSSTDESC/sacc
 github/emerge-erc/ALminer
 github/ELeeAstro/gCMCRT
+github/mtceballos/SIRENAdoc
 github/ckay314/OSPREI
 github/SotaYoshida/NuclearToolkit.jl
 github/ICAMS/strucscan
@@ -3936,6 +4018,7 @@ github/mlaparie/phidget-tools
 github/deepmind/alphafold
 github/mkargo/pipeline
 github/smithlabcode/preseq
+github/smithlabcode/dnmtools
 github/smithlabcode/falco
 github/KBNLresearch/ochre
 github/portsmouth/cmbview
@@ -3959,6 +4042,7 @@ github/legacysurvey/unwise_psf
 github/niosh-mining/obsplus
 github/21cmFAST/21cmFAST
 github/miguelzuma/hi_class_public
+github/tldr-group/taufactor
 github/reneshbedre/bioinfokit
 github/biaslab/RxInfer.jl
 github/benallard/galileo
@@ -4002,6 +4086,7 @@ github/zhoux85/scAdapt
 github/ruizengalways/FOD-Net
 github/najoshi/sickle
 github/c-zhou/yahs
+github/jstuecker/adiabatic-tides
 github/alawryaguila/multi-view-AE
 github/koszullab/pareidolia
 github/dpryan79/MethylDackel
@@ -4061,6 +4146,7 @@ github/Martindelosrios/MeSsI
 github/QibangLiu/PDLSM-FEM_mpi
 github/wangsiwei2010/FPMVS-CAG
 github/DGtal-team/DGtal
+github/DMGW-Goethe/imripy
 github/amoradinejad/limHaloPT
 github/lauralwatkins/cjam
 github/cheng-zhao/FCFC
@@ -4099,6 +4185,7 @@ github/DorianDepriester/mtex2Gmsh
 github/ihrke/pypillometry
 github/yuhaoran/CUBE
 github/Glogobyte/miRGalaxy
+github/rezeebe/orbitN
 github/EESI/Complet-Plus
 github/Leo-Simpson/c-lasso
 github/variomes/sibtm-variomes
@@ -4129,6 +4216,7 @@ github/jenniferlu717/Bracken
 github/zengzhenhuan/GFNet
 github/girder/viime
 github/phenomecentre/nPYc-Toolbox
+github/SophieMLV/axionHMcode
 github/sheinasim/HiFiAdapterFilt
 github/HaowenZhang/TRINITY
 github/vatlab/sos-notebook
@@ -4184,6 +4272,7 @@ github/dzesmin/TEA
 github/buschlab/fhirspark
 github/christopher-vollmers/C3POa
 github/andreyshabalin/TwinEQTL
+github/lucianolorenti/ceruleo
 github/yangyongsan-bio/GREAP
 github/N-Wouda/ALNS
 github/tripathi/Atmospheric-Athena
@@ -4267,6 +4356,8 @@ github/segasai/q3c
 github/segasai/rvspecfit
 github/bcgsc/btllib
 github/bcgsc/arcs
+github/bcgsc/goldrush
+github/bcgsc/tigmint
 github/bcgsc/NanoSim
 github/bcgsc/ntHash
 github/bcgsc/longstitch
@@ -4310,6 +4401,8 @@ github/WMD-group/hybrid-perovskites
 github/WMD-group/Eris
 github/WMD-group/CarrierCapture.jl
 github/WMD-group/SMACT
+github/pmlmodelling/nctoolkit
+github/QuaCaTeam/quaca
 github/MichaelCretignier/Rassine_public
 github/OttoStruve/muler
 github/HCGB-IGTP/spaTyper
@@ -4403,6 +4496,7 @@ github/brentp/nim-lapper
 github/brentp/peddy
 github/idaholab/moose
 github/pcingola/SnpEff
+github/amiralih/MembraneAnalysis.jl
 github/SPARC-FAIR-Codeathon/aqua
 github/captain-exoplanet/misttborn
 github/antoinediez/Sisyphe
@@ -4447,6 +4541,7 @@ github/tyo-nu/MINE-app
 github/actris-cloudnet/cloudnetpy
 github/IanevskiAleksandr/sc-type
 github/JakobBD/pounce
+github/emunte/vaRHC
 github/soylentdeen/MoogStokes
 github/soylentdeen/CounterPoint
 github/opencobra/cobrapy
@@ -4455,6 +4550,7 @@ github/lifs-tools/jmzTab-m
 github/sjteresi/TE_Density
 github/genome/bam-readcount
 github/genome/somatic-sniper
+github/Extraweich/homopy
 github/parmoo/parmoo
 github/danielacarrasco/GLACiAR
 github/ycwu1030/EvoEMD
@@ -4534,6 +4630,8 @@ github/snfactory/binaryoffset
 github/alejostark/phase_space_cosmo_fisher
 github/Balaje/iceFem
 github/birnstiel/two-pop-py
+github/EigenDev/simbi
+github/PetervanLunteren/EcoAssist
 github/linsalrob/PhiSpy
 github/xoopR/set6
 github/farhanferoz/SkyNet
@@ -4644,6 +4742,7 @@ github/citation-file-format/citation-file-format
 github/starkit/wsynphot
 github/gnave/Xgremlin
 github/gnave/pybranch
+github/EdanRein/pyPplusS
 github/linuxscout/pyarabic
 github/TrackerControl/tracker-control-android
 github/mentatpsi/OSGenome
@@ -4663,6 +4762,7 @@ github/moranegg/AffectationRO
 github/chainsawriot/sweater
 github/chainsawriot/oolong
 github/epic-astronomy/EPIC
+github/wbalmer/backtrack
 github/AshleySpindler/AstroVaDEr-Public
 github/vgl-hub/gfastats
 github/davemlz/eemont
@@ -4700,6 +4800,7 @@ github/cosmicrays/DRAGON
 github/jbattat/pep_core
 github/simonsobs/pixell
 github/simonsobs/so_noise_models
+github/simonsobs/mnms
 github/ChenYangyao/hipp
 github/bd-j/prospector
 github/bd-j/sedpy
@@ -4752,6 +4853,7 @@ github/COMBINE-lab/libgff
 github/adrn/pyia
 github/adrn/SuperFreq
 github/adrn/schwimmbad
+github/ryneches/SuchTree
 github/adbar/htmldate
 github/OnroerendErfgoed/atramhasis
 github/ot483/NetCom
@@ -4759,6 +4861,7 @@ github/myrafproject/myrafproject
 github/enveda/RPath
 github/TeamCOMPAS/COMPAS
 github/jorittmo/singcar
+github/ifilot/edp
 github/euroargodev/argopy
 github/maserlib/ExPRES
 github/legolason/PyQSOFit
@@ -4827,6 +4930,7 @@ github/zoometh/iconr
 github/barricklab/pLannotate
 github/hnikaein/stark
 github/csdms/bmi
+github/rroyaute/h2_breeders_equation
 github/FrancesBW/bellamy
 github/fjankowsk/scatfit
 github/rochoa85/NTDHealth_Forms
@@ -4860,6 +4964,7 @@ github/mingzehuang/latentcor
 github/yatisht/usher
 github/dfki-ric-underactuated-lab/torque_limited_simple_pendulum
 github/PyTables/PyTables
+github/mikekatz04/BOWIE
 github/zhouzilu/DENDRO
 github/labjg/fibmeasure
 github/sciapp/sampledb
