@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/vmmunoza/nuHawkHunter",
+    "url": "https://github.com/vmmunoza/nuHawkHunter",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2022JCAP...10..068B",
+            "https://ui.adsabs.harvard.edu/abs/2023ascl.soft07050V/abstract"
+        ],
+        "title": "\u03bdHawkHunter: Forecasting of PBH neutrinos",
+        "url": "https://github.com/vmmunoza/nuHawkHunter",
+        "name": "nuHawkHunter",
+        "full_name": "vmmunoza/nuHawkHunter",
+        "html_url": "https://github.com/vmmunoza/nuHawkHunter",
+        "description": "Repository with forecast of PBH neutrinos",
+        "created_at": "2021-05-06T17:25:57Z",
+        "updated_at": "2023-04-07T12:30:57Z",
+        "clone_url": "https://github.com/vmmunoza/nuHawkHunter.git",
+        "size": 228838,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/vmmunoza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/53861440?v=4",
+            "login": "vmmunoza",
+            "type": "User"
+        },
+        "timestamp": "2023-08-12 18:55:00.199992",
+        "avatar": "https://avatars.githubusercontent.com/u/53861440?v=4"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/wbalmer/backtrack",
+    "url": "https://github.com/wbalmer/backtrack",
+    "data": {
+        "doi": [],
+        "title": "backtrack: fit relative motion of candidate direct imaging sources with background proper motion and parallax",
+        "url": "https://github.com/wbalmer/backtrack",
+        "name": "backtrack",
+        "full_name": "wbalmer/backtrack",
+        "html_url": "https://github.com/wbalmer/backtrack",
+        "description": "Python package to fit relative astrometry with background star motion tracks. ",
+        "created_at": "2023-06-08T22:00:38Z",
+        "updated_at": "2023-07-04T14:54:42Z",
+        "clone_url": "https://github.com/wbalmer/backtrack.git",
+        "size": 17767,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/wbalmer",
+            "avatar_url": "https://avatars.githubusercontent.com/u/39763022?v=4",
+            "login": "wbalmer",
+            "type": "User"
+        },
+        "timestamp": "2023-08-12 18:54:58.478232",
+        "avatar": "https://avatars.githubusercontent.com/u/39763022?v=4"
+    }
+}
