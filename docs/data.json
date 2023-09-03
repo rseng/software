@@ -5201,6 +5201,18 @@
         ]
     },
     {
+        "uid": "github/privong/pymccorrelation",
+        "url": "https://github.com/privong/pymccorrelation",
+        "rel": "/software/repository/github/privong/pymccorrelation",
+        "avatar": "https://avatars.githubusercontent.com/u/1630295?v=4",
+        "description": "Correlation coefficients with uncertainties",
+        "topics": [
+            "bootstrapping-statistics",
+            "monte-carlo",
+            "correlation-coefficient"
+        ]
+    },
+    {
         "uid": "github/Ensembl/WiggleTools",
         "url": "https://github.com/Ensembl/WiggleTools",
         "rel": "/software/repository/github/Ensembl/WiggleTools",
@@ -10827,6 +10839,18 @@
         "topics": []
     },
     {
+        "uid": "github/ratt-ru/Stimela-classic",
+        "url": "https://github.com/ratt-ru/Stimela-classic",
+        "rel": "/software/repository/github/ratt-ru/Stimela-classic",
+        "avatar": "https://avatars.githubusercontent.com/u/7933570?v=4",
+        "description": "Containerized radio interferometry scripting framework -- NB: Classic version is no longer in active development, use stimela 2! See README for details.",
+        "topics": [
+            "pipelines",
+            "astronomical-algorithms",
+            "workflow-management"
+        ]
+    },
+    {
         "uid": "github/ratt-ru/montblanc",
         "url": "https://github.com/ratt-ru/montblanc",
         "rel": "/software/repository/github/ratt-ru/montblanc",
@@ -11027,6 +11051,14 @@
         "rel": "/software/repository/github/FluidityProject/fluidity",
         "avatar": "https://avatars.githubusercontent.com/u/7604133?v=4",
         "description": "Fluidity",
+        "topics": []
+    },
+    {
+        "uid": "github/magnuspalmblad/shic",
+        "url": "https://github.com/magnuspalmblad/shic",
+        "rel": "/software/repository/github/magnuspalmblad/shic",
+        "avatar": "https://avatars.githubusercontent.com/u/16084125?v=4",
+        "description": "shic is a collection of shims for use in automated workflow composition",
         "topics": []
     },
     {
@@ -12077,6 +12109,14 @@
         "topics": []
     },
     {
+        "uid": "github/radiocosmology/driftscan",
+        "url": "https://github.com/radiocosmology/driftscan",
+        "rel": "/software/repository/github/radiocosmology/driftscan",
+        "avatar": "https://avatars.githubusercontent.com/u/6320724?v=4",
+        "description": "Data analysis of transit radio interferometers, particularly for 21cm cosmology.",
+        "topics": []
+    },
+    {
         "uid": "github/radiocosmology/draco",
         "url": "https://github.com/radiocosmology/draco",
         "rel": "/software/repository/github/radiocosmology/draco",
@@ -12087,6 +12127,14 @@
             "cosmology",
             "radio-astronomy"
         ]
+    },
+    {
+        "uid": "github/radiocosmology/caput",
+        "url": "https://github.com/radiocosmology/caput",
+        "rel": "/software/repository/github/radiocosmology/caput",
+        "avatar": "https://avatars.githubusercontent.com/u/6320724?v=4",
+        "description": "Cluster Astronomical Python Utilities",
+        "topics": []
     },
     {
         "uid": "github/NathanSkene/MAGMA_Celltyping",
@@ -12350,6 +12398,14 @@
         "rel": "/software/repository/github/wullm/zwindstroom",
         "avatar": "https://avatars.githubusercontent.com/u/13404568?v=4",
         "description": "Library for cosmic neutrino calculations",
+        "topics": []
+    },
+    {
+        "uid": "github/felixbosco/KeplerFit",
+        "url": "https://github.com/felixbosco/KeplerFit",
+        "rel": "/software/repository/github/felixbosco/KeplerFit",
+        "avatar": "https://avatars.githubusercontent.com/u/43186689?v=4",
+        "description": "A small piece of code to fit a Keplerian velocity distribution model to position-velocity data",
         "topics": []
     },
     {
@@ -12725,6 +12781,14 @@
         "rel": "/software/repository/github/YinanZhao21/SOAP_GPU",
         "avatar": "https://avatars.githubusercontent.com/u/104948851?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/PieterjanRobbe/GaussianRandomFields.jl",
+        "url": "https://github.com/PieterjanRobbe/GaussianRandomFields.jl",
+        "rel": "/software/repository/github/PieterjanRobbe/GaussianRandomFields.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/15999604?v=4",
+        "description": "A package for Gaussian random field generation in Julia",
         "topics": []
     },
     {
@@ -13384,6 +13448,14 @@
         "topics": []
     },
     {
+        "uid": "github/NoahSailer/FishLSS",
+        "url": "https://github.com/NoahSailer/FishLSS",
+        "rel": "/software/repository/github/NoahSailer/FishLSS",
+        "avatar": "https://avatars.githubusercontent.com/u/57497859?v=4",
+        "description": "Fisher forecasting code for Large Scale Structure surveys using Lagrangian Perturbation Theory.",
+        "topics": []
+    },
+    {
         "uid": "github/anmolter/XLUR",
         "url": "https://github.com/anmolter/XLUR",
         "rel": "/software/repository/github/anmolter/XLUR",
@@ -13770,6 +13842,14 @@
         "rel": "/software/repository/github/cajohare/NeutrinoFog",
         "avatar": "https://avatars.githubusercontent.com/u/43500212?v=4",
         "description": "Neutrino fog and floor for direct dark matter searches",
+        "topics": []
+    },
+    {
+        "uid": "github/omboersma/deepglow",
+        "url": "https://github.com/OMBoersma/DeepGlow",
+        "rel": "/software/repository/github/omboersma/deepglow",
+        "avatar": "https://avatars.githubusercontent.com/u/32190968?v=4",
+        "description": "A neural network emulator for BOXFIT",
         "topics": []
     },
     {
@@ -15982,6 +16062,14 @@
         ]
     },
     {
+        "uid": "github/dingshandeng/diskmint",
+        "url": "https://github.com/DingshanDeng/DiskMINT",
+        "rel": "/software/repository/github/dingshandeng/diskmint",
+        "avatar": "https://avatars.githubusercontent.com/u/88793427?v=4",
+        "description": "DiskMINT (Disk Model For INdividual Targets): a tool to estimate disk masses with CO isotopologues",
+        "topics": []
+    },
+    {
         "uid": "github/libgamera/GAMERA",
         "url": "https://github.com/libgamera/GAMERA",
         "rel": "/software/repository/github/libgamera/GAMERA",
@@ -16830,6 +16918,14 @@
         "topics": []
     },
     {
+        "uid": "github/sambit-giri/BCMemu",
+        "url": "https://github.com/sambit-giri/BCMemu",
+        "rel": "/software/repository/github/sambit-giri/BCMemu",
+        "avatar": "https://avatars.githubusercontent.com/u/16431442?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/sambit-giri/tools21cm",
         "url": "https://github.com/sambit-giri/tools21cm",
         "rel": "/software/repository/github/sambit-giri/tools21cm",
@@ -17259,6 +17355,14 @@
         "rel": "/software/repository/github/mpc-bioinformatics/CalibraCurve",
         "avatar": "https://avatars1.githubusercontent.com/u/6215764?v=4",
         "description": "CalibraCurve",
+        "topics": []
+    },
+    {
+        "uid": "github/amusecode/TRES",
+        "url": "https://github.com/amusecode/TRES",
+        "rel": "/software/repository/github/amusecode/TRES",
+        "avatar": "https://avatars.githubusercontent.com/u/3786289?v=4",
+        "description": "TRiple Evolution Simulation package",
         "topics": []
     },
     {
@@ -19380,6 +19484,14 @@
         ]
     },
     {
+        "uid": "github/sfschen/velocileptors",
+        "url": "https://github.com/sfschen/velocileptors",
+        "rel": "/software/repository/github/sfschen/velocileptors",
+        "avatar": "https://avatars.githubusercontent.com/u/8505965?v=4",
+        "description": "A code for velocity-based Lagrangian and Eulerian PT expansions of redshift-space distortions.",
+        "topics": []
+    },
+    {
         "uid": "github/alexander-shen/rtest",
         "url": "https://github.com/alexander-shen/rtest",
         "rel": "/software/repository/github/alexander-shen/rtest",
@@ -21234,6 +21346,14 @@
             "electrical-engineering",
             "python"
         ]
+    },
+    {
+        "uid": "github/upb-lea/ElectricGrid.jl",
+        "url": "https://github.com/upb-lea/ElectricGrid.jl",
+        "rel": "/software/repository/github/upb-lea/ElectricGrid.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/55782224?v=4",
+        "description": "A time domain electrical energy grid modeling and simulation tool with a focus on the control of power electronics converters",
+        "topics": []
     },
     {
         "uid": "github/upb-lea/gym-electric-motor",
@@ -23337,6 +23457,17 @@
         "topics": []
     },
     {
+        "uid": "github/simonsobs/nemo",
+        "url": "https://github.com/simonsobs/nemo",
+        "rel": "/software/repository/github/simonsobs/nemo",
+        "avatar": "https://avatars.githubusercontent.com/u/22817890?v=4",
+        "description": "Millimeter-wave map filtering and Sunyaev-Zel'dovich galaxy cluster/source detection package. Originally developed for the Atacama Cosmology Telescope project.",
+        "topics": [
+            "astrophysics",
+            "python"
+        ]
+    },
+    {
         "uid": "github/simonsobs/so_noise_models",
         "url": "https://github.com/simonsobs/so_noise_models",
         "rel": "/software/repository/github/simonsobs/so_noise_models",
@@ -23583,6 +23714,14 @@
         "rel": "/software/repository/github/benedictpaten/marginPhase",
         "avatar": "https://avatars.githubusercontent.com/u/593440?v=4",
         "description": "simultaneous haplotyping and genotyping",
+        "topics": []
+    },
+    {
+        "uid": "github/martinfleis/clustergram",
+        "url": "https://github.com/martinfleis/clustergram",
+        "rel": "/software/repository/github/martinfleis/clustergram",
+        "avatar": "https://avatars.githubusercontent.com/u/36797143?v=4",
+        "description": "Clustergram - Visualization and diagnostics for cluster analysis in Python",
         "topics": []
     },
     {
@@ -24105,6 +24244,14 @@
             "variant-calling",
             "wdl"
         ]
+    },
+    {
+        "uid": "github/kuenzelab/ENDURE",
+        "url": "https://github.com/kuenzelab/ENDURE",
+        "rel": "/software/repository/github/kuenzelab/ENDURE",
+        "avatar": "https://avatars.githubusercontent.com/u/121185423?v=4",
+        "description": "Tool for energy breakdown analysis of protein designs",
+        "topics": []
     },
     {
         "uid": "github/olivares-j/Kalkayotl",
@@ -27740,6 +27887,19 @@
         "topics": []
     },
     {
+        "uid": "github/odelaneau/shapeit5",
+        "url": "https://github.com/odelaneau/shapeit5",
+        "rel": "/software/repository/github/odelaneau/shapeit5",
+        "avatar": "https://avatars.githubusercontent.com/u/16349601?v=4",
+        "description": "Segmented HAPlotype Estimation and Imputation Tool",
+        "topics": [
+            "bioinformatics",
+            "haplotype",
+            "phasing",
+            "sequencing"
+        ]
+    },
+    {
         "uid": "github/eelregit/mcfit",
         "url": "https://github.com/eelregit/mcfit",
         "rel": "/software/repository/github/eelregit/mcfit",
@@ -28837,6 +28997,14 @@
         "rel": "/software/repository/github/eldariont/svim",
         "avatar": "https://avatars.githubusercontent.com/u/6477692?v=4",
         "description": "Structural Variant Identification Method using Long Reads",
+        "topics": []
+    },
+    {
+        "uid": "github/Kkritos/Rapster",
+        "url": "https://github.com/Kkritos/Rapster",
+        "rel": "/software/repository/github/Kkritos/Rapster",
+        "avatar": "https://avatars.githubusercontent.com/u/82104258?v=4",
+        "description": "Rapid population synthesis code for binary black hole mergers in dynamical environments.",
         "topics": []
     },
     {
@@ -36343,6 +36511,14 @@
             "cheminformatics",
             "metabolomics"
         ]
+    },
+    {
+        "uid": "github/tyo-nu/pickaxe_paper",
+        "url": "https://github.com/tyo-nu/pickaxe_paper",
+        "rel": "/software/repository/github/tyo-nu/pickaxe_paper",
+        "avatar": "https://avatars.githubusercontent.com/u/25189699?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/geopandas/geopandas",
@@ -48789,6 +48965,32 @@
         "topics": []
     },
     {
+        "uid": "github/GENtle-persons/gentle-m",
+        "url": "https://github.com/GENtle-persons/gentle-m",
+        "rel": "/software/repository/github/GENtle-persons/gentle-m",
+        "avatar": "https://avatars.githubusercontent.com/u/141044235?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/yongsukyee/uncertain_blackholemass",
+        "url": "https://github.com/yongsukyee/uncertain_blackholemass",
+        "rel": "/software/repository/github/yongsukyee/uncertain_blackholemass",
+        "avatar": "https://avatars.githubusercontent.com/u/11021594?v=4",
+        "description": "Uncertainty quantification of black hole mass estimation",
+        "topics": [
+            "agn",
+            "black-hole",
+            "conformal-prediction",
+            "neural-networks",
+            "prediction",
+            "prediction-intervals",
+            "pytorch",
+            "quasar",
+            "uncertainty-quantification"
+        ]
+    },
+    {
         "uid": "github/SJTU-CGM/ivTerm",
         "url": "https://github.com/SJTU-CGM/ivTerm",
         "rel": "/software/repository/github/SJTU-CGM/ivTerm",
@@ -50991,6 +51193,14 @@
             "python",
             "scverse"
         ]
+    },
+    {
+        "uid": "github/theislab/scvelo",
+        "url": "https://github.com/theislab/scvelo",
+        "rel": "/software/repository/github/theislab/scvelo",
+        "avatar": "https://avatars.githubusercontent.com/u/22319415?v=4",
+        "description": "RNA Velocity generalized through dynamical modeling",
+        "topics": []
     },
     {
         "uid": "github/numba/numba",
