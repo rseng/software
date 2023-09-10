@@ -8700,6 +8700,14 @@
         "topics": []
     },
     {
+        "uid": "github/henrikdvn/CRSocket",
+        "url": "https://github.com/henrikdvn/CRSocket",
+        "rel": "/software/repository/github/henrikdvn/CRSocket",
+        "avatar": "https://avatars.githubusercontent.com/u/115465257?v=4",
+        "description": "Controller-Responder Socket",
+        "topics": []
+    },
+    {
         "uid": "github/KerryAM-R/ggVolcanoR",
         "url": "https://github.com/KerryAM-R/ggVolcanoR",
         "rel": "/software/repository/github/KerryAM-R/ggVolcanoR",
@@ -9422,6 +9430,14 @@
         "rel": "/software/repository/github/MichaelCretignier/Rassine_public",
         "avatar": "https://avatars.githubusercontent.com/u/44569244?v=4",
         "description": "RASSINE is a code using alpha shape to normalise 1d spectra",
+        "topics": []
+    },
+    {
+        "uid": "github/RasmussenLab/vamb",
+        "url": "https://github.com/RasmussenLab/vamb",
+        "rel": "/software/repository/github/RasmussenLab/vamb",
+        "avatar": "https://avatars.githubusercontent.com/u/50487949?v=4",
+        "description": "Variational autoencoder for metagenomic binning",
         "topics": []
     },
     {
@@ -15596,6 +15612,14 @@
         "topics": []
     },
     {
+        "uid": "github/SarveshVGharat/Plages-Identification",
+        "url": "https://github.com/SarveshVGharat/Plages-Identification",
+        "rel": "/software/repository/github/SarveshVGharat/Plages-Identification",
+        "avatar": "https://avatars.githubusercontent.com/u/89913681?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/meenakshi-kushwaha/mmaqshiny",
         "url": "https://github.com/meenakshi-kushwaha/mmaqshiny",
         "rel": "/software/repository/github/meenakshi-kushwaha/mmaqshiny",
@@ -19922,6 +19946,14 @@
         "topics": []
     },
     {
+        "uid": "github/Guo-Jian-Wang/colfi",
+        "url": "https://github.com/Guo-Jian-Wang/colfi",
+        "rel": "/software/repository/github/Guo-Jian-Wang/colfi",
+        "avatar": "https://avatars.githubusercontent.com/u/50233380?v=4",
+        "description": "Likelihood-free Inference with neural density estimators",
+        "topics": []
+    },
+    {
         "uid": "github/neuralhydrology/neuralhydrology",
         "url": "https://github.com/neuralhydrology/neuralhydrology",
         "rel": "/software/repository/github/neuralhydrology/neuralhydrology",
@@ -22482,6 +22514,14 @@
         "topics": []
     },
     {
+        "uid": "github/STOmics/EAGS",
+        "url": "https://github.com/STOmics/EAGS",
+        "rel": "/software/repository/github/STOmics/EAGS",
+        "avatar": "https://avatars.githubusercontent.com/u/129851450?v=4",
+        "description": "EAGS:efficient and adaptive Gaussian smoothing",
+        "topics": []
+    },
+    {
         "uid": "github/ablab/TandemTools",
         "url": "https://github.com/ablab/TandemTools",
         "rel": "/software/repository/github/ablab/TandemTools",
@@ -23652,6 +23692,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/6361906?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/Yash-10/Periodogram-Comparison-Optimize-Planet-Detection",
+        "url": "https://github.com/Yash-10/Periodogram-Comparison-Optimize-Planet-Detection",
+        "rel": "/software/repository/github/Yash-10/Periodogram-Comparison-Optimize-Planet-Detection",
+        "avatar": "https://avatars.githubusercontent.com/u/68844397?v=4",
+        "description": "Extreme Value Theory for comparing periodograms: Optimizing future transiting exoplanet surveys",
+        "topics": [
+            "exoplanet-transits",
+            "extreme-value-statistics",
+            "periodogram"
+        ]
     },
     {
         "uid": "github/Yash-10/beta-sgp",
@@ -27168,6 +27220,14 @@
         "topics": []
     },
     {
+        "uid": "github/PlanetHunters/tkmatrix",
+        "url": "https://github.com/PlanetHunters/tkmatrix",
+        "rel": "/software/repository/github/PlanetHunters/tkmatrix",
+        "avatar": "https://avatars.githubusercontent.com/u/78312991?v=4",
+        "description": "Transits Inject and Recovery Multi-phase Analysis",
+        "topics": []
+    },
+    {
         "uid": "github/JianjunTan-Beijing/LPI-CSFFR",
         "url": "https://github.com/JianjunTan-Beijing/LPI-CSFFR",
         "rel": "/software/repository/github/JianjunTan-Beijing/LPI-CSFFR",
@@ -27197,6 +27257,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/24431387?v=4",
         "description": "Github repository associated with the publication of *satuRn: Scalable Analysis of Differential Transcript Usage for Bulk and Single-cell RNA-sequencing Applications*",
         "topics": []
+    },
+    {
+        "uid": "github/ACEnglish/truvari",
+        "url": "https://github.com/ACEnglish/truvari",
+        "rel": "/software/repository/github/ACEnglish/truvari",
+        "avatar": "https://avatars.githubusercontent.com/u/2422579?v=4",
+        "description": "Structural variant toolkit for VCFs",
+        "topics": [
+            "structural-variation",
+            "vcf",
+            "bioinformatics",
+            "data-science",
+            "genomics",
+            "vcf-comparison",
+            "annotation-tool",
+            "benchmark-scripts",
+            "sequencing-data",
+            "sv-merging"
+        ]
     },
     {
         "uid": "github/prmunday/Immunolyser",
@@ -27538,6 +27617,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/6289012?v=4",
         "description": "BigWig and BAM utilities",
         "topics": []
+    },
+    {
+        "uid": "github/kanaverse/kana",
+        "url": "https://github.com/kanaverse/kana",
+        "rel": "/software/repository/github/kanaverse/kana",
+        "avatar": "https://avatars.githubusercontent.com/u/125705984?v=4",
+        "description": "Single cell analysis in the browser",
+        "topics": [
+            "single-cell",
+            "interactive-visualizations",
+            "exploratory-data-analysis",
+            "webassembly",
+            "rna-seq",
+            "cite-seq",
+            "bioinformatics",
+            "interactive-analysis"
+        ]
     },
     {
         "uid": "github/anchal-009/SAVED21cm",
@@ -28685,6 +28781,30 @@
         "avatar": "https://avatars.githubusercontent.com/u/16234240?v=4",
         "description": "[IMPORTANT: not for real data analysis, only for algorithm evaluation] fast and accurate alignment tool for PacBio and Nanopore long reads",
         "topics": []
+    },
+    {
+        "uid": "github/miniufo/xinvert",
+        "url": "https://github.com/miniufo/xinvert",
+        "rel": "/software/repository/github/miniufo/xinvert",
+        "avatar": "https://avatars.githubusercontent.com/u/9312831?v=4",
+        "description": "Invert geophysical fluid dynamic problems (elliptic partial differential equations) using SOR iteration method.",
+        "topics": [
+            "successive-over-relaxation",
+            "inversion-problem",
+            "atmospheric-science",
+            "oceanography",
+            "meteorology",
+            "omega-equation",
+            "gill-matsuno-model",
+            "munk-stommel",
+            "wind-driven-circulation",
+            "eliassen-model",
+            "pv-inversion",
+            "streamfunction",
+            "velocity-potential",
+            "geophysical-fluid-dynamics",
+            "poisson-equation"
+        ]
     },
     {
         "uid": "github/PetroFit/petrofit",
@@ -30019,6 +30139,14 @@
         "rel": "/software/repository/github/wiki/Install-macs2",
         "avatar": "",
         "description": "(Model Based Analysis of ChIP-Seq data) a novel algorithm for identifying transcript factor binding sites.",
+        "topics": []
+    },
+    {
+        "uid": "github/palaeoware/revosim",
+        "url": "https://github.com/palaeoware/revosim",
+        "rel": "/software/repository/github/palaeoware/revosim",
+        "avatar": "https://avatars.githubusercontent.com/u/38782482?v=4",
+        "description": "REvoSim - The [R]apid [Evo]lutionary [Sim]ulator - An individual-based evolutionary model",
         "topics": []
     },
     {
@@ -32982,6 +33110,19 @@
         ]
     },
     {
+        "uid": "github/Degiacomi-Lab/molearn",
+        "url": "https://github.com/Degiacomi-Lab/molearn",
+        "rel": "/software/repository/github/Degiacomi-Lab/molearn",
+        "avatar": "https://avatars.githubusercontent.com/u/102035266?v=4",
+        "description": "protein conformational spaces meet machine learning",
+        "topics": [
+            "machine-learning",
+            "molecular-dynamics",
+            "molecular-modeling",
+            "protein-structure"
+        ]
+    },
+    {
         "uid": "github/PolyChord/PolyChordLite",
         "url": "https://github.com/PolyChord/PolyChordLite",
         "rel": "/software/repository/github/PolyChord/PolyChordLite",
@@ -34480,6 +34621,14 @@
         "rel": "/software/repository/github/nabeelre/NIMBLE",
         "avatar": "https://avatars.githubusercontent.com/u/33795390?v=4",
         "description": "A spherical Jeans modeling tool to compute a system's cumulative mass distribution from (observationally biased) 6D phase space coordinates",
+        "topics": []
+    },
+    {
+        "uid": "github/NETL-RIC/URC-Assessment-Method",
+        "url": "https://github.com/NETL-RIC/URC-Assessment-Method",
+        "rel": "/software/repository/github/NETL-RIC/URC-Assessment-Method",
+        "avatar": "https://avatars.githubusercontent.com/u/28026492?v=4",
+        "description": "Tool for evaluating the potential occurrence of URC resources using a series of validated heuristics.",
         "topics": []
     },
     {
@@ -43595,6 +43744,20 @@
             "16s",
             "silva",
             "bioinformatics"
+        ]
+    },
+    {
+        "uid": "github/jbussemaker/SBArchOpt",
+        "url": "https://github.com/jbussemaker/SBArchOpt",
+        "rel": "/software/repository/github/jbussemaker/SBArchOpt",
+        "avatar": "https://avatars.githubusercontent.com/u/6481229?v=4",
+        "description": "Surrogate-Based Architecture Optimization toolbox",
+        "topics": [
+            "architecture",
+            "multi-objective",
+            "optimization",
+            "sbo",
+            "system"
         ]
     },
     {
