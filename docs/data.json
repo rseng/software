@@ -3848,6 +3848,14 @@
         ]
     },
     {
+        "uid": "github/NREL/G2Aero",
+        "url": "https://github.com/NREL/G2Aero",
+        "rel": "/software/repository/github/NREL/G2Aero",
+        "avatar": "https://avatars.githubusercontent.com/u/1906800?v=4",
+        "description": "Separable shape tensors for aerodynamic design",
+        "topics": []
+    },
+    {
         "uid": "github/rfeldmann/leopy",
         "url": "https://github.com/rfeldmann/leopy",
         "rel": "/software/repository/github/rfeldmann/leopy",
@@ -4354,6 +4362,14 @@
         "topics": []
     },
     {
+        "uid": "github/jacobblum/simDRIFT",
+        "url": "https://github.com/jacobblum/simDRIFT",
+        "rel": "/software/repository/github/jacobblum/simDRIFT",
+        "avatar": "https://avatars.githubusercontent.com/u/77986408?v=4",
+        "description": "simDRIFT - A software package for massively parallel forward simulation of Pulsed Gradient Spin Echo diffusion weighted MRI experiments on biophysically accurate tissue systems. ",
+        "topics": []
+    },
+    {
         "uid": "github/williamjameshandley/fgivenx",
         "url": "https://github.com/williamjameshandley/fgivenx",
         "rel": "/software/repository/github/williamjameshandley/fgivenx",
@@ -4750,6 +4766,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/22770001?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/BioComputingUP/ring-pymol",
+        "url": "https://github.com/BioComputingUP/ring-pymol",
+        "rel": "/software/repository/github/BioComputingUP/ring-pymol",
+        "avatar": "https://avatars.githubusercontent.com/u/7839689?v=4",
+        "description": "This is the public repository for the RING PyMOL plugin developed by the BioComputing UP laboratory at the University of Padua",
+        "topics": [
+            "bioinformatics",
+            "pymol",
+            "plugin"
+        ]
     },
     {
         "uid": "github/wpb-astro/MCSED",
@@ -8211,6 +8239,14 @@
         "topics": []
     },
     {
+        "uid": "github/ianvcaldas/smalldisco",
+        "url": "https://github.com/ianvcaldas/smalldisco",
+        "rel": "/software/repository/github/ianvcaldas/smalldisco",
+        "avatar": "https://avatars.githubusercontent.com/u/22592759?v=4",
+        "description": "Discovery of siRNA regions and small RNA tail quantification",
+        "topics": []
+    },
+    {
         "uid": "github/lucian-ilie/DELPHI",
         "url": "https://github.com/lucian-ilie/DELPHI",
         "rel": "/software/repository/github/lucian-ilie/DELPHI",
@@ -10892,6 +10928,24 @@
         "topics": []
     },
     {
+        "uid": "github/stefanradev93/BayesFlow",
+        "url": "https://github.com/stefanradev93/BayesFlow",
+        "rel": "/software/repository/github/stefanradev93/BayesFlow",
+        "avatar": "https://avatars.githubusercontent.com/u/22372377?v=4",
+        "description": "A Python library for amortized Bayesian workflows using generative neural networks.",
+        "topics": [
+            "bayesian-inference",
+            "deep-learning",
+            "model-comparison",
+            "amortized-inference",
+            "simulation-based",
+            "invertible-networks",
+            "parameter-estimation",
+            "likelihood-free",
+            "uncertainty-quantification"
+        ]
+    },
+    {
         "uid": "github/mad-lab-fau/tpcp",
         "url": "https://github.com/mad-lab-fau/tpcp",
         "rel": "/software/repository/github/mad-lab-fau/tpcp",
@@ -12775,6 +12829,14 @@
         "rel": "/software/repository/github/keatonb/Pyriod",
         "avatar": "https://avatars.githubusercontent.com/u/6413923?v=4",
         "description": "Python implementation of basic period detection and fitting routines for astronomical time series.",
+        "topics": []
+    },
+    {
+        "uid": "github/SESMG/SESMG",
+        "url": "https://github.com/SESMG/SESMG",
+        "rel": "/software/repository/github/SESMG/SESMG",
+        "avatar": "https://avatars.githubusercontent.com/u/122264954?v=4",
+        "description": "Model generator for the optimization of energy systems, based on the modeling framework oemof. No programming skills are required to use it, as the parameters are entered using spreadsheets (e.g. Excel, LibreOffice).",
         "topics": []
     },
     {
@@ -16777,6 +16839,14 @@
         ]
     },
     {
+        "uid": "github/zpliulab/GeoBind",
+        "url": "https://github.com/zpliulab/GeoBind",
+        "rel": "/software/repository/github/zpliulab/GeoBind",
+        "avatar": "https://avatars.githubusercontent.com/u/54654413?v=4",
+        "description": "Segmentation of nucleic acid binding interface on protein surface with geometric deep learning",
+        "topics": []
+    },
+    {
         "uid": "github/zpliulab/GENELink",
         "url": "https://github.com/zpliulab/GENELink",
         "rel": "/software/repository/github/zpliulab/GENELink",
@@ -17109,6 +17179,14 @@
         "rel": "/software/repository/github/HUST-DataMan/FRMC",
         "avatar": "https://avatars.githubusercontent.com/u/75129706?v=4",
         "description": "FRMC is a fast and robust imputation software for single cell RNA-Seq data.",
+        "topics": []
+    },
+    {
+        "uid": "github/arviz-devs/preliz",
+        "url": "https://github.com/arviz-devs/preliz",
+        "rel": "/software/repository/github/arviz-devs/preliz",
+        "avatar": "https://avatars.githubusercontent.com/u/13554846?v=4",
+        "description": "Tools to help you pick a prior",
         "topics": []
     },
     {
@@ -19902,6 +19980,14 @@
             "chord",
             "music-information-retrieval"
         ]
+    },
+    {
+        "uid": "github/Ambuj-UF/APOP",
+        "url": "https://github.com/Ambuj-UF/APOP",
+        "rel": "/software/repository/github/Ambuj-UF/APOP",
+        "avatar": "https://avatars.githubusercontent.com/u/7588003?v=4",
+        "description": "Allostery pocket prediction",
+        "topics": []
     },
     {
         "uid": "github/cobilab/RFSC",
@@ -22893,6 +22979,14 @@
         "rel": "/software/repository/github/daddeptr/Needlets",
         "avatar": "https://avatars.githubusercontent.com/u/6753577?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/bioAI-Oslo/Spikeometric",
+        "url": "https://github.com/bioAI-Oslo/Spikeometric",
+        "rel": "/software/repository/github/bioAI-Oslo/Spikeometric",
+        "avatar": "https://avatars.githubusercontent.com/u/84571881?v=4",
+        "description": "Spiking Neural Network Simulator based on Generalized Linear Models",
         "topics": []
     },
     {
@@ -27344,6 +27438,19 @@
         "topics": []
     },
     {
+        "uid": "github/Nicole-DH/ACP-MLC",
+        "url": "https://github.com/Nicole-DH/ACP-MLC",
+        "rel": "/software/repository/github/Nicole-DH/ACP-MLC",
+        "avatar": "https://avatars.githubusercontent.com/u/58495382?v=4",
+        "description": "ACP-MLC: A two-level prediction engine for identification of anticancer peptides and multi-label classification of their functional types",
+        "topics": [
+            "anticancer-peptides",
+            "machine-learning",
+            "multilabel-classification",
+            "sequence-analysis"
+        ]
+    },
+    {
         "uid": "github/Smith42/XDF-GAN",
         "url": "https://github.com/Smith42/XDF-GAN",
         "rel": "/software/repository/github/Smith42/XDF-GAN",
@@ -29528,6 +29635,14 @@
         "topics": []
     },
     {
+        "uid": "github/liniguez/Insplico_simulations",
+        "url": "https://github.com/liniguez/Insplico_simulations",
+        "rel": "/software/repository/github/liniguez/Insplico_simulations",
+        "avatar": "https://avatars.githubusercontent.com/u/36859003?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/arjunsavel/SImMER",
         "url": "https://github.com/arjunsavel/SImMER",
         "rel": "/software/repository/github/arjunsavel/SImMER",
@@ -30568,6 +30683,20 @@
             "astropy",
             "solar-physics",
             "sun"
+        ]
+    },
+    {
+        "uid": "github/sunpy/ndcube",
+        "url": "https://github.com/sunpy/ndcube",
+        "rel": "/software/repository/github/sunpy/ndcube",
+        "avatar": "https://avatars.githubusercontent.com/u/963197?v=4",
+        "description": "A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays. Maintainers: @danryanirish & @Cadair",
+        "topics": [
+            "sunpy",
+            "nddata",
+            "wcs",
+            "numfocus",
+            "astropy"
         ]
     },
     {
@@ -45220,6 +45349,14 @@
         "topics": []
     },
     {
+        "uid": "github/HannahMDoherty/ChemGAPP",
+        "url": "https://github.com/HannahMDoherty/ChemGAPP",
+        "rel": "/software/repository/github/HannahMDoherty/ChemGAPP",
+        "avatar": "https://avatars.githubusercontent.com/u/92042396?v=4",
+        "description": "A package and series of Streamlit apps for analysing chemical genomic screen data",
+        "topics": []
+    },
+    {
         "uid": "github/rathnakumars/difference-smoothing",
         "url": "https://github.com/rathnakumars/difference-smoothing",
         "rel": "/software/repository/github/rathnakumars/difference-smoothing",
@@ -45619,6 +45756,14 @@
         "rel": "/software/repository/github/nickelnine37/pykronecker",
         "avatar": "https://avatars.githubusercontent.com/u/21191597?v=4",
         "description": "A python library for creating Kronecker Product operators with efficient lazy computation",
+        "topics": []
+    },
+    {
+        "uid": "github/ptriska/WavesDash",
+        "url": "https://github.com/ptriska/WavesDash",
+        "rel": "/software/repository/github/ptriska/WavesDash",
+        "avatar": "https://avatars.githubusercontent.com/u/45852775?v=4",
+        "description": "A web application for visualization of wastewater sequencing results",
         "topics": []
     },
     {
@@ -46182,6 +46327,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/4968584?v=4",
         "description": "Milky Way Streams Footprint Library and Toolkit for Python",
         "topics": []
+    },
+    {
+        "uid": "github/PixelgenTechnologies/pixelator",
+        "url": "https://github.com/PixelgenTechnologies/pixelator",
+        "rel": "/software/repository/github/PixelgenTechnologies/pixelator",
+        "avatar": "https://avatars.githubusercontent.com/u/73003367?v=4",
+        "description": "A command-line tool and library to process and analyze sequencing data from Molecular Pixelation (MPX) assays.",
+        "topics": [
+            "molecular-pixelation",
+            "pixelgen-technologies",
+            "protein",
+            "proteomics",
+            "single-cell",
+            "single-cell-omics",
+            "spatial"
+        ]
     },
     {
         "uid": "github/ismaelpessa/PyMUSE",
@@ -48828,6 +48989,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/5232933?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/jodyphelan/tb-ml",
+        "url": "https://github.com/jodyphelan/tb-ml",
+        "rel": "/software/repository/github/jodyphelan/tb-ml",
+        "avatar": "https://avatars.githubusercontent.com/u/8697224?v=4",
+        "description": "A simple tool for creating machine learning antimicrobial resistance prediction pipelines using Docker containers for M. tuberculosis",
+        "topics": [
+            "amr",
+            "ml"
+        ]
     },
     {
         "uid": "github/jodyphelan/TBProfiler",
@@ -51978,6 +52150,22 @@
             "astrophysics",
             "spectra",
             "cosmology"
+        ]
+    },
+    {
+        "uid": "github/yupidevs/pactus",
+        "url": "https://github.com/yupidevs/pactus",
+        "rel": "/software/repository/github/yupidevs/pactus",
+        "avatar": "https://avatars.githubusercontent.com/u/79972700?v=4",
+        "description": "Framework to evaluate Trajectory Classification Algorithms",
+        "topics": [
+            "classification",
+            "classification-models",
+            "evaluation-framework",
+            "trajectory",
+            "trajectory-analysis",
+            "transformers",
+            "python"
         ]
     },
     {
