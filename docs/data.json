@@ -11997,6 +11997,14 @@
         "topics": []
     },
     {
+        "uid": "github/frescigno/magpy_rv",
+        "url": "https://github.com/frescigno/magpy_rv",
+        "rel": "/software/repository/github/frescigno/magpy_rv",
+        "avatar": "https://avatars.githubusercontent.com/u/80278728?v=4",
+        "description": "Modelling Activity with Gaussian process regression in Python",
+        "topics": []
+    },
+    {
         "uid": "github/vsbuffalo/scythe",
         "url": "https://github.com/vsbuffalo/scythe",
         "rel": "/software/repository/github/vsbuffalo/scythe",
@@ -14957,6 +14965,14 @@
         "topics": []
     },
     {
+        "uid": "github/LTLA/gesel.js",
+        "url": "https://github.com/LTLA/gesel.js",
+        "rel": "/software/repository/github/LTLA/gesel.js",
+        "avatar": "https://avatars.githubusercontent.com/u/8166669?v=4",
+        "description": "Client-side gene set queries.",
+        "topics": []
+    },
+    {
         "uid": "github/LTLA/basilisk",
         "url": "https://github.com/LTLA/basilisk",
         "rel": "/software/repository/github/LTLA/basilisk",
@@ -15111,6 +15127,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/419959?v=4",
         "description": "Non-parametric structural variant genotyper",
         "topics": []
+    },
+    {
+        "uid": "github/hyosubkim/bayes-toolbox",
+        "url": "https://github.com/hyosubkim/bayes-toolbox",
+        "rel": "/software/repository/github/hyosubkim/bayes-toolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/32351455?v=4",
+        "description": "bayes-toolbox",
+        "topics": [
+            "bayesian-inference",
+            "bayesian-statistics",
+            "kruschke",
+            "probabilistic-programming",
+            "python",
+            "statistics"
+        ]
     },
     {
         "uid": "github/candebellavita/vkompth",
@@ -19668,6 +19699,14 @@
         "rel": "/software/repository/github/phpuech/OT_Analysis",
         "avatar": "https://avatars.githubusercontent.com/u/7237734?v=4",
         "description": "Software for optical data force analysis / JPK Nanowizard",
+        "topics": []
+    },
+    {
+        "uid": "github/gmrandazzo/libscientific",
+        "url": "https://github.com/gmrandazzo/libscientific",
+        "rel": "/software/repository/github/gmrandazzo/libscientific",
+        "avatar": "https://avatars.githubusercontent.com/u/3600735?v=4",
+        "description": "Libscientific is a C framework  for multivariate and other statistical analysis",
         "topics": []
     },
     {
@@ -25471,6 +25510,14 @@
         "rel": "/software/repository/github/ArenA-Crowds/Crowds",
         "avatar": "https://avatars1.githubusercontent.com/u/27482561?v=4",
         "description": "Jupyter python notebooks related to the ArenA project",
+        "topics": []
+    },
+    {
+        "uid": "github/SCIInstitute/UncertainSCI",
+        "url": "https://github.com/SCIInstitute/UncertainSCI",
+        "rel": "/software/repository/github/SCIInstitute/UncertainSCI",
+        "avatar": "https://avatars.githubusercontent.com/u/1399384?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -35430,6 +35477,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/21321343?v=4",
         "description": "Python package for the simulation of dust evolution in protoplanetary disks.",
         "topics": []
+    },
+    {
+        "uid": "github/stammler/dustpylib",
+        "url": "https://github.com/stammler/dustpylib",
+        "rel": "/software/repository/github/stammler/dustpylib",
+        "avatar": "https://avatars.githubusercontent.com/u/21321343?v=4",
+        "description": "Library with auxiliary modules for DustPy",
+        "topics": [
+            "astrophysics",
+            "planetary-science",
+            "python"
+        ]
     },
     {
         "uid": "github/stammler/simframe",
@@ -48055,6 +48114,18 @@
         ]
     },
     {
+        "uid": "github/mgcooper/baseflow",
+        "url": "https://github.com/mgcooper/baseflow",
+        "rel": "/software/repository/github/mgcooper/baseflow",
+        "avatar": "https://avatars.githubusercontent.com/u/9771768?v=4",
+        "description": "baseflow recession analysis toolbox",
+        "topics": [
+            "baseflow",
+            "groundwater",
+            "hydrology"
+        ]
+    },
+    {
         "uid": "github/kegiljarhus/pyBEMT",
         "url": "https://github.com/kegiljarhus/pyBEMT",
         "rel": "/software/repository/github/kegiljarhus/pyBEMT",
@@ -54716,6 +54787,14 @@
         "topics": []
     },
     {
+        "uid": "github/ORNL/curifactory",
+        "url": "https://github.com/ORNL/curifactory",
+        "rel": "/software/repository/github/ORNL/curifactory",
+        "avatar": "https://avatars.githubusercontent.com/u/5138006?v=4",
+        "description": "An experiment workflow and organization tool.",
+        "topics": []
+    },
+    {
         "uid": "github/cosimoNigro/agnpy",
         "url": "https://github.com/cosimoNigro/agnpy",
         "rel": "/software/repository/github/cosimoNigro/agnpy",
@@ -55011,6 +55090,14 @@
         "rel": "/software/repository/github/sfeeney/hh0",
         "avatar": "https://avatars.githubusercontent.com/u/7850768?v=4",
         "description": "Hierarchical Hubble Constant Inference",
+        "topics": []
+    },
+    {
+        "uid": "github/Qiskit-Extensions/qiskit-dynamics",
+        "url": "https://github.com/Qiskit-Extensions/qiskit-dynamics",
+        "rel": "/software/repository/github/Qiskit-Extensions/qiskit-dynamics",
+        "avatar": "https://avatars.githubusercontent.com/u/91233108?v=4",
+        "description": "Tools for building and solving models of quantum systems in Qiskit",
         "topics": []
     },
     {
