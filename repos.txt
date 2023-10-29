@@ -1154,6 +1154,7 @@ github/leirufeng/iEnhancer-DCSV
 github/BogdanCiambur/PROFILER
 github/mrtommyb/ktransit
 github/klevis-a/kinematics-vis
+github/frescigno/magpy_rv
 github/vsbuffalo/scythe
 github/radio-astro-tools/pvextractor
 github/radio-astro-tools/spectral-cube
@@ -1447,6 +1448,7 @@ github/JanLeppert/GasChromatographySimulator.jl
 github/carnotresearch/cr-sparse
 github/cicirello/rho-mu
 github/cicirello/Chips-n-Salsa
+github/LTLA/gesel.js
 github/LTLA/basilisk
 github/xinyiguan/py2lispIDyOM
 github/Valcin/BE_HaPPy
@@ -1463,6 +1465,7 @@ github/cedrus-opensource/pyxid
 github/gourabghoshroy/MPVNN
 github/federicomarulli/CosmoBolognaLib
 github/mlinderm/npsv
+github/hyosubkim/bayes-toolbox
 github/candebellavita/vkompth
 github/pelican/pelican
 github/aertslab/pySCENIC
@@ -1894,6 +1897,7 @@ github/mjoppich/bioGUItools
 github/ProfessorBrunner/rc3-pipeline
 github/QingyuLiaib/PLA-MoRe
 github/phpuech/OT_Analysis
+github/gmrandazzo/libscientific
 github/TRI-AMDD/GMP-featurizer
 github/Kingsford-Group/scallop
 github/svi-opensource/libics
@@ -2459,6 +2463,7 @@ github/danielhuson/malt
 github/danielhuson/jloda
 github/sheryl-ai/MetaPred
 github/ArenA-Crowds/Crowds
+github/SCIInstitute/UncertainSCI
 github/ECSHackWeek/impedance.py
 github/jianghuaijie/scLRTC
 github/danxhuber/galclassify
@@ -3190,6 +3195,7 @@ github/HenrykHaniewicz/PSRVoid
 github/FlowModelingControl/flowtorch
 github/LTeinturier/Cloud-Killer-
 github/stammler/dustpy
+github/stammler/dustpylib
 github/stammler/simframe
 github/NCIP/visda
 github/IPK-BIT/divbrowse
@@ -4402,6 +4408,7 @@ github/vcflib/bio-vcf
 github/vcflib/vcflib
 github/lauralwatkins/cjam
 github/casaluca/bolometric-corrections
+github/mgcooper/baseflow
 github/kegiljarhus/pyBEMT
 github/nliulab/HRnV-Calc
 github/Acellera/htmd
@@ -5038,6 +5045,7 @@ github/FreBio/komics
 github/DrafProject/elmada
 github/gt1/bambamc
 github/ORNL/tx2
+github/ORNL/curifactory
 github/cosimoNigro/agnpy
 github/flyaflya/causact
 github/samaygarg/fuelcell
@@ -5068,6 +5076,7 @@ github/bioinform/somaticseq
 github/FitSNAP/FitSNAP
 github/sfeeney/ddspectra
 github/sfeeney/hh0
+github/Qiskit-Extensions/qiskit-dynamics
 github/variomes/sibtm-variomes
 github/moustakas/iSEDfit
 github/tobiasrausch/alfred
