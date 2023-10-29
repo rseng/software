@@ -24,15 +24,15 @@ jobs:
       env:
         RSE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-          rse scrape ascl
-          rse scrape imperial
-          rse scrape joss
-          rse scrape molssi
-          rse scrape rsnl
-          rse scrape biotools
-          rse scrape biogrids
-          rse scrape hal
-          rse scrape ropensci
+          rse scrape ascl || true
+          rse scrape imperial || true
+          rse scrape joss || true
+          rse scrape molssi || true
+          rse scrape rsnl || true
+          rse scrape biotools || true
+          rse scrape biogrids || true
+          rse scrape hal || true
+          rse scrape ropensci || true
           rse export repos.txt --force
 
     - name: Export site to docs/
