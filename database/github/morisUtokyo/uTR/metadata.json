@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/morisUtokyo/uTR",
+    "url": "https://github.com/morisUtokyo/uTR",
+    "data": {
+        "doi": "10.1093/BIOINFORMATICS/BTAD185",
+        "name": "uTR",
+        "url": "https://github.com/morisUtokyo/uTR",
+        "full_name": "morisUtokyo/uTR",
+        "html_url": "https://github.com/morisUtokyo/uTR",
+        "description": "Detect key Units in mosaic Tandem Repeats from representative reads from the same locus ",
+        "created_at": "2021-09-26T00:23:20Z",
+        "updated_at": "2023-04-22T13:16:20Z",
+        "clone_url": "https://github.com/morisUtokyo/uTR.git",
+        "size": 3537,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "C",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/morisUtokyo",
+            "avatar_url": "https://avatars.githubusercontent.com/u/30250204?v=4",
+            "login": "morisUtokyo",
+            "type": "User"
+        },
+        "timestamp": "2023-11-12 00:35:26.059233",
+        "avatar": "https://avatars.githubusercontent.com/u/30250204?v=4"
+    }
+}
