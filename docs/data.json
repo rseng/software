@@ -1922,6 +1922,14 @@
         ]
     },
     {
+        "uid": "github/labxscut/ksak",
+        "url": "https://github.com/labxscut/ksak",
+        "rel": "/software/repository/github/labxscut/ksak",
+        "avatar": "https://avatars.githubusercontent.com/u/114787145?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/mackelab/sbi",
         "url": "https://github.com/mackelab/sbi",
         "rel": "/software/repository/github/mackelab/sbi",
@@ -3080,6 +3088,29 @@
         "topics": []
     },
     {
+        "uid": "github/Valires/er-evaluation",
+        "url": "https://github.com/Valires/er-evaluation",
+        "rel": "/software/repository/github/Valires/er-evaluation",
+        "avatar": "https://avatars.githubusercontent.com/u/128562477?v=4",
+        "description": "An End-to-End Evaluation Framework for Entity Resolution Systems",
+        "topics": [
+            "data-science",
+            "deduplication",
+            "disambiguation",
+            "duplicate-detection",
+            "entity-resolution",
+            "evaluation",
+            "fuzzy-matching",
+            "matching",
+            "ml-evaluation",
+            "ml-testing",
+            "record-linkage",
+            "statistics",
+            "inventor-name-disambiguation",
+            "author-name-disambiguation"
+        ]
+    },
+    {
         "uid": "github/Jane110111107/IsoTree",
         "url": null,
         "rel": "/software/repository/github/Jane110111107/IsoTree",
@@ -3262,6 +3293,14 @@
         "rel": "/software/repository/github/meta-logic/sequoia",
         "avatar": "https://avatars.githubusercontent.com/u/11968006?v=4",
         "description": "Design, play with, and analyze sequent calculus proof systems.",
+        "topics": []
+    },
+    {
+        "uid": "github/morisUtokyo/uTR",
+        "url": "https://github.com/morisUtokyo/uTR",
+        "rel": "/software/repository/github/morisUtokyo/uTR",
+        "avatar": "https://avatars.githubusercontent.com/u/30250204?v=4",
+        "description": "Detect key Units in mosaic Tandem Repeats from representative reads from the same locus ",
         "topics": []
     },
     {
@@ -3496,6 +3535,28 @@
         "avatar": "https://avatars.githubusercontent.com/u/51139488?v=4",
         "description": "Fluorescent protein calibration for plate readers",
         "topics": []
+    },
+    {
+        "uid": "github/wjakethompson/measr",
+        "url": "https://github.com/wjakethompson/measr",
+        "rel": "/software/repository/github/wjakethompson/measr",
+        "avatar": "https://avatars.githubusercontent.com/u/6980750?v=4",
+        "description": "R package for the Bayesian estimation of diagnostic classification models using Stan",
+        "topics": [
+            "bayesian",
+            "cdm",
+            "cmdstanr",
+            "cognitive-diagnostic-models",
+            "dcm",
+            "r",
+            "r-package",
+            "rstan",
+            "rstats",
+            "stan",
+            "diagnostic-classification-models",
+            "cognitive-diagnosis",
+            "psychometrics"
+        ]
     },
     {
         "uid": "github/sundarjhu/2-DUST",
@@ -6399,6 +6460,14 @@
         "rel": "/software/repository/github/PopMedNet-Team/popmednet",
         "avatar": "https://avatars.githubusercontent.com/u/12749811?v=4",
         "description": "This is the repository for the open source code of the distributed data network platform PopMedNet",
+        "topics": []
+    },
+    {
+        "uid": "github/UoMMIB/TFBMiner",
+        "url": "https://github.com/UoMMIB/TFBMiner",
+        "rel": "/software/repository/github/UoMMIB/TFBMiner",
+        "avatar": "https://avatars.githubusercontent.com/u/65022631?v=4",
+        "description": "TFBMiner is a data acquisition and analysis pipeline for the rapid identification of putative transcription factor-based biosensors.",
         "topics": []
     },
     {
@@ -11494,6 +11563,25 @@
         "topics": [
             "hut23",
             "hut23-240"
+        ]
+    },
+    {
+        "uid": "github/dieghernan/tidyterra",
+        "url": "https://github.com/dieghernan/tidyterra",
+        "rel": "/software/repository/github/dieghernan/tidyterra",
+        "avatar": "https://avatars.githubusercontent.com/u/25656809?v=4",
+        "description": "tidyverse and ggplot2 methods for terra spatial objects",
+        "topics": [
+            "ggplot-extension",
+            "r-package",
+            "r-spatial",
+            "rspatial",
+            "rstats",
+            "rstats-package",
+            "terra",
+            "cran",
+            "cran-r",
+            "r"
         ]
     },
     {
@@ -17868,6 +17956,14 @@
         "topics": []
     },
     {
+        "uid": "github/JustinYKC/FEPOPS",
+        "url": "https://github.com/JustinYKC/FEPOPS",
+        "rel": "/software/repository/github/JustinYKC/FEPOPS",
+        "avatar": "https://avatars.githubusercontent.com/u/50987508?v=4",
+        "description": "Python implementation of the FEPOPS molecular descriptors",
+        "topics": []
+    },
+    {
         "uid": "github/citation-file-format/citation-file-format",
         "url": "https://github.com/citation-file-format/citation-file-format",
         "rel": "/software/repository/github/citation-file-format/citation-file-format",
@@ -18899,6 +18995,14 @@
             "bioinformatics",
             "rare-disease"
         ]
+    },
+    {
+        "uid": "github/TheJacksonLaboratory/drug-synergy",
+        "url": "https://github.com/TheJacksonLaboratory/drug-synergy",
+        "rel": "/software/repository/github/TheJacksonLaboratory/drug-synergy",
+        "avatar": "https://avatars.githubusercontent.com/u/19977120?v=4",
+        "description": "Drug synergy prediction tool",
+        "topics": []
     },
     {
         "uid": "github/potassco/clingo",
@@ -20748,6 +20852,20 @@
         ]
     },
     {
+        "uid": "github/changliao1025/pyflowline",
+        "url": "https://github.com/changliao1025/pyflowline",
+        "rel": "/software/repository/github/changliao1025/pyflowline",
+        "avatar": "https://avatars.githubusercontent.com/u/20618384?v=4",
+        "description": "A mesh independent river network generator for hydrologic models",
+        "topics": [
+            "hydrology",
+            "gis",
+            "river",
+            "graph",
+            "earth-system-model"
+        ]
+    },
+    {
         "uid": "github/rivasiker/PhaseTypeR",
         "url": "https://github.com/rivasiker/PhaseTypeR",
         "rel": "/software/repository/github/rivasiker/PhaseTypeR",
@@ -21258,6 +21376,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/75135539?v=4",
         "description": "Docker based tool for ribosome profiling (RiboSeq) analysis",
         "topics": []
+    },
+    {
+        "uid": "github/JacksonBurns/astartes",
+        "url": "https://github.com/JacksonBurns/astartes",
+        "rel": "/software/repository/github/JacksonBurns/astartes",
+        "avatar": "https://avatars.githubusercontent.com/u/33505528?v=4",
+        "description": "Better Data Splits for Machine Learning",
+        "topics": [
+            "ai",
+            "ml",
+            "data-science",
+            "machine-learning",
+            "sampling",
+            "python"
+        ]
     },
     {
         "uid": "github/pyFFTW/pyFFTW",
@@ -22870,6 +23003,14 @@
         "topics": []
     },
     {
+        "uid": "github/teoxxx/nemiss_pbl",
+        "url": "https://github.com/teoxxx/nemiss_pbl",
+        "rel": "/software/repository/github/teoxxx/nemiss_pbl",
+        "avatar": "https://avatars.githubusercontent.com/u/40962945?v=4",
+        "description": "nemiss neutrino emission from hydrocode data describing a simulated stellar binary system",
+        "topics": []
+    },
+    {
         "uid": "github/FlowModelingControl/flowtorch",
         "url": "https://github.com/FlowModelingControl/flowtorch",
         "rel": "/software/repository/github/FlowModelingControl/flowtorch",
@@ -23035,6 +23176,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/45852775?v=4",
         "description": "A web application for visualization of wastewater sequencing results",
         "topics": []
+    },
+    {
+        "uid": "github/blind-contours/SuperNOVA",
+        "url": "https://github.com/blind-contours/SuperNOVA",
+        "rel": "/software/repository/github/blind-contours/SuperNOVA",
+        "avatar": "https://avatars.githubusercontent.com/u/54640903?v=4",
+        "description": ":dizzy: :dart: Automatic identification of variable and interaction importance using basis functions and non-parametric estimation of interactions/effect modification using joint stochastic interventions.",
+        "topics": [
+            "machine-learning",
+            "variable-importance",
+            "interactions",
+            "targeted-learning",
+            "statistics",
+            "mixed-exposure"
+        ]
     },
     {
         "uid": "github/blind-contours/CVtreeMLE",
@@ -31609,6 +31765,14 @@
         "topics": []
     },
     {
+        "uid": "github/ToyotaCRDL/mahos",
+        "url": "https://github.com/ToyotaCRDL/mahos",
+        "rel": "/software/repository/github/ToyotaCRDL/mahos",
+        "avatar": "https://avatars.githubusercontent.com/u/91861326?v=4",
+        "description": "Measurement Automation Handling and Orchestration System",
+        "topics": []
+    },
+    {
         "uid": "github/rinikerlab/Ensembler",
         "url": "https://github.com/rinikerlab/Ensembler",
         "rel": "/software/repository/github/rinikerlab/Ensembler",
@@ -35520,6 +35684,14 @@
             "fgbio",
             "molecular-indexes"
         ]
+    },
+    {
+        "uid": "github/hz1010/FIPRESCI_data_analysis",
+        "url": "https://github.com/hz1010/FIPRESCI_data_analysis",
+        "rel": "/software/repository/github/hz1010/FIPRESCI_data_analysis",
+        "avatar": "https://avatars.githubusercontent.com/u/47652056?v=4",
+        "description": "Code for FIPERSCI data",
+        "topics": []
     },
     {
         "uid": "github/snakemake/snakemake",
@@ -47388,6 +47560,14 @@
         ]
     },
     {
+        "uid": "github/lnscan/mitoSplitter",
+        "url": "https://github.com/lnscan/mitoSplitter",
+        "rel": "/software/repository/github/lnscan/mitoSplitter",
+        "avatar": "https://avatars.githubusercontent.com/u/63651125?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/MIC-DKFZ/HD-BET",
         "url": "https://github.com/MIC-DKFZ/HD-BET",
         "rel": "/software/repository/github/MIC-DKFZ/HD-BET",
@@ -50938,6 +51118,20 @@
         "topics": []
     },
     {
+        "uid": "github/precice/micro-manager",
+        "url": "https://github.com/precice/micro-manager",
+        "rel": "/software/repository/github/precice/micro-manager",
+        "avatar": "https://avatars.githubusercontent.com/u/12561035?v=4",
+        "description": "A manager tool to facilitate two-scale coupling in multi-physics simulations using preCICE.",
+        "topics": [
+            "coupling",
+            "macro-micro",
+            "multiphysics",
+            "multiscale",
+            "research-and-development"
+        ]
+    },
+    {
         "uid": "github/mlower/rmnest",
         "url": "https://github.com/mlower/rmnest",
         "rel": "/software/repository/github/mlower/rmnest",
@@ -53653,6 +53847,19 @@
             "galaxy-clustering",
             "cosmological-inference",
             "large-scale-structure-cosmology"
+        ]
+    },
+    {
+        "uid": "github/MikeSWang/Triumvirate",
+        "url": "https://github.com/MikeSWang/Triumvirate",
+        "rel": "/software/repository/github/MikeSWang/Triumvirate",
+        "avatar": "https://avatars.githubusercontent.com/u/32841762?v=4",
+        "description": "A Python/C++ package for three-point clustering measurements in LSS analyses",
+        "topics": [
+            "python",
+            "cpp",
+            "cosmology",
+            "cython"
         ]
     },
     {
