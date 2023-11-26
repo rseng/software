@@ -251,6 +251,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/habermann_lab/phasik",
+        "url": "https://gitlab.com/habermann_lab/phasik",
+        "rel": "/software/repository/gitlab/habermann_lab/phasik",
+        "avatar": "https://gitlab.comNone",
+        "description": "Scientific tools for extracting cyclic data via hierarchical clustering",
+        "topics": []
+    },
+    {
         "uid": "gitlab/remram44/taguette",
         "url": "https://gitlab.com/remram44/taguette",
         "rel": "/software/repository/gitlab/remram44/taguette",
@@ -6166,6 +6174,14 @@
         "topics": []
     },
     {
+        "uid": "github/hdeeg/KvW",
+        "url": "https://github.com/hdeeg/KvW",
+        "rel": "/software/repository/github/hdeeg/KvW",
+        "avatar": "https://avatars.githubusercontent.com/u/28144968?v=4",
+        "description": "Kwee Van Woerden algorithm for eclipse or transit minimum timing, with improved error calculation",
+        "topics": []
+    },
+    {
         "uid": "github/ChrisBeaumont/brut",
         "url": "https://github.com/ChrisBeaumont/brut",
         "rel": "/software/repository/github/ChrisBeaumont/brut",
@@ -7033,6 +7049,18 @@
         "topics": []
     },
     {
+        "uid": "github/2decomp-fft/2decomp-fft",
+        "url": "https://github.com/2decomp-fft/2decomp-fft",
+        "rel": "/software/repository/github/2decomp-fft/2decomp-fft",
+        "avatar": "https://avatars.githubusercontent.com/u/110181849?v=4",
+        "description": "The 2DECOMP&FFT library provides access to a slabs and pencil decompositions as well as FFTs. ",
+        "topics": [
+            "fast-fourier-transform",
+            "finite-difference-method",
+            "pencil-decomposition"
+        ]
+    },
+    {
         "uid": "github/drcandacemakedamoore/cleanX",
         "url": "https://github.com/drcandacemakedamoore/cleanX",
         "rel": "/software/repository/github/drcandacemakedamoore/cleanX",
@@ -7412,6 +7440,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/11615315?v=4",
         "description": "Register exponential family curves",
         "topics": []
+    },
+    {
+        "uid": "github/sbi-dev/sbi",
+        "url": "https://github.com/sbi-dev/sbi",
+        "rel": "/software/repository/github/sbi-dev/sbi",
+        "avatar": "https://avatars.githubusercontent.com/u/141135423?v=4",
+        "description": "Simulation-based inference toolkit",
+        "topics": [
+            "simulation-based-inference",
+            "likelihood-free-inference",
+            "bayesian-inference",
+            "parameter-estimation",
+            "pytorch",
+            "machine-learning"
+        ]
     },
     {
         "uid": "github/climate-machine/Oceananigans.jl",
@@ -10340,6 +10383,18 @@
         "avatar": "https://avatars1.githubusercontent.com/u/64002817?v=4",
         "description": "A matlab package for automated sleep scoring using the k-nearest neighbors algorithm",
         "topics": []
+    },
+    {
+        "uid": "github/ChenfuShi/HiChIP_peaks",
+        "url": "https://github.com/ChenfuShi/HiChIP_peaks",
+        "rel": "/software/repository/github/ChenfuShi/HiChIP_peaks",
+        "avatar": "https://avatars.githubusercontent.com/u/40122452?v=4",
+        "description": "A tool to analyse HiChIP data",
+        "topics": [
+            "bioinformatics",
+            "bioinformatics-tool",
+            "hichip"
+        ]
     },
     {
         "uid": "github/neeravkaushal/RIDs-in-WCDs",
@@ -14467,6 +14522,19 @@
         "topics": []
     },
     {
+        "uid": "github/institut-de-genomique/HAPO-G",
+        "url": "https://github.com/institut-de-genomique/HAPO-G",
+        "rel": "/software/repository/github/institut-de-genomique/HAPO-G",
+        "avatar": "https://avatars.githubusercontent.com/u/6636916?v=4",
+        "description": "Hapo-G is a tool that aims to improve the quality of genome assemblies by polishing the consensus with accurate reads.",
+        "topics": [
+            "genomics",
+            "polishing",
+            "bioinformatics",
+            "genome"
+        ]
+    },
+    {
         "uid": "github/mne-tools/mne-python",
         "url": "https://github.com/mne-tools/mne-python",
         "rel": "/software/repository/github/mne-tools/mne-python",
@@ -17277,6 +17345,14 @@
         "topics": []
     },
     {
+        "uid": "github/Xomics/ACTIONdemonstrator_workflow",
+        "url": "https://github.com/Xomics/ACTIONdemonstrator_workflow",
+        "rel": "/software/repository/github/Xomics/ACTIONdemonstrator_workflow",
+        "avatar": "https://avatars.githubusercontent.com/u/60345209?v=4",
+        "description": "X-omics ACTION demonstrator multi-omics analysis workflow",
+        "topics": []
+    },
+    {
         "uid": "github/qMRLab/qMRLab",
         "url": "https://github.com/qMRLab/qMRLab",
         "rel": "/software/repository/github/qMRLab/qMRLab",
@@ -19096,6 +19172,30 @@
         "avatar": "https://avatars.githubusercontent.com/u/1373620?v=4",
         "description": "3D Atmospheric escape model with ionizing radiative transfer",
         "topics": []
+    },
+    {
+        "uid": "github/espnet/espnet",
+        "url": "https://github.com/espnet/espnet",
+        "rel": "/software/repository/github/espnet/espnet",
+        "avatar": "https://avatars.githubusercontent.com/u/34493687?v=4",
+        "description": "End-to-End Speech Processing Toolkit",
+        "topics": [
+            "deep-learning",
+            "end-to-end",
+            "chainer",
+            "pytorch",
+            "kaldi",
+            "speech-recognition",
+            "speech-synthesis",
+            "speech-translation",
+            "machine-translation",
+            "voice-conversion",
+            "speech-enhancement",
+            "speech-separation",
+            "singing-voice-synthesis",
+            "speaker-diarization",
+            "spoken-language-understanding"
+        ]
     },
     {
         "uid": "github/zizroc/villager",
@@ -32118,6 +32218,19 @@
         "topics": []
     },
     {
+        "uid": "github/DEIB-GECO/CombSAFE",
+        "url": "https://github.com/DEIB-GECO/CombSAFE",
+        "rel": "/software/repository/github/DEIB-GECO/CombSAFE",
+        "avatar": "https://avatars.githubusercontent.com/u/26458078?v=4",
+        "description": "Combinatorial and Semantic Analysis of Functional Elements",
+        "topics": [
+            "epigenetics",
+            "semantic-annotation",
+            "big-data-analysis",
+            "chromatin-state"
+        ]
+    },
+    {
         "uid": "github/DEIB-GECO/GeneNetFusion",
         "url": "https://github.com/DEIB-GECO/GeneNetFusion",
         "rel": "/software/repository/github/DEIB-GECO/GeneNetFusion",
@@ -32138,6 +32251,25 @@
         "rel": "/software/repository/github/DEIB-GECO/BC_Intrinsic_subtyping",
         "avatar": "https://avatars.githubusercontent.com/u/26458078?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/DEIB-GECO/CRIS_single-sample",
+        "url": "https://github.com/DEIB-GECO/CRIS_single-sample",
+        "rel": "/software/repository/github/DEIB-GECO/CRIS_single-sample",
+        "avatar": "https://avatars.githubusercontent.com/u/26458078?v=4",
+        "description": "Single-sample classifiers for CRIS on colorectal cancer data",
+        "topics": [
+            "bioinformatics",
+            "oncogenomics"
+        ]
+    },
+    {
+        "uid": "github/DEIB-GECO/ReRa",
+        "url": "https://github.com/DEIB-GECO/ReRa",
+        "rel": "/software/repository/github/DEIB-GECO/ReRa",
+        "avatar": "https://avatars.githubusercontent.com/u/26458078?v=4",
+        "description": "Supervised Relevance-Redundancy assessments for feature selection in omics-based classification",
         "topics": []
     },
     {
@@ -33213,6 +33345,28 @@
         "avatar": "https://avatars.githubusercontent.com/u/13021111?v=4",
         "description": "EXOplanet Transit Interpretation Code",
         "topics": []
+    },
+    {
+        "uid": "github/introlab/opentera",
+        "url": "https://github.com/introlab/opentera",
+        "rel": "/software/repository/github/introlab/opentera",
+        "avatar": "https://avatars.githubusercontent.com/u/1263458?v=4",
+        "description": "OpenTera - Open TeleRehabilitation Server and Micro-Services",
+        "topics": [
+            "python",
+            "server",
+            "healthcare",
+            "iot",
+            "telerehabilitation",
+            "telepresence",
+            "videoconference",
+            "micro-services",
+            "webrtc",
+            "redis",
+            "flask",
+            "twisted",
+            "robotics"
+        ]
     },
     {
         "uid": "github/ExoSim/ExoSimPublic",
@@ -35857,6 +36011,14 @@
         "rel": "/software/repository/github/SchmollerLab/Cell_ACDC",
         "avatar": "https://avatars.githubusercontent.com/u/79653821?v=4",
         "description": "A Python GUI-based framework for segmentation, tracking and cell cycle annotations of micrscopy data",
+        "topics": []
+    },
+    {
+        "uid": "github/FunctionalUrology/MLcps",
+        "url": "https://github.com/FunctionalUrology/MLcps",
+        "rel": "/software/repository/github/FunctionalUrology/MLcps",
+        "avatar": "https://avatars.githubusercontent.com/u/99481262?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -54486,6 +54648,14 @@
         ]
     },
     {
+        "uid": "github/pedronachtigall/ToxCodAn-Genome",
+        "url": "https://github.com/pedronachtigall/ToxCodAn-Genome",
+        "rel": "/software/repository/github/pedronachtigall/ToxCodAn-Genome",
+        "avatar": "https://avatars.githubusercontent.com/u/32197975?v=4",
+        "description": "Toxin genes annotation in genome assembly",
+        "topics": []
+    },
+    {
         "uid": "github/sevimcengiz/Oryx-MRSI",
         "url": "https://github.com/sevimcengiz/Oryx-MRSI",
         "rel": "/software/repository/github/sevimcengiz/Oryx-MRSI",
@@ -56126,6 +56296,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
         "description": "Code for Fold2Seq paper from ICML 2021",
         "topics": []
+    },
+    {
+        "uid": "github/r3w0p/bobocep",
+        "url": "https://github.com/r3w0p/bobocep",
+        "rel": "/software/repository/github/r3w0p/bobocep",
+        "avatar": "https://avatars.githubusercontent.com/u/23155844?v=4",
+        "description": "A fault-tolerant Complex Event Processing engine designed for edge computing in Internet of Things systems.",
+        "topics": [
+            "internet-of-things",
+            "complex-event-processing",
+            "edge-computing",
+            "fault-tolerance",
+            "distributed-systems"
+        ]
     },
     {
         "uid": "github/rgmyr/corebreakout",
