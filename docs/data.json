@@ -8694,6 +8694,14 @@
         ]
     },
     {
+        "uid": "github/v-morello/iqrm",
+        "url": "https://github.com/v-morello/iqrm",
+        "rel": "/software/repository/github/v-morello/iqrm",
+        "avatar": "https://avatars.githubusercontent.com/u/31064823?v=4",
+        "description": "A minimal implementation of the IQRM interference flagging algorithm for radio pulsar and transient searches",
+        "topics": []
+    },
+    {
         "uid": "github/v-morello/riptide",
         "url": "https://github.com/v-morello/riptide",
         "rel": "/software/repository/github/v-morello/riptide",
@@ -21607,6 +21615,14 @@
         "topics": []
     },
     {
+        "uid": "github/mr-superonion/FPFS",
+        "url": "https://github.com/mr-superonion/FPFS",
+        "rel": "/software/repository/github/mr-superonion/FPFS",
+        "avatar": "https://avatars.githubusercontent.com/u/12228372?v=4",
+        "description": "A fast, accurate estimator for small shear distortion.",
+        "topics": []
+    },
+    {
         "uid": "github/fcastagna/JoXSZ",
         "url": "https://github.com/fcastagna/JoXSZ",
         "rel": "/software/repository/github/fcastagna/JoXSZ",
@@ -25130,6 +25146,29 @@
         ]
     },
     {
+        "uid": "github/HoBeZwe/SphericalScattering.jl",
+        "url": "https://github.com/HoBeZwe/SphericalScattering.jl",
+        "rel": "/software/repository/github/HoBeZwe/SphericalScattering.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/46812729?v=4",
+        "description": "This package provides semi-analytical solutions to the scattering of time harmonic and static electromagnetic fields from spherical objects.",
+        "topics": [
+            "dipole",
+            "electromagnetics",
+            "hertzian",
+            "julia",
+            "mie-scattering",
+            "plane-wave",
+            "scattering",
+            "sphere",
+            "spherical",
+            "fitzgerald",
+            "mie-series",
+            "ring-current",
+            "spherical-waves",
+            "time-harmonic"
+        ]
+    },
+    {
         "uid": "github/lskatz/SneakerNet",
         "url": "https://github.com/lskatz/SneakerNet",
         "rel": "/software/repository/github/lskatz/SneakerNet",
@@ -28025,6 +28064,14 @@
         "topics": []
     },
     {
+        "uid": "github/MariaTsantaki/FASMA-synthesis",
+        "url": "https://github.com/MariaTsantaki/FASMA-synthesis",
+        "rel": "/software/repository/github/MariaTsantaki/FASMA-synthesis",
+        "avatar": "https://avatars.githubusercontent.com/u/9470245?v=4",
+        "description": "Python code for stellar spectral analysis",
+        "topics": []
+    },
+    {
         "uid": "github/Kingsford-Group/scallop",
         "url": "https://github.com/Kingsford-Group/scallop",
         "rel": "/software/repository/github/Kingsford-Group/scallop",
@@ -30427,6 +30474,19 @@
         ]
     },
     {
+        "uid": "github/LCOGT/neoexchange",
+        "url": "https://github.com/LCOGT/neoexchange",
+        "rel": "/software/repository/github/LCOGT/neoexchange",
+        "avatar": "https://avatars.githubusercontent.com/u/3358238?v=4",
+        "description": "NEO observing portal",
+        "topics": [
+            "backend",
+            "end-user",
+            "astronomy",
+            "asteroids"
+        ]
+    },
+    {
         "uid": "github/agurvich/FIRE_studio",
         "url": "https://github.com/agurvich/FIRE_studio",
         "rel": "/software/repository/github/agurvich/FIRE_studio",
@@ -32270,6 +32330,14 @@
         "rel": "/software/repository/github/DEIB-GECO/ReRa",
         "avatar": "https://avatars.githubusercontent.com/u/26458078?v=4",
         "description": "Supervised Relevance-Redundancy assessments for feature selection in omics-based classification",
+        "topics": []
+    },
+    {
+        "uid": "github/DEIB-GECO/MutViz",
+        "url": "https://github.com/DEIB-GECO/MutViz",
+        "rel": "/software/repository/github/DEIB-GECO/MutViz",
+        "avatar": "https://avatars.githubusercontent.com/u/26458078?v=4",
+        "description": "MutViz - Analysis and Visualization of Mutation Enrichments for Selected Genomic Regions and Cancer Types",
         "topics": []
     },
     {
@@ -35222,6 +35290,21 @@
         "topics": []
     },
     {
+        "uid": "github/NeotomaDB/neotoma2",
+        "url": "https://github.com/NeotomaDB/neotoma2",
+        "rel": "/software/repository/github/NeotomaDB/neotoma2",
+        "avatar": "https://avatars.githubusercontent.com/u/19538006?v=4",
+        "description": "Repository for the updated neotoma R package.",
+        "topics": [
+            "neotoma",
+            "paleoecology",
+            "rstats",
+            "r",
+            "earthcube",
+            "nsf"
+        ]
+    },
+    {
         "uid": "github/cdominik/optool",
         "url": "https://github.com/cdominik/optool",
         "rel": "/software/repository/github/cdominik/optool",
@@ -37760,6 +37843,27 @@
         "topics": []
     },
     {
+        "uid": "github/LMBooth/pybci",
+        "url": "https://github.com/LMBooth/pybci",
+        "rel": "/software/repository/github/LMBooth/pybci",
+        "avatar": "https://avatars.githubusercontent.com/u/31129153?v=4",
+        "description": "Create real-time BCI's with the LSL, PyTorch, SKLearn and TensorFlow packages.",
+        "topics": [
+            "bci",
+            "brain-computer-interface",
+            "human-computer-interaction",
+            "labstreaminglayer",
+            "machine-learning",
+            "lsl",
+            "pytorch",
+            "sklearn",
+            "tensorflow",
+            "human-machine-interface",
+            "python",
+            "python-brain-computer-interface"
+        ]
+    },
+    {
         "uid": "github/SimonPfeifer/cows",
         "url": "https://github.com/SimonPfeifer/cows",
         "rel": "/software/repository/github/SimonPfeifer/cows",
@@ -38112,6 +38216,14 @@
         "url": "https://github.com/mneeleman/qubefit",
         "rel": "/software/repository/github/mneeleman/qubefit",
         "avatar": "https://avatars.githubusercontent.com/u/10130842?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mraveri/tensiometer",
+        "url": "https://github.com/mraveri/tensiometer",
+        "rel": "/software/repository/github/mraveri/tensiometer",
+        "avatar": "https://avatars.githubusercontent.com/u/8779332?v=4",
         "description": null,
         "topics": []
     },
@@ -48251,6 +48363,14 @@
         ]
     },
     {
+        "uid": "github/teoxxx/nemiss_proper",
+        "url": "https://github.com/teoxxx/nemiss_proper",
+        "rel": "/software/repository/github/teoxxx/nemiss_proper",
+        "avatar": "https://avatars.githubusercontent.com/u/40962945?v=4",
+        "description": "nemiss code repo 2023",
+        "topics": []
+    },
+    {
         "uid": "github/teoxxx/rlos",
         "url": "https://github.com/teoxxx/rlos",
         "rel": "/software/repository/github/teoxxx/rlos",
@@ -53856,6 +53976,14 @@
         "rel": "/software/repository/github/cole-trapnell-lab/cufflinks",
         "avatar": "https://avatars.githubusercontent.com/u/8060918?v=4",
         "description": "a reference-guided assembler that assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.",
+        "topics": []
+    },
+    {
+        "uid": "github/Hi-COLACode/Hi-COLA",
+        "url": "https://github.com/Hi-COLACode/Hi-COLA",
+        "rel": "/software/repository/github/Hi-COLACode/Hi-COLA",
+        "avatar": "https://avatars.githubusercontent.com/u/125999519?v=4",
+        "description": "Hi-COLA simulates cosmological large-scale structure for a wide class of Horndeski theories. Built using a COLA solver forked from FML by HAWinther.",
         "topics": []
     },
     {
