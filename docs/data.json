@@ -2005,6 +2005,14 @@
         "topics": []
     },
     {
+        "uid": "github/Libensemble/libensemble",
+        "url": "https://github.com/Libensemble/libensemble",
+        "rel": "/software/repository/github/Libensemble/libensemble",
+        "avatar": "https://avatars.githubusercontent.com/u/24534232?v=4",
+        "description": "A Python toolkit for coordinating asynchronous and dynamic ensembles of calculations.",
+        "topics": []
+    },
+    {
         "uid": "github/WGLab/InterVar",
         "url": "https://github.com/WGLab/InterVar",
         "rel": "/software/repository/github/WGLab/InterVar",
@@ -24321,6 +24329,20 @@
         ]
     },
     {
+        "uid": "github/adrientaudiere/MiscMetabar",
+        "url": "https://github.com/adrientaudiere/MiscMetabar",
+        "rel": "/software/repository/github/adrientaudiere/MiscMetabar",
+        "avatar": "https://avatars.githubusercontent.com/u/6680165?v=4",
+        "description": "R package MiscMetabar: Miscellaneous functions for metabarcoding analysis",
+        "topics": [
+            "ecology",
+            "metabarcoding",
+            "ngs-analysis",
+            "package",
+            "r"
+        ]
+    },
+    {
         "uid": "github/eldariont/svim",
         "url": "https://github.com/eldariont/svim",
         "rel": "/software/repository/github/eldariont/svim",
@@ -25272,6 +25294,21 @@
         ]
     },
     {
+        "uid": "github/jumphone/inferloop",
+        "url": "https://github.com/jumphone/InferLoop",
+        "rel": "/software/repository/github/jumphone/inferloop",
+        "avatar": "https://avatars.githubusercontent.com/u/14286721?v=4",
+        "description": "InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop",
+        "topics": [
+            "chromatin-structure",
+            "scatac-seq",
+            "single-cell-3d-genome-structure",
+            "single-cell-chromatin-accessibility",
+            "single-cell-multi-omics",
+            "spatial-chromatin-accessibility"
+        ]
+    },
+    {
         "uid": "github/firedrakeproject/gusto",
         "url": "https://github.com/firedrakeproject/gusto",
         "rel": "/software/repository/github/firedrakeproject/gusto",
@@ -25828,6 +25865,14 @@
         ]
     },
     {
+        "uid": "github/MaceKuailv/seaduck",
+        "url": "https://github.com/MaceKuailv/seaduck",
+        "rel": "/software/repository/github/MaceKuailv/seaduck",
+        "avatar": "https://avatars.githubusercontent.com/u/52629492?v=4",
+        "description": "A python package that interpolates data from ocean dataset from both Eulerian and Lagrangian perspective.",
+        "topics": []
+    },
+    {
         "uid": "github/thetisproject/thetis",
         "url": "https://github.com/thetisproject/thetis",
         "rel": "/software/repository/github/thetisproject/thetis",
@@ -25886,6 +25931,14 @@
             "astrophysics",
             "radio-astronomy"
         ]
+    },
+    {
+        "uid": "github/dirostri/CREPE",
+        "url": "https://github.com/dirostri/CREPE",
+        "rel": "/software/repository/github/dirostri/CREPE",
+        "avatar": "https://avatars.githubusercontent.com/u/46599183?v=4",
+        "description": "GitHub Repository for CREPE: A tool for Transcription Factor Cataloguing",
+        "topics": []
     },
     {
         "uid": "github/bpp/bpp",
@@ -30907,6 +30960,17 @@
         ]
     },
     {
+        "uid": "github/parafields/parafields",
+        "url": "https://github.com/parafields/parafields",
+        "rel": "/software/repository/github/parafields/parafields",
+        "avatar": "https://avatars.githubusercontent.com/u/110537507?v=4",
+        "description": "Parallel Parameter Field Generator for Python",
+        "topics": [
+            "hacktoberfest",
+            "iwr-hacktoberfest"
+        ]
+    },
+    {
         "uid": "github/rudolffu/pyfosc",
         "url": "https://github.com/rudolffu/pyfosc",
         "rel": "/software/repository/github/rudolffu/pyfosc",
@@ -32657,6 +32721,14 @@
         "rel": "/software/repository/github/LINNAE-project/SFB-Annotator",
         "avatar": "https://avatars.githubusercontent.com/u/65170433?v=4",
         "description": "This web app is intended for demo purposes only!",
+        "topics": []
+    },
+    {
+        "uid": "github/CederGroupHub/sparse-lm",
+        "url": "https://github.com/CederGroupHub/sparse-lm",
+        "rel": "/software/repository/github/CederGroupHub/sparse-lm",
+        "avatar": "https://avatars.githubusercontent.com/u/34322218?v=4",
+        "description": "Sparse Linear Regression Models",
         "topics": []
     },
     {
@@ -44545,6 +44617,14 @@
         "topics": []
     },
     {
+        "uid": "github/UgoLomoio/gtex_visualizer",
+        "url": "https://github.com/UgoLomoio/gtex_visualizer",
+        "rel": "/software/repository/github/UgoLomoio/gtex_visualizer",
+        "avatar": "https://avatars.githubusercontent.com/u/87126937?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/vibbits/phyd3",
         "url": "https://github.com/vibbits/phyd3",
         "rel": "/software/repository/github/vibbits/phyd3",
@@ -48163,6 +48243,14 @@
         "topics": []
     },
     {
+        "uid": "github/liuhong-jia/scAnno",
+        "url": "https://github.com/liuhong-jia/scAnno",
+        "rel": "/software/repository/github/liuhong-jia/scAnno",
+        "avatar": "https://avatars.githubusercontent.com/u/115637576?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/jameschapman19/cca_zoo",
         "url": "https://github.com/jameschapman19/cca_zoo",
         "rel": "/software/repository/github/jameschapman19/cca_zoo",
@@ -49404,6 +49492,17 @@
         "topics": []
     },
     {
+        "uid": "github/nekokoe/Plasmer",
+        "url": "https://github.com/nekokoe/Plasmer",
+        "rel": "/software/repository/github/nekokoe/Plasmer",
+        "avatar": "https://avatars.githubusercontent.com/u/3713987?v=4",
+        "description": "An accurate and sensitive bacterial plasmid identification tool based on deep machine-learning of shared k-mers and genomic features.",
+        "topics": [
+            "bioinformatics",
+            "plasmid"
+        ]
+    },
+    {
         "uid": "github/Muhammad-Arif-NUST/BVP_Pred_Unb",
         "url": "https://github.com/Muhammad-Arif-NUST/BVP_Pred_Unb",
         "rel": "/software/repository/github/Muhammad-Arif-NUST/BVP_Pred_Unb",
@@ -49907,6 +50006,14 @@
             "usegalaxy",
             "mass-spectrometry"
         ]
+    },
+    {
+        "uid": "github/interactivereport/scRNASequest",
+        "url": "https://github.com/interactivereport/scRNAsequest",
+        "rel": "/software/repository/github/interactivereport/scRNASequest",
+        "avatar": "https://avatars.githubusercontent.com/u/29576524?v=4",
+        "description": "scRNASequest: an ecosystem of scRNA-seq analysis, visualization and publishing",
+        "topics": []
     },
     {
         "uid": "github/interactivereport/OmicsView0",
@@ -55688,6 +55795,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/44835777?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/OSeMOSYS/otoole",
+        "url": "https://github.com/OSeMOSYS/otoole",
+        "rel": "/software/repository/github/OSeMOSYS/otoole",
+        "avatar": "https://avatars.githubusercontent.com/u/14215860?v=4",
+        "description": "OSeMOSYS Tools for Energy",
+        "topics": [
+            "energy",
+            "osemosys",
+            "energy-system-modelling",
+            "energy-system"
+        ]
     },
     {
         "uid": "github/cpinte/mcfost",
