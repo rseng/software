@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/czimm79/MicroTracker.jl",
+    "url": "https://github.com/czimm79/MicroTracker.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.10578580",
+        "name": "MicroTracker.jl",
+        "url": "https://github.com/czimm79/MicroTracker.jl",
+        "full_name": "czimm79/MicroTracker.jl",
+        "html_url": "https://github.com/czimm79/MicroTracker.jl",
+        "description": "Microbot tracking and analysis with Julia.",
+        "created_at": "2022-08-29T15:29:04Z",
+        "updated_at": "2024-02-17T17:07:18Z",
+        "clone_url": "https://github.com/czimm79/MicroTracker.jl.git",
+        "size": 574567,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Julia",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/czimm79",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49537407?v=4",
+            "login": "czimm79",
+            "type": "User"
+        },
+        "timestamp": "2024-02-18 00:34:23.133009",
+        "avatar": "https://avatars.githubusercontent.com/u/49537407?v=4"
+    }
+}

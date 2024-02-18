@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/USDA-ARS-GBRU/micrompn",
+    "url": "https://github.com/USDA-ARS-GBRU/micrompn",
+    "data": {
+        "doi": "10.1128/spectrum.03578-23",
+        "name": "micrompn",
+        "url": "https://github.com/USDA-ARS-GBRU/micrompn",
+        "full_name": "USDA-ARS-GBRU/micrompn",
+        "html_url": "https://github.com/USDA-ARS-GBRU/micrompn",
+        "description": "MicroMPN: A Python command line program for automating most probable number (MPN) estimates in microtiter plates",
+        "created_at": "2023-04-26T02:47:06Z",
+        "updated_at": "2023-05-08T20:40:39Z",
+        "clone_url": "https://github.com/USDA-ARS-GBRU/micrompn.git",
+        "size": 73,
+        "language": "Python",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/USDA-ARS-GBRU",
+            "avatar_url": "https://avatars.githubusercontent.com/u/28271938?v=4",
+            "login": "USDA-ARS-GBRU",
+            "type": "Organization"
+        },
+        "timestamp": "2024-02-18 00:35:23.175984",
+        "avatar": "https://avatars.githubusercontent.com/u/28271938?v=4"
+    }
+}

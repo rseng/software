@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/cosmoinin/MGPT",
+    "url": "https://github.com/cosmoinin/MGPT",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2018JCAP...11..013A",
+            "https://ui.adsabs.harvard.edu/abs/2024ascl.soft02005R/abstract"
+        ],
+        "title": "MGPT: Modified Gravity Perturbation Theory code",
+        "url": "https://github.com/cosmoinin/MGPT",
+        "name": "MGPT",
+        "full_name": "cosmoinin/MGPT",
+        "html_url": "https://github.com/cosmoinin/MGPT",
+        "description": "Modified gravity perturbation theory code",
+        "created_at": "2018-08-29T18:07:15Z",
+        "updated_at": "2023-05-10T08:30:59Z",
+        "clone_url": "https://github.com/cosmoinin/MGPT.git",
+        "size": 1714,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "C",
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/cosmoinin",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42773394?v=4",
+            "login": "cosmoinin",
+            "type": "User"
+        },
+        "timestamp": "2024-02-18 00:34:05.072339",
+        "avatar": "https://avatars.githubusercontent.com/u/42773394?v=4"
+    }
+}

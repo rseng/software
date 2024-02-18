@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/cremerlab/hplc-py",
+    "url": "https://github.com/cremerlab/hplc-py",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.10642439",
+        "name": "hplc-py",
+        "url": "https://github.com/cremerlab/hplc-py",
+        "full_name": "cremerlab/hplc-py",
+        "html_url": "https://github.com/cremerlab/hplc-py",
+        "description": "A Python utility for the processing and quantification of chromatography data",
+        "created_at": "2023-07-17T23:06:42Z",
+        "updated_at": "2024-02-15T05:52:32Z",
+        "clone_url": "https://github.com/cremerlab/hplc-py.git",
+        "homepage": "https://cremerlab.github.io/hplc-py/",
+        "size": 48951,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/cremerlab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/80993030?v=4",
+            "login": "cremerlab",
+            "type": "Organization"
+        },
+        "topics": [
+            "analytical-chemistry",
+            "chromatography-analysis",
+            "hplc"
+        ],
+        "timestamp": "2024-02-18 00:34:22.176202",
+        "avatar": "https://avatars.githubusercontent.com/u/80993030?v=4"
+    }
+}
