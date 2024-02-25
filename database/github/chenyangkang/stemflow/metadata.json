@@ -1,0 +1,59 @@
+{
+    "parser": "github",
+    "uid": "github/chenyangkang/stemflow",
+    "url": "https://github.com/chenyangkang/stemflow",
+    "data": {
+        "doi": "https://doi.org/10.6084/m9.figshare.24669132",
+        "name": "stemflow",
+        "url": "https://github.com/chenyangkang/stemflow",
+        "full_name": "chenyangkang/stemflow",
+        "html_url": "https://github.com/chenyangkang/stemflow",
+        "description": "A Python Package for Adaptive Spatio-Temporal Exploratory Model (AdaSTEM)",
+        "created_at": "2023-07-31T11:08:34Z",
+        "updated_at": "2024-02-24T02:43:37Z",
+        "clone_url": "https://github.com/chenyangkang/stemflow.git",
+        "homepage": "https://chenyangkang.github.io/stemflow/",
+        "size": 445805,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/chenyangkang",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59206195?v=4",
+            "login": "chenyangkang",
+            "type": "User"
+        },
+        "topics": [
+            "bird-migration",
+            "geospatial",
+            "machine-learning",
+            "spatio-temporal-analysis",
+            "species-distribution-modeling",
+            "spatiotemporal",
+            "adaptive-spatio-temporal-exploratory-model",
+            "biodiversity",
+            "biogeography",
+            "ebird",
+            "animal",
+            "animal-movement",
+            "ecology",
+            "ecology-modelling",
+            "movement-ecology",
+            "bird-survey",
+            "movment",
+            "spatiotemporal-dynamics",
+            "big-data",
+            "ornithology"
+        ],
+        "timestamp": "2024-02-25 00:35:17.586343",
+        "avatar": "https://avatars.githubusercontent.com/u/59206195?v=4"
+    }
+}

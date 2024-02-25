@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/hkotb/xprotcas",
+    "url": "https://github.com/hkotb/xprotcas",
+    "data": {
+        "doi": "10.3390/BIOM13060906",
+        "name": "xprotcas",
+        "url": "https://github.com/hkotb/xprotcas",
+        "full_name": "hkotb/xprotcas",
+        "html_url": "https://github.com/hkotb/xprotcas",
+        "created_at": "2022-03-01T19:13:07Z",
+        "updated_at": "2024-02-04T07:11:42Z",
+        "clone_url": "https://github.com/hkotb/xprotcas.git",
+        "size": 45454,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/hkotb",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14995591?v=4",
+            "login": "hkotb",
+            "type": "User"
+        },
+        "timestamp": "2024-02-25 00:40:56.563999",
+        "avatar": "https://avatars.githubusercontent.com/u/14995591?v=4"
+    }
+}

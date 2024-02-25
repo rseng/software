@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/FrederikLizakJohansen/DebyeCalculator",
+    "url": "https://github.com/FrederikLizakJohansen/DebyeCalculator",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.10659528",
+        "name": "DebyeCalculator",
+        "url": "https://github.com/FrederikLizakJohansen/DebyeCalculator",
+        "full_name": "FrederikLizakJohansen/DebyeCalculator",
+        "html_url": "https://github.com/FrederikLizakJohansen/DebyeCalculator",
+        "description": "A vectorised implementation of the Debye Equation on CPU and GPU",
+        "created_at": "2023-08-03T06:56:01Z",
+        "updated_at": "2024-02-21T13:10:13Z",
+        "clone_url": "https://github.com/FrederikLizakJohansen/DebyeCalculator.git",
+        "size": 88100,
+        "stargazers_count": 12,
+        "watchers_count": 12,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 3,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/FrederikLizakJohansen",
+            "avatar_url": "https://avatars.githubusercontent.com/u/43652292?v=4",
+            "login": "FrederikLizakJohansen",
+            "type": "User"
+        },
+        "timestamp": "2024-02-25 00:35:19.508967",
+        "avatar": "https://avatars.githubusercontent.com/u/43652292?v=4"
+    }
+}

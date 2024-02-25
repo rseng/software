@@ -1,0 +1,36 @@
+{
+    "parser": "gitlab",
+    "uid": "gitlab/akantu/akantu",
+    "url": "https://gitlab.com/akantu/akantu",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.10668768",
+        "id": 15663046,
+        "name": "akantu",
+        "name_with_namespace": "Akantu / akantu",
+        "path": "akantu",
+        "path_with_namespace": "akantu/akantu",
+        "created_at": "2019-12-03T17:39:42.236Z",
+        "default_branch": "master",
+        "ssh_url_to_repo": "git@gitlab.com:akantu/akantu.git",
+        "http_url_to_repo": "https://gitlab.com/akantu/akantu.git",
+        "web_url": "https://gitlab.com/akantu/akantu",
+        "readme_url": "https://gitlab.com/akantu/akantu/-/blob/master/README.md",
+        "forks_count": 11,
+        "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/15663046/profile.png",
+        "star_count": 10,
+        "last_activity_at": "2024-02-22T14:09:40.912Z",
+        "namespace": {
+            "id": 6660847,
+            "name": "Akantu",
+            "path": "akantu",
+            "kind": "group",
+            "full_path": "akantu",
+            "parent_id": null,
+            "avatar_url": "/uploads/-/system/group/avatar/6660847/profile.png",
+            "web_url": "https://gitlab.com/groups/akantu"
+        },
+        "timestamp": "2024-02-25 00:35:18.866472",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/15663046/profile.png",
+        "url": "https://gitlab.com/akantu/akantu"
+    }
+}
