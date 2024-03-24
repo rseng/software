@@ -3312,6 +3312,18 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaAI/Imbalance.jl",
+        "url": "https://github.com/JuliaAI/Imbalance.jl",
+        "rel": "/software/repository/github/JuliaAI/Imbalance.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/80715868?v=4",
+        "description": "A Julia toolbox with resampling methods to correct for class imbalance.",
+        "topics": [
+            "class-imbalance",
+            "classification",
+            "machine-learning"
+        ]
+    },
+    {
         "uid": "github/mary77/scQcut",
         "url": "https://github.com/mary77/scQcut",
         "rel": "/software/repository/github/mary77/scQcut",
@@ -12542,6 +12554,14 @@
         ]
     },
     {
+        "uid": "github/Junwu302/HiFun",
+        "url": "https://github.com/Junwu302/HiFun",
+        "rel": "/software/repository/github/Junwu302/HiFun",
+        "avatar": "https://avatars.githubusercontent.com/u/49974219?v=4",
+        "description": "Homology Independent Protein Function prediction on Protein-Language Self-Attention Model",
+        "topics": []
+    },
+    {
         "uid": "github/reproducible-biomedical-modeling/Biosimulations",
         "url": "https://github.com/biosimulations/Biosimulations",
         "rel": "/software/repository/github/reproducible-biomedical-modeling/Biosimulations",
@@ -15481,6 +15501,14 @@
             "genomics",
             "bioinformatics"
         ]
+    },
+    {
+        "uid": "github/etiennepayet/nti",
+        "url": "https://github.com/etiennepayet/nti",
+        "rel": "/software/repository/github/etiennepayet/nti",
+        "avatar": "https://avatars.githubusercontent.com/u/4244570?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/eucp-project/storyboards",
@@ -18664,6 +18692,14 @@
         "topics": []
     },
     {
+        "uid": "github/alejandroaviles/fkpt",
+        "url": "https://github.com/alejandroaviles/fkpt",
+        "rel": "/software/repository/github/alejandroaviles/fkpt",
+        "avatar": "https://avatars.githubusercontent.com/u/10519363?v=4",
+        "description": "Perturbation theory with \"fk\"-Kernels",
+        "topics": []
+    },
+    {
         "uid": "github/rajeshmondal18/MAPS",
         "url": "https://github.com/rajeshmondal18/MAPS",
         "rel": "/software/repository/github/rajeshmondal18/MAPS",
@@ -19638,6 +19674,14 @@
         "topics": []
     },
     {
+        "uid": "github/suneeshjacob/ACRoD",
+        "url": "https://github.com/suneeshjacob/ACRoD",
+        "rel": "/software/repository/github/suneeshjacob/ACRoD",
+        "avatar": "https://avatars.githubusercontent.com/u/20991408?v=4",
+        "description": "Automatic Computation for Robot Design",
+        "topics": []
+    },
+    {
         "uid": "github/zenitani/OpenMHD",
         "url": "https://github.com/zenitani/OpenMHD",
         "rel": "/software/repository/github/zenitani/OpenMHD",
@@ -19735,6 +19779,14 @@
         "rel": "/software/repository/github/bio-tools/biotoolsSum",
         "avatar": "https://avatars3.githubusercontent.com/u/15219975?v=4",
         "description": "bio.tools interface with report generation features",
+        "topics": []
+    },
+    {
+        "uid": "github/uw-comphys/shapelets",
+        "url": "https://github.com/uw-comphys/shapelets",
+        "rel": "/software/repository/github/uw-comphys/shapelets",
+        "avatar": "https://avatars.githubusercontent.com/u/81441154?v=4",
+        "description": "shapelets is a python package that implements several shapelet functions and some of their significant applications in science and astronomy.",
         "topics": []
     },
     {
@@ -20469,6 +20521,14 @@
         "rel": "/software/repository/github/firedrakeproject/firedrake",
         "avatar": "https://avatars.githubusercontent.com/u/5558005?v=4",
         "description": "Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)",
+        "topics": []
+    },
+    {
+        "uid": "github/firedrakeproject/checkpoint_schedules",
+        "url": "https://github.com/firedrakeproject/checkpoint_schedules",
+        "rel": "/software/repository/github/firedrakeproject/checkpoint_schedules",
+        "avatar": "https://avatars.githubusercontent.com/u/5558005?v=4",
+        "description": "Schedules for incremental checkpointing of adjoint simulations.",
         "topics": []
     },
     {
@@ -21560,6 +21620,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/5468582?v=4",
         "description": "This is a software package for testing and performance evaluation of different star sensors. The algorithms used for calculating quaternions from star field images are : centroiding, geometric voting and QUEST algorithms. The physical parameters of a star sensor are parametrized and by changing these parameters various performance estimators like sky coverage, memory requirement, timing requirements etc can be estimated for the selected star sensor. ",
         "topics": []
+    },
+    {
+        "uid": "github/wwood/kingfisher-download",
+        "url": "https://github.com/wwood/kingfisher-download",
+        "rel": "/software/repository/github/wwood/kingfisher-download",
+        "avatar": "https://avatars.githubusercontent.com/u/15348?v=4",
+        "description": "Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.",
+        "topics": [
+            "sra",
+            "aspera-client",
+            "fastq-files"
+        ]
     },
     {
         "uid": "github/YangLab/RNAlight",
@@ -23620,6 +23692,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/4694479?v=4",
         "description": "Scaling solutions for production analysis from unconventional oil and gas wells",
         "topics": []
+    },
+    {
+        "uid": "github/frank1010111/pywaterflood",
+        "url": "https://github.com/frank1010111/pywaterflood",
+        "rel": "/software/repository/github/frank1010111/pywaterflood",
+        "avatar": "https://avatars.githubusercontent.com/u/4694479?v=4",
+        "description": "Capacitance resistance models for waterflood connectivity",
+        "topics": [
+            "python",
+            "petroleum-engineering",
+            "reservoir",
+            "rust"
+        ]
     },
     {
         "uid": "github/ejmackrell/tidyproteomics-interactive",
@@ -25897,6 +25982,14 @@
         "topics": []
     },
     {
+        "uid": "github/CompGenomeLab/boquila",
+        "url": "https://github.com/CompGenomeLab/boquila",
+        "rel": "/software/repository/github/CompGenomeLab/boquila",
+        "avatar": "https://avatars.githubusercontent.com/u/57796291?v=4",
+        "description": "NGS read simulator to eliminate read nucleotide bias in sequence analysis.",
+        "topics": []
+    },
+    {
         "uid": "github/parafields/parafields",
         "url": "https://github.com/parafields/parafields",
         "rel": "/software/repository/github/parafields/parafields",
@@ -26071,6 +26164,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/19716714?v=4",
         "description": "Pipeline to recover astrometry and photometry of Solar System Objects in imaging surveys",
         "topics": []
+    },
+    {
+        "uid": "github/UTEL-UIUC/gtfs_segments",
+        "url": "https://github.com/UTEL-UIUC/gtfs_segments",
+        "rel": "/software/repository/github/UTEL-UIUC/gtfs_segments",
+        "avatar": "https://avatars.githubusercontent.com/u/90534722?v=4",
+        "description": "GTFS Segments: A fast and efficient library to generate bus stop spacings",
+        "topics": [
+            "bus",
+            "stop",
+            "distribution",
+            "gtfs-feed",
+            "python",
+            "transit",
+            "transit-data"
+        ]
     },
     {
         "uid": "github/nilearn/nilearnhub.io",
@@ -35648,6 +35757,21 @@
         "topics": []
     },
     {
+        "uid": "github/nabeelre/BTSbot",
+        "url": "https://github.com/nabeelre/BTSbot",
+        "rel": "/software/repository/github/nabeelre/BTSbot",
+        "avatar": "https://avatars.githubusercontent.com/u/33795390?v=4",
+        "description": "Automated identification of supernovae with multi-modal deep learning",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "computer-vision",
+            "time-domain-astronomy",
+            "transient-astronomy",
+            "ztf"
+        ]
+    },
+    {
         "uid": "github/bids-standard/bids-validator",
         "url": "https://github.com/bids-standard/bids-validator",
         "rel": "/software/repository/github/bids-standard/bids-validator",
@@ -36810,6 +36934,18 @@
             "bandwidth-saver",
             "storage-saving",
             "cloud-cost-intelligence"
+        ]
+    },
+    {
+        "uid": "github/MedMaxLab/selfEEG",
+        "url": "https://github.com/MedMaxLab/selfEEG",
+        "rel": "/software/repository/github/MedMaxLab/selfEEG",
+        "avatar": "https://avatars.githubusercontent.com/u/119063619?v=4",
+        "description": "selfEEG: a Python library for Self-Supervised Learning on Electroencephalography (EEG) data",
+        "topics": [
+            "deep-learning",
+            "eeg",
+            "self-supervised-learning"
         ]
     },
     {
@@ -52269,6 +52405,20 @@
         "topics": []
     },
     {
+        "uid": "github/Open-Minds-Lab/MRdataset",
+        "url": "https://github.com/Open-Minds-Lab/MRdataset",
+        "rel": "/software/repository/github/Open-Minds-Lab/MRdataset",
+        "avatar": "https://avatars.githubusercontent.com/u/71519641?v=4",
+        "description": "MRdataset : unified interface to various neuroimaging dataset formats",
+        "topics": [
+            "neuroimaging",
+            "mri",
+            "neuroscience",
+            "quality-control",
+            "niqc"
+        ]
+    },
+    {
         "uid": "github/yupidevs/pactus",
         "url": "https://github.com/yupidevs/pactus",
         "rel": "/software/repository/github/yupidevs/pactus",
@@ -52943,6 +53093,20 @@
             "trajectory-analysis",
             "python",
             "spatial-data-analysis"
+        ]
+    },
+    {
+        "uid": "github/ahudde/greeks",
+        "url": "https://github.com/ahudde/greeks",
+        "rel": "/software/repository/github/ahudde/greeks",
+        "avatar": "https://avatars.githubusercontent.com/u/60978072?v=4",
+        "description": "Sensitivities of Prices of Financial Options and Implied Volatilites",
+        "topics": [
+            "option",
+            "greeks",
+            "asian-option",
+            "r-package",
+            "implied-volatility"
         ]
     },
     {
@@ -57954,6 +58118,14 @@
         "rel": "/software/repository/github/econ-ark/HARK",
         "avatar": "https://avatars2.githubusercontent.com/u/19330676?v=4",
         "description": "Heterogenous Agents Resources & toolKit",
+        "topics": []
+    },
+    {
+        "uid": "github/Jashcraf/poke",
+        "url": "https://github.com/Jashcraf/poke",
+        "rel": "/software/repository/github/Jashcraf/poke",
+        "avatar": "https://avatars.githubusercontent.com/u/25557892?v=4",
+        "description": "Poke (pronounced poh-keh) is a Polarization Ray Tracing and Gaussian Beamlet module for Python",
         "topics": []
     },
     {
