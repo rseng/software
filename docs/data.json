@@ -1181,6 +1181,22 @@
         "topics": []
     },
     {
+        "uid": "github/rramadeu/AGHmatrix",
+        "url": "https://github.com/rramadeu/AGHmatrix",
+        "rel": "/software/repository/github/rramadeu/AGHmatrix",
+        "avatar": "https://avatars.githubusercontent.com/u/10066681?v=4",
+        "description": "An R package to compute relationship matrices for diploid and autopolyploid species",
+        "topics": []
+    },
+    {
+        "uid": "github/YeoLab/FLARE",
+        "url": "https://github.com/YeoLab/FLARE",
+        "rel": "/software/repository/github/YeoLab/FLARE",
+        "avatar": "https://avatars.githubusercontent.com/u/2112324?v=4",
+        "description": "RNA edit detection (SAILOR) and peak calling (FLARE)",
+        "topics": []
+    },
+    {
         "uid": "github/YeoLab/clipper",
         "url": "https://github.com/YeoLab/clipper",
         "rel": "/software/repository/github/YeoLab/clipper",
@@ -1721,6 +1737,14 @@
         "rel": "/software/repository/github/ouyang-lab/PRAS",
         "avatar": "https://avatars2.githubusercontent.com/u/44652339?v=4",
         "description": "PRAS: predicting functional targets of RNA binding proteins based on CLIP-seq peaks",
+        "topics": []
+    },
+    {
+        "uid": "github/tkchafin/autostreamtree",
+        "url": "https://github.com/tkchafin/autostreamtree",
+        "rel": "/software/repository/github/tkchafin/autostreamtree",
+        "avatar": "https://avatars.githubusercontent.com/u/10889979?v=4",
+        "description": "Stream trees for SNP datasets",
         "topics": []
     },
     {
@@ -13919,6 +13943,14 @@
         "topics": []
     },
     {
+        "uid": "github/mecobpsu/bacseq",
+        "url": "https://github.com/tmrcpsu/bacseq",
+        "rel": "/software/repository/github/mecobpsu/bacseq",
+        "avatar": "https://avatars.githubusercontent.com/u/85468876?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/mikaelLEROY/AxionNS_RayTracing",
         "url": "https://github.com/mikaelLEROY/AxionNS_RayTracing",
         "rel": "/software/repository/github/mikaelLEROY/AxionNS_RayTracing",
@@ -14555,6 +14587,24 @@
         ]
     },
     {
+        "uid": "github/nla-group/fABBA",
+        "url": "https://github.com/nla-group/fABBA",
+        "rel": "/software/repository/github/nla-group/fABBA",
+        "avatar": "https://avatars.githubusercontent.com/u/50701217?v=4",
+        "description": "A Python library for the fast symbolic approximation of time series",
+        "topics": [
+            "machine-learning",
+            "dimensionality-reduction",
+            "time-series",
+            "time-series-analysis",
+            "time-series-forecasting",
+            "time-series-classification",
+            "time-series-clustering",
+            "symbolic-aggregate-approximation",
+            "symbolic-representation"
+        ]
+    },
+    {
         "uid": "github/mzemp/halogen",
         "url": "https://github.com/mzemp/halogen",
         "rel": "/software/repository/github/mzemp/halogen",
@@ -14797,6 +14847,14 @@
             "assembly",
             "microbial-genomes"
         ]
+    },
+    {
+        "uid": "github/OPUS-MaLab/opus_fold3",
+        "url": "https://github.com/OPUS-MaLab/opus_fold3",
+        "rel": "/software/repository/github/OPUS-MaLab/opus_fold3",
+        "avatar": "https://avatars.githubusercontent.com/u/82582402?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/anwarbio/bioassays",
@@ -22192,6 +22250,14 @@
         "topics": []
     },
     {
+        "uid": "github/ncbi/SRPRISM",
+        "url": "https://github.com/ncbi/SRPRISM",
+        "rel": "/software/repository/github/ncbi/SRPRISM",
+        "avatar": "https://avatars.githubusercontent.com/u/3812119?v=4",
+        "description": "Short Read Alignment Tool",
+        "topics": []
+    },
+    {
         "uid": "github/ncbi/TPMCalculator",
         "url": "https://github.com/ncbi/TPMCalculator",
         "rel": "/software/repository/github/ncbi/TPMCalculator",
@@ -28408,6 +28474,14 @@
         ]
     },
     {
+        "uid": "github/mlegr/EqualISER",
+        "url": "https://github.com/mlegr/EqualISER",
+        "rel": "/software/repository/github/mlegr/EqualISER",
+        "avatar": "https://avatars.githubusercontent.com/u/92648586?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/maxbernyk/lightcone",
         "url": "https://github.com/maxbernyk/lightcone",
         "rel": "/software/repository/github/maxbernyk/lightcone",
@@ -31293,6 +31367,19 @@
         ]
     },
     {
+        "uid": "github/JulienPeloton/s4cmb",
+        "url": "https://github.com/JulienPeloton/s4cmb",
+        "rel": "/software/repository/github/JulienPeloton/s4cmb",
+        "avatar": "https://avatars.githubusercontent.com/u/20426972?v=4",
+        "description": "Simulation of instrumental systematic effects in the context of CMB observations",
+        "topics": [
+            "instrument",
+            "cmb",
+            "systematics",
+            "simulation"
+        ]
+    },
+    {
         "uid": "github/mriener/gausspyplus",
         "url": "https://github.com/mriener/gausspyplus",
         "rel": "/software/repository/github/mriener/gausspyplus",
@@ -31303,6 +31390,14 @@
             "python-packages",
             "spectra"
         ]
+    },
+    {
+        "uid": "github/ClaraLage/Portfolio-Transition",
+        "url": "https://github.com/ClaraLage/Portfolio-Transition",
+        "rel": "/software/repository/github/ClaraLage/Portfolio-Transition",
+        "avatar": "https://avatars.githubusercontent.com/u/76178917?v=4",
+        "description": "https://hal.archives-ouvertes.fr/hal-03423114/",
+        "topics": []
     },
     {
         "uid": "github/jmsdsouzaPhD/GWDALI",
@@ -33486,6 +33581,14 @@
         ]
     },
     {
+        "uid": "github/Yu-Group/simChef",
+        "url": "https://github.com/Yu-Group/simChef",
+        "rel": "/software/repository/github/Yu-Group/simChef",
+        "avatar": "https://avatars.githubusercontent.com/u/26810483?v=4",
+        "description": "An R package to facilitate PCS simulation studies.",
+        "topics": []
+    },
+    {
         "uid": "github/paulbrodersen/netgraph",
         "url": "https://github.com/paulbrodersen/netgraph",
         "rel": "/software/repository/github/paulbrodersen/netgraph",
@@ -34805,6 +34908,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/318990?v=4",
         "description": "R package to visualize genetic maps and QTL analysis.",
         "topics": []
+    },
+    {
+        "uid": "github/HofstadterTools/HofstadterTools",
+        "url": "https://github.com/HofstadterTools/HofstadterTools",
+        "rel": "/software/repository/github/HofstadterTools/HofstadterTools",
+        "avatar": "https://avatars.githubusercontent.com/u/146359056?v=4",
+        "description": "A Python package for analyzing the Hofstadter model.",
+        "topics": [
+            "band-theory",
+            "condensed-matter-physics",
+            "electromagnetism",
+            "fractals",
+            "mathematical-physics",
+            "quantum-hall-effect",
+            "quantum-physics",
+            "theoretical-physics",
+            "topological-materials",
+            "topological-order"
+        ]
     },
     {
         "uid": "github/c3s-magic/c3s-magic-wps",
@@ -36275,6 +36397,14 @@
         "rel": "/software/repository/github/ska-sa/katdal",
         "avatar": "https://avatars.githubusercontent.com/u/1210238?v=4",
         "description": "Data access library for the MeerKAT radio telescope",
+        "topics": []
+    },
+    {
+        "uid": "github/Tomcxf/FASTdRNA",
+        "url": "https://github.com/Tomcxf/FASTdRNA",
+        "rel": "/software/repository/github/Tomcxf/FASTdRNA",
+        "avatar": "https://avatars.githubusercontent.com/u/75790226?v=4",
+        "description": "FASTdRNA is a workflow for analysis of ONT direct RNA seq dataset",
         "topics": []
     },
     {
@@ -40992,6 +41122,14 @@
         "rel": "/software/repository/github/CavendishAstrophysics/postmortem",
         "avatar": "https://avatars.githubusercontent.com/u/7826375?v=4",
         "description": " Visibility data reduction and map making package from MRAO",
+        "topics": []
+    },
+    {
+        "uid": "github/shaelebrown/TDApplied",
+        "url": "https://github.com/shaelebrown/TDApplied",
+        "rel": "/software/repository/github/shaelebrown/TDApplied",
+        "avatar": "https://avatars.githubusercontent.com/u/56615362?v=4",
+        "description": "An R package for statistics and machine learning with persistence diagrams",
         "topics": []
     },
     {
@@ -47765,6 +47903,14 @@
         "topics": []
     },
     {
+        "uid": "github/hendr1km/dropout",
+        "url": "https://github.com/hendr1km/dropout",
+        "rel": "/software/repository/github/hendr1km/dropout",
+        "avatar": "https://avatars.githubusercontent.com/u/124534996?v=4",
+        "description": "tools for dropout analysis when working with survey data",
+        "topics": []
+    },
+    {
         "uid": "github/justyncw/STAR_MELT",
         "url": "https://github.com/justyncw/STAR_MELT",
         "rel": "/software/repository/github/justyncw/STAR_MELT",
@@ -51616,6 +51762,27 @@
         "avatar": "https://avatars.githubusercontent.com/u/30695578?v=4",
         "description": "scLRTC:imputation for single-cell RNA-seq data via low rank tensor completion",
         "topics": []
+    },
+    {
+        "uid": "github/Pometry/Raphtory",
+        "url": "https://github.com/Pometry/Raphtory",
+        "rel": "/software/repository/github/Pometry/Raphtory",
+        "avatar": "https://avatars.githubusercontent.com/u/89028534?v=4",
+        "description": "Blazingly fast, vectorised, parallel, and scalable temporal graph engine for Rust, Python and JavaScript",
+        "topics": [
+            "graph",
+            "graph-algorithms",
+            "graph-analysis",
+            "graph-theory",
+            "graphviz",
+            "python",
+            "rust",
+            "temporal-networks",
+            "analytics",
+            "embeddable-database",
+            "graph-database",
+            "time-series"
+        ]
     },
     {
         "uid": "github/monarch-initiative/loinc2hpo",
@@ -56241,6 +56408,14 @@
         "topics": []
     },
     {
+        "uid": "github/rkingsbury/pyEQL",
+        "url": "https://github.com/KingsburyLab/pyEQL",
+        "rel": "/software/repository/github/rkingsbury/pyEQL",
+        "avatar": "https://avatars.githubusercontent.com/u/107872527?v=4",
+        "description": "A Python library for solution chemistry",
+        "topics": []
+    },
+    {
         "uid": "github/dtcc-platform/dtcc-builder",
         "url": "https://github.com/dtcc-platform/dtcc-builder",
         "rel": "/software/repository/github/dtcc-platform/dtcc-builder",
@@ -56473,6 +56648,14 @@
         "topics": []
     },
     {
+        "uid": "github/VChristiaens/MINDS",
+        "url": "https://github.com/VChristiaens/MINDS",
+        "rel": "/software/repository/github/VChristiaens/MINDS",
+        "avatar": "https://avatars.githubusercontent.com/u/13889052?v=4",
+        "description": "MINDS pipeline for the reduction of MIRI-MRS data",
+        "topics": []
+    },
+    {
         "uid": "github/ParisAstronomicalDataCentre/OPUS",
         "url": "https://github.com/ParisAstronomicalDataCentre/OPUS",
         "rel": "/software/repository/github/ParisAstronomicalDataCentre/OPUS",
@@ -56679,6 +56862,14 @@
         "rel": "/software/repository/github/cwinpy/cwinpy",
         "avatar": "https://avatars.githubusercontent.com/u/47671702?v=4",
         "description": "CW Inference in Python",
+        "topics": []
+    },
+    {
+        "uid": "github/AndresRTejedor/Mold",
+        "url": "https://github.com/AndresRTejedor/Mold",
+        "rel": "/software/repository/github/AndresRTejedor/Mold",
+        "avatar": "https://avatars.githubusercontent.com/u/62102050?v=4",
+        "description": "Lammps package including square-like well potential to implement Mold integration and Lattice mold techniques",
         "topics": []
     },
     {
