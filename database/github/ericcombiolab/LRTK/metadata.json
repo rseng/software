@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/ericcombiolab/LRTK",
+    "url": "https://github.com/ericcombiolab/LRTK",
+    "data": {
+        "name": "LRTK",
+        "url": "https://github.com/ericcombiolab/LRTK",
+        "full_name": "ericcombiolab/LRTK",
+        "html_url": "https://github.com/ericcombiolab/LRTK",
+        "private": false,
+        "description": "A unified and versatile toolkit for analyzing Linked-Read sequencing data",
+        "created_at": "2022-04-19T02:52:20Z",
+        "updated_at": "2024-03-07T17:45:59Z",
+        "clone_url": "https://github.com/ericcombiolab/LRTK.git",
+        "homepage": null,
+        "size": 259677,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "C",
+        "open_issues_count": 3,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/ericcombiolab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/103976514?v=4",
+            "login": "ericcombiolab",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2024-04-07 00:36:38.688055",
+        "avatar": "https://avatars.githubusercontent.com/u/103976514?v=4"
+    }
+}
