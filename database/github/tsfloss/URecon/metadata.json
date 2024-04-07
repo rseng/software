@@ -1,0 +1,31 @@
+{
+    "parser": "github",
+    "uid": "github/tsfloss/URecon",
+    "url": "https://github.com/tsfloss/URecon",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2024JCAP...02..031F",
+            "https://ui.adsabs.harvard.edu/abs/2024ascl.soft03013F/abstract"
+        ],
+        "title": "URecon: Reconstruct initial conditions of N-Body simulations",
+        "url": "https://github.com/tsfloss/URecon",
+        "name": "URecon",
+        "full_name": "tsfloss/URecon",
+        "html_url": "https://github.com/tsfloss/URecon",
+        "description": "U-Net Architecture to reconstruct the initial conditions of N-Body simulations",
+        "created_at": "2023-05-08T10:19:58Z",
+        "updated_at": "2023-05-12T04:23:40Z",
+        "clone_url": "https://github.com/tsfloss/URecon.git",
+        "size": 50100,
+        "language": "Jupyter Notebook",
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/tsfloss",
+            "avatar_url": "https://avatars.githubusercontent.com/u/61275325?v=4",
+            "login": "tsfloss",
+            "type": "User"
+        },
+        "timestamp": "2024-04-07 00:36:18.460648",
+        "avatar": "https://avatars.githubusercontent.com/u/61275325?v=4"
+    }
+}
