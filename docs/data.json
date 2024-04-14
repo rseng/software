@@ -3078,6 +3078,21 @@
         ]
     },
     {
+        "uid": "github/caimeng2/seesus",
+        "url": "https://github.com/caimeng2/seesus",
+        "rel": "/software/repository/github/caimeng2/seesus",
+        "avatar": "https://avatars.githubusercontent.com/u/51100838?v=4",
+        "description": "A Python package that identifies 17 Sustainable Development Goals and their 169 Targets in text, and classifies into social, environmental, and economic sustainability.",
+        "topics": [
+            "classification",
+            "regular-expressions",
+            "sdg",
+            "sustainability",
+            "sustainability-developoment-goals",
+            "text-mining"
+        ]
+    },
+    {
         "uid": "github/exomishra/kobe",
         "url": "https://github.com/exomishra/kobe",
         "rel": "/software/repository/github/exomishra/kobe",
@@ -5751,6 +5766,14 @@
         "rel": "/software/repository/github/nuclear-multimessenger-astronomy/nmma",
         "avatar": "https://avatars.githubusercontent.com/u/98920591?v=4",
         "description": "A pythonic library for probing nuclear physics and cosmology with multimessenger analysis",
+        "topics": []
+    },
+    {
+        "uid": "github/ABSESpy/ABSESpy",
+        "url": "https://github.com/ABSESpy/ABSESpy",
+        "rel": "/software/repository/github/ABSESpy/ABSESpy",
+        "avatar": "https://avatars.githubusercontent.com/u/148390310?v=4",
+        "description": "An Agent-based Social-ecological System python framework for coupling human-nature researches. ",
         "topics": []
     },
     {
@@ -12019,6 +12042,17 @@
         ]
     },
     {
+        "uid": "github/lh3/bfc",
+        "url": "https://github.com/lh3/bfc",
+        "rel": "/software/repository/github/lh3/bfc",
+        "avatar": "https://avatars.githubusercontent.com/u/480346?v=4",
+        "description": "High-performance error correction for Illumina resequencing data",
+        "topics": [
+            "bioinformatics",
+            "genomics"
+        ]
+    },
+    {
         "uid": "github/lh3/wgsim",
         "url": "https://github.com/lh3/wgsim",
         "rel": "/software/repository/github/lh3/wgsim",
@@ -12124,6 +12158,14 @@
         "rel": "/software/repository/github/SarveshVGharat/Plages-Identification",
         "avatar": "https://avatars.githubusercontent.com/u/89913681?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/alphapsa/PIPE",
+        "url": "https://github.com/alphapsa/PIPE",
+        "rel": "/software/repository/github/alphapsa/PIPE",
+        "avatar": "https://avatars.githubusercontent.com/u/13644798?v=4",
+        "description": "PSF Imagette Photometric Extraction - PSF photometry for CHEOPS data",
         "topics": []
     },
     {
@@ -17330,6 +17372,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/31384108?v=4",
         "description": "A predictor for m6A sites.",
         "topics": []
+    },
+    {
+        "uid": "github/solislemuslab/minaa",
+        "url": "https://github.com/solislemuslab/minaa",
+        "rel": "/software/repository/github/solislemuslab/minaa",
+        "avatar": "https://avatars.githubusercontent.com/u/57375595?v=4",
+        "description": "MiNAA aligns a pair of networks based their topologies and biologies.",
+        "topics": [
+            "graal",
+            "graph-algorithm",
+            "graphlets",
+            "interaction-network",
+            "microbiome",
+            "network-alignment",
+            "orca"
+        ]
     },
     {
         "uid": "github/gheald/rmclean",
@@ -26930,6 +26988,20 @@
         ]
     },
     {
+        "uid": "github/tesselle/aion",
+        "url": "https://github.com/tesselle/aion",
+        "rel": "/software/repository/github/tesselle/aion",
+        "avatar": "https://avatars.githubusercontent.com/u/78033555?v=4",
+        "description": ":stopwatch: Archaeological Time Series",
+        "topics": [
+            "archaeological-science",
+            "archaeology",
+            "r-package",
+            "chronology",
+            "time-series"
+        ]
+    },
+    {
         "uid": "github/SciOmicsLab/PhenoComb",
         "url": "https://github.com/SciOmicsLab/PhenoComb",
         "rel": "/software/repository/github/SciOmicsLab/PhenoComb",
@@ -32572,6 +32644,14 @@
         "topics": []
     },
     {
+        "uid": "github/GRChombo/GRDzhadzha",
+        "url": "https://github.com/GRTLCollaboration/GRDzhadzha",
+        "rel": "/software/repository/github/GRChombo/GRDzhadzha",
+        "avatar": "https://avatars.githubusercontent.com/u/11063947?v=4",
+        "description": "A code to evolve matter on curved spacetimes with an analytic time and space dependence, e.g. black holes",
+        "topics": []
+    },
+    {
         "uid": "github/GRChombo/GRChombo",
         "url": "https://github.com/GRChombo/GRChombo",
         "rel": "/software/repository/github/GRChombo/GRChombo",
@@ -36653,6 +36733,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/63117072?v=4",
         "description": "A TESS Archive RR Lyrae Classifier",
         "topics": []
+    },
+    {
+        "uid": "github/KenethGarcia/ClassiPyGRB",
+        "url": "https://github.com/KenethGarcia/ClassiPyGRB",
+        "rel": "/software/repository/github/KenethGarcia/ClassiPyGRB",
+        "avatar": "https://avatars.githubusercontent.com/u/102555105?v=4",
+        "description": "This repository contains all the updates, code, and documentation related to ClassiPyGRB.",
+        "topics": [
+            "grbs",
+            "machine-learning",
+            "machine-learning-algorithms",
+            "astrophysics",
+            "unsupervised-learning",
+            "unsupervised-machine-learning"
+        ]
     },
     {
         "uid": "github/jnktsj/DNApi",
@@ -58815,6 +58910,25 @@
             "julia-language",
             "ecology",
             "biology"
+        ]
+    },
+    {
+        "uid": "github/CEMeNT-PSAAP/MCDC",
+        "url": "https://github.com/CEMeNT-PSAAP/MCDC",
+        "rel": "/software/repository/github/CEMeNT-PSAAP/MCDC",
+        "avatar": "https://avatars.githubusercontent.com/u/69278530?v=4",
+        "description": "MC/DC: Monte Carlo Dynamic Code",
+        "topics": [
+            "high-performance-computing",
+            "monte-carlo-simulation",
+            "neutron-transport",
+            "neutronics",
+            "nuclear-engineering",
+            "particle-transport",
+            "radiation-transport",
+            "parallel",
+            "python",
+            "simulation"
         ]
     },
     {
