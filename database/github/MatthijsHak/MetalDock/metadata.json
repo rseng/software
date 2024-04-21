@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/MatthijsHak/MetalDock",
+    "url": "https://github.com/MatthijsHak/MetalDock",
+    "data": {
+        "doi": "10.1021/ACS.JCIM.3C01582",
+        "name": "MetalDock",
+        "url": "https://github.com/MatthijsHak/MetalDock",
+        "full_name": "MatthijsHak/MetalDock",
+        "html_url": "https://github.com/MatthijsHak/MetalDock",
+        "description": "Dock organometallic compounds to proteins/DNA/biomolecules",
+        "created_at": "2022-06-15T07:54:46Z",
+        "updated_at": "2024-04-14T02:23:35Z",
+        "clone_url": "https://github.com/MatthijsHak/MetalDock.git",
+        "size": 93729,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Python",
+        "open_issues_count": 4,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/MatthijsHak",
+            "avatar_url": "https://avatars.githubusercontent.com/u/95848709?v=4",
+            "login": "MatthijsHak",
+            "type": "User"
+        },
+        "timestamp": "2024-04-21 00:35:53.916441",
+        "avatar": "https://avatars.githubusercontent.com/u/95848709?v=4"
+    }
+}
