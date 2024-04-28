@@ -3667,6 +3667,14 @@
         ]
     },
     {
+        "uid": "github/equitable-equations/fqar",
+        "url": "https://github.com/equitable-equations/fqar",
+        "rel": "/software/repository/github/equitable-equations/fqar",
+        "avatar": "https://avatars.githubusercontent.com/u/110704949?v=4",
+        "description": "The fqar package provides R tools for downloading and analyzing floristic quality assessment data from www.universalFQA.org",
+        "topics": []
+    },
+    {
         "uid": "github/VU-BEAM-Lab/GENRE",
         "url": "https://github.com/VU-BEAM-Lab/GENRE",
         "rel": "/software/repository/github/VU-BEAM-Lab/GENRE",
@@ -5597,6 +5605,14 @@
         "topics": []
     },
     {
+        "uid": "github/CSi-Studio/G-Aligner",
+        "url": "https://github.com/CSi-Studio/G-Aligner",
+        "rel": "/software/repository/github/CSi-Studio/G-Aligner",
+        "avatar": "https://avatars.githubusercontent.com/u/50073614?v=4",
+        "description": "G-Aligner: a graph-based feature alignment method for untargeted LC-MS-based metabolomics",
+        "topics": []
+    },
+    {
         "uid": "github/raghuastro/GRIZZLY",
         "url": "https://github.com/raghuastro/GRIZZLY",
         "rel": "/software/repository/github/raghuastro/GRIZZLY",
@@ -5792,6 +5808,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/5565461?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/range-et/PGL",
+        "url": "https://github.com/range-et/PGL",
+        "rel": "/software/repository/github/range-et/PGL",
+        "avatar": "https://avatars.githubusercontent.com/u/64481693?v=4",
+        "description": "The Plebeian Graph Library: A WebGL based network visusalisation and diagnostics package",
+        "topics": [
+            "data-visualization",
+            "graph",
+            "graph-theory",
+            "visualization",
+            "webgl"
+        ]
     },
     {
         "uid": "github/dzerbino/velvet",
@@ -6069,6 +6099,14 @@
         "rel": "/software/repository/github/astrobrent/mappings",
         "avatar": "https://avatars.githubusercontent.com/u/3286205?v=4",
         "description": "MAPPINGSIII repository",
+        "topics": []
+    },
+    {
+        "uid": "github/whybsml/whybsml",
+        "url": "https://github.com/whybsml/whybsml",
+        "rel": "/software/repository/github/whybsml/whybsml",
+        "avatar": "https://avatars.githubusercontent.com/u/138935718?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -15294,6 +15332,14 @@
         ]
     },
     {
+        "uid": "github/DamynChipman/EllipticForest",
+        "url": "https://github.com/DamynChipman/EllipticForest",
+        "rel": "/software/repository/github/DamynChipman/EllipticForest",
+        "avatar": "https://avatars.githubusercontent.com/u/26394601?v=4",
+        "description": "A Direct Solver for Elliptic Partial Differential Equations on a Forest of Quadtree Meshes",
+        "topics": []
+    },
+    {
         "uid": "github/sap218/jabberwocky",
         "url": "https://github.com/sap218/jabberwocky",
         "rel": "/software/repository/github/sap218/jabberwocky",
@@ -15379,6 +15425,14 @@
         "rel": "/software/repository/github/chakrah/sage",
         "avatar": "https://avatars.githubusercontent.com/u/100677905?v=4",
         "description": "This code creates the stellar activity grid for exoplanets",
+        "topics": []
+    },
+    {
+        "uid": "github/bc3LC/gcamreport",
+        "url": "https://github.com/bc3LC/gcamreport",
+        "rel": "/software/repository/github/bc3LC/gcamreport",
+        "avatar": "https://avatars.githubusercontent.com/u/113363938?v=4",
+        "description": "Package to process GCAM results and standardize the format",
         "topics": []
     },
     {
@@ -25602,6 +25656,20 @@
         "topics": []
     },
     {
+        "uid": "github/arup-group/pam",
+        "url": "https://github.com/arup-group/pam",
+        "rel": "/software/repository/github/arup-group/pam",
+        "avatar": "https://avatars.githubusercontent.com/u/59966781?v=4",
+        "description": "Generate and modify transport demand scenarios via a Python API.",
+        "topics": [
+            "cml",
+            "transit",
+            "arup",
+            "city-modelling",
+            "city-modelling-lab"
+        ]
+    },
+    {
         "uid": "github/nbellomo/Multi_CLASS",
         "url": "https://github.com/nbellomo/Multi_CLASS",
         "rel": "/software/repository/github/nbellomo/Multi_CLASS",
@@ -27472,6 +27540,14 @@
             "python",
             "3ml"
         ]
+    },
+    {
+        "uid": "github/IMMM-SFA/statemodify",
+        "url": "https://github.com/IMMM-SFA/statemodify",
+        "rel": "/software/repository/github/IMMM-SFA/statemodify",
+        "avatar": "https://avatars.githubusercontent.com/u/31457237?v=4",
+        "description": "A package to modify StateMod's input and output files for exploratory modeling",
+        "topics": []
     },
     {
         "uid": "github/IMMM-SFA/tell",
@@ -35683,6 +35759,23 @@
         ]
     },
     {
+        "uid": "github/RenneLab/hybkit",
+        "url": "https://github.com/RenneLab/hybkit",
+        "rel": "/software/repository/github/RenneLab/hybkit",
+        "avatar": "https://avatars.githubusercontent.com/u/34487862?v=4",
+        "description": "Toolkit for analysis of \".hyb\" format nucleotide sequence data from chimeric RNA experiments.",
+        "topics": [
+            "genomics",
+            "bioinformatics",
+            "bioinformatics-tool",
+            "bioinformatics-pipeline",
+            "ribonomics",
+            "hyb",
+            "clash",
+            "qclash"
+        ]
+    },
+    {
         "uid": "github/SJaffa/Jplots",
         "url": "https://github.com/SJaffa/Jplots",
         "rel": "/software/repository/github/SJaffa/Jplots",
@@ -36096,6 +36189,14 @@
         "rel": "/software/repository/github/eEcoLiDAR/Laserfarm",
         "avatar": "https://avatars.githubusercontent.com/u/29599373?v=4",
         "description": "Laserchicken Framework for Applications in Research in Macro-ecology",
+        "topics": []
+    },
+    {
+        "uid": "github/AliYoussef96/parazitCUB",
+        "url": "https://github.com/AliYoussef96/parazitCUB",
+        "rel": "/software/repository/github/AliYoussef96/parazitCUB",
+        "avatar": "https://avatars.githubusercontent.com/u/42375503?v=4",
+        "description": "parazitCUB streamlines the process of investigating the adaptations of parasites' Codon Usage Bias (CUB) within the R environment",
         "topics": []
     },
     {
@@ -37731,6 +37832,26 @@
         "topics": []
     },
     {
+        "uid": "github/KennethEnevoldsen/augmenty",
+        "url": "https://github.com/KennethEnevoldsen/augmenty",
+        "rel": "/software/repository/github/KennethEnevoldsen/augmenty",
+        "avatar": "https://avatars.githubusercontent.com/u/23721977?v=4",
+        "description": "Augmenty is an augmentation library based on spaCy for augmenting texts.",
+        "topics": [
+            "augmentation",
+            "spacy-extension",
+            "spacy",
+            "nlp",
+            "nlproc",
+            "natural-language-processing",
+            "python",
+            "text-classification",
+            "training-data",
+            "text-augmentation",
+            "spacy-nlp"
+        ]
+    },
+    {
         "uid": "github/chemfiles/chemfiles",
         "url": "https://github.com/chemfiles/chemfiles",
         "rel": "/software/repository/github/chemfiles/chemfiles",
@@ -37806,6 +37927,14 @@
             "python",
             "python-brain-computer-interface"
         ]
+    },
+    {
+        "uid": "github/LMJL-Alea/ktest",
+        "url": "https://github.com/LMJL-Alea/ktest",
+        "rel": "/software/repository/github/LMJL-Alea/ktest",
+        "avatar": "https://avatars.githubusercontent.com/u/85163893?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/hpc4cmb/toast",
@@ -41240,6 +41369,17 @@
             "convolutional-neural-networks",
             "keras",
             "agn-feedback"
+        ]
+    },
+    {
+        "uid": "github/3top1a/biotools-linter",
+        "url": "https://github.com/3top1a/biotools-linter",
+        "rel": "/software/repository/github/3top1a/biotools-linter",
+        "avatar": "https://avatars.githubusercontent.com/u/57371001?v=4",
+        "description": "This website serves to help bio.tools database editors and maintainers help with data quality by searching for common quantifiable errors.",
+        "topics": [
+            "biotools",
+            "linter"
         ]
     },
     {
@@ -46051,6 +46191,14 @@
         ]
     },
     {
+        "uid": "github/JGCRI/gcamfaostat",
+        "url": "https://github.com/JGCRI/gcamfaostat",
+        "rel": "/software/repository/github/JGCRI/gcamfaostat",
+        "avatar": "https://avatars.githubusercontent.com/u/8431983?v=4",
+        "description": "An R package to prepare, process, and synthesize FAOSTAT data for global agroeconomic and multisector dynamic modeling",
+        "topics": []
+    },
+    {
         "uid": "github/milnus/Magphi",
         "url": "https://github.com/milnus/Magphi",
         "rel": "/software/repository/github/milnus/Magphi",
@@ -47717,6 +47865,14 @@
         "rel": "/software/repository/github/oliverphilcox/Keplers-Goat-Herd",
         "avatar": "https://avatars.githubusercontent.com/u/30410089?v=4",
         "description": "Solving Kepler's equation via contour integration, implemented in C++",
+        "topics": []
+    },
+    {
+        "uid": "github/oliverphilcox/PolyBin3D",
+        "url": "https://github.com/oliverphilcox/PolyBin3D",
+        "rel": "/software/repository/github/oliverphilcox/PolyBin3D",
+        "avatar": "https://avatars.githubusercontent.com/u/30410089?v=4",
+        "description": "Binned polyspectrum estimation for 3D large-scale structure, optionally mask-deconvolved ",
         "topics": []
     },
     {
@@ -59457,6 +59613,14 @@
         "rel": "/software/repository/github/andymummeryastro/tidalspin",
         "avatar": "https://avatars.githubusercontent.com/u/87980281?v=4",
         "description": "Python package for constraining black hole spins using the properties of relativistic tidal forces",
+        "topics": []
+    },
+    {
+        "uid": "github/David-McKenna/udpPacketManager",
+        "url": "https://github.com/David-McKenna/udpPacketManager",
+        "rel": "/software/repository/github/David-McKenna/udpPacketManager",
+        "avatar": "https://avatars.githubusercontent.com/u/43447097?v=4",
+        "description": "C Library for handling CEP packet data from an international LOFAR station",
         "topics": []
     },
     {
