@@ -40,6 +40,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/burstcube/mhealpy",
+        "url": "https://gitlab.com/burstcube/mhealpy",
+        "rel": "/software/repository/gitlab/burstcube/mhealpy",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/21249835/Screen_Shot_2020-09-20_at_3.59.09_PM.png",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "gitlab/andreas.andrusch/paipline",
         "url": "https://gitlab.com/andreas.andrusch/paipline",
         "rel": "/software/repository/gitlab/andreas.andrusch/paipline",
@@ -830,6 +838,14 @@
             "orthology",
             "orthology inference"
         ]
+    },
+    {
+        "uid": "gitlab/rahmannlab/episegmix",
+        "url": "https://gitlab.com/rahmannlab/episegmix",
+        "rel": "/software/repository/gitlab/rahmannlab/episegmix",
+        "avatar": "https://gitlab.comNone",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "gitlab/mcfuman/SpectraPy",
@@ -1781,6 +1797,14 @@
         "topics": []
     },
     {
+        "uid": "github/FZJ-IEK3-VSA/ETHOS_PeNALPS",
+        "url": "https://github.com/FZJ-IEK3-VSA/ETHOS_PeNALPS",
+        "rel": "/software/repository/github/FZJ-IEK3-VSA/ETHOS_PeNALPS",
+        "avatar": "https://avatars.githubusercontent.com/u/28654423?v=4",
+        "description": "Petri Net Agent based Load Profile Simulator",
+        "topics": []
+    },
+    {
         "uid": "github/patscott/ddcalc",
         "url": "https://github.com/patscott/DDCalc",
         "rel": "/software/repository/github/patscott/ddcalc",
@@ -2130,6 +2154,14 @@
         "rel": "/software/repository/github/carlosborca/CrystaLattE",
         "avatar": "https://avatars2.githubusercontent.com/u/23508182?v=4",
         "description": "Set of scripts to automate the calculation of crystal lattice energies.",
+        "topics": []
+    },
+    {
+        "uid": "github/robynlm/ebweyl",
+        "url": "https://github.com/robynlm/ebweyl",
+        "rel": "/software/repository/github/robynlm/ebweyl",
+        "avatar": "https://avatars.githubusercontent.com/u/111498435?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -2599,6 +2631,14 @@
         "topics": []
     },
     {
+        "uid": "github/benyhh/ml-telescope-pointing-correction",
+        "url": "https://github.com/benyhh/ml-telescope-pointing-correction",
+        "rel": "/software/repository/github/benyhh/ml-telescope-pointing-correction",
+        "avatar": "https://avatars.githubusercontent.com/u/59779138?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/bretthandrews/flexCE",
         "url": "https://github.com/bretthandrews/flexce",
         "rel": "/software/repository/github/bretthandrews/flexCE",
@@ -3019,6 +3059,21 @@
             "materials-science",
             "datasets",
             "chemistry"
+        ]
+    },
+    {
+        "uid": "github/GrainLearning/grainLearning",
+        "url": "https://github.com/GrainLearning/grainLearning",
+        "rel": "/software/repository/github/GrainLearning/grainLearning",
+        "avatar": "https://avatars.githubusercontent.com/u/100259686?v=4",
+        "description": "A Bayesian uncertainty quantification toolbox for discrete and continuum numerical models of granular materials, developed by various projects of the University of Twente (NL), the Netherlands eScience Center (NL), University of Newcastle (AU), and Hiroshima University (JP).",
+        "topics": [
+            "bayesian-inference",
+            "low-discrepancy-sequences",
+            "mixture-models",
+            "parameter-identification",
+            "sequential-monte-carlo",
+            "uncertainty-quantification"
         ]
     },
     {
@@ -4910,6 +4965,19 @@
         ]
     },
     {
+        "uid": "github/jorgensd/adios4dolfinx",
+        "url": "https://github.com/jorgensd/adios4dolfinx",
+        "rel": "/software/repository/github/jorgensd/adios4dolfinx",
+        "avatar": "https://avatars.githubusercontent.com/u/8554300?v=4",
+        "description": "Extending DOLFINx with checkpointing functionality",
+        "topics": [
+            "adios2",
+            "fenicsx",
+            "checkpointing",
+            "mpi-applications"
+        ]
+    },
+    {
         "uid": "github/PMBio/spatialde2-paper",
         "url": "https://github.com/PMBio/spatialde2-paper",
         "rel": "/software/repository/github/PMBio/spatialde2-paper",
@@ -5168,6 +5236,14 @@
         "rel": "/software/repository/github/cullanhowlett/l-picola",
         "avatar": "https://avatars.githubusercontent.com/u/5528370?v=4",
         "description": "A public repository for the code L-PICOLA",
+        "topics": []
+    },
+    {
+        "uid": "github/DTsuna/binary_precursor",
+        "url": "https://github.com/DTsuna/binary_precursor",
+        "rel": "/software/repository/github/DTsuna/binary_precursor",
+        "avatar": "https://avatars.githubusercontent.com/u/20248820?v=4",
+        "description": "Light curve model of supernova precursors powered by compact object companions",
         "topics": []
     },
     {
@@ -15420,6 +15496,14 @@
         "topics": []
     },
     {
+        "uid": "github/mkunimoto/LEO-vetter",
+        "url": "https://github.com/mkunimoto/LEO-vetter",
+        "rel": "/software/repository/github/mkunimoto/LEO-vetter",
+        "avatar": "https://avatars.githubusercontent.com/u/33587249?v=4",
+        "description": "Automated vetting for TESS planet candidates",
+        "topics": []
+    },
+    {
         "uid": "github/chakrah/sage",
         "url": "https://github.com/chakrah/sage",
         "rel": "/software/repository/github/chakrah/sage",
@@ -17235,6 +17319,14 @@
         "topics": []
     },
     {
+        "uid": "github/microbioinformatic/Co-PATHOgenex",
+        "url": "https://github.com/microbioinformatic/Co-PATHOgenex",
+        "rel": "/software/repository/github/microbioinformatic/Co-PATHOgenex",
+        "avatar": "https://avatars.githubusercontent.com/u/38429110?v=4",
+        "description": "Supporting scripts and files for R shiny app Co-PATHOgenex",
+        "topics": []
+    },
+    {
         "uid": "github/steven-murray/pydftools",
         "url": "https://github.com/steven-murray/pydftools",
         "rel": "/software/repository/github/steven-murray/pydftools",
@@ -17331,6 +17423,16 @@
         "rel": "/software/repository/github/neuroanatomy/reorient",
         "avatar": "https://avatars1.githubusercontent.com/u/11254134?v=4",
         "description": "A tool for reorienting and cropping MRI data",
+        "topics": [
+            "hacktoberfest"
+        ]
+    },
+    {
+        "uid": "github/neuroanatomy/thresholdmann",
+        "url": "https://github.com/neuroanatomy/thresholdmann",
+        "rel": "/software/repository/github/neuroanatomy/thresholdmann",
+        "avatar": "https://avatars.githubusercontent.com/u/11254134?v=4",
+        "description": "A tool to apply a smoothly varying threshold to a nifti image",
         "topics": [
             "hacktoberfest"
         ]
@@ -21575,6 +21677,14 @@
         ]
     },
     {
+        "uid": "github/OliverFHD/GPUniverse",
+        "url": "https://github.com/OliverFHD/GPUniverse",
+        "rel": "/software/repository/github/OliverFHD/GPUniverse",
+        "avatar": "https://avatars.githubusercontent.com/u/16794844?v=4",
+        "description": "Modelling holographic quantum fields in finite dimensional Hilbert spaces with Generalised Pauli Operators (GPOs) and overlapping degrees of freedom. Also: simulate overlapping qubits with GPUs.",
+        "topics": []
+    },
+    {
         "uid": "github/shaniAmare/long_read_tools",
         "url": "https://github.com/shaniAmare/long_read_tools",
         "rel": "/software/repository/github/shaniAmare/long_read_tools",
@@ -22716,6 +22826,14 @@
         "topics": []
     },
     {
+        "uid": "github/dshawul/NebulaSEM",
+        "url": "https://github.com/dshawul/NebulaSEM",
+        "rel": "/software/repository/github/dshawul/NebulaSEM",
+        "avatar": "https://avatars.githubusercontent.com/u/213842?v=4",
+        "description": "Finite Volume (FV) and high-order Discontinuous Galerkin (DG) solver",
+        "topics": []
+    },
+    {
         "uid": "github/BioComputingUP/ring-pymol",
         "url": "https://github.com/BioComputingUP/ring-pymol",
         "rel": "/software/repository/github/BioComputingUP/ring-pymol",
@@ -23017,6 +23135,14 @@
         "topics": []
     },
     {
+        "uid": "github/cuDisc/cuDisc",
+        "url": "https://github.com/cuDisc/cuDisc",
+        "rel": "/software/repository/github/cuDisc/cuDisc",
+        "avatar": "https://avatars.githubusercontent.com/u/158287095?v=4",
+        "description": "A CUDA-accelerated 2D code for protoplanetary disc evolution simulations",
+        "topics": []
+    },
+    {
         "uid": "github/chrishales/pieflag",
         "url": "https://github.com/chrishales/pieflag",
         "rel": "/software/repository/github/chrishales/pieflag",
@@ -23159,6 +23285,14 @@
             "phylo-kmers",
             "taxonomic-classification"
         ]
+    },
+    {
+        "uid": "github/phylo42/EPIK",
+        "url": "https://github.com/phylo42/EPIK",
+        "rel": "/software/repository/github/phylo42/EPIK",
+        "avatar": "https://avatars.githubusercontent.com/u/61278577?v=4",
+        "description": "Alignment-free phylogenetic placement",
+        "topics": []
     },
     {
         "uid": "github/quantling/pyndl",
@@ -23440,6 +23574,18 @@
             "python",
             "eeg",
             "regression"
+        ]
+    },
+    {
+        "uid": "github/CaymanUnterborn/ExoPlex",
+        "url": "https://github.com/CaymanUnterborn/ExoPlex",
+        "rel": "/software/repository/github/CaymanUnterborn/ExoPlex",
+        "avatar": "https://avatars.githubusercontent.com/u/7727288?v=4",
+        "description": "A thermodynamically self-consistent mass-radius-composition calculator",
+        "topics": [
+            "exoplanets",
+            "interiors",
+            "mineralogy"
         ]
     },
     {
@@ -28249,11 +28395,27 @@
         ]
     },
     {
+        "uid": "github/guilledufort/EMVC-2",
+        "url": "https://github.com/guilledufort/EMVC-2",
+        "rel": "/software/repository/github/guilledufort/EMVC-2",
+        "avatar": "https://avatars.githubusercontent.com/u/60487627?v=4",
+        "description": "An efficient SNV variant caller based on the expectation maximization algorithm. EMVC-2 is implemented in C and uses a python wrapper.",
+        "topics": []
+    },
+    {
         "uid": "github/ICAMS/strucscan",
         "url": "https://github.com/ICAMS/strucscan",
         "rel": "/software/repository/github/ICAMS/strucscan",
         "avatar": "https://avatars.githubusercontent.com/u/57955390?v=4",
         "description": "A lightweight python-based framework for high-throughput material simulation",
+        "topics": []
+    },
+    {
+        "uid": "github/tkzeng/Pangolin",
+        "url": "https://github.com/tkzeng/Pangolin",
+        "rel": "/software/repository/github/tkzeng/Pangolin",
+        "avatar": "https://avatars.githubusercontent.com/u/21118492?v=4",
+        "description": "Pangolin is a deep-learning method for predicting splice site strengths.",
         "topics": []
     },
     {
@@ -28624,6 +28786,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/22718554?v=4",
         "description": "Multidimensional atmospheric retrieval of exoplanet spectra.",
         "topics": []
+    },
+    {
+        "uid": "github/xzackli/WignerFamilies.jl",
+        "url": "https://github.com/xzackli/WignerFamilies.jl",
+        "rel": "/software/repository/github/xzackli/WignerFamilies.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/8048811?v=4",
+        "description": "compute families of wigner symbols with recurrence relations",
+        "topics": [
+            "wigner-symbols",
+            "wigner-3j",
+            "julia",
+            "quantum",
+            "cosmology"
+        ]
     },
     {
         "uid": "github/SSAGESproject/SSAGES",
@@ -29822,6 +29998,14 @@
         "rel": "/software/repository/github/xxsds/DYNAMIC",
         "avatar": "https://avatars.githubusercontent.com/u/17567160?v=4",
         "description": "Dynamic succinct/compressed data structures",
+        "topics": []
+    },
+    {
+        "uid": "github/DrJieZheng/meanoffset",
+        "url": "https://github.com/DrJieZheng/meanoffset",
+        "rel": "/software/repository/github/DrJieZheng/meanoffset",
+        "avatar": "https://avatars.githubusercontent.com/u/168158969?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -31557,6 +31741,14 @@
         ]
     },
     {
+        "uid": "github/tsfloss/BFast",
+        "url": "https://github.com/tsfloss/BFast",
+        "rel": "/software/repository/github/tsfloss/BFast",
+        "avatar": "https://avatars.githubusercontent.com/u/61275325?v=4",
+        "description": "A fast GPU based bispectrum estimator implemented using JAX",
+        "topics": []
+    },
+    {
         "uid": "github/tsfloss/DensityFieldTools",
         "url": "https://github.com/tsfloss/DensityFieldTools",
         "rel": "/software/repository/github/tsfloss/DensityFieldTools",
@@ -31589,6 +31781,22 @@
         "avatar": "https://avatars1.githubusercontent.com/u/43466647?v=4",
         "description": "Reference implementation for mzTab-M 2.0 for metabolomics",
         "topics": []
+    },
+    {
+        "uid": "github/henrysky/astroNN",
+        "url": "https://github.com/henrysky/astroNN",
+        "rel": "/software/repository/github/henrysky/astroNN",
+        "avatar": "https://avatars.githubusercontent.com/u/28623434?v=4",
+        "description": "Deep Learning for Astronomers with Tensorflow",
+        "topics": [
+            "tensorflow",
+            "neural-network",
+            "python",
+            "astronomy",
+            "astrophysics",
+            "science",
+            "neural-networks"
+        ]
     },
     {
         "uid": "github/jbattat/pep_core",
@@ -32646,6 +32854,23 @@
         "topics": []
     },
     {
+        "uid": "github/astro-informatics/s2fft",
+        "url": "https://github.com/astro-informatics/s2fft",
+        "rel": "/software/repository/github/astro-informatics/s2fft",
+        "avatar": "https://avatars.githubusercontent.com/u/10872187?v=4",
+        "description": "Differentiable and accelerated spherical transforms with JAX",
+        "topics": [
+            "differentiable-programming",
+            "jax",
+            "spherical-harmonics",
+            "wigner-d-matrix",
+            "wigner-transform",
+            "fourier-transform",
+            "recursion-algorithm",
+            "pytorch"
+        ]
+    },
+    {
         "uid": "github/astro-informatics/massmappy",
         "url": "https://github.com/astro-informatics/massmappy",
         "rel": "/software/repository/github/astro-informatics/massmappy",
@@ -32694,6 +32919,21 @@
             "machine-learning",
             "statistics-toolbox",
             "code"
+        ]
+    },
+    {
+        "uid": "github/astro-informatics/stringgen",
+        "url": "https://github.com/astro-informatics/stringgen",
+        "rel": "/software/repository/github/astro-informatics/stringgen",
+        "avatar": "https://avatars.githubusercontent.com/u/10872187?v=4",
+        "description": "Scattering based cosmic string emulation",
+        "topics": [
+            "cosmic-strings",
+            "cosmology",
+            "emulation",
+            "scattering-transform",
+            "statistics",
+            "wavelet-transform"
         ]
     },
     {
@@ -33328,6 +33568,14 @@
         "rel": "/software/repository/github/bradkav/DMRadon",
         "avatar": "https://avatars.githubusercontent.com/u/5381472?v=4",
         "description": "Tools for calculating the Radon Transform, for use in the analysis of Directional Dark Matter Direct Detection",
+        "topics": []
+    },
+    {
+        "uid": "github/bradkav/NbodyIMRI",
+        "url": "https://github.com/bradkav/NbodyIMRI",
+        "rel": "/software/repository/github/bradkav/NbodyIMRI",
+        "avatar": "https://avatars.githubusercontent.com/u/5381472?v=4",
+        "description": "N-body solver in python, tailored to intermediate-mass ratio inspirals of black holes and dark matter spikes",
         "topics": []
     },
     {
@@ -36563,6 +36811,14 @@
         "topics": []
     },
     {
+        "uid": "github/schulze61/RhoPop",
+        "url": "https://github.com/schulze61/RhoPop",
+        "rel": "/software/repository/github/schulze61/RhoPop",
+        "avatar": "https://avatars.githubusercontent.com/u/43186618?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/latrop/DECA",
         "url": "https://github.com/latrop/DECA",
         "rel": "/software/repository/github/latrop/DECA",
@@ -37471,6 +37727,18 @@
         ]
     },
     {
+        "uid": "github/BRAIN-TO/GIRFReco.jl",
+        "url": "https://github.com/BRAIN-TO/GIRFReco.jl",
+        "rel": "/software/repository/github/BRAIN-TO/GIRFReco.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/62714197?v=4",
+        "description": "An Open-Source End-to-End Pipeline for Spiral Magnetic Resonance Image (MRI) Reconstruction in Julia",
+        "topics": [
+            "mri",
+            "mri-brain",
+            "mri-reconstruction"
+        ]
+    },
+    {
         "uid": "github/cosmo-epfl/chemiscope",
         "url": "https://github.com/cosmo-epfl/chemiscope",
         "rel": "/software/repository/github/cosmo-epfl/chemiscope",
@@ -37511,6 +37779,14 @@
         "rel": "/software/repository/github/saberyoung/haffet",
         "avatar": "https://avatars.githubusercontent.com/u/7788642?v=4",
         "description": "Repository to analyze SN photometric and spectroscopic data",
+        "topics": []
+    },
+    {
+        "uid": "github/jcolinhill/pyilc",
+        "url": "https://github.com/jcolinhill/pyilc",
+        "rel": "/software/repository/github/jcolinhill/pyilc",
+        "avatar": "https://avatars.githubusercontent.com/u/16061599?v=4",
+        "description": "Needlet ILC in Python",
         "topics": []
     },
     {
@@ -38706,6 +38982,14 @@
         ]
     },
     {
+        "uid": "github/carronj/LensIt",
+        "url": "https://github.com/carronj/LensIt",
+        "rel": "/software/repository/github/carronj/LensIt",
+        "avatar": "https://avatars.githubusercontent.com/u/11379769?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/carronj/lenspyx",
         "url": "https://github.com/carronj/lenspyx",
         "rel": "/software/repository/github/carronj/lenspyx",
@@ -39894,6 +40178,16 @@
         "topics": [
             "bioinformatics",
             "genomics"
+        ]
+    },
+    {
+        "uid": "github/lh3/bedtk",
+        "url": "https://github.com/lh3/bedtk",
+        "rel": "/software/repository/github/lh3/bedtk",
+        "avatar": "https://avatars.githubusercontent.com/u/480346?v=4",
+        "description": "A simple toolset for BED files (warning: CLI may change before bedtk becomes stable)",
+        "topics": [
+            "bioinformatics"
         ]
     },
     {
@@ -43931,6 +44225,14 @@
         "topics": []
     },
     {
+        "uid": "github/bayesn/bayesn",
+        "url": "https://github.com/bayesn/bayesn",
+        "rel": "/software/repository/github/bayesn/bayesn",
+        "avatar": "https://avatars.githubusercontent.com/u/89660624?v=4",
+        "description": "A numpyro implementation of BayeSN, the optical-NIR SED model for type Ia supernovae",
+        "topics": []
+    },
+    {
         "uid": "github/IMS-MAXIMS/openMAXIMS",
         "url": "https://github.com/IMS-MAXIMS/openMAXIMS",
         "rel": "/software/repository/github/IMS-MAXIMS/openMAXIMS",
@@ -46651,6 +46953,21 @@
         "topics": []
     },
     {
+        "uid": "github/jepegit/cellpy",
+        "url": "https://github.com/jepegit/cellpy",
+        "rel": "/software/repository/github/jepegit/cellpy",
+        "avatar": "https://avatars.githubusercontent.com/u/16334959?v=4",
+        "description": "extract and tweak data from electrochemical tests of cells",
+        "topics": [
+            "chemistry",
+            "electrochemistry",
+            "physics",
+            "data-analysis",
+            "opensource",
+            "battery"
+        ]
+    },
+    {
         "uid": "github/sPaMFouR/RedPipe",
         "url": "https://github.com/sPaMFouR/RedPipe",
         "rel": "/software/repository/github/sPaMFouR/RedPipe",
@@ -47163,6 +47480,16 @@
         "avatar": "https://avatars.githubusercontent.com/u/75995570?v=4",
         "description": "The INdoor CHEMical model in Python (INCHEM-Py) is an open source and accessible box-model built to give researchers deeper insight into the chemical mechanisms behind indoor air chemistry.",
         "topics": []
+    },
+    {
+        "uid": "github/SDTC-CPMed/scDrugPrio",
+        "url": "https://github.com/SDTC-CPMed/scDrugPrio",
+        "rel": "/software/repository/github/SDTC-CPMed/scDrugPrio",
+        "avatar": "https://avatars.githubusercontent.com/u/61544709?v=4",
+        "description": "Network analyses of single cell-based digital twins for personalized treatment of inflammatory disease",
+        "topics": [
+            "single-cell"
+        ]
     },
     {
         "uid": "github/rorybarnes/EqTide",
@@ -47833,6 +48160,14 @@
         "rel": "/software/repository/github/oliverphilcox/OneLoopBispectrum",
         "avatar": "https://avatars.githubusercontent.com/u/30410089?v=4",
         "description": "Computation of the one-loop bispectrum of galaxies in redshift space",
+        "topics": []
+    },
+    {
+        "uid": "github/oliverphilcox/EffectiveHalos",
+        "url": "https://github.com/oliverphilcox/EffectiveHalos",
+        "rel": "/software/repository/github/oliverphilcox/EffectiveHalos",
+        "avatar": "https://avatars.githubusercontent.com/u/30410089?v=4",
+        "description": "A 1% accurate model of the matter power spectrum and cluster counts covariance, accurate to k = 1 h/Mpc.",
         "topics": []
     },
     {
@@ -50397,6 +50732,14 @@
         "topics": []
     },
     {
+        "uid": "github/EliseJ/superabc",
+        "url": "https://github.com/EliseJ/superabc",
+        "rel": "/software/repository/github/EliseJ/superabc",
+        "avatar": "https://avatars.githubusercontent.com/u/4825088?v=4",
+        "description": "superABC: cosmological constraints from SN light curves using Approximate Bayesian Computation",
+        "topics": []
+    },
+    {
         "uid": "github/EliseJ/astroABC",
         "url": "https://github.com/EliseJ/astroABC",
         "rel": "/software/repository/github/EliseJ/astroABC",
@@ -50978,6 +51321,21 @@
         "topics": []
     },
     {
+        "uid": "github/muzafferarikan/gNOMO2",
+        "url": "https://github.com/muzafferarikan/gNOMO2",
+        "rel": "/software/repository/github/muzafferarikan/gNOMO2",
+        "avatar": "https://avatars.githubusercontent.com/u/92356412?v=4",
+        "description": "gNOMO2 allows integrated multi-omics analyses of microbiomes",
+        "topics": [
+            "amplicon-sequencing",
+            "metagenomics",
+            "metaproteomics",
+            "metatranscriptomics",
+            "microbiome",
+            "multi-omics"
+        ]
+    },
+    {
         "uid": "github/octopus-sensing/octopus-sensing",
         "url": "https://github.com/octopus-sensing/octopus-sensing",
         "rel": "/software/repository/github/octopus-sensing/octopus-sensing",
@@ -51454,6 +51812,14 @@
         "rel": "/software/repository/github/seamusclarke/rjplots",
         "avatar": "https://avatars.githubusercontent.com/u/34774908?v=4",
         "description": "A Python package allowing for the automated and objective classification of 2D structures using a moments of inertia based method. This method is a further development of J-plots (https://github.com/SJaffa/Jplots)",
+        "topics": []
+    },
+    {
+        "uid": "github/InfOmics/PanDelos-frags",
+        "url": "https://github.com/InfOmics/PanDelos-frags",
+        "rel": "/software/repository/github/InfOmics/PanDelos-frags",
+        "avatar": "https://avatars.githubusercontent.com/u/37143442?v=4",
+        "description": "A version of PanDelos that discovers pangenomic content in fragmented genomes",
         "topics": []
     },
     {
@@ -55697,6 +56063,14 @@
         ]
     },
     {
+        "uid": "github/cvjena/JeFaPaTo",
+        "url": "https://github.com/cvjena/JeFaPaTo",
+        "rel": "/software/repository/github/cvjena/JeFaPaTo",
+        "avatar": "https://avatars.githubusercontent.com/u/1272801?v=4",
+        "description": "JeFaPaTo - A tool for the analysis of facial features",
+        "topics": []
+    },
+    {
         "uid": "github/jradavenport/appaloosa",
         "url": "https://github.com/jradavenport/appaloosa",
         "rel": "/software/repository/github/jradavenport/appaloosa",
@@ -55763,6 +56137,14 @@
             "reproducibility",
             "workflow-management"
         ]
+    },
+    {
+        "uid": "github/DariaGangardt/pAGN",
+        "url": "https://github.com/DariaGangardt/pAGN",
+        "rel": "/software/repository/github/DariaGangardt/pAGN",
+        "avatar": "https://avatars.githubusercontent.com/u/74964676?v=4",
+        "description": "Python package to solve AGN disk model equations.",
+        "topics": []
     },
     {
         "uid": "github/siara-cc/Unishox2",
@@ -57366,6 +57748,14 @@
         "topics": []
     },
     {
+        "uid": "github/iain-mcdonald/PySSED",
+        "url": "https://github.com/iain-mcdonald/PySSED",
+        "rel": "/software/repository/github/iain-mcdonald/PySSED",
+        "avatar": "https://avatars.githubusercontent.com/u/84905141?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ianvcaldas/smalldisco",
         "url": "https://github.com/ianvcaldas/smalldisco",
         "rel": "/software/repository/github/ianvcaldas/smalldisco",
@@ -58434,6 +58824,14 @@
         "rel": "/software/repository/github/scottleedavis/googleearthtoolbox",
         "avatar": "https://avatars0.githubusercontent.com/u/2914443?v=4",
         "description": "Leverages the intuitive interactive virtual globe interface provided by Google Earth, providing programatic tools useful in spatio-temporal analysis.",
+        "topics": []
+    },
+    {
+        "uid": "github/haowang-astro/jetsimpy",
+        "url": "https://github.com/haowang-astro/jetsimpy",
+        "rel": "/software/repository/github/haowang-astro/jetsimpy",
+        "avatar": "https://avatars.githubusercontent.com/u/144850029?v=4",
+        "description": "A hydrodynamic model of gamma-ray burst jet and afterglow",
         "topics": []
     },
     {
