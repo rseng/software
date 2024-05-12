@@ -1610,6 +1610,26 @@
         "topics": []
     },
     {
+        "uid": "github/MultiQC/MultiQC",
+        "url": "https://github.com/MultiQC/MultiQC",
+        "rel": "/software/repository/github/MultiQC/MultiQC",
+        "avatar": "https://avatars.githubusercontent.com/u/18548644?v=4",
+        "description": "Aggregate results from bioinformatics analyses across many samples into a single report.",
+        "topics": [
+            "bioinformatics",
+            "analysis",
+            "pypi",
+            "bioconda",
+            "multiqc",
+            "python",
+            "data-visualization",
+            "quality-control",
+            "reporting",
+            "seqera",
+            "vizualisation"
+        ]
+    },
+    {
         "uid": "github/gxiaolab/scAllele",
         "url": "https://github.com/gxiaolab/scAllele",
         "rel": "/software/repository/github/gxiaolab/scAllele",
@@ -2300,6 +2320,14 @@
         "rel": "/software/repository/github/herrsalmi/FConverter",
         "avatar": "https://avatars0.githubusercontent.com/u/5948256?v=4",
         "description": "File format converter for FImpute2",
+        "topics": []
+    },
+    {
+        "uid": "github/Bioinformatics-Munich/scas_dashboard",
+        "url": "https://github.com/Bioinformatics-Munich/scas_dashboard",
+        "rel": "/software/repository/github/Bioinformatics-Munich/scas_dashboard",
+        "avatar": "https://avatars.githubusercontent.com/u/116272517?v=4",
+        "description": "SCAS dashboard: A tool to intuitively and interactively analyze Slurm cluster usage",
         "topics": []
     },
     {
@@ -4215,6 +4243,14 @@
         ]
     },
     {
+        "uid": "github/tahirulqamar/Deep-HPI-pred",
+        "url": "https://github.com/tahirulqamar/Deep-HPI-pred",
+        "rel": "/software/repository/github/tahirulqamar/Deep-HPI-pred",
+        "avatar": "https://avatars.githubusercontent.com/u/44988308?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/chasmani/piecewise-regression",
         "url": "https://github.com/chasmani/piecewise-regression",
         "rel": "/software/repository/github/chasmani/piecewise-regression",
@@ -4403,6 +4439,23 @@
             "monte-carlo-simulations",
             "crystallographic-orientations",
             "texture"
+        ]
+    },
+    {
+        "uid": "github/MFaymon/spINAR",
+        "url": "https://github.com/MFaymon/spINAR",
+        "rel": "/software/repository/github/MFaymon/spINAR",
+        "avatar": "https://avatars.githubusercontent.com/u/105346023?v=4",
+        "description": "Semiparametric and parametric estimation and bootstrapping of integer-valued autoregressive (INAR) models.",
+        "topics": [
+            "bootstrapping",
+            "count-data",
+            "parametric-estimation",
+            "penalization",
+            "semiparametric-estimation",
+            "simulation",
+            "time-series",
+            "validation"
         ]
     },
     {
@@ -7254,6 +7307,14 @@
         "topics": []
     },
     {
+        "uid": "github/nicokurtovic/SIMIO",
+        "url": "https://github.com/nicokurtovic/SIMIO",
+        "rel": "/software/repository/github/nicokurtovic/SIMIO",
+        "avatar": "https://avatars.githubusercontent.com/u/14165171?v=4",
+        "description": "SIMIO: from SIMulatIons to Observations",
+        "topics": []
+    },
+    {
         "uid": "github/bioinform/somaticseq",
         "url": "https://github.com/bioinform/somaticseq",
         "rel": "/software/repository/github/bioinform/somaticseq",
@@ -7544,6 +7605,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/30343453?v=4",
         "description": "a software package containing 5 different tools dedicated to perform predictive analysis and result assessement on CRISPR/Cas experiments.",
         "topics": []
+    },
+    {
+        "uid": "github/pinellolab/CRISPResso2",
+        "url": "https://github.com/pinellolab/CRISPResso2",
+        "rel": "/software/repository/github/pinellolab/CRISPResso2",
+        "avatar": "https://avatars.githubusercontent.com/u/30343453?v=4",
+        "description": "Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments",
+        "topics": [
+            "genome-editing",
+            "quantification",
+            "amplicon-sequences"
+        ]
     },
     {
         "uid": "github/rhdtownsend/gyre",
@@ -16372,6 +16445,14 @@
         "topics": []
     },
     {
+        "uid": "github/p-slash/qsonic",
+        "url": "https://github.com/p-slash/qsonic",
+        "rel": "/software/repository/github/p-slash/qsonic",
+        "avatar": "https://avatars.githubusercontent.com/u/5559154?v=4",
+        "description": "Continuum fitting for DESI",
+        "topics": []
+    },
+    {
         "uid": "github/OPUS-MaLab/opus_fold3",
         "url": "https://github.com/OPUS-MaLab/opus_fold3",
         "rel": "/software/repository/github/OPUS-MaLab/opus_fold3",
@@ -23151,6 +23232,14 @@
         "topics": []
     },
     {
+        "uid": "github/FabioRigamonti/pyADfit",
+        "url": "https://github.com/FabioRigamonti/pyADfit",
+        "rel": "/software/repository/github/FabioRigamonti/pyADfit",
+        "avatar": "https://avatars.githubusercontent.com/u/65313023?v=4",
+        "description": "A nested sampling approach to QSO accretion disc fitting.",
+        "topics": []
+    },
+    {
         "uid": "github/pvlib/pvlib-python",
         "url": "https://github.com/pvlib/pvlib-python",
         "rel": "/software/repository/github/pvlib/pvlib-python",
@@ -27279,6 +27368,14 @@
         "rel": "/software/repository/github/TNOCS/csWeb",
         "avatar": "https://avatars0.githubusercontent.com/u/7793389?v=4",
         "description": "csWeb, short for common sense Web, is a userfriendly web application for showing (GIS) data on a map. It allows you to apply multiple filters to filter your data, and to style it, so you can immediately see what's important.",
+        "topics": []
+    },
+    {
+        "uid": "github/CliMA/CalibrateEmulateSample.jl",
+        "url": "https://github.com/CliMA/CalibrateEmulateSample.jl",
+        "rel": "/software/repository/github/CliMA/CalibrateEmulateSample.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/43161188?v=4",
+        "description": "Stochastic Optimization, Learning, Uncertainty and Sampling",
         "topics": []
     },
     {
@@ -34760,6 +34857,14 @@
         "rel": "/software/repository/github/rasg-affiliates/healvis",
         "avatar": "https://avatars.githubusercontent.com/u/57962800?v=4",
         "description": "Visibility simulation off of HEALPix shells.",
+        "topics": []
+    },
+    {
+        "uid": "github/rasg-affiliates/21cmSense",
+        "url": "https://github.com/rasg-affiliates/21cmSense",
+        "rel": "/software/repository/github/rasg-affiliates/21cmSense",
+        "avatar": "https://avatars.githubusercontent.com/u/57962800?v=4",
+        "description": "Code for calculating the sensitivity of 21cm experiments to the EoR power spectrum",
         "topics": []
     },
     {
@@ -46454,6 +46559,14 @@
         "topics": []
     },
     {
+        "uid": "github/JGCRI/stitches",
+        "url": "https://github.com/JGCRI/stitches",
+        "rel": "/software/repository/github/JGCRI/stitches",
+        "avatar": "https://avatars.githubusercontent.com/u/8431983?v=4",
+        "description": "Amalgamate existing climate data to create monthly climate variable fields.",
+        "topics": []
+    },
+    {
         "uid": "github/JGCRI/osiris",
         "url": "https://github.com/JGCRI/osiris",
         "rel": "/software/repository/github/JGCRI/osiris",
@@ -46529,6 +46642,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/7735050?v=4",
         "description": "A gnuplot script for Monte Carlo simulations of disk and stellar tidal torques acting on hot Jupiters",
         "topics": []
+    },
+    {
+        "uid": "github/AnkitBarik/planetMagFields",
+        "url": "https://github.com/AnkitBarik/planetMagFields",
+        "rel": "/software/repository/github/AnkitBarik/planetMagFields",
+        "avatar": "https://avatars.githubusercontent.com/u/13730345?v=4",
+        "description": "Routines to plot magnetic fields of planets in our solar system",
+        "topics": [
+            "plotting",
+            "planetary-science",
+            "magnetic-fields",
+            "planetary-data",
+            "planetary",
+            "python",
+            "matplotlib"
+        ]
     },
     {
         "uid": "github/cdw9bf/CompactGroup",
@@ -49207,6 +49336,18 @@
         ]
     },
     {
+        "uid": "github/GalagaBits/JWST-FGS-Spelunker",
+        "url": "https://github.com/GalagaBits/JWST-FGS-Spelunker",
+        "rel": "/software/repository/github/GalagaBits/JWST-FGS-Spelunker",
+        "avatar": "https://avatars.githubusercontent.com/u/34511693?v=4",
+        "description": "JWST FGS Spelunker is a package that assists and finds technical anomalies from the JWST and stellar properties from guidestars.",
+        "topics": [
+            "fgs",
+            "guidestar",
+            "jwst"
+        ]
+    },
+    {
         "uid": "github/JuliaMatrices/BandedMatrices.jl",
         "url": "https://github.com/JuliaMatrices/BandedMatrices.jl",
         "rel": "/software/repository/github/JuliaMatrices/BandedMatrices.jl",
@@ -49569,6 +49710,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/30414994?v=4",
         "description": "Weighted wavelet z-transform (WWZ) analysis package",
         "topics": []
+    },
+    {
+        "uid": "github/cnellington/Contextualized",
+        "url": "https://github.com/cnellington/Contextualized",
+        "rel": "/software/repository/github/cnellington/Contextualized",
+        "avatar": "https://avatars.githubusercontent.com/u/13963825?v=4",
+        "description": "An SKLearn-style toolbox for estimating and analyzing models, distributions, and functions with context-specific parameters.",
+        "topics": [
+            "machine-learning",
+            "statistics",
+            "bioinformatics",
+            "medical-informatics"
+        ]
     },
     {
         "uid": "github/iomega/zenodo-upload",
@@ -50052,6 +50206,14 @@
         "rel": "/software/repository/github/najoshi/sickle",
         "avatar": "https://avatars.githubusercontent.com/u/607905?v=4",
         "description": "Windowed Adaptive Trimming for fastq files using quality",
+        "topics": []
+    },
+    {
+        "uid": "github/vicruiser/3Dmapper",
+        "url": "https://github.com/vicruiser/3Dmapper",
+        "rel": "/software/repository/github/vicruiser/3Dmapper",
+        "avatar": "https://avatars.githubusercontent.com/u/14994349?v=4",
+        "description": "Map genetic variants and protein positions to protein interfaces in 3D",
         "topics": []
     },
     {
@@ -51662,6 +51824,14 @@
             "sparql",
             "virtual-reality"
         ]
+    },
+    {
+        "uid": "github/molgenis/vibe-suppl",
+        "url": "https://github.com/molgenis/vibe-suppl",
+        "rel": "/software/repository/github/molgenis/vibe-suppl",
+        "avatar": "https://avatars.githubusercontent.com/u/1688158?v=4",
+        "description": "Variant Interpretation using Biological Evidence - supplemental files",
+        "topics": []
     },
     {
         "uid": "github/Imperial-visualizations/Physics-Visualizations",
