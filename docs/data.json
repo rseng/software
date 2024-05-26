@@ -291,6 +291,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/vda-lab/snowflake",
+        "url": "https://gitlab.com/vda-lab/snowflake",
+        "rel": "/software/repository/gitlab/vda-lab/snowflake",
+        "avatar": "https://gitlab.comNone",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "gitlab/picos-api/picos",
         "url": "https://gitlab.com/picos-api/picos",
         "rel": "/software/repository/gitlab/picos-api/picos",
@@ -6847,6 +6855,14 @@
         "topics": []
     },
     {
+        "uid": "github/UncertainLab/Enlsip.jl",
+        "url": "https://github.com/UncertainLab/Enlsip.jl",
+        "rel": "/software/repository/github/UncertainLab/Enlsip.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/139942346?v=4",
+        "description": "Enlsip.jl is the Julia version of a Fortran77 optimization library designed to solve nonlinear least squares problems under general nonlinear constraints.",
+        "topics": []
+    },
+    {
         "uid": "github/transientskp/lpf",
         "url": "https://github.com/transientskp/lpf",
         "rel": "/software/repository/github/transientskp/lpf",
@@ -13263,6 +13279,14 @@
         "rel": "/software/repository/github/surhudm/savitzky_golay_with_errors",
         "avatar": "https://avatars.githubusercontent.com/u/4392633?v=4",
         "description": "Improving the Savitzky-Golay filtering in the presence of noisy data",
+        "topics": []
+    },
+    {
+        "uid": "github/jfmrod/MAPseq",
+        "url": "https://github.com/jfmrod/MAPseq",
+        "rel": "/software/repository/github/jfmrod/MAPseq",
+        "avatar": "https://avatars.githubusercontent.com/u/5286814?v=4",
+        "description": "highthroughput rRNA sequence classification and OTU mapping for metagenomic samples",
         "topics": []
     },
     {
@@ -19931,6 +19955,14 @@
         "topics": []
     },
     {
+        "uid": "github/CoLRev-Environment/bib-dedupe",
+        "url": "https://github.com/CoLRev-Environment/bib-dedupe",
+        "rel": "/software/repository/github/CoLRev-Environment/bib-dedupe",
+        "avatar": "https://avatars.githubusercontent.com/u/101105237?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/shenlab-sinai/ngsplot",
         "url": "https://github.com/shenlab-sinai/ngsplot",
         "rel": "/software/repository/github/shenlab-sinai/ngsplot",
@@ -20676,6 +20708,21 @@
         ]
     },
     {
+        "uid": "github/soilwater/crnpy",
+        "url": "https://github.com/soilwater/crnpy",
+        "rel": "/software/repository/github/soilwater/crnpy",
+        "avatar": "https://avatars.githubusercontent.com/u/73772799?v=4",
+        "description": "A Python toolbox for handling common tasks with cosmic-ray neutron probes",
+        "topics": [
+            "cosmic-rays",
+            "cosmos",
+            "neutron-detection",
+            "python",
+            "soil-moisture",
+            "crnp"
+        ]
+    },
+    {
         "uid": "github/migp11/pyfastcore",
         "url": "https://github.com/migp11/pyfastcore",
         "rel": "/software/repository/github/migp11/pyfastcore",
@@ -21134,6 +21181,14 @@
             "medical-imaging",
             "fine-tuning"
         ]
+    },
+    {
+        "uid": "github/dcouvin/CRISPRCasFinder",
+        "url": "https://github.com/dcouvin/CRISPRCasFinder",
+        "rel": "/software/repository/github/dcouvin/CRISPRCasFinder",
+        "avatar": "https://avatars.githubusercontent.com/u/12830930?v=4",
+        "description": "A Perl script allowing to identify CRISPR arrays and associated Cas proteins from DNA sequences",
+        "topics": []
     },
     {
         "uid": "github/GoelandProver/Goeland",
@@ -23762,6 +23817,21 @@
         "topics": []
     },
     {
+        "uid": "github/WSWUP/agweather-qaqc",
+        "url": "https://github.com/WSWUP/agweather-qaqc",
+        "rel": "/software/repository/github/WSWUP/agweather-qaqc",
+        "avatar": "https://avatars.githubusercontent.com/u/23201768?v=4",
+        "description": "Visualized QA/QC of weather station data",
+        "topics": [
+            "evapotranspiration",
+            "python",
+            "quality-assurance",
+            "quality-control",
+            "weather-data",
+            "weather-station"
+        ]
+    },
+    {
         "uid": "github/barentsen/dave",
         "url": "https://github.com/barentsen/dave",
         "rel": "/software/repository/github/barentsen/dave",
@@ -25964,6 +26034,20 @@
         ]
     },
     {
+        "uid": "github/nbisweden/MrBayes",
+        "url": "https://github.com/NBISweden/MrBayes",
+        "rel": "/software/repository/github/nbisweden/MrBayes",
+        "avatar": "https://avatars.githubusercontent.com/u/1224807?v=4",
+        "description": "MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. For documentation and downloading the program, please see the home page:",
+        "topics": [
+            "phylogenetics",
+            "bayesian-inference",
+            "markov-chain-monte-carlo",
+            "research-tool",
+            "bioinformatics"
+        ]
+    },
+    {
         "uid": "github/uab-cgds-worthey/quac",
         "url": "https://github.com/uab-cgds-worthey/quac",
         "rel": "/software/repository/github/uab-cgds-worthey/quac",
@@ -26698,6 +26782,27 @@
         ]
     },
     {
+        "uid": "github/SMTG-Bham/ThermoParser",
+        "url": "https://github.com/SMTG-Bham/ThermoParser",
+        "rel": "/software/repository/github/SMTG-Bham/ThermoParser",
+        "avatar": "https://avatars.githubusercontent.com/u/14860406?v=4",
+        "description": "A tool for streamlining data analysis and visualisation for thermoelectrics and charge carrier transport in computational materials science.",
+        "topics": [
+            "thermoelectric",
+            "chemistry",
+            "physics",
+            "materials",
+            "science",
+            "materials-science",
+            "plotting",
+            "tp",
+            "matplotlib",
+            "python",
+            "computational-chemistry",
+            "computational-materials-science"
+        ]
+    },
+    {
         "uid": "github/yuliadm/mixComp",
         "url": "https://github.com/yuliadm/mixComp",
         "rel": "/software/repository/github/yuliadm/mixComp",
@@ -26987,6 +27092,18 @@
             "simulation",
             "shaders",
             "3d-graphics"
+        ]
+    },
+    {
+        "uid": "github/bandframework/Taweret",
+        "url": "https://github.com/bandframework/Taweret",
+        "rel": "/software/repository/github/bandframework/Taweret",
+        "avatar": "https://avatars.githubusercontent.com/u/63761723?v=4",
+        "description": "Python  package for Bayesian Model Mixing",
+        "topics": [
+            "bayesian-model-mixing",
+            "bayesian-statistics",
+            "regression-trees"
         ]
     },
     {
@@ -31970,6 +32087,14 @@
         "topics": []
     },
     {
+        "uid": "github/pirl-unc/ace",
+        "url": "https://github.com/pirl-unc/ace",
+        "rel": "/software/repository/github/pirl-unc/ace",
+        "avatar": "https://avatars.githubusercontent.com/u/71463575?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/ugovaretto/molekel",
         "url": "https://github.com/ugovaretto/molekel",
         "rel": "/software/repository/github/ugovaretto/molekel",
@@ -33373,6 +33498,14 @@
             "protein-structure",
             "alphafold2"
         ]
+    },
+    {
+        "uid": "github/ThibaultFillion/strengths",
+        "url": "https://github.com/ThibaultFillion/strengths",
+        "rel": "/software/repository/github/ThibaultFillion/strengths",
+        "avatar": "https://avatars.githubusercontent.com/u/145604448?v=4",
+        "description": "inhomogeneous reaction diffusion python package",
+        "topics": []
     },
     {
         "uid": "github/luxsrc/gray",
@@ -34936,6 +35069,14 @@
         "rel": "/software/repository/github/phpuech/OT_Analysis",
         "avatar": "https://avatars.githubusercontent.com/u/7237734?v=4",
         "description": "Software for optical data force analysis / JPK Nanowizard",
+        "topics": []
+    },
+    {
+        "uid": "github/MintonGroup/swiftest",
+        "url": "https://github.com/MintonGroup/swiftest",
+        "rel": "/software/repository/github/MintonGroup/swiftest",
+        "avatar": "https://avatars.githubusercontent.com/u/160645906?v=4",
+        "description": "Swiftest is a software packaged designed to model the long-term dynamical dynamics of n-body systems with a dominant central body, like the solar system. ",
         "topics": []
     },
     {
@@ -44625,6 +44766,19 @@
         ]
     },
     {
+        "uid": "github/mcgalcode/pylattica",
+        "url": "https://github.com/mcgalcode/pylattica",
+        "rel": "/software/repository/github/mcgalcode/pylattica",
+        "avatar": "https://avatars.githubusercontent.com/u/15318848?v=4",
+        "description": "A simple framework for prototyping lattice evolution simulations e.g. cellular automata, lattice gas simulations, lattice Monte Carlo etc.",
+        "topics": [
+            "chemistry",
+            "lattice",
+            "materials-science",
+            "simulation"
+        ]
+    },
+    {
         "uid": "github/mwanakijiji/rrlfe",
         "url": "https://github.com/mwanakijiji/rrlfe",
         "rel": "/software/repository/github/mwanakijiji/rrlfe",
@@ -47092,6 +47246,16 @@
         ]
     },
     {
+        "uid": "github/genomicepidemiology/ARGprofiler",
+        "url": "https://github.com/genomicepidemiology/ARGprofiler",
+        "rel": "/software/repository/github/genomicepidemiology/ARGprofiler",
+        "avatar": "https://avatars.githubusercontent.com/u/8056318?v=4",
+        "description": "A pipeline for for large-scale analysis of antimicrobial resistance genes and their flanking regions in metagenomic datasets",
+        "topics": [
+            "argprofiler"
+        ]
+    },
+    {
         "uid": "github/dylancromer/ostrich",
         "url": "https://github.com/dylancromer/ostrich",
         "rel": "/software/repository/github/dylancromer/ostrich",
@@ -47941,6 +48105,14 @@
         "rel": "/software/repository/github/RabadanLab/arcasHLA",
         "avatar": "https://avatars.githubusercontent.com/u/7584451?v=4",
         "description": "Fast and accurate in silico inference of HLA genotypes from RNA-seq",
+        "topics": []
+    },
+    {
+        "uid": "github/lysovosyl/NanoDeep",
+        "url": "https://github.com/lysovosyl/NanoDeep",
+        "rel": "/software/repository/github/lysovosyl/NanoDeep",
+        "avatar": "https://avatars.githubusercontent.com/u/133856851?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -48802,6 +48974,14 @@
         "rel": "/software/repository/github/siminegroup/E2EDNA2",
         "avatar": "https://avatars.githubusercontent.com/u/98241471?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/sterinaldi/FIGARO",
+        "url": "https://github.com/sterinaldi/FIGARO",
+        "rel": "/software/repository/github/sterinaldi/FIGARO",
+        "avatar": "https://avatars.githubusercontent.com/u/56389680?v=4",
+        "description": "Fast Inference for GW Astronomy, Research and Observations",
         "topics": []
     },
     {
@@ -50603,6 +50783,19 @@
             "simulation",
             "abm",
             "agent-based-modeling"
+        ]
+    },
+    {
+        "uid": "github/glasgowlab/MAGPIE",
+        "url": "https://github.com/glasgowlab/MAGPIE",
+        "rel": "/software/repository/github/glasgowlab/MAGPIE",
+        "avatar": "https://avatars.githubusercontent.com/u/98300418?v=4",
+        "description": "MAGPIE",
+        "topics": [
+            "interactive-visualizations",
+            "protein-protein-interaction",
+            "sequence-logo",
+            "protein-ligand-interaction"
         ]
     },
     {
@@ -53438,6 +53631,25 @@
         ]
     },
     {
+        "uid": "github/NicOudart/PyBWE",
+        "url": "https://github.com/NicOudart/PyBWE",
+        "rel": "/software/repository/github/NicOudart/PyBWE",
+        "avatar": "https://avatars.githubusercontent.com/u/152175898?v=4",
+        "description": "Python library for radar Bandwidth Extrapolation (BWE)",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "bandwidth",
+            "bwe",
+            "extrapolation",
+            "planetary-science",
+            "radar",
+            "resolution",
+            "sounder",
+            "pybwe"
+        ]
+    },
+    {
         "uid": "github/me-manu/gammaALPs",
         "url": "https://github.com/me-manu/gammaALPs",
         "rel": "/software/repository/github/me-manu/gammaALPs",
@@ -54110,6 +54322,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/11094466?v=4",
         "description": "VISIbility Based Line Extraction",
         "topics": []
+    },
+    {
+        "uid": "github/biobakery/phylophlan",
+        "url": "https://github.com/biobakery/phylophlan",
+        "rel": "/software/repository/github/biobakery/phylophlan",
+        "avatar": "https://avatars.githubusercontent.com/u/18152373?v=4",
+        "description": "Precise phylogenetic analysis of microbial isolates and genomes from metagenomes",
+        "topics": [
+            "python",
+            "tools",
+            "biobakery",
+            "phylogenetic-trees"
+        ]
     },
     {
         "uid": "github/biobakery/MetaPhlAn",
@@ -57008,6 +57233,14 @@
         "rel": "/software/repository/github/astro-friedel/CADRE",
         "avatar": "https://avatars.githubusercontent.com/u/3028041?v=4",
         "description": "CARMA Data Reduction Pipeline",
+        "topics": []
+    },
+    {
+        "uid": "github/xszhu-lab/AGImpute",
+        "url": "https://github.com/xszhu-lab/AGImpute",
+        "rel": "/software/repository/github/xszhu-lab/AGImpute",
+        "avatar": "https://avatars.githubusercontent.com/u/65640906?v=4",
+        "description": "A composite structure model for single-cell RNA-seq imputation",
         "topics": []
     },
     {
