@@ -1740,6 +1740,19 @@
         "topics": []
     },
     {
+        "uid": "github/aiproteomics/aiproteomics",
+        "url": "https://github.com/aiproteomics/aiproteomics",
+        "rel": "/software/repository/github/aiproteomics/aiproteomics",
+        "avatar": "https://avatars.githubusercontent.com/u/89943033?v=4",
+        "description": "A package for MSMS spectral library prediction models from the field of (phospho-)proteomics, intended to facilitate the testing and comparison of different neural network architectures and existing models.",
+        "topics": [
+            "msms",
+            "mass-spectrometry",
+            "deep-learning",
+            "spectral-library"
+        ]
+    },
+    {
         "uid": "github/sonwell/biotools",
         "url": "https://github.com/sonwell/biotools",
         "rel": "/software/repository/github/sonwell/biotools",
@@ -1882,6 +1895,14 @@
         "rel": "/software/repository/github/SMI/SmiServices",
         "avatar": "https://avatars3.githubusercontent.com/u/56437605?v=4",
         "description": "Scale-able loading, linking and anonymisation of DICOM images for healthcare research environments (e.g. Safe Havens)",
+        "topics": []
+    },
+    {
+        "uid": "github/MayaWaves/mayawaves",
+        "url": "https://github.com/MayaWaves/mayawaves",
+        "rel": "/software/repository/github/MayaWaves/mayawaves",
+        "avatar": "https://avatars.githubusercontent.com/u/75278294?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -2355,6 +2376,21 @@
             "bandwidth-saver",
             "storage-saving",
             "cloud-cost-intelligence"
+        ]
+    },
+    {
+        "uid": "github/vmalnathnambiar/exfilms",
+        "url": "https://github.com/vmalnathnambiar/exfilms",
+        "rel": "/software/repository/github/vmalnathnambiar/exfilms",
+        "avatar": "https://avatars.githubusercontent.com/u/104112048?v=4",
+        "description": "A cross-platform, command line interface tool to extract mass spectrometry data from mzML formatted files, with filtering capabilities.",
+        "topics": [
+            "data-extraction",
+            "mass-spectrometry",
+            "spectrum-filtering",
+            "command-line-tool",
+            "data-standardisation",
+            "open-source"
         ]
     },
     {
@@ -7447,6 +7483,20 @@
         "topics": []
     },
     {
+        "uid": "github/BobChallen/Basic-mzml-plotter",
+        "url": "https://github.com/BobChallen/Basic-mzml-plotter",
+        "rel": "/software/repository/github/BobChallen/Basic-mzml-plotter",
+        "avatar": "https://avatars.githubusercontent.com/u/122879668?v=4",
+        "description": "A very basic mzml file plotting program that can plot single scans, merge all scans from a file, plot the TIC, and plot an EIC of a chosen m/z value.",
+        "topics": [
+            "mass-spectrometry",
+            "massspectrometry",
+            "mzml",
+            "mzml-files",
+            "plotting-in-python"
+        ]
+    },
+    {
         "uid": "github/jteutenberg/downpore",
         "url": "https://github.com/jteutenberg/downpore",
         "rel": "/software/repository/github/jteutenberg/downpore",
@@ -12528,6 +12578,14 @@
         "topics": []
     },
     {
+        "uid": "github/RAMP-project/RAMP",
+        "url": "https://github.com/RAMP-project/RAMP",
+        "rel": "/software/repository/github/RAMP-project/RAMP",
+        "avatar": "https://avatars.githubusercontent.com/u/65850039?v=4",
+        "description": "Repository of the open-source RAMP model for generating multi-energy loads profiles",
+        "topics": []
+    },
+    {
         "uid": "github/RosettaCommons/RoseTTAFold",
         "url": "https://github.com/RosettaCommons/RoseTTAFold",
         "rel": "/software/repository/github/RosettaCommons/RoseTTAFold",
@@ -17099,6 +17157,14 @@
         "topics": []
     },
     {
+        "uid": "github/spjuhel/BoARIO",
+        "url": "https://github.com/spjuhel/BoARIO",
+        "rel": "/software/repository/github/spjuhel/BoARIO",
+        "avatar": "https://avatars.githubusercontent.com/u/10011382?v=4",
+        "description": "Python implementation of ARIO model",
+        "topics": []
+    },
+    {
         "uid": "github/sheneman/clearcut",
         "url": "https://github.com/sheneman/clearcut",
         "rel": "/software/repository/github/sheneman/clearcut",
@@ -17180,6 +17246,27 @@
         "avatar": "https://avatars.githubusercontent.com/u/2411627?v=4",
         "description": "AdapterRemoval v2 - rapid adapter trimming, identification, and read merging",
         "topics": []
+    },
+    {
+        "uid": "github/theGreatHerrLebert/rustims",
+        "url": "https://github.com/theGreatHerrLebert/rustims",
+        "rel": "/software/repository/github/theGreatHerrLebert/rustims",
+        "avatar": "https://avatars.githubusercontent.com/u/32388991?v=4",
+        "description": "A Framework for IMS-MS Raw Data Processing written in Rust and Python.",
+        "topics": [
+            "bottom-up",
+            "data-independent-acquisition",
+            "high-throughput",
+            "ion-mobility-spectrometry",
+            "omics",
+            "proteomics",
+            "pyo3",
+            "python",
+            "rust-lang",
+            "timstof",
+            "raw-data",
+            "mass-spectrometry"
+        ]
     },
     {
         "uid": "github/tensorflow/tensorflow",
@@ -21354,6 +21441,14 @@
         ]
     },
     {
+        "uid": "github/vidarsko/ComFiT",
+        "url": "https://github.com/vidarsko/ComFiT",
+        "rel": "/software/repository/github/vidarsko/ComFiT",
+        "avatar": "https://avatars.githubusercontent.com/u/8513212?v=4",
+        "description": "A python library for simulating field theories with topological defects",
+        "topics": []
+    },
+    {
         "uid": "github/JuliaManifolds/Manopt.jl",
         "url": "https://github.com/JuliaManifolds/Manopt.jl",
         "rel": "/software/repository/github/JuliaManifolds/Manopt.jl",
@@ -23923,6 +24018,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/3997899?v=4",
         "description": "Fast K-Medoids clustering in Python with FasterPAM",
         "topics": []
+    },
+    {
+        "uid": "github/m-dadej/MarSwitching.jl",
+        "url": "https://github.com/m-dadej/MarSwitching.jl",
+        "rel": "/software/repository/github/m-dadej/MarSwitching.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/48299815?v=4",
+        "description": "MarSwitching.jl: Julia package for Markov switching dynamic models",
+        "topics": [
+            "econometrics",
+            "julia",
+            "machine-learning",
+            "markov-chain",
+            "statistics",
+            "time-series",
+            "data-science"
+        ]
     },
     {
         "uid": "github/chocoteam/choco-solver",
@@ -34099,6 +34210,22 @@
         "topics": []
     },
     {
+        "uid": "github/coder/code-server",
+        "url": "https://github.com/coder/code-server",
+        "rel": "/software/repository/github/coder/code-server",
+        "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
+        "description": "VS Code in the browser",
+        "topics": [
+            "vscode",
+            "vscode-remote",
+            "ide",
+            "remote-work",
+            "development-environment",
+            "dev-tools",
+            "browser-ide"
+        ]
+    },
+    {
         "uid": "github/DrDaveShaw/INCHEM-Py",
         "url": "https://github.com/DrDaveShaw/INCHEM-Py",
         "rel": "/software/repository/github/DrDaveShaw/INCHEM-Py",
@@ -35385,6 +35512,24 @@
             "election",
             "election-data",
             "common-data-format"
+        ]
+    },
+    {
+        "uid": "github/cblearn/cblearn",
+        "url": "https://github.com/cblearn/cblearn",
+        "rel": "/software/repository/github/cblearn/cblearn",
+        "avatar": "https://avatars.githubusercontent.com/u/132082914?v=4",
+        "description": "Comparison-based Machine Learning in Python",
+        "topics": [
+            "ordinal",
+            "embedding",
+            "machine-learning",
+            "machinelearning",
+            "scikit-learn",
+            "non-metric",
+            "scaling",
+            "multidimensional-scaling",
+            "multidimensional"
         ]
     },
     {
@@ -46053,6 +46198,14 @@
         "topics": []
     },
     {
+        "uid": "github/sntioudis/papreca",
+        "url": "https://github.com/sntioudis/papreca",
+        "rel": "/software/repository/github/sntioudis/papreca",
+        "avatar": "https://avatars.githubusercontent.com/u/42137665?v=4",
+        "description": "PAPRECA hybrid off-lattice kinetic Monte Carlo/molecular dynamics (kMC/MD) simulator",
+        "topics": []
+    },
+    {
         "uid": "github/llrs/experDesign",
         "url": "https://github.com/llrs/experDesign",
         "rel": "/software/repository/github/llrs/experDesign",
@@ -48035,6 +48188,14 @@
             "radiative-transfer",
             "astronomy"
         ]
+    },
+    {
+        "uid": "github/LeoEgidi/pivmet",
+        "url": "https://github.com/LeoEgidi/pivmet",
+        "rel": "/software/repository/github/LeoEgidi/pivmet",
+        "avatar": "https://avatars.githubusercontent.com/u/17299373?v=4",
+        "description": "pivmet: an R package proposing pivotal methods for consensus clustering   and mixture modeling",
+        "topics": []
     },
     {
         "uid": "github/JFFleming/RCFV_Reader",
@@ -51892,6 +52053,14 @@
         ]
     },
     {
+        "uid": "github/nifty-ppl/nifty",
+        "url": "https://github.com/NIFTy-PPL/NIFTy",
+        "rel": "/software/repository/github/nifty-ppl/nifty",
+        "avatar": "https://avatars.githubusercontent.com/u/151748361?v=4",
+        "description": "Probabilistic programming framework for signal inference algorithms that operate regardless of the underlying grids and their resolutions",
+        "topics": []
+    },
+    {
         "uid": "github/radiocosmology/caput",
         "url": "https://github.com/radiocosmology/caput",
         "rel": "/software/repository/github/radiocosmology/caput",
@@ -54595,6 +54764,14 @@
         "topics": []
     },
     {
+        "uid": "github/ec363/parsleyapp",
+        "url": "https://github.com/ec363/parsleyapp",
+        "rel": "/software/repository/github/ec363/parsleyapp",
+        "avatar": "https://avatars.githubusercontent.com/u/51139488?v=4",
+        "description": "Data parsing (data extraction, tidying and metadata joining) for plate reader export files",
+        "topics": []
+    },
+    {
         "uid": "github/ec363/fpcountr",
         "url": "https://github.com/ec363/fpcountr",
         "rel": "/software/repository/github/ec363/fpcountr",
@@ -57002,6 +57179,21 @@
             "bioinformatics",
             "atac-seq",
             "footprinting"
+        ]
+    },
+    {
+        "uid": "github/bigraph-toolkit-suite/bigraphs.grgen-bigraphs",
+        "url": "https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs",
+        "rel": "/software/repository/github/bigraph-toolkit-suite/bigraphs.grgen-bigraphs",
+        "avatar": "https://avatars.githubusercontent.com/u/130669805?v=4",
+        "description": "BiGGer is a transformation tool and library that translates bigraphical models and rules to GrGen.NET-compatible files. It enables bigraph rewriting using GrGen.NET.",
+        "topics": [
+            "bigraphs",
+            "graph-rewriting",
+            "graph-rewriting-library",
+            "graph-transformation",
+            "grgen",
+            "grgen-net"
         ]
     },
     {
