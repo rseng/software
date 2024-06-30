@@ -201,6 +201,22 @@
         ]
     },
     {
+        "uid": "github/pinellolab/STREAM",
+        "url": "https://github.com/pinellolab/STREAM",
+        "rel": "/software/repository/github/pinellolab/STREAM",
+        "avatar": "https://avatars.githubusercontent.com/u/30343453?v=4",
+        "description": "STREAM: Single-cell Trajectories Reconstruction, Exploration And Mapping of single-cell data",
+        "topics": [
+            "singlecell",
+            "trajectory",
+            "lineage",
+            "visualization",
+            "scatac-seq",
+            "scrna-seq",
+            "python"
+        ]
+    },
+    {
         "uid": "github/hposborn/MonoTools",
         "url": "https://github.com/hposborn/MonoTools",
         "rel": "/software/repository/github/hposborn/MonoTools",
@@ -1516,6 +1532,18 @@
             "protein-domains",
             "motif",
             "sequence-analysis"
+        ]
+    },
+    {
+        "uid": "github/Wang-Ruihui/A-live-homogeneous-database-of-solar-active-regions",
+        "url": "https://github.com/Wang-Ruihui/A-live-homogeneous-database-of-solar-active-regions",
+        "rel": "/software/repository/github/Wang-Ruihui/A-live-homogeneous-database-of-solar-active-regions",
+        "avatar": "https://avatars.githubusercontent.com/u/110174507?v=4",
+        "description": "This is a live homogeneous database of solar active regions (ARs).  It's produced by an automatic detection method of AR.",
+        "topics": [
+            "image-processing",
+            "detection-of-solar-active-regions",
+            "solar-active-region-database"
         ]
     },
     {
@@ -4282,6 +4310,14 @@
         ]
     },
     {
+        "uid": "github/sauddy/GRINN",
+        "url": "https://github.com/sauddy/GRINN",
+        "rel": "/software/repository/github/sauddy/GRINN",
+        "avatar": "https://avatars.githubusercontent.com/u/46558389?v=4",
+        "description": "We solve hydrodynamical equation including self-gravitating using Physics Informed Neural Networks. We study Jeans instability in self-gravitating gas in star forming molecular clouds",
+        "topics": []
+    },
+    {
         "uid": "github/sethspjohnso/satmc",
         "url": "https://github.com/sethspjohnso/satmc",
         "rel": "/software/repository/github/sethspjohnso/satmc",
@@ -4404,6 +4440,14 @@
         "rel": "/software/repository/github/NKI-CCB/PRECISE",
         "avatar": "https://avatars1.githubusercontent.com/u/22322765?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/Lbalkenhol/candl",
+        "url": "https://github.com/Lbalkenhol/candl",
+        "rel": "/software/repository/github/Lbalkenhol/candl",
+        "avatar": "https://avatars.githubusercontent.com/u/30681063?v=4",
+        "description": "Differentiable Likelihood for CMB Analysis",
         "topics": []
     },
     {
@@ -4576,6 +4620,24 @@
         "avatar": "https://avatars.githubusercontent.com/u/68009281?v=4",
         "description": "ExoRad, the generic point source radiometric model.",
         "topics": []
+    },
+    {
+        "uid": "github/Nicholaswogan/photochem",
+        "url": "https://github.com/Nicholaswogan/photochem",
+        "rel": "/software/repository/github/Nicholaswogan/photochem",
+        "avatar": "https://avatars.githubusercontent.com/u/18489667?v=4",
+        "description": "A chemical model of planetary atmospheres",
+        "topics": [
+            "photochemistry",
+            "photochemical-model",
+            "earth-science",
+            "atmosphere",
+            "cython",
+            "fortran",
+            "python",
+            "exoplanets",
+            "astrobiology"
+        ]
     },
     {
         "uid": "github/Nicholaswogan/PhotochemPy",
@@ -5184,6 +5246,22 @@
         "rel": "/software/repository/github/magnuspalmblad/shic",
         "avatar": "https://avatars.githubusercontent.com/u/16084125?v=4",
         "description": "shic is a collection of shims for use in automated workflow composition",
+        "topics": []
+    },
+    {
+        "uid": "github/magnuspalmblad/addFeatures",
+        "url": "https://github.com/magnuspalmblad/addFeatures",
+        "rel": "/software/repository/github/magnuspalmblad/addFeatures",
+        "avatar": "https://avatars.githubusercontent.com/u/16084125?v=4",
+        "description": "addFeatures adds spot images to a SCiLS Lab dataset from a list of defined mass spectral features",
+        "topics": []
+    },
+    {
+        "uid": "github/magnuspalmblad/averageRegions",
+        "url": "https://github.com/magnuspalmblad/averageRegions",
+        "rel": "/software/repository/github/magnuspalmblad/averageRegions",
+        "avatar": "https://avatars.githubusercontent.com/u/16084125?v=4",
+        "description": "averageRegions averages the spectra in all or a defined subset of regions in a SCiLS Lab dataset and outputs this a Bruker-style .xy file.",
         "topics": []
     },
     {
@@ -6447,6 +6525,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/40856467?v=4",
         "description": "Cytomorph is a open software based on the main general features of cytoneme-meditated gradient formation. This sfotware allows to upload different experimental data to study in silico the role of different biological parameters of this type of signaling. Cytomorph can also work as an in silico tester for other biological hypotheses that are difficult to validate experimentally. In addition, the software architecture is designed in different modules that make Cytomorph an adaptive computational tool in which new advances can be integrated.",
         "topics": []
+    },
+    {
+        "uid": "github/jeancmaia/mcglm",
+        "url": "https://github.com/jeancmaia/mcglm",
+        "rel": "/software/repository/github/jeancmaia/mcglm",
+        "avatar": "https://avatars.githubusercontent.com/u/33667670?v=4",
+        "description": "Python Framework for Multivariate Covariance Generalized Linear Models ",
+        "topics": [
+            "statistical-inference",
+            "statistical-models",
+            "data-science",
+            "python"
+        ]
     },
     {
         "uid": "github/aringlis/afino_release_version",
@@ -8381,6 +8472,14 @@
         "topics": []
     },
     {
+        "uid": "github/UM-KevinHe/surtvep",
+        "url": "https://github.com/UM-KevinHe/surtvep",
+        "rel": "/software/repository/github/UM-KevinHe/surtvep",
+        "avatar": "https://avatars.githubusercontent.com/u/67330286?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/johncwok/CategoricalTimeSeries.jl",
         "url": "https://github.com/johncwok/CategoricalTimeSeries.jl",
         "rel": "/software/repository/github/johncwok/CategoricalTimeSeries.jl",
@@ -10063,6 +10162,14 @@
         ]
     },
     {
+        "uid": "github/gururajw/superlite",
+        "url": "https://github.com/gururajw/superlite",
+        "rel": "/software/repository/github/gururajw/superlite",
+        "avatar": "https://avatars.githubusercontent.com/u/33475990?v=4",
+        "description": "SuperLite: IMC-DDMC Radiation Transport Code for Interacting Transients",
+        "topics": []
+    },
+    {
         "uid": "github/LucIJspeert/star_shadow",
         "url": "https://github.com/LucIJspeert/star_shadow",
         "rel": "/software/repository/github/LucIJspeert/star_shadow",
@@ -10121,6 +10228,14 @@
             "python",
             "thermodynamics"
         ]
+    },
+    {
+        "uid": "github/trivnguyen/florah",
+        "url": "https://github.com/trivnguyen/florah",
+        "rel": "/software/repository/github/trivnguyen/florah",
+        "avatar": "https://avatars.githubusercontent.com/u/27309647?v=4",
+        "description": "Generate galaxy merger tree with machine learning",
+        "topics": []
     },
     {
         "uid": "github/ageller/firefly",
@@ -10329,6 +10444,33 @@
             "astronomy",
             "mcmc",
             "tutorial"
+        ]
+    },
+    {
+        "uid": "github/BiaPyX/BiaPy",
+        "url": "https://github.com/BiaPyX/BiaPy",
+        "rel": "/software/repository/github/BiaPyX/BiaPy",
+        "avatar": "https://avatars.githubusercontent.com/u/156199480?v=4",
+        "description": "Open source Python library for building bioimage analysis pipelines",
+        "topics": [
+            "computer-vision",
+            "deep-learning",
+            "biomedical-image-processing",
+            "segmentation",
+            "convolutional-neural-networks",
+            "image-segmentation",
+            "medical-imaging",
+            "semantic-segmentation",
+            "classification",
+            "instance-segmentation",
+            "object-detection",
+            "image-processing",
+            "machine-learning",
+            "denoising",
+            "self-supervised-learning",
+            "super-resolution",
+            "python",
+            "pytorch"
         ]
     },
     {
@@ -11710,6 +11852,14 @@
         "rel": "/software/repository/github/tldr-group/taufactor",
         "avatar": "https://avatars.githubusercontent.com/u/78808638?v=4",
         "description": "TauFactor is a parallelised solver for calculating tortuosity factors from voxel data.",
+        "topics": []
+    },
+    {
+        "uid": "github/pierrexyz/cbird",
+        "url": "https://github.com/pierrexyz/cbird",
+        "rel": "/software/repository/github/pierrexyz/cbird",
+        "avatar": "https://avatars.githubusercontent.com/u/27974627?v=4",
+        "description": "Code for Bias tracers In Redshift space",
         "topics": []
     },
     {
@@ -14204,6 +14354,14 @@
             "getmove",
             "clustering-algorithm"
         ]
+    },
+    {
+        "uid": "github/robynlm/sphereint",
+        "url": "https://github.com/robynlm/sphereint",
+        "rel": "/software/repository/github/robynlm/sphereint",
+        "avatar": "https://avatars.githubusercontent.com/u/111498435?v=4",
+        "description": "Code to integrate data on a grid within a sphere",
+        "topics": []
     },
     {
         "uid": "github/robynlm/ICPertFLRW",
@@ -22953,6 +23111,14 @@
         "topics": []
     },
     {
+        "uid": "github/ezquiaga/phazap",
+        "url": "https://github.com/ezquiaga/phazap",
+        "rel": "/software/repository/github/ezquiaga/phazap",
+        "avatar": "https://avatars.githubusercontent.com/u/58956463?v=4",
+        "description": "Gravitational wave phase reconstruction for low-latency identification of strongly lensed signals",
+        "topics": []
+    },
+    {
         "uid": "github/vmmunoza/nuHawkHunter",
         "url": "https://github.com/vmmunoza/nuHawkHunter",
         "rel": "/software/repository/github/vmmunoza/nuHawkHunter",
@@ -24607,6 +24773,14 @@
         "topics": []
     },
     {
+        "uid": "github/lukaswenzl/Magnification_bias_estimation_in_galaxy_surveys",
+        "url": "https://github.com/lukaswenzl/Magnification_bias_estimation_in_galaxy_surveys",
+        "rel": "/software/repository/github/lukaswenzl/Magnification_bias_estimation_in_galaxy_surveys",
+        "avatar": "https://avatars.githubusercontent.com/u/31296160?v=4",
+        "description": "Code underlying the paper Wenzl, Chen, Bean 2023 https://arxiv.org/abs/2308.05892",
+        "topics": []
+    },
+    {
         "uid": "github/SuLab/Wikidata-phenomizer",
         "url": "https://github.com/SuLab/Wikidata-phenomizer",
         "rel": "/software/repository/github/SuLab/Wikidata-phenomizer",
@@ -24745,6 +24919,14 @@
         "rel": "/software/repository/github/fhcrc/seqmagick",
         "avatar": "https://avatars.githubusercontent.com/u/473538?v=4",
         "description": "An imagemagick-like frontend to Biopython SeqIO",
+        "topics": []
+    },
+    {
+        "uid": "github/madysonb/EVA",
+        "url": "https://github.com/madysonb/EVA",
+        "rel": "/software/repository/github/madysonb/EVA",
+        "avatar": "https://avatars.githubusercontent.com/u/54335494?v=4",
+        "description": "Calculate group age using Gaia excess uncertainties",
         "topics": []
     },
     {
@@ -25191,6 +25373,14 @@
         "rel": "/software/repository/github/h3abionet/genesis2",
         "avatar": "https://avatars.githubusercontent.com/u/4301625?v=4",
         "description": "Implementation of the Genesis 2 tool ",
+        "topics": []
+    },
+    {
+        "uid": "github/hypre-space/hypredrive",
+        "url": "https://github.com/hypre-space/hypredrive",
+        "rel": "/software/repository/github/hypre-space/hypredrive",
+        "avatar": "https://avatars.githubusercontent.com/u/44828226?v=4",
+        "description": "High-level interface for solving linear systems with hypre",
         "topics": []
     },
     {
@@ -26640,6 +26830,24 @@
         "topics": []
     },
     {
+        "uid": "github/broadinstitute/gatk",
+        "url": "https://github.com/broadinstitute/gatk",
+        "rel": "/software/repository/github/broadinstitute/gatk",
+        "avatar": "https://avatars.githubusercontent.com/u/393552?v=4",
+        "description": "Official code repository for GATK versions 4 and up",
+        "topics": [
+            "genomics",
+            "spark",
+            "science",
+            "dna",
+            "ngs",
+            "sequencing",
+            "genome",
+            "bioinformatics",
+            "gatk"
+        ]
+    },
+    {
         "uid": "github/broadinstitute/cromwell",
         "url": "https://github.com/broadinstitute/cromwell",
         "rel": "/software/repository/github/broadinstitute/cromwell",
@@ -27608,6 +27816,14 @@
         "rel": "/software/repository/github/RemoteSensingTools/vSmartMOM.jl",
         "avatar": "https://avatars.githubusercontent.com/u/83097293?v=4",
         "description": "A full end-to-end modular software suite for radiative transfer and related atmospheric analysis",
+        "topics": []
+    },
+    {
+        "uid": "github/DrexelLenser/Lenser",
+        "url": "https://github.com/DrexelLenser/Lenser",
+        "rel": "/software/repository/github/DrexelLenser/Lenser",
+        "avatar": "https://avatars.githubusercontent.com/u/65193950?v=4",
+        "description": "A tool for measuring weak gravitational flexion",
         "topics": []
     },
     {
@@ -29256,6 +29472,14 @@
         "topics": []
     },
     {
+        "uid": "github/archaeo-pteryx/PowerSpecCovFFT",
+        "url": "https://github.com/archaeo-pteryx/PowerSpecCovFFT",
+        "rel": "/software/repository/github/archaeo-pteryx/PowerSpecCovFFT",
+        "avatar": "https://avatars.githubusercontent.com/u/16079514?v=4",
+        "description": "FFTLog-based computation of non-Gaussian analytic covariance of galaxy power spectrum multipoles ",
+        "topics": []
+    },
+    {
         "uid": "github/AprilYuge/ResPAN",
         "url": "https://github.com/AprilYuge/ResPAN",
         "rel": "/software/repository/github/AprilYuge/ResPAN",
@@ -29550,6 +29774,14 @@
         "rel": "/software/repository/github/ACCarnall/bagpipes",
         "avatar": "https://avatars.githubusercontent.com/u/15688485?v=4",
         "description": "Bagpipes is a state of the art code for generating realistic model galaxy spectra and fitting these to spectroscopic and photometric observations. Users should install with pip, not by cloning the repository.",
+        "topics": []
+    },
+    {
+        "uid": "github/abaleato/CARDiAC",
+        "url": "https://github.com/abaleato/CARDiAC",
+        "rel": "/software/repository/github/abaleato/CARDiAC",
+        "avatar": "https://avatars.githubusercontent.com/u/48951377?v=4",
+        "description": "Code for Anisotropic Redshift Distributions in Angular Clustering",
         "topics": []
     },
     {
@@ -33264,6 +33496,21 @@
         ]
     },
     {
+        "uid": "github/ericfell/rfbzero",
+        "url": "https://github.com/ericfell/rfbzero",
+        "rel": "/software/repository/github/ericfell/rfbzero",
+        "avatar": "https://avatars.githubusercontent.com/u/39314565?v=4",
+        "description": "Redox flow battery electrochemical cycling models in Python",
+        "topics": [
+            "batteries",
+            "battery-models",
+            "microkinetics",
+            "python",
+            "simulation",
+            "rfbzero"
+        ]
+    },
+    {
         "uid": "github/sciris/sciris",
         "url": "https://github.com/sciris/sciris",
         "rel": "/software/repository/github/sciris/sciris",
@@ -33839,6 +34086,14 @@
             "astronomical-algorithms",
             "workflow-management"
         ]
+    },
+    {
+        "uid": "github/ratt-ru/smops",
+        "url": "https://github.com/ratt-ru/smops",
+        "rel": "/software/repository/github/ratt-ru/smops",
+        "avatar": "https://avatars.githubusercontent.com/u/7933570?v=4",
+        "description": "Interpolate FITS model images over higher frequency intervals",
+        "topics": []
     },
     {
         "uid": "github/ratt-ru/Stimela-classic",
@@ -34803,6 +35058,14 @@
         "rel": "/software/repository/github/kokron/skyLine",
         "avatar": "https://avatars.githubusercontent.com/u/10699475?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/kokron/anzu",
+        "url": "https://github.com/kokron/anzu",
+        "rel": "/software/repository/github/kokron/anzu",
+        "avatar": "https://avatars.githubusercontent.com/u/10699475?v=4",
+        "description": "Measurements and emulation of Lagrangian bias models for clustering and lensing cross-correlations.",
         "topics": []
     },
     {
@@ -35840,6 +36103,16 @@
         "avatar": "https://avatars.githubusercontent.com/u/4993680?v=4",
         "description": "A set of documented functions for supporting operations research of photovoltaic energy systems. ",
         "topics": []
+    },
+    {
+        "uid": "github/mariapetro/LeHaMoC",
+        "url": "https://github.com/mariapetro/LeHaMoC",
+        "rel": "/software/repository/github/mariapetro/LeHaMoC",
+        "avatar": "https://avatars.githubusercontent.com/u/34586264?v=4",
+        "description": "Leptonic-Hadronic Modeling Code for High-Energy Astrophysical Sources",
+        "topics": [
+            "simulation"
+        ]
     },
     {
         "uid": "github/pnnl/interflow",
@@ -38403,6 +38676,14 @@
         "topics": []
     },
     {
+        "uid": "github/TimothyADavis/GAStimator",
+        "url": "https://github.com/TimothyADavis/GAStimator",
+        "rel": "/software/repository/github/TimothyADavis/GAStimator",
+        "avatar": "https://avatars.githubusercontent.com/u/15347748?v=4",
+        "description": "Implementation of a Python MCMC gibbs-sampler with adaptive stepping",
+        "topics": []
+    },
+    {
         "uid": "github/lysovosyl/NanoDeep",
         "url": "https://github.com/lysovosyl/NanoDeep",
         "rel": "/software/repository/github/lysovosyl/NanoDeep",
@@ -39110,6 +39391,26 @@
         "avatar": "https://avatars.githubusercontent.com/u/10265769?v=4",
         "description": "MapCaller \u2013 An efficient and versatile approach for short-read alignment and variant detection in high-throughput sequenced genomes",
         "topics": []
+    },
+    {
+        "uid": "github/canimus/cuallee",
+        "url": "https://github.com/canimus/cuallee",
+        "rel": "/software/repository/github/canimus/cuallee",
+        "avatar": "https://avatars.githubusercontent.com/u/278303?v=4",
+        "description": "Possibly the fastest DataFrame-agnostic quality check library in town.",
+        "topics": [
+            "bigdata",
+            "performance-metrics",
+            "pyspark",
+            "python3",
+            "unit-testing",
+            "pydeequ",
+            "pandas",
+            "snowpark",
+            "dataquality",
+            "data-quality",
+            "data-quality-checks"
+        ]
     },
     {
         "uid": "github/sfschen/velocileptors",
@@ -44964,6 +45265,20 @@
         ]
     },
     {
+        "uid": "github/seisman/HinetPy",
+        "url": "https://github.com/seisman/HinetPy",
+        "rel": "/software/repository/github/seisman/HinetPy",
+        "avatar": "https://avatars.githubusercontent.com/u/3974108?v=4",
+        "description": "A Python package for accessing and processing NIED Hi-net seismic data.",
+        "topics": [
+            "python",
+            "seismology",
+            "sac",
+            "win32",
+            "hinet"
+        ]
+    },
+    {
         "uid": "github/QuaCaTeam/quaca",
         "url": "https://github.com/QuaCaTeam/quaca",
         "rel": "/software/repository/github/QuaCaTeam/quaca",
@@ -46069,6 +46384,30 @@
         "avatar": "https://avatars.githubusercontent.com/u/59348944?v=4",
         "description": "Search the VizieR and NED databases for spectroscopic redshifts around positions of interest.",
         "topics": []
+    },
+    {
+        "uid": "github/xCDAT/xcdat",
+        "url": "https://github.com/xCDAT/xcdat",
+        "rel": "/software/repository/github/xCDAT/xcdat",
+        "avatar": "https://avatars.githubusercontent.com/u/87787695?v=4",
+        "description": "An extension of xarray for climate data analysis on structured grids.",
+        "topics": [
+            "climate-data-analysis",
+            "xarray",
+            "climate-science",
+            "python",
+            "climate-data",
+            "cdat",
+            "xcdat",
+            "climate-research",
+            "climate-analysis",
+            "climate-sciences",
+            "cf-conventions",
+            "cmip",
+            "cmip6",
+            "e3sm",
+            "pcmdi"
+        ]
     },
     {
         "uid": "github/galaxy001/pirs",
@@ -48940,6 +49279,14 @@
             "python",
             "simulation"
         ]
+    },
+    {
+        "uid": "github/ch-var/SMART",
+        "url": "https://github.com/ch-var/SMART",
+        "rel": "/software/repository/github/ch-var/SMART",
+        "avatar": "https://avatars.githubusercontent.com/u/155535455?v=4",
+        "description": "SMART (Spectral energy distributions Markov chain Analysis with Radiative Transfer models) is an open-source tool that implements a Bayesian Markov chain Monte Carlo (MCMC) method to fit the ultraviolet to millimetre spectral energy distributions (SEDs) of galaxies exclusively with radiative transfer models.",
+        "topics": []
     },
     {
         "uid": "github/netrias/rnassist",
@@ -52641,6 +52988,14 @@
         "rel": "/software/repository/github/linsalrob/PhiSpy",
         "avatar": "https://avatars.githubusercontent.com/u/836231?v=4",
         "description": "Prediction of prophages from bacterial genomes",
+        "topics": []
+    },
+    {
+        "uid": "github/mperezcarrasco/AnomalyALeRCE",
+        "url": "https://github.com/mperezcarrasco/AnomalyALeRCE",
+        "rel": "/software/repository/github/mperezcarrasco/AnomalyALeRCE",
+        "avatar": "https://avatars.githubusercontent.com/u/26337065?v=4",
+        "description": "Anomaly Detector for ALeRCE broker \ud83e\udd16",
         "topics": []
     },
     {
@@ -57998,6 +58353,14 @@
         ]
     },
     {
+        "uid": "github/vallima/PRyMordial",
+        "url": "https://github.com/vallima/PRyMordial",
+        "rel": "/software/repository/github/vallima/PRyMordial",
+        "avatar": "https://avatars.githubusercontent.com/u/2189782?v=4",
+        "description": "A Python package for precise computations of BBN within and beyond the Standard Model",
+        "topics": []
+    },
+    {
         "uid": "github/smoh/kinesis",
         "url": "https://github.com/smoh/kinesis",
         "rel": "/software/repository/github/smoh/kinesis",
@@ -59662,6 +60025,21 @@
             "fits-files",
             "grib",
             "eigen3"
+        ]
+    },
+    {
+        "uid": "github/Siegel-Lab/BioSmoother",
+        "url": "https://github.com/Siegel-Lab/BioSmoother",
+        "rel": "/software/repository/github/Siegel-Lab/BioSmoother",
+        "avatar": "https://avatars.githubusercontent.com/u/124569893?v=4",
+        "description": "On-the-fly processing and visualization of interactome data",
+        "topics": [
+            "bioinformatics",
+            "data-visualization",
+            "hi-c",
+            "interactome-sequencing",
+            "radicl-seq",
+            "grid-seq"
         ]
     },
     {
