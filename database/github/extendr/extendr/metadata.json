@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/extendr/extendr",
+    "url": "https://github.com/extendr/extendr",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.12584076",
+        "name": "extendr",
+        "url": "https://github.com/extendr/extendr",
+        "full_name": "extendr/extendr",
+        "html_url": "https://github.com/extendr/extendr",
+        "description": "R extension library for rust designed to be familiar to R users.",
+        "created_at": "2020-04-08T18:30:10Z",
+        "updated_at": "2024-07-06T09:19:47Z",
+        "clone_url": "https://github.com/extendr/extendr.git",
+        "homepage": "https://extendr.github.io",
+        "size": 86094,
+        "stargazers_count": 412,
+        "watchers_count": 412,
+        "language": "Rust",
+        "open_issues_count": 126,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 15,
+        "owner": {
+            "html_url": "https://github.com/extendr",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63346977?v=4",
+            "login": "extendr",
+            "type": "Organization"
+        },
+        "topics": [
+            "rust",
+            "r",
+            "extension",
+            "api-wrapper",
+            "ffi-bindings"
+        ],
+        "timestamp": "2024-07-07 00:39:47.463201",
+        "avatar": "https://avatars.githubusercontent.com/u/63346977?v=4"
+    }
+}

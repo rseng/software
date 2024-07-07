@@ -2364,6 +2364,19 @@
         ]
     },
     {
+        "uid": "github/jeertmans/DiffeRT2d",
+        "url": "https://github.com/jeertmans/DiffeRT2d",
+        "rel": "/software/repository/github/jeertmans/DiffeRT2d",
+        "avatar": "https://avatars.githubusercontent.com/u/27275099?v=4",
+        "description": "2D Toolbox for Differentiable Ray Tracing",
+        "topics": [
+            "2d",
+            "differentiable",
+            "raytracing",
+            "telecommunications"
+        ]
+    },
+    {
         "uid": "github/dnonatar/Sequoia",
         "url": "https://github.com/dnonatar/Sequoia",
         "rel": "/software/repository/github/dnonatar/Sequoia",
@@ -7151,6 +7164,22 @@
             "research",
             "jspsych",
             "experimental-design"
+        ]
+    },
+    {
+        "uid": "github/nikhil-sarin/redback",
+        "url": "https://github.com/nikhil-sarin/redback",
+        "rel": "/software/repository/github/nikhil-sarin/redback",
+        "avatar": "https://avatars.githubusercontent.com/u/42257246?v=4",
+        "description": "A Bayesian inference software package for end-to-end fitting and interpretation of electromagnetic transients",
+        "topics": [
+            "kilonovae",
+            "supernovae",
+            "timedomainastronomy",
+            "astronomy",
+            "multi-messenger",
+            "tidal-disruptions",
+            "transients"
         ]
     },
     {
@@ -20540,6 +20569,14 @@
         "topics": []
     },
     {
+        "uid": "github/Astro-Sean/autophot",
+        "url": "https://github.com/Astro-Sean/autophot",
+        "rel": "/software/repository/github/Astro-Sean/autophot",
+        "avatar": "https://avatars.githubusercontent.com/u/24963439?v=4",
+        "description": "The AUTOmated Photometry Of Transients (AutoPhOT) is a novel automated pipeline that is designed for rapid, publication-quality photometry of transients.",
+        "topics": []
+    },
+    {
         "uid": "github/UAMCAntwerpen/LEADD",
         "url": "https://github.com/UAMCAntwerpen/LEADD",
         "rel": "/software/repository/github/UAMCAntwerpen/LEADD",
@@ -21453,6 +21490,14 @@
         "topics": []
     },
     {
+        "uid": "github/JIBSIL/DistriFS",
+        "url": "https://github.com/JIBSIL/DistriFS",
+        "rel": "/software/repository/github/JIBSIL/DistriFS",
+        "avatar": "https://avatars.githubusercontent.com/u/40243545?v=4",
+        "description": "Distributed, efficient and secure filesystem coded in Go",
+        "topics": []
+    },
+    {
         "uid": "github/nebblu/ReACT",
         "url": "https://github.com/nebblu/ReACT",
         "rel": "/software/repository/github/nebblu/ReACT",
@@ -22240,6 +22285,14 @@
             "mri",
             "mri-segmentation"
         ]
+    },
+    {
+        "uid": "github/IBM/topography-searcher",
+        "url": "https://github.com/IBM/topography-searcher",
+        "rel": "/software/repository/github/IBM/topography-searcher",
+        "avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
+        "description": "This Python package is designed for mapping the solution space of machine learning models. An understanding of the organisation of the solution space can answer important questions about the reproducibility, explainability and performance of ML methods.",
+        "topics": []
     },
     {
         "uid": "github/IBM/fold2seq",
@@ -33482,6 +33535,14 @@
         "topics": []
     },
     {
+        "uid": "github/berczik/phi-GPU-mole",
+        "url": "https://github.com/berczik/phi-GPU-mole",
+        "rel": "/software/repository/github/berczik/phi-GPU-mole",
+        "avatar": "https://avatars.githubusercontent.com/u/109957403?v=4",
+        "description": "Parallel Hermite Integration on GPU (Direct N-body on MOLE-8.5 cluster)",
+        "topics": []
+    },
+    {
         "uid": "github/palumbom/grass",
         "url": "https://github.com/palumbom/GRASS",
         "rel": "/software/repository/github/palumbom/grass",
@@ -33907,6 +33968,14 @@
             "hypervolume",
             "decision-making"
         ]
+    },
+    {
+        "uid": "github/heli-xu/findSVI",
+        "url": "https://github.com/heli-xu/findSVI",
+        "rel": "/software/repository/github/heli-xu/findSVI",
+        "avatar": "https://avatars.githubusercontent.com/u/91294567?v=4",
+        "description": "Calculate CDC/ATSDR Social Vulnerability Index",
+        "topics": []
     },
     {
         "uid": "github/ComplexGroupInteractions/xgi",
@@ -40072,6 +40141,20 @@
         ]
     },
     {
+        "uid": "github/extendr/extendr",
+        "url": "https://github.com/extendr/extendr",
+        "rel": "/software/repository/github/extendr/extendr",
+        "avatar": "https://avatars.githubusercontent.com/u/63346977?v=4",
+        "description": "R extension library for rust designed to be familiar to R users.",
+        "topics": [
+            "rust",
+            "r",
+            "extension",
+            "api-wrapper",
+            "ffi-bindings"
+        ]
+    },
+    {
         "uid": "github/myrafproject/myrafproject",
         "url": "https://github.com/myrafproject/myrafproject",
         "rel": "/software/repository/github/myrafproject/myrafproject",
@@ -44956,6 +45039,14 @@
         "topics": []
     },
     {
+        "uid": "github/basp-group/faceted-hypersara",
+        "url": "https://github.com/basp-group/Faceted-HyperSARA",
+        "rel": "/software/repository/github/basp-group/faceted-hypersara",
+        "avatar": "https://avatars.githubusercontent.com/u/3670102?v=4",
+        "description": "Faceted-HyperSARA",
+        "topics": []
+    },
+    {
         "uid": "github/basp-group/Puri-Psi",
         "url": "https://github.com/basp-group/Puri-Psi",
         "rel": "/software/repository/github/basp-group/Puri-Psi",
@@ -45770,6 +45861,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/17718124?v=4",
         "description": "PBSIM2: a simulator for long read sequencers with a novel generative model of quality scores",
         "topics": []
+    },
+    {
+        "uid": "github/SatelliteShorelines/CoastSeg",
+        "url": "https://github.com/SatelliteShorelines/CoastSeg",
+        "rel": "/software/repository/github/SatelliteShorelines/CoastSeg",
+        "avatar": "https://avatars.githubusercontent.com/u/113170084?v=4",
+        "description": "An interactive toolbox for downloading satellite imagery, applying image segmentation models, mapping shoreline positions and more. The mapping extension for CoastSat and Zoo.",
+        "topics": [
+            "earth-engine",
+            "jupyter",
+            "python",
+            "landsat",
+            "colab"
+        ]
     },
     {
         "uid": "github/bmorris3/fleck",
@@ -48385,6 +48490,14 @@
         "rel": "/software/repository/github/esoPanda/FTbg",
         "avatar": "https://avatars.githubusercontent.com/u/10759043?v=4",
         "description": "Background removal using Fourier Transform",
+        "topics": []
+    },
+    {
+        "uid": "github/nipy/heudiconv",
+        "url": "https://github.com/nipy/heudiconv",
+        "rel": "/software/repository/github/nipy/heudiconv",
+        "avatar": "https://avatars.githubusercontent.com/u/233707?v=4",
+        "description": "Flexible DICOM conversion into structured directory layouts",
         "topics": []
     },
     {
@@ -57640,6 +57753,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/3060947?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/nedtaylor/athena",
+        "url": "https://github.com/nedtaylor/athena",
+        "rel": "/software/repository/github/nedtaylor/athena",
+        "avatar": "https://avatars.githubusercontent.com/u/71959356?v=4",
+        "description": "A Fortran-based feed-forward neural network library. Whilst this library currently has a focus on 3D convolutional neural networks (CNNs), it can handle most standard hidden layer forms of neural networks, with the plan to integrate more.",
+        "topics": [
+            "convolution",
+            "feed-forward-neural-networks",
+            "fortran",
+            "machine-learning",
+            "neural-network",
+            "convolutional-neural-networks",
+            "cnn"
+        ]
     },
     {
         "uid": "github/mzechmeister/viper",
