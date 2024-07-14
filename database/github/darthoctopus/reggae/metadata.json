@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/darthoctopus/reggae",
+    "url": "https://github.com/darthoctopus/reggae",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.12730547",
+        "name": "reggae",
+        "url": "https://github.com/darthoctopus/reggae",
+        "full_name": "darthoctopus/reggae",
+        "html_url": "https://github.com/darthoctopus/reggae",
+        "description": "pbjam for dipole modes",
+        "created_at": "2022-12-06T19:50:28Z",
+        "updated_at": "2024-07-13T12:39:43Z",
+        "clone_url": "https://github.com/darthoctopus/reggae.git",
+        "size": 17563,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 5,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/darthoctopus",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5761408?v=4",
+            "login": "darthoctopus",
+            "type": "User"
+        },
+        "timestamp": "2024-07-14 00:41:24.199903",
+        "avatar": "https://avatars.githubusercontent.com/u/5761408?v=4"
+    }
+}
