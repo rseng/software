@@ -3256,6 +3256,19 @@
         "topics": []
     },
     {
+        "uid": "github/bjmt/universalmotif",
+        "url": "https://github.com/bjmt/universalmotif",
+        "rel": "/software/repository/github/bjmt/universalmotif",
+        "avatar": "https://avatars.githubusercontent.com/u/24674853?v=4",
+        "description": "Motif manipulation functions for R.",
+        "topics": [
+            "r",
+            "motif-analysis",
+            "motif-enrichment-analysis",
+            "sequence-logo"
+        ]
+    },
+    {
         "uid": "github/johnpaulett/python-hl7",
         "url": "https://github.com/johnpaulett/python-hl7",
         "rel": "/software/repository/github/johnpaulett/python-hl7",
@@ -4474,6 +4487,22 @@
             "labeling-tool",
             "annotation-tool"
         ]
+    },
+    {
+        "uid": "github/ysekig/GPMsDB-dbtk",
+        "url": "https://github.com/ysekig/GPMsDB-dbtk",
+        "rel": "/software/repository/github/ysekig/GPMsDB-dbtk",
+        "avatar": "https://avatars.githubusercontent.com/u/120002055?v=4",
+        "description": "toolkits for GPMsDB-tk to modify its database with user-provided bacterial and archaeal genome/metagenome-assembled genome (MAG) sequences",
+        "topics": []
+    },
+    {
+        "uid": "github/ysekig/GPMsDB-tk",
+        "url": "https://github.com/ysekig/GPMsDB-tk",
+        "rel": "/software/repository/github/ysekig/GPMsDB-tk",
+        "avatar": "https://avatars.githubusercontent.com/u/120002055?v=4",
+        "description": "Genomically predicted protein mass database (GPMsDB) toolkits for assigning taxonomic identification of bacterial and archaeal cells with user-provided MALDI-TOF mass spectrometry profiles",
+        "topics": []
     },
     {
         "uid": "github/Astro-Sean/autophot",
@@ -6318,6 +6347,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/11349479?v=4",
         "description": "Dynamics of Interstellar Wanderers",
         "topics": []
+    },
+    {
+        "uid": "github/elsoroka/Satisfiability.jl",
+        "url": "https://github.com/elsoroka/Satisfiability.jl",
+        "rel": "/software/repository/github/elsoroka/Satisfiability.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/14230800?v=4",
+        "description": "Specify satisfiability modulo theories problems in Julia and use the SMT-LIB format to interact with SMT solvers.",
+        "topics": [
+            "satisfiability-modulo-theories",
+            "smt-lib"
+        ]
     },
     {
         "uid": "github/mrazomej/AutoEncoderToolkit.jl",
@@ -10690,6 +10730,14 @@
         "url": "https://github.com/MaximeWack/viroCapt",
         "rel": "/software/repository/github/maximewack/viroCapt",
         "avatar": "https://avatars.githubusercontent.com/u/2104109?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/HeracleBT/vEMstitch",
+        "url": "https://github.com/HeracleBT/vEMstitch",
+        "rel": "/software/repository/github/HeracleBT/vEMstitch",
+        "avatar": "https://avatars.githubusercontent.com/u/27627517?v=4",
         "description": null,
         "topics": []
     },
@@ -18398,6 +18446,14 @@
         "topics": []
     },
     {
+        "uid": "github/project-asgard/asgard",
+        "url": "https://github.com/project-asgard/asgard",
+        "rel": "/software/repository/github/project-asgard/asgard",
+        "avatar": "https://avatars.githubusercontent.com/u/50125104?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/BlueBrain/BlueCelluLab",
         "url": "https://github.com/BlueBrain/BlueCelluLab",
         "rel": "/software/repository/github/BlueBrain/BlueCelluLab",
@@ -24707,6 +24763,19 @@
         "topics": []
     },
     {
+        "uid": "github/openneuropet/PET2BIDS",
+        "url": "https://github.com/openneuropet/PET2BIDS",
+        "rel": "/software/repository/github/openneuropet/PET2BIDS",
+        "avatar": "https://avatars.githubusercontent.com/u/81369350?v=4",
+        "description": "PET2BIDS helps you convert your PET data into BIDS! raw PET scanner files (e.g. ecat, dicom) and additional side files like .e.g excel sheets -- paper @JOSS  https://doi.org/10.21105/joss.06067",
+        "topics": [
+            "metadata",
+            "converter",
+            "json",
+            "bids"
+        ]
+    },
+    {
         "uid": "github/theislab/scvelo",
         "url": "https://github.com/theislab/scvelo",
         "rel": "/software/repository/github/theislab/scvelo",
@@ -29364,6 +29433,14 @@
         "topics": [
             "data-access"
         ]
+    },
+    {
+        "uid": "github/ropensci/rOPTRAM",
+        "url": "https://github.com/ropensci/rOPTRAM",
+        "rel": "/software/repository/github/ropensci/rOPTRAM",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Derive Soil Moisture Using the OPTRAM Algorithm",
+        "topics": []
     },
     {
         "uid": "github/ropensci/skynet",
@@ -40913,6 +40990,19 @@
         "topics": []
     },
     {
+        "uid": "github/VegeWaterDynamics/motrainer",
+        "url": "https://github.com/VegeWaterDynamics/motrainer",
+        "rel": "/software/repository/github/VegeWaterDynamics/motrainer",
+        "avatar": "https://avatars.githubusercontent.com/u/62881306?v=4",
+        "description": "Distributed Measurement Operator Trainer for Data Assimilation Applications",
+        "topics": [
+            "data-assimilation",
+            "distributed-computing",
+            "kalman-filter",
+            "machine-learning"
+        ]
+    },
+    {
         "uid": "github/amberbiology/scribl",
         "url": "https://github.com/amberbiology/scribl",
         "rel": "/software/repository/github/amberbiology/scribl",
@@ -44285,6 +44375,28 @@
             "data-science",
             "data-driven",
             "supernovae"
+        ]
+    },
+    {
+        "uid": "github/mdtanker/polartoolkit",
+        "url": "https://github.com/mdtanker/polartoolkit",
+        "rel": "/software/repository/github/mdtanker/polartoolkit",
+        "avatar": "https://avatars.githubusercontent.com/u/81199856?v=4",
+        "description": "Helpful tools for polar researchers",
+        "topics": [
+            "antarctica",
+            "bedmachine",
+            "pygmt",
+            "jupyter-notebook",
+            "bedmap",
+            "plotting",
+            "gmt",
+            "python",
+            "profiles",
+            "arctic",
+            "cryosphere",
+            "greenland",
+            "polar"
         ]
     },
     {
@@ -51788,6 +51900,14 @@
         ]
     },
     {
+        "uid": "github/simpeg/aurora",
+        "url": "https://github.com/simpeg/aurora",
+        "rel": "/software/repository/github/simpeg/aurora",
+        "avatar": "https://avatars.githubusercontent.com/u/6043842?v=4",
+        "description": "software for processing natural source electromagnetic data ",
+        "topics": []
+    },
+    {
         "uid": "github/QuantumPlasma/SFQEDtoolkit",
         "url": "https://github.com/QuantumPlasma/SFQEDtoolkit",
         "rel": "/software/repository/github/QuantumPlasma/SFQEDtoolkit",
@@ -57656,6 +57776,14 @@
         "topics": []
     },
     {
+        "uid": "github/noatgnu/catapult",
+        "url": "https://github.com/noatgnu/catapult",
+        "rel": "/software/repository/github/noatgnu/catapult",
+        "avatar": "https://avatars.githubusercontent.com/u/16314099?v=4",
+        "description": "automated mass spec data search and analysis tool",
+        "topics": []
+    },
+    {
         "uid": "github/chrishales/pieflag",
         "url": "https://github.com/chrishales/pieflag",
         "rel": "/software/repository/github/chrishales/pieflag",
@@ -58664,6 +58792,14 @@
         "rel": "/software/repository/github/youngjookim/sdr",
         "avatar": "https://avatars.githubusercontent.com/u/6983325?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/akinremisa/rfsed",
+        "url": "https://github.com/akinremisa/rfsed",
+        "rel": "/software/repository/github/akinremisa/rfsed",
+        "avatar": "https://avatars.githubusercontent.com/u/107252532?v=4",
+        "description": "Package for standard and sediment correction receiver functions analysis",
         "topics": []
     },
     {
@@ -59693,6 +59829,16 @@
         "avatar": "https://avatars.githubusercontent.com/u/132052164?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/GOBLIN-Proj/goblin_lite",
+        "url": "https://github.com/GOBLIN-Proj/goblin_lite",
+        "rel": "/software/repository/github/GOBLIN-Proj/goblin_lite",
+        "avatar": "https://avatars.githubusercontent.com/u/164409538?v=4",
+        "description": "A goblin tool for the generation of static land balance scenarios and environment",
+        "topics": [
+            "goblin"
+        ]
     },
     {
         "uid": "github/sbird/GenPK",
