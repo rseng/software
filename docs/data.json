@@ -38,6 +38,27 @@
         "topics": []
     },
     {
+        "uid": "github/opengeos/HyperCoast",
+        "url": "https://github.com/opengeos/HyperCoast",
+        "rel": "/software/repository/github/opengeos/HyperCoast",
+        "avatar": "https://avatars.githubusercontent.com/u/129896036?v=4",
+        "description": "A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Environments",
+        "topics": [
+            "coastal",
+            "geospatial",
+            "hyperspectral",
+            "python",
+            "nasa",
+            "aviris",
+            "emit",
+            "ipyleaflet",
+            "ipywidgets",
+            "leafmap",
+            "neon",
+            "pace"
+        ]
+    },
+    {
         "uid": "github/opengeos/segment-geospatial",
         "url": "https://github.com/opengeos/segment-geospatial",
         "rel": "/software/repository/github/opengeos/segment-geospatial",
@@ -3148,6 +3169,22 @@
         "topics": []
     },
     {
+        "uid": "github/Aminsinichi/wearable-hrv",
+        "url": "https://github.com/Aminsinichi/wearable-hrv",
+        "rel": "/software/repository/github/Aminsinichi/wearable-hrv",
+        "avatar": "https://avatars.githubusercontent.com/u/126984097?v=4",
+        "description": "A Python package for the validation of heart rate and heart rate variability in wearables",
+        "topics": [
+            "heart-rate",
+            "heart-rate-variability",
+            "hrv",
+            "psychophysiology",
+            "python",
+            "wearables",
+            "validation"
+        ]
+    },
+    {
         "uid": "github/kbarbary/sep",
         "url": "https://github.com/kbarbary/sep",
         "rel": "/software/repository/github/kbarbary/sep",
@@ -5432,6 +5469,14 @@
         ]
     },
     {
+        "uid": "github/lab-medvedeva/GADES-main",
+        "url": "https://github.com/lab-medvedeva/GADES-main",
+        "rel": "/software/repository/github/lab-medvedeva/GADES-main",
+        "avatar": "https://avatars.githubusercontent.com/u/79700862?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/cajohare/NeutrinoFog",
         "url": "https://github.com/cajohare/NeutrinoFog",
         "rel": "/software/repository/github/cajohare/NeutrinoFog",
@@ -7553,6 +7598,22 @@
         ]
     },
     {
+        "uid": "github/karllark/dust_extinction",
+        "url": "https://github.com/karllark/dust_extinction",
+        "rel": "/software/repository/github/karllark/dust_extinction",
+        "avatar": "https://avatars.githubusercontent.com/u/1554536?v=4",
+        "description": "Astronomical Dust Extinction",
+        "topics": [
+            "dust-extinction",
+            "extinction",
+            "astronomy",
+            "astrophysics",
+            "astropy",
+            "dust",
+            "hacktoberfest"
+        ]
+    },
+    {
         "uid": "github/tessgi/tvguide",
         "url": "https://github.com/tessgi/tvguide",
         "rel": "/software/repository/github/tessgi/tvguide",
@@ -8936,6 +8997,24 @@
             "statistical-models",
             "data-science",
             "python"
+        ]
+    },
+    {
+        "uid": "github/radicamc/exoTEDRF",
+        "url": "https://github.com/radicamc/exoTEDRF",
+        "rel": "/software/repository/github/radicamc/exoTEDRF",
+        "avatar": "https://avatars.githubusercontent.com/u/44100686?v=4",
+        "description": "Tools for end-to-end reduction of JWST exoplanet observations",
+        "topics": [
+            "atmosphere",
+            "exoplanet",
+            "jwst",
+            "miri",
+            "niriss",
+            "nirspec",
+            "soss",
+            "spectroscopy",
+            "tedorf"
         ]
     },
     {
@@ -12451,6 +12530,19 @@
         ]
     },
     {
+        "uid": "github/sanctuuary/ape",
+        "url": "https://github.com/sanctuuary/APE",
+        "rel": "/software/repository/github/sanctuuary/ape",
+        "avatar": "https://avatars.githubusercontent.com/u/58854891?v=4",
+        "description": "APE (Automated Pipeline Explorer)",
+        "topics": [
+            "automated-pipeline",
+            "workflow-synthesis",
+            "program-synthesis",
+            "java"
+        ]
+    },
+    {
         "uid": "github/c-martinez/BeyondTheBook",
         "url": "https://github.com/c-martinez/BeyondTheBook",
         "rel": "/software/repository/github/c-martinez/BeyondTheBook",
@@ -13033,6 +13125,14 @@
             "parallel-robot",
             "serial-robotics"
         ]
+    },
+    {
+        "uid": "github/Clinical-Genomics-Umea/fraggler",
+        "url": "https://github.com/Clinical-Genomics-Umea/fraggler",
+        "rel": "/software/repository/github/Clinical-Genomics-Umea/fraggler",
+        "avatar": "https://avatars.githubusercontent.com/u/98591011?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/yfperezg/frisbhee",
@@ -21291,6 +21391,20 @@
         "topics": []
     },
     {
+        "uid": "github/mzkhalid039/DWBuilder",
+        "url": "https://github.com/mzkhalid039/DWBuilder",
+        "rel": "/software/repository/github/mzkhalid039/DWBuilder",
+        "avatar": "https://avatars.githubusercontent.com/u/52278972?v=4",
+        "description": "Ferroelectric/Ferroelastic domain wall builder",
+        "topics": [
+            "ferroelectric-domains",
+            "ferroelectrics",
+            "domain-walls",
+            "atomic",
+            "interface-builder"
+        ]
+    },
+    {
         "uid": "github/Sarc-Graph/sarcgraph",
         "url": "https://github.com/Sarc-Graph/sarcgraph",
         "rel": "/software/repository/github/Sarc-Graph/sarcgraph",
@@ -25079,6 +25193,33 @@
         "topics": []
     },
     {
+        "uid": "github/BradyAJohnston/MolecularNodes",
+        "url": "https://github.com/BradyAJohnston/MolecularNodes",
+        "rel": "/software/repository/github/BradyAJohnston/MolecularNodes",
+        "avatar": "https://avatars.githubusercontent.com/u/36021261?v=4",
+        "description": "Toolbox for molecular animations in Blender, powered by Geometry Nodes.",
+        "topics": [
+            "blender",
+            "biochemistry",
+            "geometry-nodes",
+            "protein",
+            "protein-structure",
+            "protein-visualization",
+            "sciart",
+            "visualisation",
+            "structural-biology",
+            "blender-addon",
+            "protein-data-bank",
+            "molecule",
+            "proteins",
+            "pdb",
+            "molecular-modeling",
+            "molecular",
+            "molecular-graphics",
+            "molecular-dynamics"
+        ]
+    },
+    {
         "uid": "github/NCIP/visda",
         "url": "https://github.com/NCIP/visda",
         "rel": "/software/repository/github/NCIP/visda",
@@ -25524,6 +25665,14 @@
         ]
     },
     {
+        "uid": "github/EdgeVPNio/evio",
+        "url": "https://github.com/EdgeVPNio/evio",
+        "rel": "/software/repository/github/EdgeVPNio/evio",
+        "avatar": "https://avatars.githubusercontent.com/u/63874761?v=4",
+        "description": "Virtualized overlay networking for the fog. The Evio network spans the continuum, from the cloud to the edge, providing a virtual private layer 2 network suitable for edge devices in IoT workloads.",
+        "topics": []
+    },
+    {
         "uid": "github/alvinxhan/Phydelity",
         "url": "https://github.com/alvinxhan/Phydelity",
         "rel": "/software/repository/github/alvinxhan/Phydelity",
@@ -25822,6 +25971,14 @@
             "conda",
             "krylov"
         ]
+    },
+    {
+        "uid": "github/WhaleConnect/whaleconnect",
+        "url": "https://github.com/WhaleConnect/whaleconnect",
+        "rel": "/software/repository/github/WhaleConnect/whaleconnect",
+        "avatar": "https://avatars.githubusercontent.com/u/174279898?v=4",
+        "description": "Cross-platform network communication software",
+        "topics": []
     },
     {
         "uid": "github/dgobbi/vtk-dicom",
@@ -40687,6 +40844,17 @@
         "topics": []
     },
     {
+        "uid": "github/BigDataBiology/argNorm",
+        "url": "https://github.com/BigDataBiology/argNorm",
+        "rel": "/software/repository/github/BigDataBiology/argNorm",
+        "avatar": "https://avatars.githubusercontent.com/u/38910137?v=4",
+        "description": "ARG normalization by mapping to the ARO ontology.",
+        "topics": [
+            "antibiotic-resistance",
+            "bioinformatics"
+        ]
+    },
+    {
         "uid": "github/barnabytprowe/imcom",
         "url": "https://github.com/barnabytprowe/imcom",
         "rel": "/software/repository/github/barnabytprowe/imcom",
@@ -49067,6 +49235,24 @@
         ]
     },
     {
+        "uid": "github/OpenEnergyPlatform/open-MaStR",
+        "url": "https://github.com/OpenEnergyPlatform/open-MaStR",
+        "rel": "/software/repository/github/OpenEnergyPlatform/open-MaStR",
+        "avatar": "https://avatars.githubusercontent.com/u/37101913?v=4",
+        "description": "A collaborative software to download the energy database Marktstammdatenregister (MaStR)",
+        "topics": [
+            "open-energy-family",
+            "oep",
+            "marktstammdatenregister",
+            "python",
+            "energy",
+            "energy-data",
+            "dataset",
+            "datasets",
+            "solar"
+        ]
+    },
+    {
         "uid": "github/yuansliu/minirmd",
         "url": "https://github.com/yuansliu/minirmd",
         "rel": "/software/repository/github/yuansliu/minirmd",
@@ -53352,6 +53538,14 @@
             "catalog",
             "mock"
         ]
+    },
+    {
+        "uid": "github/ben-cassese/squishyplanet",
+        "url": "https://github.com/ben-cassese/squishyplanet",
+        "rel": "/software/repository/github/ben-cassese/squishyplanet",
+        "avatar": "https://avatars.githubusercontent.com/u/10929214?v=4",
+        "description": "Transits of non-spherical exoplanets",
+        "topics": []
     },
     {
         "uid": "github/big-data-lab-team/spot",
@@ -62154,6 +62348,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/97296791?v=4",
         "description": "Python program to generate NetworkX graphs from segmented images.",
         "topics": []
+    },
+    {
+        "uid": "github/TORCH-Consortium/MAGMA",
+        "url": "https://github.com/TORCH-Consortium/MAGMA",
+        "rel": "/software/repository/github/TORCH-Consortium/MAGMA",
+        "avatar": "https://avatars.githubusercontent.com/u/101628119?v=4",
+        "description": "A pipeline for comprehensive genomic analyses of Mycobacterium tuberculosis with a focus on clinical decision making as well as research",
+        "topics": [
+            "genomics",
+            "pipeline",
+            "mycobacterium-tuberculosis",
+            "tuberculosis",
+            "nextflow-pipeline",
+            "nextflow"
+        ]
     },
     {
         "uid": "github/nikhil-sarin/redback",
