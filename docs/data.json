@@ -749,6 +749,19 @@
         "topics": []
     },
     {
+        "uid": "github/Jingxuan97/nemesispy",
+        "url": "https://github.com/Jingxuan97/nemesispy",
+        "rel": "/software/repository/github/Jingxuan97/nemesispy",
+        "avatar": "https://avatars.githubusercontent.com/u/64174530?v=4",
+        "description": "Tools for modelling exoplanet spectra",
+        "topics": [
+            "exoplanet-analysis",
+            "exoplanet-atmospheres",
+            "exoplanets",
+            "radiative-transfer"
+        ]
+    },
+    {
         "uid": "github/sonny-harman/snowball",
         "url": "https://github.com/sonny-harman/snowball",
         "rel": "/software/repository/github/sonny-harman/snowball",
@@ -2197,6 +2210,18 @@
         "topics": []
     },
     {
+        "uid": "github/metagenopolis/CroCoDeEL",
+        "url": "https://github.com/metagenopolis/CroCoDeEL",
+        "rel": "/software/repository/github/metagenopolis/CroCoDeEL",
+        "avatar": "https://avatars.githubusercontent.com/u/150909814?v=4",
+        "description": "CroCoDeEL is a tool that detects cross-sample contamination in shotgun metagenomic data",
+        "topics": [
+            "contamination-detection",
+            "metagenomics",
+            "quality-control"
+        ]
+    },
+    {
         "uid": "github/karllark/dust_extinction",
         "url": "https://github.com/karllark/dust_extinction",
         "rel": "/software/repository/github/karllark/dust_extinction",
@@ -3254,6 +3279,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/8121773?v=4",
         "description": "Wield this tool to be King Arthur of your models.",
         "topics": []
+    },
+    {
+        "uid": "github/RWTH-EBC/FiLiP",
+        "url": "https://github.com/RWTH-EBC/FiLiP",
+        "rel": "/software/repository/github/RWTH-EBC/FiLiP",
+        "avatar": "https://avatars.githubusercontent.com/u/8121773?v=4",
+        "description": "FIWARE Library for Python (FiLiP) to work with FIWARE API",
+        "topics": [
+            "fiware",
+            "hacktoberfest",
+            "fiware-orion",
+            "fiware-iot-agents",
+            "fiware-ngsi-v2",
+            "python",
+            "iot",
+            "fiware-quantum-leap"
+        ]
     },
     {
         "uid": "github/fbreitwieser/krakenuniq",
@@ -14254,6 +14296,19 @@
         ]
     },
     {
+        "uid": "github/flekschas/jupyter-scatter",
+        "url": "https://github.com/flekschas/jupyter-scatter",
+        "rel": "/software/repository/github/flekschas/jupyter-scatter",
+        "avatar": "https://avatars.githubusercontent.com/u/932103?v=4",
+        "description": "Interactive 2D scatter plot widget for Jupyter Lab and Notebook. Scales to millions of points!",
+        "topics": [
+            "scatter-plot",
+            "visualization",
+            "jupyterlab-extension",
+            "jupyter-notebook-extension"
+        ]
+    },
+    {
         "uid": "github/flekschas/regl-scatterplot",
         "url": "https://github.com/flekschas/regl-scatterplot",
         "rel": "/software/repository/github/flekschas/regl-scatterplot",
@@ -16262,6 +16317,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/55756150?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/qcxms/QCxMS",
+        "url": "https://github.com/qcxms/QCxMS",
+        "rel": "/software/repository/github/qcxms/QCxMS",
+        "avatar": "https://avatars.githubusercontent.com/u/64989407?v=4",
+        "description": "Quantum mechanic mass spectrometry calculation program",
+        "topics": [
+            "mass-spectrometry",
+            "computational-chemistry",
+            "molecular-dynamics",
+            "computational-mass-spectrometry"
+        ]
     },
     {
         "uid": "github/PaulRitsche/DLTrack",
@@ -24917,6 +24985,14 @@
         ]
     },
     {
+        "uid": "github/LabLaskin/MSIGen",
+        "url": "https://github.com/LabLaskin/MSIGen",
+        "rel": "/software/repository/github/LabLaskin/MSIGen",
+        "avatar": "https://avatars.githubusercontent.com/u/58985859?v=4",
+        "description": "Python package for visualizing MS images from line scans",
+        "topics": []
+    },
+    {
         "uid": "github/blackjax-devs/blackjax",
         "url": "https://github.com/blackjax-devs/blackjax",
         "rel": "/software/repository/github/blackjax-devs/blackjax",
@@ -31379,6 +31455,20 @@
             "fits-files",
             "fitsio",
             "cpp"
+        ]
+    },
+    {
+        "uid": "github/sidiwang/snSMART",
+        "url": "https://github.com/sidiwang/snSMART",
+        "rel": "/software/repository/github/sidiwang/snSMART",
+        "avatar": "https://avatars.githubusercontent.com/u/56009989?v=4",
+        "description": "small n sequential multiple assignment randomized trial (snSMART)",
+        "topics": [
+            "bayesian-analysis",
+            "clinical-trials",
+            "r",
+            "rare-disease",
+            "small-sample"
         ]
     },
     {
@@ -47629,6 +47719,14 @@
         ]
     },
     {
+        "uid": "github/palaeoware/trevosim",
+        "url": "https://github.com/palaeoware/trevosim",
+        "rel": "/software/repository/github/palaeoware/trevosim",
+        "avatar": "https://avatars.githubusercontent.com/u/38782482?v=4",
+        "description": "TREvoSim - The [Tr]ee [Evo]lutionary [Sim]ulator program",
+        "topics": []
+    },
+    {
         "uid": "github/palaeoware/revosim",
         "url": "https://github.com/palaeoware/revosim",
         "rel": "/software/repository/github/palaeoware/revosim",
@@ -50343,6 +50441,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/14165171?v=4",
         "description": "SIMIO: from SIMulatIons to Observations",
         "topics": []
+    },
+    {
+        "uid": "github/tribshms/tRIBS",
+        "url": "https://github.com/tribshms/tRIBS",
+        "rel": "/software/repository/github/tribshms/tRIBS",
+        "avatar": "https://avatars.githubusercontent.com/u/69878127?v=4",
+        "description": "TIN-based Real-time Integrated Basin Simulator (tRIBS) Distributed Hydrological Model",
+        "topics": [
+            "hydrology",
+            "hydrology-modeling",
+            "hydrology-simulation"
+        ]
     },
     {
         "uid": "github/Bgi-LUSH/GPMeta",
@@ -56774,6 +56884,20 @@
         ]
     },
     {
+        "uid": "github/grimme-lab/xtb",
+        "url": "https://github.com/grimme-lab/xtb",
+        "rel": "/software/repository/github/grimme-lab/xtb",
+        "avatar": "https://avatars.githubusercontent.com/u/49521176?v=4",
+        "description": "Semiempirical Extended Tight-Binding Program Package",
+        "topics": [
+            "quantum-chemistry",
+            "tight-binding",
+            "computational-chemistry",
+            "atomistic-simulations",
+            "force-field"
+        ]
+    },
+    {
         "uid": "github/INCEPTdk/adaptr",
         "url": "https://github.com/INCEPTdk/adaptr",
         "rel": "/software/repository/github/INCEPTdk/adaptr",
@@ -58931,6 +59055,33 @@
         ]
     },
     {
+        "uid": "github/artefactory/choice-learn",
+        "url": "https://github.com/artefactory/choice-learn",
+        "rel": "/software/repository/github/artefactory/choice-learn",
+        "avatar": "https://avatars.githubusercontent.com/u/86767100?v=4",
+        "description": "Discrete choice modeling in Python with large datasets & models - Assortment & Pricing Optimization .",
+        "topics": [
+            "assortment",
+            "choice",
+            "discrete",
+            "learning",
+            "machine",
+            "ml",
+            "model",
+            "supermarket",
+            "gurobi",
+            "optimization",
+            "or-tools",
+            "pricing",
+            "tensorflow",
+            "deep",
+            "neural-networks",
+            "conditional-logit-model",
+            "rum",
+            "choice-modeling"
+        ]
+    },
+    {
         "uid": "github/PolymathicAI/AstroCLIP",
         "url": "https://github.com/PolymathicAI/AstroCLIP",
         "rel": "/software/repository/github/PolymathicAI/AstroCLIP",
@@ -59320,6 +59471,14 @@
         "rel": "/software/repository/github/microbioinformatic/Co-PATHOgenex",
         "avatar": "https://avatars.githubusercontent.com/u/38429110?v=4",
         "description": "Supporting scripts and files for R shiny app Co-PATHOgenex",
+        "topics": []
+    },
+    {
+        "uid": "github/VU-IVM/VineCopulas",
+        "url": "https://github.com/VU-IVM/VineCopulas",
+        "rel": "/software/repository/github/VU-IVM/VineCopulas",
+        "avatar": "https://avatars.githubusercontent.com/u/56406868?v=4",
+        "description": "A pure python implementation for vine copulas",
         "topics": []
     },
     {
@@ -61795,6 +61954,14 @@
         "rel": "/software/repository/github/lkreidberg/batman",
         "avatar": "https://avatars.githubusercontent.com/u/1859463?v=4",
         "description": "Fast transit light curves models in Python.",
+        "topics": []
+    },
+    {
+        "uid": "github/DotBots/qrkey",
+        "url": "https://github.com/DotBots/qrkey",
+        "rel": "/software/repository/github/DotBots/qrkey",
+        "avatar": "https://avatars.githubusercontent.com/u/80765534?v=4",
+        "description": "Simply and Securely Control Robots Swarms",
         "topics": []
     },
     {
