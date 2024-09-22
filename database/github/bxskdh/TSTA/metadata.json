@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/bxskdh/TSTA",
+    "url": "https://github.com/bxskdh/TSTA",
+    "data": {
+        "name": "TSTA",
+        "url": "https://github.com/bxskdh/TSTA",
+        "full_name": "bxskdh/TSTA",
+        "html_url": "https://github.com/bxskdh/TSTA",
+        "private": false,
+        "description": "pairwise and multiple sequence alignment accelerated by simd and threads",
+        "created_at": "2023-12-01T07:13:03Z",
+        "updated_at": "2024-09-06T02:40:57Z",
+        "clone_url": "https://github.com/bxskdh/TSTA.git",
+        "homepage": "",
+        "size": 296,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "C",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/bxskdh",
+            "avatar_url": "https://avatars.githubusercontent.com/u/137745769?v=4",
+            "login": "bxskdh",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2024-09-22 00:46:20.688415",
+        "avatar": "https://avatars.githubusercontent.com/u/137745769?v=4"
+    }
+}
