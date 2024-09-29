@@ -216,6 +216,14 @@
         "topics": []
     },
     {
+        "uid": "gitlab/qc-devs/aqcnes",
+        "url": "https://gitlab.com/qc-devs/aqcnes",
+        "rel": "/software/repository/gitlab/qc-devs/aqcnes",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/60711361/ThermalExpansion_Subdomain.png",
+        "description": "Mirror of https://gitlab.ethz.ch/mechanics-and-materials/aqcnes/",
+        "topics": []
+    },
+    {
         "uid": "gitlab/mauricemolli/petitRADTRANS",
         "url": "https://gitlab.com/mauricemolli/petitRADTRANS",
         "rel": "/software/repository/gitlab/mauricemolli/petitRADTRANS",
@@ -981,6 +989,14 @@
         "rel": "/software/repository/gitlab/joseaher/astroplotlib",
         "avatar": "https://gitlab.comNone",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "gitlab/MartinBeseda/sa-oo-vqe-qiskit",
+        "url": "https://gitlab.com/MartinBeseda/sa-oo-vqe-qiskit",
+        "rel": "/software/repository/gitlab/MartinBeseda/sa-oo-vqe-qiskit",
+        "avatar": "https://gitlab.comNone",
+        "description": "Qiskit version of SA-OO-VQE",
         "topics": []
     },
     {
@@ -3652,6 +3668,25 @@
             "transmission",
             "emission",
             "reflected-light"
+        ]
+    },
+    {
+        "uid": "github/maps-as-data/MapReader",
+        "url": "https://github.com/maps-as-data/MapReader",
+        "rel": "/software/repository/github/maps-as-data/MapReader",
+        "avatar": "https://avatars.githubusercontent.com/u/179117192?v=4",
+        "description": "A computer vision pipeline for exploring and analyzing images at scale",
+        "topics": [
+            "hut23",
+            "hut23-96",
+            "computer-vision",
+            "deep-learning",
+            "machine-learning",
+            "pytorch",
+            "article",
+            "digital-humanities",
+            "maps",
+            "spatial-data"
         ]
     },
     {
@@ -11216,6 +11251,14 @@
         "topics": []
     },
     {
+        "uid": "github/pierrepeterlongo/back_to_sequences",
+        "url": "https://github.com/pierrepeterlongo/back_to_sequences",
+        "rel": "/software/repository/github/pierrepeterlongo/back_to_sequences",
+        "avatar": "https://avatars.githubusercontent.com/u/8103041?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/TheFischerLab/FLEXR",
         "url": "https://github.com/TheFischerLab/FLEXR",
         "rel": "/software/repository/github/TheFischerLab/FLEXR",
@@ -14536,6 +14579,21 @@
         ]
     },
     {
+        "uid": "github/bacpop/ska.rust",
+        "url": "https://github.com/bacpop/ska.rust",
+        "rel": "/software/repository/github/bacpop/ska.rust",
+        "avatar": "https://avatars.githubusercontent.com/u/78856671?v=4",
+        "description": "Split k-mer analysis \u2013 version 2",
+        "topics": [
+            "bioinformatics",
+            "sequence",
+            "ska",
+            "rust",
+            "alignment",
+            "k-mer"
+        ]
+    },
+    {
         "uid": "github/PopGenClustering/Clumppling",
         "url": "https://github.com/PopGenClustering/Clumppling",
         "rel": "/software/repository/github/PopGenClustering/Clumppling",
@@ -16902,6 +16960,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/12684447?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/JuliaGeometry/DelaunayTriangulation.jl",
+        "url": "https://github.com/JuliaGeometry/DelaunayTriangulation.jl",
+        "rel": "/software/repository/github/JuliaGeometry/DelaunayTriangulation.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/10924607?v=4",
+        "description": "DelaunayTriangulation.jl: A Julia package for Delaunay triangulations and Voronoi tessellations in the plane",
+        "topics": [
+            "delaunay-triangulation",
+            "tessellation",
+            "triangulation",
+            "computational-geometry",
+            "geometry",
+            "voronoi",
+            "voronoi-diagram",
+            "delaunay",
+            "meshing",
+            "power-diagram"
+        ]
     },
     {
         "uid": "github/chemfiles/chemfiles",
@@ -19332,6 +19409,25 @@
         "avatar": "https://avatars3.githubusercontent.com/u/20125525?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/gear-genomics/dicey",
+        "url": "https://github.com/gear-genomics/dicey",
+        "rel": "/software/repository/github/gear-genomics/dicey",
+        "avatar": "https://avatars.githubusercontent.com/u/31348883?v=4",
+        "description": "In-silico PCR, primer design and padlock design for in-situ sequencing",
+        "topics": [
+            "gear-genomics",
+            "pcr",
+            "primer",
+            "primer-design",
+            "in-silico",
+            "sanger-sequencing",
+            "amplicon",
+            "amplicon-sequencing",
+            "padlock",
+            "in-situ-sequencing"
+        ]
     },
     {
         "uid": "github/gear-genomics/tracy",
@@ -29981,6 +30077,20 @@
         "topics": []
     },
     {
+        "uid": "github/kcleal/gw",
+        "url": "https://github.com/kcleal/gw",
+        "rel": "/software/repository/github/kcleal/gw",
+        "avatar": "https://avatars.githubusercontent.com/u/42997789?v=4",
+        "description": "Genome browser and variant annotation",
+        "topics": [
+            "annotation-tool",
+            "vcf",
+            "bam-files",
+            "cram-files",
+            "genome-browser"
+        ]
+    },
+    {
         "uid": "github/cosimoNigro/agnpy",
         "url": "https://github.com/cosimoNigro/agnpy",
         "rel": "/software/repository/github/cosimoNigro/agnpy",
@@ -32426,6 +32536,20 @@
         ]
     },
     {
+        "uid": "github/alchemistry/alchemlyb",
+        "url": "https://github.com/alchemistry/alchemlyb",
+        "rel": "/software/repository/github/alchemistry/alchemlyb",
+        "avatar": "https://avatars.githubusercontent.com/u/19521918?v=4",
+        "description": "the simple alchemistry library",
+        "topics": [
+            "science",
+            "free-energy",
+            "python",
+            "library",
+            "molecular-dynamics"
+        ]
+    },
+    {
         "uid": "github/akdeniz-uzay/A-Track",
         "url": "https://github.com/akdeniz-uzay/A-Track",
         "rel": "/software/repository/github/akdeniz-uzay/A-Track",
@@ -32983,6 +33107,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/7978135?v=4",
         "description": "groupyr: Sparse Group Lasso in Python",
         "topics": []
+    },
+    {
+        "uid": "github/baoxingsong/AnchorWave",
+        "url": "https://github.com/baoxingsong/AnchorWave",
+        "rel": "/software/repository/github/baoxingsong/AnchorWave",
+        "avatar": "https://avatars.githubusercontent.com/u/18551962?v=4",
+        "description": "Sensitive alignment of genomes with high sequence diversity, extensive structural polymorphism and whole-genome duplication variation",
+        "topics": [
+            "genome",
+            "genome-alignment"
+        ]
     },
     {
         "uid": "github/PENTACLE-Team/PENTACLE",
@@ -39377,6 +39512,14 @@
         ]
     },
     {
+        "uid": "github/Weeks-UNC/RingMapper",
+        "url": "https://github.com/Weeks-UNC/RingMapper",
+        "rel": "/software/repository/github/Weeks-UNC/RingMapper",
+        "avatar": "https://avatars.githubusercontent.com/u/20342652?v=4",
+        "description": "Code for performing RING-MaP and PAIR-MaP analysis",
+        "topics": []
+    },
+    {
         "uid": "github/SandyYuan/GRAND-HOD",
         "url": "https://github.com/SandyYuan/GRAND-HOD",
         "rel": "/software/repository/github/SandyYuan/GRAND-HOD",
@@ -41469,6 +41612,14 @@
             "phyloseq",
             "metabarcoding"
         ]
+    },
+    {
+        "uid": "github/mlysy/LocalCop",
+        "url": "https://github.com/mlysy/LocalCop",
+        "rel": "/software/repository/github/mlysy/LocalCop",
+        "avatar": "https://avatars.githubusercontent.com/u/10173557?v=4",
+        "description": "Local Likelihood Inference for Conditional Copulas",
+        "topics": []
     },
     {
         "uid": "github/MetazoaPhylogenomicsLab/FANTASIA",
@@ -44832,6 +44983,25 @@
         ]
     },
     {
+        "uid": "github/davidpagnon/Sports2D",
+        "url": "https://github.com/davidpagnon/Sports2D",
+        "rel": "/software/repository/github/davidpagnon/Sports2D",
+        "avatar": "https://avatars.githubusercontent.com/u/54667644?v=4",
+        "description": "Compute 2D human pose and angles from a video or a webcam. ",
+        "topics": [
+            "biomechanics",
+            "blazepose",
+            "joint-angles",
+            "kinematics",
+            "markerless",
+            "openpose",
+            "sports-analytics",
+            "kinovea",
+            "pose-estimation",
+            "rtmpose"
+        ]
+    },
+    {
         "uid": "github/liuhong-jia/scAnno",
         "url": "https://github.com/liuhong-jia/scAnno",
         "rel": "/software/repository/github/liuhong-jia/scAnno",
@@ -47869,6 +48039,23 @@
         "avatar": "https://avatars2.githubusercontent.com/u/33551224?v=4",
         "description": "TwiNL: website code",
         "topics": []
+    },
+    {
+        "uid": "github/ekiefl/pooltool",
+        "url": "https://github.com/ekiefl/pooltool",
+        "rel": "/software/repository/github/ekiefl/pooltool",
+        "avatar": "https://avatars.githubusercontent.com/u/8688665?v=4",
+        "description": "A sandbox billiards game that emphasizes realistic physics",
+        "topics": [
+            "billiards",
+            "panda3d",
+            "physics",
+            "pool",
+            "python",
+            "snooker",
+            "simulation",
+            "eight-ball"
+        ]
     },
     {
         "uid": "github/ExObsSim/ExoRad2-public",
@@ -53617,6 +53804,20 @@
         "topics": []
     },
     {
+        "uid": "github/daniloceano/LorenzCycleToolkit",
+        "url": "https://github.com/daniloceano/LorenzCycleToolkit",
+        "rel": "/software/repository/github/daniloceano/LorenzCycleToolkit",
+        "avatar": "https://avatars.githubusercontent.com/u/56005607?v=4",
+        "description": "Program for computing the Lorenz Energy Cycle (LEC) in a closed region of the atmosphere.",
+        "topics": [
+            "atmospheric-science",
+            "data-analysis-python",
+            "energetics",
+            "meteorology",
+            "scientific-research"
+        ]
+    },
+    {
         "uid": "github/annagraff/densify",
         "url": "https://github.com/annagraff/densify",
         "rel": "/software/repository/github/annagraff/densify",
@@ -54659,6 +54860,14 @@
         "rel": "/software/repository/github/martenlourens/pySDR",
         "avatar": "https://avatars.githubusercontent.com/u/14141310?v=4",
         "description": "A Python library for performing local gradient clustering (LGC) based sharpened dimensionality reduction (SDR).",
+        "topics": []
+    },
+    {
+        "uid": "github/jeetsukumaran/DendroPy",
+        "url": "https://github.com/jeetsukumaran/DendroPy",
+        "rel": "/software/repository/github/jeetsukumaran/DendroPy",
+        "avatar": "https://avatars.githubusercontent.com/u/26183?v=4",
+        "description": "A Python library for phylogenetic scripting, simulation, data processing and manipulation.",
         "topics": []
     },
     {
@@ -59282,6 +59491,19 @@
         "topics": []
     },
     {
+        "uid": "github/miriamkw/GluPredKit",
+        "url": "https://github.com/miriamkw/GluPredKit",
+        "rel": "/software/repository/github/miriamkw/GluPredKit",
+        "avatar": "https://avatars.githubusercontent.com/u/47831805?v=4",
+        "description": "GluPredKit aims to make blood glucose model training and prediction more accessible. ",
+        "topics": [
+            "glucose-prediction",
+            "deep-learning",
+            "machine-learning",
+            "modelling-biological-systems"
+        ]
+    },
+    {
         "uid": "github/cochran4/GEMB",
         "url": "https://github.com/cochran4/GEMB",
         "rel": "/software/repository/github/cochran4/GEMB",
@@ -60617,6 +60839,14 @@
             "spectral-analysis",
             "spectrum"
         ]
+    },
+    {
+        "uid": "github/CEA-MetroCarac/pystack3d",
+        "url": "https://github.com/CEA-MetroCarac/pystack3d",
+        "rel": "/software/repository/github/CEA-MetroCarac/pystack3d",
+        "avatar": "https://avatars.githubusercontent.com/u/111420199?v=4",
+        "description": "Package to process images stacks (typically from 3D FIB-SEM)",
+        "topics": []
     },
     {
         "uid": "github/Kingsford-Group/scallop",
@@ -62618,6 +62848,14 @@
             "python",
             "petrofit"
         ]
+    },
+    {
+        "uid": "github/choosehappy/HoverFast",
+        "url": "https://github.com/choosehappy/HoverFast",
+        "rel": "/software/repository/github/choosehappy/HoverFast",
+        "avatar": "https://avatars.githubusercontent.com/u/9681868?v=4",
+        "description": "Blazing fast nuclei segmentation for brightfield Whole Slide Images",
+        "topics": []
     },
     {
         "uid": "github/alphapsa/PIPE",
