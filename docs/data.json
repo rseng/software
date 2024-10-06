@@ -1208,6 +1208,22 @@
         "topics": []
     },
     {
+        "uid": "github/nathanaelbosch/ProbNumDiffEq.jl",
+        "url": "https://github.com/nathanaelbosch/ProbNumDiffEq.jl",
+        "rel": "/software/repository/github/nathanaelbosch/ProbNumDiffEq.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/25008422?v=4",
+        "description": "Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing",
+        "topics": [
+            "julia",
+            "differential-equations",
+            "probabilistic-models",
+            "ode",
+            "ode-solver",
+            "probabilistic-numerics",
+            "hacktoberfest"
+        ]
+    },
+    {
         "uid": "github/asmusskar/ALVA",
         "url": "https://github.com/asmusskar/ALVA",
         "rel": "/software/repository/github/asmusskar/ALVA",
@@ -2946,6 +2962,14 @@
         "topics": []
     },
     {
+        "uid": "github/WGLab/LongReadSum",
+        "url": "https://github.com/WGLab/LongReadSum",
+        "rel": "/software/repository/github/WGLab/LongReadSum",
+        "avatar": "https://avatars.githubusercontent.com/u/5926337?v=4",
+        "description": "LongReadSum supports FASTA, FASTQ, BAM, FAST5, and sequencing_summary.txt file formats for quick generation of QC data in HTML and text format.",
+        "topics": []
+    },
+    {
         "uid": "github/schochastics/netrankr",
         "url": "https://github.com/schochastics/netrankr",
         "rel": "/software/repository/github/schochastics/netrankr",
@@ -4427,6 +4451,14 @@
         "topics": []
     },
     {
+        "uid": "github/davidharvey1986/pyRRG",
+        "url": "https://github.com/davidharvey1986/pyRRG",
+        "rel": "/software/repository/github/davidharvey1986/pyRRG",
+        "avatar": "https://avatars.githubusercontent.com/u/2930696?v=4",
+        "description": "pyRRG weak lensing shape measurement code. Measuring the 2nd and 4th order moments it uses a TinyTim model to correct for PSF distortions. It is invariant to number exposures, ortientation of the drizzle images. Using a machine learning algorithm it automatically star and galaxy classifies, howeve the user is able to do this manually if not accurate enough. For more see https://arxiv.org/abs/astro-ph/9905090. For bugs please report them to https://github.com/davidharvey1986/pyRRG or contact harvey@lorentz.leidenuniv.nl",
+        "topics": []
+    },
+    {
         "uid": "github/sylvainprigent/napari-tracks-reader",
         "url": "https://github.com/sylvainprigent/napari-tracks-reader",
         "rel": "/software/repository/github/sylvainprigent/napari-tracks-reader",
@@ -4618,6 +4650,14 @@
             "numerical-methods",
             "gridap"
         ]
+    },
+    {
+        "uid": "github/gridap/GridapSolvers.jl",
+        "url": "https://github.com/gridap/GridapSolvers.jl",
+        "rel": "/software/repository/github/gridap/GridapSolvers.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/49163828?v=4",
+        "description": "Solvers and preconditioners for the Gridap ecosystem.",
+        "topics": []
     },
     {
         "uid": "github/ABard0/MDGF-MCEC",
@@ -5738,6 +5778,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/160553?v=4",
         "description": "simple analyses or modifications on both phylogenetic trees and data matrices",
         "topics": []
+    },
+    {
+        "uid": "github/genotoul-bioinfo/Binette",
+        "url": "https://github.com/genotoul-bioinfo/Binette",
+        "rel": "/software/repository/github/genotoul-bioinfo/Binette",
+        "avatar": "https://avatars.githubusercontent.com/u/36693932?v=4",
+        "description": "A fast and accurate binning refinement tool to constructs high quality MAGs from the output of multiple binning tools.",
+        "topics": [
+            "bioinformatics-tool",
+            "metagenomics-binning",
+            "metagenomics",
+            "microbiology"
+        ]
     },
     {
         "uid": "github/genotoul-bioinfo/dgenies",
@@ -8146,6 +8199,14 @@
         "topics": []
     },
     {
+        "uid": "github/Beryl-Jingxin/PyExoCross",
+        "url": "https://github.com/Beryl-Jingxin/PyExoCross",
+        "rel": "/software/repository/github/Beryl-Jingxin/PyExoCross",
+        "avatar": "https://avatars.githubusercontent.com/u/56116939?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/mavrix93/LightCurvesClassifier",
         "url": "https://github.com/mavrix93/LightCurvesClassifier",
         "rel": "/software/repository/github/mavrix93/LightCurvesClassifier",
@@ -8198,6 +8259,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/48957123?v=4",
         "description": "spam is a Python 3 package, used to search for imprints of Hu-Sawicki f(R) gravity in the rotation curves of the SPARC sample.",
         "topics": []
+    },
+    {
+        "uid": "github/aneeshnaik/lintsampler",
+        "url": "https://github.com/aneeshnaik/lintsampler",
+        "rel": "/software/repository/github/aneeshnaik/lintsampler",
+        "avatar": "https://avatars.githubusercontent.com/u/48957123?v=4",
+        "description": "Efficient random sampling via linear interpolation.",
+        "topics": [
+            "numpy",
+            "python",
+            "random-generation",
+            "statistics",
+            "random-sampling",
+            "low-discrepancy-sequence"
+        ]
     },
     {
         "uid": "github/cumbof/honto",
@@ -9449,6 +9525,14 @@
             "equations-of-state",
             "liquid-liquid-equilibrium"
         ]
+    },
+    {
+        "uid": "github/openvax/pyensembl",
+        "url": "https://github.com/openvax/pyensembl",
+        "rel": "/software/repository/github/openvax/pyensembl",
+        "avatar": "https://avatars.githubusercontent.com/u/33269729?v=4",
+        "description": "Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl ",
+        "topics": []
     },
     {
         "uid": "github/openvax/mhcflurry",
@@ -14746,6 +14830,14 @@
         "topics": []
     },
     {
+        "uid": "github/amueller/word_cloud",
+        "url": "https://github.com/amueller/word_cloud",
+        "rel": "/software/repository/github/amueller/word_cloud",
+        "avatar": "https://avatars.githubusercontent.com/u/449558?v=4",
+        "description": "A little word cloud generator in Python",
+        "topics": []
+    },
+    {
         "uid": "github/OpenMD/OpenMD",
         "url": "https://github.com/OpenMD/OpenMD",
         "rel": "/software/repository/github/OpenMD/OpenMD",
@@ -17143,6 +17235,14 @@
         "topics": []
     },
     {
+        "uid": "github/ERPI-UL/HELP-VRclient",
+        "url": "https://github.com/ERPI-UL/HELP-VRclient",
+        "rel": "/software/repository/github/ERPI-UL/HELP-VRclient",
+        "avatar": "https://avatars.githubusercontent.com/u/113673811?v=4",
+        "description": "Hybrid Extended Learning Platform (HELP) - VR client for Meta Quest",
+        "topics": []
+    },
+    {
         "uid": "github/casaluca/bolometric-corrections",
         "url": "https://github.com/casaluca/bolometric-corrections",
         "rel": "/software/repository/github/casaluca/bolometric-corrections",
@@ -17677,6 +17777,22 @@
         "topics": []
     },
     {
+        "uid": "github/pierrebarbera/epa-ng",
+        "url": "https://github.com/pierrebarbera/epa-ng",
+        "rel": "/software/repository/github/pierrebarbera/epa-ng",
+        "avatar": "https://avatars.githubusercontent.com/u/6584572?v=4",
+        "description": "Massively parallel phylogenetic placement of genetic sequences",
+        "topics": [
+            "phylogenetics",
+            "bioinformatics",
+            "taxonomic-classification",
+            "mpi",
+            "openmp",
+            "mpi-io",
+            "placement"
+        ]
+    },
+    {
         "uid": "github/spokenlanguage/platalea",
         "url": "https://github.com/spokenlanguage/platalea",
         "rel": "/software/repository/github/spokenlanguage/platalea",
@@ -18163,6 +18279,18 @@
             "astronomy",
             "interferometry",
             "observational-data"
+        ]
+    },
+    {
+        "uid": "github/smirik/resonances",
+        "url": "https://github.com/smirik/resonances",
+        "rel": "/software/repository/github/smirik/resonances",
+        "avatar": "https://avatars.githubusercontent.com/u/354907?v=4",
+        "description": "A python package for identification of mean-motion resonances in the Solar system and other planetary systems.",
+        "topics": [
+            "astronomy",
+            "mean-motion-resonance",
+            "solar-system-simulation"
         ]
     },
     {
@@ -20186,6 +20314,14 @@
             "composition",
             "tracking-algorithm"
         ]
+    },
+    {
+        "uid": "github/isaackd/wcloud",
+        "url": "https://github.com/isaackd/wcloud",
+        "rel": "/software/repository/github/isaackd/wcloud",
+        "avatar": "https://avatars.githubusercontent.com/u/24992665?v=4",
+        "description": "Create word clouds",
+        "topics": []
     },
     {
         "uid": "github/pyro-ppl/pyro",
@@ -28536,6 +28672,14 @@
         ]
     },
     {
+        "uid": "github/nell-byler/cloudyfsps",
+        "url": "https://github.com/nell-byler/cloudyfsps",
+        "rel": "/software/repository/github/nell-byler/cloudyfsps",
+        "avatar": "https://avatars.githubusercontent.com/u/2601325?v=4",
+        "description": "Python interface between FSPS and Cloudy.",
+        "topics": []
+    },
+    {
         "uid": "github/xfangcosmo/FFTLog-and-beyond",
         "url": "https://github.com/xfangcosmo/FFTLog-and-beyond",
         "rel": "/software/repository/github/xfangcosmo/FFTLog-and-beyond",
@@ -31906,6 +32050,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/8124268?v=4",
         "description": "Fortran90 code for the orbital simulation of exoplanetary system with simultaneous fit of Transit Times and Radial Velocities. ",
         "topics": []
+    },
+    {
+        "uid": "github/furrer-lab/abn",
+        "url": "https://github.com/furrer-lab/abn",
+        "rel": "/software/repository/github/furrer-lab/abn",
+        "avatar": "https://avatars.githubusercontent.com/u/151543411?v=4",
+        "description": "Bayesian network analysis in R",
+        "topics": [
+            "bayesian-network",
+            "binomial",
+            "categorical-data",
+            "gaussian",
+            "grouped-datasets",
+            "mixed-effects",
+            "multinomial",
+            "multivariate",
+            "poisson",
+            "structure-learning"
+        ]
     },
     {
         "uid": "github/BU-hammerTeam/PyHammer",
@@ -37337,6 +37500,14 @@
         "topics": []
     },
     {
+        "uid": "github/dvallesp/vortex-p",
+        "url": "https://github.com/dvallesp/vortex-p",
+        "rel": "/software/repository/github/dvallesp/vortex-p",
+        "avatar": "https://avatars.githubusercontent.com/u/6805116?v=4",
+        "description": "Implements a Helmholtz-Hodge decomposition and a Reynolds decomposition for the velocity field of general particle-based simulation outputs",
+        "topics": []
+    },
+    {
         "uid": "github/OliverFHD/GPUniverse",
         "url": "https://github.com/OliverFHD/GPUniverse",
         "rel": "/software/repository/github/OliverFHD/GPUniverse",
@@ -38129,6 +38300,14 @@
         "rel": "/software/repository/github/cweniger/swordfish",
         "avatar": "https://avatars.githubusercontent.com/u/2024084?v=4",
         "description": "A Python tool to study the information yield of counting experiments.",
+        "topics": []
+    },
+    {
+        "uid": "github/lorenaacuna/GASTLI",
+        "url": "https://github.com/lorenaacuna/GASTLI",
+        "rel": "/software/repository/github/lorenaacuna/GASTLI",
+        "avatar": "https://avatars.githubusercontent.com/u/66270562?v=4",
+        "description": "GAS gianT modeL for Interiors",
         "topics": []
     },
     {
@@ -39468,6 +39647,25 @@
         "topics": []
     },
     {
+        "uid": "github/murphycj/AGFusion",
+        "url": "https://github.com/murphycj/AGFusion",
+        "rel": "/software/repository/github/murphycj/AGFusion",
+        "avatar": "https://avatars.githubusercontent.com/u/3837196?v=4",
+        "description": "Python package to annotate and visualize gene fusions.",
+        "topics": [
+            "gene-fusion",
+            "protein",
+            "fusion",
+            "rna-seq",
+            "python",
+            "cancer",
+            "cancer-genomics",
+            "chimera",
+            "bioinformatics",
+            "structural-variation"
+        ]
+    },
+    {
         "uid": "github/JuliaDiff/ForwardDiff.jl",
         "url": "https://github.com/JuliaDiff/ForwardDiff.jl",
         "rel": "/software/repository/github/JuliaDiff/ForwardDiff.jl",
@@ -39667,6 +39865,14 @@
         "rel": "/software/repository/github/MartianColonist/POSEIDON",
         "avatar": "https://avatars.githubusercontent.com/u/22718554?v=4",
         "description": "Multidimensional atmospheric retrieval of exoplanet spectra.",
+        "topics": []
+    },
+    {
+        "uid": "github/MartianColonist/Cthulhu",
+        "url": "https://github.com/MartianColonist/Cthulhu",
+        "rel": "/software/repository/github/MartianColonist/Cthulhu",
+        "avatar": "https://avatars.githubusercontent.com/u/22718554?v=4",
+        "description": "A Python package to calculate cross sections for substellar atmospheres",
         "topics": []
     },
     {
@@ -40354,6 +40560,14 @@
             "bioinformatics",
             "plasmid"
         ]
+    },
+    {
+        "uid": "github/Romea/romea-core-common",
+        "url": "https://github.com/Romea/romea-core-common",
+        "rel": "/software/repository/github/Romea/romea-core-common",
+        "avatar": "https://avatars.githubusercontent.com/u/20208303?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/noatgnu/catapult",
@@ -41549,6 +41763,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/40909724?v=4",
         "description": "World Builder: An initial conditions generator for geodynamic modeling",
         "topics": []
+    },
+    {
+        "uid": "github/leesulab/arcMS",
+        "url": "https://github.com/leesulab/arcMS",
+        "rel": "/software/repository/github/leesulab/arcMS",
+        "avatar": "https://avatars.githubusercontent.com/u/151855212?v=4",
+        "description": "Mass spectrometry data converter from UNIFI to Parquet and HDF5 formats",
+        "topics": [
+            "converter",
+            "mass-spectrometry",
+            "non-target",
+            "r"
+        ]
     },
     {
         "uid": "github/ahudde/greeks",
@@ -43217,6 +43444,19 @@
             "electronic-structure",
             "molecular-orbital-theory",
             "semiempirical-methods"
+        ]
+    },
+    {
+        "uid": "github/ctkelley/MultiPrecisionArrays.jl",
+        "url": "https://github.com/ctkelley/MultiPrecisionArrays.jl",
+        "rel": "/software/repository/github/ctkelley/MultiPrecisionArrays.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/10243067?v=4",
+        "description": "Mulitprecision Arrays",
+        "topics": [
+            "iterative-methods",
+            "iterative-refinement",
+            "linear-solvers",
+            "multiprecision"
         ]
     },
     {
@@ -45681,6 +45921,14 @@
         ]
     },
     {
+        "uid": "github/purmortal/galcraft",
+        "url": "https://github.com/purmortal/galcraft",
+        "rel": "/software/repository/github/purmortal/galcraft",
+        "avatar": "https://avatars.githubusercontent.com/u/53634598?v=4",
+        "description": "Mocking IFS data cube of the Milky Way",
+        "topics": []
+    },
+    {
         "uid": "github/cosimameyer/overviewR",
         "url": "https://github.com/cosimameyer/overviewR",
         "rel": "/software/repository/github/cosimameyer/overviewR",
@@ -46445,6 +46693,20 @@
         ]
     },
     {
+        "uid": "github/musoke/ultradark.jl",
+        "url": "https://github.com/musoke/UltraDark.jl",
+        "rel": "/software/repository/github/musoke/ultradark.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/16665084?v=4",
+        "description": "Simulations of cosmological scalar fields",
+        "topics": [
+            "cosmology",
+            "julia",
+            "dark-matter",
+            "reheating",
+            "scalar-dark-matter"
+        ]
+    },
+    {
         "uid": "github/musoke/UltraDark.jl",
         "url": "https://github.com/musoke/UltraDark.jl",
         "rel": "/software/repository/github/musoke/UltraDark.jl",
@@ -46877,6 +47139,14 @@
         "topics": []
     },
     {
+        "uid": "github/liangcheng-hrbmu/EnrichDO",
+        "url": "https://github.com/liangcheng-hrbmu/EnrichDO",
+        "rel": "/software/repository/github/liangcheng-hrbmu/EnrichDO",
+        "avatar": "https://avatars.githubusercontent.com/u/15272581?v=4",
+        "description": "a Bioinformatics Tool for Annotating and Enrichment Analysis with Disease Ontology",
+        "topics": []
+    },
+    {
         "uid": "github/EbmeyerSt/GEnView",
         "url": "https://github.com/EbmeyerSt/GEnView",
         "rel": "/software/repository/github/EbmeyerSt/GEnView",
@@ -46971,6 +47241,30 @@
         "avatar": "https://avatars.githubusercontent.com/u/8606810?v=4",
         "description": "Quantile Parametrization for probability distribution functions module",
         "topics": []
+    },
+    {
+        "uid": "github/MilesCranmer/PySR",
+        "url": "https://github.com/MilesCranmer/PySR",
+        "rel": "/software/repository/github/MilesCranmer/PySR",
+        "avatar": "https://avatars.githubusercontent.com/u/7593028?v=4",
+        "description": "High-Performance Symbolic Regression in Python and Julia",
+        "topics": [
+            "symbolic-regression",
+            "machine-learning",
+            "python",
+            "julia",
+            "genetic-algorithm",
+            "automl",
+            "interpretable-ml",
+            "data-science",
+            "explainable-ai",
+            "scikit-learn",
+            "symbolic",
+            "algorithm",
+            "distributed-systems",
+            "evolutionary-algorithms",
+            "equation-discovery"
+        ]
     },
     {
         "uid": "github/rgerum/pylustrator",
@@ -47555,6 +47849,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/68539461?v=4",
         "description": "Standalone code to generate the figures for the paper \"Fast Multiscale Diffusion on Graphs\" accepted at ICASSP 2022.",
         "topics": []
+    },
+    {
+        "uid": "github/lazear/sage",
+        "url": "https://github.com/lazear/sage",
+        "rel": "/software/repository/github/lazear/sage",
+        "avatar": "https://avatars.githubusercontent.com/u/14057244?v=4",
+        "description": "Proteomics search & quantification so fast that it feels like magic",
+        "topics": [
+            "bioinformatics",
+            "proteomics",
+            "mass-spectrometry"
+        ]
     },
     {
         "uid": "github/mathLab/PINA",
@@ -48871,6 +49177,24 @@
         "topics": []
     },
     {
+        "uid": "github/smith-chem-wisc/MetaMorpheus",
+        "url": "https://github.com/smith-chem-wisc/MetaMorpheus",
+        "rel": "/software/repository/github/smith-chem-wisc/MetaMorpheus",
+        "avatar": "https://avatars.githubusercontent.com/u/15989786?v=4",
+        "description": "Proteomics search software with integrated calibration, PTM discovery, bottom-up, top-down and LFQ capabilities",
+        "topics": [
+            "ptm",
+            "database-search",
+            "proteome",
+            "uniprot",
+            "mass-match",
+            "spectra",
+            "calibration",
+            "proteomics-database-search",
+            "discovery"
+        ]
+    },
+    {
         "uid": "github/smith-chem-wisc/ProteaseGuru",
         "url": "https://github.com/smith-chem-wisc/ProteaseGuru",
         "rel": "/software/repository/github/smith-chem-wisc/ProteaseGuru",
@@ -49878,6 +50202,14 @@
         "topics": []
     },
     {
+        "uid": "github/deaglanbartlett/symbolic_pofk",
+        "url": "https://github.com/DeaglanBartlett/symbolic_pofk",
+        "rel": "/software/repository/github/deaglanbartlett/symbolic_pofk",
+        "avatar": "https://avatars.githubusercontent.com/u/47668431?v=4",
+        "description": "Precise symbolic emulators of the linear and nonlinear matter power spectrum",
+        "topics": []
+    },
+    {
         "uid": "github/EnricoCorsaro/DIAMONDS",
         "url": "https://github.com/EnricoCorsaro/DIAMONDS",
         "rel": "/software/repository/github/EnricoCorsaro/DIAMONDS",
@@ -50848,6 +51180,14 @@
             "parameterization",
             "source-finder"
         ]
+    },
+    {
+        "uid": "github/joacoh/wise2mbh",
+        "url": "https://github.com/joacoh/wise2mbh",
+        "rel": "/software/repository/github/joacoh/wise2mbh",
+        "avatar": "https://avatars.githubusercontent.com/u/86896662?v=4",
+        "description": "WISE2MBH is a simple an effective algorithm that uses infrared cataloged data from the Wide-field Infrared Survey Explorer (WISE) to estimate the mass of super massive black holes (SMBH)",
+        "topics": []
     },
     {
         "uid": "github/GRChombo/GRFolres",
@@ -54126,6 +54466,19 @@
         "topics": []
     },
     {
+        "uid": "github/shankarpandala/lazypredict",
+        "url": "https://github.com/shankarpandala/lazypredict",
+        "rel": "/software/repository/github/shankarpandala/lazypredict",
+        "avatar": "https://avatars.githubusercontent.com/u/8924320?v=4",
+        "description": "Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning",
+        "topics": [
+            "machine-learning",
+            "automl",
+            "regression",
+            "classification"
+        ]
+    },
+    {
         "uid": "github/vimc/dettl",
         "url": "https://github.com/vimc/dettl",
         "rel": "/software/repository/github/vimc/dettl",
@@ -54423,6 +54776,14 @@
         "url": "https://github.com/alawryaguila/multi-view-AE",
         "rel": "/software/repository/github/alawryaguila/multi-view-AE",
         "avatar": "https://avatars.githubusercontent.com/u/47194980?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/dmvandamt/beyonce",
+        "url": "https://github.com/dmvandamt/beyonce",
+        "rel": "/software/repository/github/dmvandamt/beyonce",
+        "avatar": "https://avatars.githubusercontent.com/u/159004461?v=4",
         "description": null,
         "topics": []
     },
@@ -54820,6 +55181,14 @@
         "rel": "/software/repository/github/RangamaniLabUCSD/smart",
         "avatar": "https://avatars.githubusercontent.com/u/58951527?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/VasilyKokorev/stardust",
+        "url": "https://github.com/VasilyKokorev/stardust",
+        "rel": "/software/repository/github/VasilyKokorev/stardust",
+        "avatar": "https://avatars.githubusercontent.com/u/45940362?v=4",
+        "description": "Stardust - SED fitting code for UV-optical and FIR.",
         "topics": []
     },
     {
@@ -56794,6 +57163,14 @@
         ]
     },
     {
+        "uid": "github/PapenfussLab/gridss",
+        "url": "https://github.com/PapenfussLab/gridss",
+        "rel": "/software/repository/github/PapenfussLab/gridss",
+        "avatar": "https://avatars.githubusercontent.com/u/13462296?v=4",
+        "description": "GRIDSS: the Genomic Rearrangement IDentification Software Suite",
+        "topics": []
+    },
+    {
         "uid": "github/roban/CosmoloPy",
         "url": "https://github.com/roban/CosmoloPy",
         "rel": "/software/repository/github/roban/CosmoloPy",
@@ -57429,6 +57806,14 @@
         "topics": []
     },
     {
+        "uid": "github/NASA-Planetary-Science/Pade-disk-code",
+        "url": "https://github.com/NASA-Planetary-Science/Pade-disk-code",
+        "rel": "/software/repository/github/NASA-Planetary-Science/Pade-disk-code",
+        "avatar": "https://avatars.githubusercontent.com/u/13382964?v=4",
+        "description": "Fortran90 code to simulate protoplanetary disk turbulence using Pade/compact differencing.",
+        "topics": []
+    },
+    {
         "uid": "github/edgardomortiz/Captus",
         "url": "https://github.com/edgardomortiz/Captus",
         "rel": "/software/repository/github/edgardomortiz/Captus",
@@ -57816,6 +58201,14 @@
         "topics": []
     },
     {
+        "uid": "github/JMLascar/SUSHI",
+        "url": "https://github.com/JMLascar/SUSHI",
+        "rel": "/software/repository/github/JMLascar/SUSHI",
+        "avatar": "https://avatars.githubusercontent.com/u/54967118?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/dlakaplan/pulsarsurveyscraper",
         "url": "https://github.com/dlakaplan/pulsarsurveyscraper",
         "rel": "/software/repository/github/dlakaplan/pulsarsurveyscraper",
@@ -58073,6 +58466,14 @@
             "crystallographic-orientations",
             "texture"
         ]
+    },
+    {
+        "uid": "github/nayu0419/stMMR",
+        "url": "https://github.com/nayu0419/stMMR",
+        "rel": "/software/repository/github/nayu0419/stMMR",
+        "avatar": "https://avatars.githubusercontent.com/u/49137187?v=4",
+        "description": "stMMR",
+        "topics": []
     },
     {
         "uid": "github/hasindu2008/slow5tools",
@@ -59175,6 +59576,14 @@
         ]
     },
     {
+        "uid": "github/neurogeriatricskiel/NGMT",
+        "url": "https://github.com/neurogeriatricskiel/KielMAT",
+        "rel": "/software/repository/github/neurogeriatricskiel/NGMT",
+        "avatar": "https://avatars.githubusercontent.com/u/63721960?v=4",
+        "description": "Python based toolbox for processing motion data",
+        "topics": []
+    },
+    {
         "uid": "github/kd0kfo/cosmology",
         "url": "https://github.com/kd0kfo/cosmology",
         "rel": "/software/repository/github/kd0kfo/cosmology",
@@ -59197,6 +59606,21 @@
         "avatar": "https://avatars3.githubusercontent.com/u/29599373?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/marschall-lab/panacus",
+        "url": "https://github.com/marschall-lab/panacus",
+        "rel": "/software/repository/github/marschall-lab/panacus",
+        "avatar": "https://avatars.githubusercontent.com/u/86833642?v=4",
+        "description": "Panacus is a tool for computing statistics for GFA-formatted pangenome graphs",
+        "topics": [
+            "gfa",
+            "pangenomics",
+            "pangenome-growth",
+            "graph",
+            "pangenome",
+            "pangenome-graph"
+        ]
     },
     {
         "uid": "github/ialbert/genescape-central",
@@ -60202,6 +60626,14 @@
         "rel": "/software/repository/github/Anirbancosmo/limpy",
         "avatar": "https://avatars.githubusercontent.com/u/56548789?v=4",
         "description": "A python package for multi-line intensity mapping",
+        "topics": []
+    },
+    {
+        "uid": "github/RoryChenXY/DataRepExp_public",
+        "url": "https://github.com/RoryChenXY/DataRepExp_public",
+        "rel": "/software/repository/github/RoryChenXY/DataRepExp_public",
+        "avatar": "https://avatars.githubusercontent.com/u/30110719?v=4",
+        "description": "A shiny app that was developed to improve the FAIR of research data hosted on data repository.",
         "topics": []
     },
     {
@@ -61359,6 +61791,30 @@
         ]
     },
     {
+        "uid": "github/giuspugl/MCMole3D",
+        "url": "https://github.com/giuspugl/MCMole3D",
+        "rel": "/software/repository/github/giuspugl/MCMole3D",
+        "avatar": "https://avatars.githubusercontent.com/u/8957029?v=4",
+        "description": "MonteCarlo Molecular Line Emission 3d.Statistical Model for Galactic Molecular Clouds. For documentation please visit",
+        "topics": []
+    },
+    {
+        "uid": "github/giuspugl/fgcluster",
+        "url": "https://github.com/giuspugl/fgcluster",
+        "rel": "/software/repository/github/giuspugl/fgcluster",
+        "avatar": "https://avatars.githubusercontent.com/u/8957029?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/giuspugl/picasso",
+        "url": "https://github.com/giuspugl/picasso",
+        "rel": "/software/repository/github/giuspugl/picasso",
+        "avatar": "https://avatars.githubusercontent.com/u/8957029?v=4",
+        "description": "Inpainter for point-sources for Synchrotron and Dust polarization ",
+        "topics": []
+    },
+    {
         "uid": "github/natelust/least_asymmetry",
         "url": "https://github.com/natelust/least_asymmetry",
         "rel": "/software/repository/github/natelust/least_asymmetry",
@@ -62368,6 +62824,21 @@
         ]
     },
     {
+        "uid": "github/OFFIS-DAI/Mango.jl",
+        "url": "https://github.com/OFFIS-DAI/Mango.jl",
+        "rel": "/software/repository/github/OFFIS-DAI/Mango.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/148066510?v=4",
+        "description": "Modular Julia-based agent framework to implement multi-agent systems",
+        "topics": [
+            "agent",
+            "distributed-computing",
+            "multi-agent-systems",
+            "agent-based",
+            "agent-based-simulation",
+            "agent-based-control"
+        ]
+    },
+    {
         "uid": "github/leapigufpb/FuzzyClass",
         "url": "https://github.com/leapigufpb/FuzzyClass",
         "rel": "/software/repository/github/leapigufpb/FuzzyClass",
@@ -63098,6 +63569,21 @@
         ]
     },
     {
+        "uid": "github/ruiying-ocean/cgeniepy",
+        "url": "https://github.com/ruiying-ocean/cgeniepy",
+        "rel": "/software/repository/github/ruiying-ocean/cgeniepy",
+        "avatar": "https://avatars.githubusercontent.com/u/38958822?v=4",
+        "description": "A Python package for analysing the cGENIE model output",
+        "topics": [
+            "cgenie",
+            "earth-system-model",
+            "python",
+            "earth-sciences",
+            "oceanography",
+            "visualisation"
+        ]
+    },
+    {
         "uid": "github/SynthSys/pyOmeroUpload",
         "url": "https://github.com/SynthSys/pyOmeroUpload",
         "rel": "/software/repository/github/SynthSys/pyOmeroUpload",
@@ -63536,6 +64022,14 @@
             "variational-autoencoders",
             "normalizing-flows"
         ]
+    },
+    {
+        "uid": "github/xastprl/darsakx",
+        "url": "https://github.com/xastprl/DarsakX",
+        "rel": "/software/repository/github/xastprl/darsakx",
+        "avatar": "https://avatars.githubusercontent.com/u/102579066?v=4",
+        "description": "DarsakX is a Python package that can be used to design and analyze the imaging performance of a multi-shell X-ray telescope with an optical configuration similar to Wolter-1 optics for astronomical purposes. ",
+        "topics": []
     },
     {
         "uid": "github/danhey/maelstrom",

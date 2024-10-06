@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/liangcheng-hrbmu/EnrichDO",
+    "url": "https://github.com/liangcheng-hrbmu/EnrichDO",
+    "data": {
+        "name": "EnrichDO",
+        "url": "https://github.com/liangcheng-hrbmu/EnrichDO",
+        "full_name": "liangcheng-hrbmu/EnrichDO",
+        "html_url": "https://github.com/liangcheng-hrbmu/EnrichDO",
+        "private": false,
+        "description": "a Bioinformatics Tool for Annotating and Enrichment Analysis with Disease Ontology",
+        "created_at": "2024-06-07T06:30:24Z",
+        "updated_at": "2024-09-27T08:56:38Z",
+        "clone_url": "https://github.com/liangcheng-hrbmu/EnrichDO.git",
+        "homepage": null,
+        "size": 9859,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/liangcheng-hrbmu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15272581?v=4",
+            "login": "liangcheng-hrbmu",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2024-10-06 00:47:15.633888",
+        "avatar": "https://avatars.githubusercontent.com/u/15272581?v=4"
+    }
+}
