@@ -14428,6 +14428,14 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaGeodynamics/GeophysicalModelGenerator.jl",
+        "url": "https://github.com/JuliaGeodynamics/GeophysicalModelGenerator.jl",
+        "rel": "/software/repository/github/JuliaGeodynamics/GeophysicalModelGenerator.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/84014489?v=4",
+        "description": "Import, process and interpret geophysical data sets to be used in numerical models.",
+        "topics": []
+    },
+    {
         "uid": "github/gdrouart/MrMoose",
         "url": "https://github.com/gdrouart/MrMoose",
         "rel": "/software/repository/github/gdrouart/MrMoose",
@@ -23671,6 +23679,14 @@
         "topics": []
     },
     {
+        "uid": "github/konkolyseismolab/seismolab",
+        "url": "https://github.com/konkolyseismolab/seismolab",
+        "rel": "/software/repository/github/konkolyseismolab/seismolab",
+        "avatar": "https://avatars.githubusercontent.com/u/92322252?v=4",
+        "description": "Open-source python framework for downloading, analyzing, and visualizing data of variable stars from space-based surveys.",
+        "topics": []
+    },
+    {
         "uid": "github/jmackereth/orbit-estimation",
         "url": "https://github.com/jmackereth/orbit-estimation",
         "rel": "/software/repository/github/jmackereth/orbit-estimation",
@@ -30798,6 +30814,14 @@
         ]
     },
     {
+        "uid": "github/meixichen/SpatialGEV",
+        "url": "https://github.com/meixichen/SpatialGEV",
+        "rel": "/software/repository/github/meixichen/SpatialGEV",
+        "avatar": "https://avatars.githubusercontent.com/u/65635345?v=4",
+        "description": "An efficient computational method for fitting spatial extreme value models",
+        "topics": []
+    },
+    {
         "uid": "github/AndrewAnnex/SpiceyPy",
         "url": "https://github.com/AndrewAnnex/SpiceyPy",
         "rel": "/software/repository/github/AndrewAnnex/SpiceyPy",
@@ -30980,6 +31004,14 @@
             "chemistry",
             "hacktoberfest"
         ]
+    },
+    {
+        "uid": "github/veg/hivtrace",
+        "url": "https://github.com/veg/hivtrace",
+        "rel": "/software/repository/github/veg/hivtrace",
+        "avatar": "https://avatars.githubusercontent.com/u/1051502?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/veg/tn93",
@@ -41618,6 +41650,14 @@
         "topics": []
     },
     {
+        "uid": "github/lanl/singularity-eos",
+        "url": "https://github.com/lanl/singularity-eos",
+        "rel": "/software/repository/github/lanl/singularity-eos",
+        "avatar": "https://avatars.githubusercontent.com/u/585305?v=4",
+        "description": "Performance portable equations of state and mixed cell closures",
+        "topics": []
+    },
+    {
         "uid": "github/lanl/scico",
         "url": "https://github.com/lanl/scico",
         "rel": "/software/repository/github/lanl/scico",
@@ -44896,6 +44936,14 @@
         "topics": []
     },
     {
+        "uid": "github/9505-PNNL/wmpy_power",
+        "url": "https://github.com/9505-PNNL/wmpy_power",
+        "rel": "/software/repository/github/9505-PNNL/wmpy_power",
+        "avatar": "https://avatars.githubusercontent.com/u/156456652?v=4",
+        "description": " A hydropower simulation model",
+        "topics": []
+    },
+    {
         "uid": "github/E3SM-Project/gdess",
         "url": "https://github.com/E3SM-Project/gdess",
         "rel": "/software/repository/github/E3SM-Project/gdess",
@@ -45941,6 +45989,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/45567063?v=4",
         "description": "MISTTBORN exoplanet fitting code, and various associated codes",
         "topics": []
+    },
+    {
+        "uid": "github/marinebon/obisindicators",
+        "url": "https://github.com/marinebon/obisindicators",
+        "rel": "/software/repository/github/marinebon/obisindicators",
+        "avatar": "https://avatars.githubusercontent.com/u/11562325?v=4",
+        "description": "R package for generating indicators from OBIS",
+        "topics": [
+            "biodiversity",
+            "marine",
+            "marine-biology",
+            "r"
+        ]
     },
     {
         "uid": "github/BarquistLab/mason_paper",
@@ -58400,6 +58461,18 @@
             "r",
             "strings",
             "string-interpolation"
+        ]
+    },
+    {
+        "uid": "github/tidyverse/ggplot2",
+        "url": "https://github.com/tidyverse/ggplot2",
+        "rel": "/software/repository/github/tidyverse/ggplot2",
+        "avatar": "https://avatars.githubusercontent.com/u/22032646?v=4",
+        "description": "An implementation of the Grammar of Graphics in R",
+        "topics": [
+            "r",
+            "visualisation",
+            "data-visualisation"
         ]
     },
     {
