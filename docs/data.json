@@ -55,6 +55,19 @@
         "topics": []
     },
     {
+        "uid": "gitlab/davidwoodburn/itrm",
+        "url": "https://gitlab.com/davidwoodburn/itrm",
+        "rel": "/software/repository/gitlab/davidwoodburn/itrm",
+        "avatar": "https://gitlab.comNone",
+        "description": "Interactive Terminal Utilities",
+        "topics": [
+            "ascii-art",
+            "interactive",
+            "plotting",
+            "terminal"
+        ]
+    },
+    {
         "uid": "gitlab/chrjan/seq-seq-pan",
         "url": "https://gitlab.com/chrjan/seq-seq-pan",
         "rel": "/software/repository/gitlab/chrjan/seq-seq-pan",
@@ -4332,6 +4345,14 @@
         "topics": []
     },
     {
+        "uid": "github/signalling-games-org/evoke",
+        "url": "https://github.com/signalling-games-org/evoke",
+        "rel": "/software/repository/github/signalling-games-org/evoke",
+        "avatar": "https://avatars.githubusercontent.com/u/124157910?v=4",
+        "description": "A Python package for evolutionary signalling games",
+        "topics": []
+    },
+    {
         "uid": "github/jorisparet/partycls",
         "url": "https://github.com/jorisparet/partycls",
         "rel": "/software/repository/github/jorisparet/partycls",
@@ -6102,6 +6123,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/56425008?v=4",
         "description": "Database and enrichment analysis of genes associated with precocious puberty",
         "topics": []
+    },
+    {
+        "uid": "github/inab/trimal",
+        "url": "https://github.com/inab/trimal",
+        "rel": "/software/repository/github/inab/trimal",
+        "avatar": "https://avatars.githubusercontent.com/u/3019853?v=4",
+        "description": "A tool for automated alignment trimming in large-scale phylogenetic analyses. Development version: 2.0",
+        "topics": [
+            "multiple-sequence-alignment",
+            "trimming",
+            "bioinformatics-tool"
+        ]
     },
     {
         "uid": "github/tylunel/pvpumpingsystem",
@@ -9070,6 +9103,14 @@
         "topics": []
     },
     {
+        "uid": "github/wathela/PyMerger",
+        "url": "https://github.com/wathela/PyMerger",
+        "rel": "/software/repository/github/wathela/PyMerger",
+        "avatar": "https://avatars.githubusercontent.com/u/20660576?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/fstrozzi/Fastool",
         "url": "https://github.com/fstrozzi/Fastool",
         "rel": "/software/repository/github/fstrozzi/Fastool",
@@ -11369,6 +11410,19 @@
             "radiative-transfer",
             "hydrodynamics",
             "post-processing"
+        ]
+    },
+    {
+        "uid": "github/polca/pathways",
+        "url": "https://github.com/polca/pathways",
+        "rel": "/software/repository/github/polca/pathways",
+        "avatar": "https://avatars.githubusercontent.com/u/58623740?v=4",
+        "description": "Scenario-wide Life Cycle Assessment",
+        "topics": [
+            "energy",
+            "lca",
+            "prospective",
+            "scenario"
         ]
     },
     {
@@ -17096,6 +17150,18 @@
         ]
     },
     {
+        "uid": "github/PIK-LPJmL/lpjmlkit",
+        "url": "https://github.com/PIK-LPJmL/lpjmlkit",
+        "rel": "/software/repository/github/PIK-LPJmL/lpjmlkit",
+        "avatar": "https://avatars.githubusercontent.com/u/39558205?v=4",
+        "description": "A collection of basic functions to facilitate the work with the DGVM LPJmL hosted at the Potsdam Institute for Climate Impact Research.     It provides functions for running LPJmL, as well as reading, processing and writing model-related data such as inputs and outputs or configuration files.",
+        "topics": [
+            "cran",
+            "r",
+            "r-package"
+        ]
+    },
+    {
         "uid": "github/JuliaManifolds/Manopt.jl",
         "url": "https://github.com/JuliaManifolds/Manopt.jl",
         "rel": "/software/repository/github/JuliaManifolds/Manopt.jl",
@@ -22645,6 +22711,24 @@
         ]
     },
     {
+        "uid": "github/Qile0317/APackOfTheClones",
+        "url": "https://github.com/Qile0317/APackOfTheClones",
+        "rel": "/software/repository/github/Qile0317/APackOfTheClones",
+        "avatar": "https://avatars.githubusercontent.com/u/43093685?v=4",
+        "description": "Visualize clonal expansion via circle-packing. 'APackOfTheClones' extends 'scRepertoire' to produce a publication-ready visualization of clonal expansion at a single cell resolution, by representing expanded clones as differently sized circles.",
+        "topics": [
+            "clonal-analysis",
+            "single-cell",
+            "single-cell-genomics",
+            "r",
+            "seurat",
+            "immune-repertoire",
+            "immune-system",
+            "scrna-seq",
+            "scrnaseq"
+        ]
+    },
+    {
         "uid": "github/miguelcarcamov/csromer",
         "url": "https://github.com/miguelcarcamov/csromer",
         "rel": "/software/repository/github/miguelcarcamov/csromer",
@@ -23896,6 +23980,14 @@
         "rel": "/software/repository/github/mcfrith/tandem-genotypes",
         "avatar": "https://avatars.githubusercontent.com/u/17116542?v=4",
         "description": "compare lengths of duplications in DNA sequences",
+        "topics": []
+    },
+    {
+        "uid": "github/alixlam/fmristroke",
+        "url": "https://github.com/alixlam/fmristroke",
+        "rel": "/software/repository/github/alixlam/fmristroke",
+        "avatar": "https://avatars.githubusercontent.com/u/60109304?v=4",
+        "description": "Adding quality checks and confounds computation steps to fmriprep for stroke data.",
         "topics": []
     },
     {
@@ -27513,6 +27605,14 @@
             "particle-system",
             "monte-carlo-simulation"
         ]
+    },
+    {
+        "uid": "github/RenLabBioinformatics/M6Allele",
+        "url": "https://github.com/RenLabBioinformatics/M6Allele",
+        "rel": "/software/repository/github/RenLabBioinformatics/M6Allele",
+        "avatar": "https://avatars.githubusercontent.com/u/36150099?v=4",
+        "description": "M6Allele: A toolkit for detection of allele-specific RNA N6-methyladenosine modifications",
+        "topics": []
     },
     {
         "uid": "github/HUST-NingKang-Lab/ONN4MST",
@@ -36156,6 +36256,14 @@
         "topics": []
     },
     {
+        "uid": "github/simon-smart88/shinyscholar",
+        "url": "https://github.com/simon-smart88/shinyscholar",
+        "rel": "/software/repository/github/simon-smart88/shinyscholar",
+        "avatar": "https://avatars.githubusercontent.com/u/137152810?v=4",
+        "description": "A template for creating modular shiny applications that meet academic standards and are reproducible",
+        "topics": []
+    },
+    {
         "uid": "github/seheonoh/2dbat",
         "url": "https://github.com/seheonoh/2dbat",
         "rel": "/software/repository/github/seheonoh/2dbat",
@@ -36591,6 +36699,14 @@
         "topics": []
     },
     {
+        "uid": "github/arpan-52/Finalflash",
+        "url": "https://github.com/arpan-52/Finalflash",
+        "rel": "/software/repository/github/arpan-52/Finalflash",
+        "avatar": "https://avatars.githubusercontent.com/u/110227488?v=4",
+        "description": "An uGMRT Primary Beam Corrector with input FITS files",
+        "topics": []
+    },
+    {
         "uid": "github/dunhamlab/PacRAT",
         "url": "https://github.com/dunhamlab/PacRAT",
         "rel": "/software/repository/github/dunhamlab/PacRAT",
@@ -36686,6 +36802,14 @@
             "oceanography",
             "python"
         ]
+    },
+    {
+        "uid": "github/amromics/panta",
+        "url": "https://github.com/amromics/panta",
+        "rel": "/software/repository/github/amromics/panta",
+        "avatar": "https://avatars.githubusercontent.com/u/41135580?v=4",
+        "description": "Pan-genome Analysis",
+        "topics": []
     },
     {
         "uid": "github/igvteam/igv-reports",
@@ -38135,6 +38259,14 @@
         "rel": "/software/repository/github/CIRADA-Tools/RM-Tools",
         "avatar": "https://avatars.githubusercontent.com/u/49538616?v=4",
         "description": "RM-synthesis, RM-clean and QU-fitting on polarised radio spectra",
+        "topics": []
+    },
+    {
+        "uid": "github/swiss-seismological-service/DUGseis",
+        "url": "https://github.com/swiss-seismological-service/DUGseis",
+        "rel": "/software/repository/github/swiss-seismological-service/DUGseis",
+        "avatar": "https://avatars.githubusercontent.com/u/50695471?v=4",
+        "description": "Software for acquisition and processing of micro-seismic data",
         "topics": []
     },
     {
@@ -42608,6 +42740,14 @@
             "graph-theory",
             "algorithms"
         ]
+    },
+    {
+        "uid": "github/BleekerLab/PhenoFeatureFinder",
+        "url": "https://github.com/BleekerLab/PhenoFeatureFinder",
+        "rel": "/software/repository/github/BleekerLab/PhenoFeatureFinder",
+        "avatar": "https://avatars.githubusercontent.com/u/24551794?v=4",
+        "description": "A Python package dedicated to identifying plant metabolite features related to insect resistance",
+        "topics": []
     },
     {
         "uid": "github/pydemull/activAnalyzer",
@@ -51093,6 +51233,14 @@
         ]
     },
     {
+        "uid": "github/PFPE/shipgrav",
+        "url": "https://github.com/PFPE/shipgrav",
+        "rel": "/software/repository/github/PFPE/shipgrav",
+        "avatar": "https://avatars.githubusercontent.com/u/173928896?v=4",
+        "description": "Marine gravity processing for UNOLS (Python)",
+        "topics": []
+    },
+    {
         "uid": "github/SynthSys/pyOmeroUpload",
         "url": "https://github.com/SynthSys/pyOmeroUpload",
         "rel": "/software/repository/github/SynthSys/pyOmeroUpload",
@@ -52096,6 +52244,14 @@
         "rel": "/software/repository/github/pmaxted/pycheops",
         "avatar": "https://avatars.githubusercontent.com/u/19465694?v=4",
         "description": "Python module for the analysis of light curves from the ESA Cheops mission",
+        "topics": []
+    },
+    {
+        "uid": "github/IPESE/REHO",
+        "url": "https://github.com/IPESE/REHO",
+        "rel": "/software/repository/github/IPESE/REHO",
+        "avatar": "https://avatars.githubusercontent.com/u/150812261?v=4",
+        "description": "Decision Support Tool for Renewable Energy Communities",
         "topics": []
     },
     {
@@ -53209,6 +53365,17 @@
             "population-genetics",
             "k-mer",
             "sketching"
+        ]
+    },
+    {
+        "uid": "github/Ciela-Institute/caustics",
+        "url": "https://github.com/Ciela-Institute/caustics",
+        "rel": "/software/repository/github/Ciela-Institute/caustics",
+        "avatar": "https://avatars.githubusercontent.com/u/110192370?v=4",
+        "description": "A gravitational lensing simulator for the machine learning era.",
+        "topics": [
+            "gravitational-lensing",
+            "pytorch"
         ]
     },
     {
@@ -54593,6 +54760,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/2412871?v=4",
         "description": "Repository for the LACEwING moving group identification code (Riedel et al. 2017)",
         "topics": []
+    },
+    {
+        "uid": "github/LDEO-CREW/Pythonic-DISORT",
+        "url": "https://github.com/LDEO-CREW/Pythonic-DISORT",
+        "rel": "/software/repository/github/LDEO-CREW/Pythonic-DISORT",
+        "avatar": "https://avatars.githubusercontent.com/u/112423107?v=4",
+        "description": "Discrete Ordinates Solver for the (1D) Radiative Transfer Equation in a single or multi-layer plane-parallel atmosphere. Coded entirely in Python 3. Based on Stamnes' FORTRAN DISORT (see references in the Jupyter Notebook) and has its main features.",
+        "topics": [
+            "atmospheric-modelling",
+            "discrete-ordinates-method",
+            "disort",
+            "python",
+            "radiative-transfer",
+            "radiative-transfer-models"
+        ]
     },
     {
         "uid": "github/hytrac/amber",
@@ -56000,6 +56182,14 @@
             "sequential-monte-carlo",
             "uncertainty-quantification"
         ]
+    },
+    {
+        "uid": "github/PSims/BayesEoR",
+        "url": "https://github.com/PSims/BayesEoR",
+        "rel": "/software/repository/github/PSims/BayesEoR",
+        "avatar": "https://avatars.githubusercontent.com/u/6097708?v=4",
+        "description": "Code to estimate the power spectrum of redshifted 21-cm emission from interferometric observations, within a Bayesian forward modelling framework.",
+        "topics": []
     },
     {
         "uid": "github/Cadaei-Yuvxvs/OSHy-X",
