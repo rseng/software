@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/INRS-France/predicting_alarm_audibility",
+    "url": "https://github.com/INRS-France/predicting_alarm_audibility",
+    "data": {
+        "name": "predicting_alarm_audibility",
+        "url": "https://github.com/INRS-France/predicting_alarm_audibility",
+        "full_name": "INRS-France/predicting_alarm_audibility",
+        "html_url": "https://github.com/INRS-France/predicting_alarm_audibility",
+        "private": false,
+        "description": "This Python code is derived from the research article \"Evaluating and Predicting the Audibility of Acoustic Alarms in the Workplace Using Experimental Methods and Deep Learning\" published in the journal Applied Acoustics. It provides a framework for predicting the audibility of acoustic alarms in noise, and includes scripts to reproduce the results",
+        "created_at": "2024-08-01T14:09:58Z",
+        "updated_at": "2024-12-10T14:18:20Z",
+        "clone_url": "https://github.com/INRS-France/predicting_alarm_audibility.git",
+        "homepage": "https://doi.org/10.1016/j.apacoust.2024.109955",
+        "size": 1806,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/INRS-France",
+            "avatar_url": "https://avatars.githubusercontent.com/u/157127585?v=4",
+            "login": "INRS-France",
+            "type": "Organization"
+        },
+        "topics": [
+            "audibility",
+            "alarms",
+            "convolutional-neural-network",
+            "dataset",
+            "psychoacoustics",
+            "occupational-noise"
+        ],
+        "timestamp": "2024-12-22 00:57:33.207989",
+        "avatar": "https://avatars.githubusercontent.com/u/157127585?v=4"
+    }
+}
