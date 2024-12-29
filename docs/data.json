@@ -28506,6 +28506,17 @@
         "topics": []
     },
     {
+        "uid": "github/caracal-pipeline/stimela",
+        "url": "https://github.com/caracal-pipeline/stimela",
+        "rel": "/software/repository/github/caracal-pipeline/stimela",
+        "avatar": "https://avatars.githubusercontent.com/u/60778763?v=4",
+        "description": "Stimela 2.0",
+        "topics": [
+            "radio-astronomy",
+            "pipelines"
+        ]
+    },
+    {
         "uid": "github/fmichel/TurtleKit",
         "url": "https://github.com/fmichel/TurtleKit",
         "rel": "/software/repository/github/fmichel/TurtleKit",
@@ -35607,6 +35618,14 @@
             "python",
             "python-brain-computer-interface"
         ]
+    },
+    {
+        "uid": "github/Incpink-Liu/DNA-storage-R_plus",
+        "url": "https://github.com/Incpink-Liu/DNA-storage-R_plus",
+        "rel": "/software/repository/github/Incpink-Liu/DNA-storage-R_plus",
+        "avatar": "https://avatars.githubusercontent.com/u/96714586?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/nonlocalmodels/NLMech",
@@ -49241,6 +49260,14 @@
         ]
     },
     {
+        "uid": "github/mrilikecoding/StreamPoseML",
+        "url": "https://github.com/mrilikecoding/StreamPoseML",
+        "rel": "/software/repository/github/mrilikecoding/StreamPoseML",
+        "avatar": "https://avatars.githubusercontent.com/u/3507761?v=4",
+        "description": "pose estimation / ML model wrapper and annotation utility",
+        "topics": []
+    },
+    {
         "uid": "github/marccanby/linguiphyr",
         "url": "https://github.com/marccanby/linguiphyr",
         "rel": "/software/repository/github/marccanby/linguiphyr",
@@ -53849,6 +53876,14 @@
         "rel": "/software/repository/github/henry2004y/Vlasiator.jl",
         "avatar": "https://avatars.githubusercontent.com/u/20110816?v=4",
         "description": "Data processor for Vlasiator",
+        "topics": []
+    },
+    {
+        "uid": "github/remingtonsexton/BADASS3",
+        "url": "https://github.com/remingtonsexton/BADASS3",
+        "rel": "/software/repository/github/remingtonsexton/BADASS3",
+        "avatar": "https://avatars.githubusercontent.com/u/25069504?v=4",
+        "description": "Bayesian AGN Decomposition Analysis for SDSS Spectra",
         "topics": []
     },
     {
@@ -64917,6 +64952,22 @@
             "complex-systems",
             "nonlinear-dynamics",
             "computation"
+        ]
+    },
+    {
+        "uid": "github/eelregit/pmwd",
+        "url": "https://github.com/eelregit/pmwd",
+        "rel": "/software/repository/github/eelregit/pmwd",
+        "avatar": "https://avatars.githubusercontent.com/u/7311098?v=4",
+        "description": "Differentiable Cosmological Forward Model",
+        "topics": [
+            "cosmology",
+            "forward-model",
+            "simulation",
+            "differentiable",
+            "jax",
+            "n-body",
+            "nbody-simulation"
         ]
     },
     {
