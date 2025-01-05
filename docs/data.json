@@ -5802,6 +5802,18 @@
         ]
     },
     {
+        "uid": "github/Novartis/torchsurv",
+        "url": "https://github.com/Novartis/torchsurv",
+        "rel": "/software/repository/github/Novartis/torchsurv",
+        "avatar": "https://avatars.githubusercontent.com/u/6154715?v=4",
+        "description": "Deep survival analysis made easy ",
+        "topics": [
+            "pytorch",
+            "survival-analysis",
+            "deep-learning"
+        ]
+    },
+    {
         "uid": "github/jesford/cluster-lensing",
         "url": "https://github.com/jesford/cluster-lensing",
         "rel": "/software/repository/github/jesford/cluster-lensing",
@@ -15247,6 +15259,14 @@
             "python",
             "r"
         ]
+    },
+    {
+        "uid": "github/COBRAPROsimulator/COBRAPRO",
+        "url": "https://github.com/COBRAPROsimulator/COBRAPRO",
+        "rel": "/software/repository/github/COBRAPROsimulator/COBRAPRO",
+        "avatar": "https://avatars.githubusercontent.com/u/159205140?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/matthias-mayr/Cartesian-Impedance-Controller",
@@ -26300,6 +26320,14 @@
         "topics": []
     },
     {
+        "uid": "github/ARC-OPT/wbc",
+        "url": "https://github.com/ARC-OPT/wbc",
+        "rel": "/software/repository/github/ARC-OPT/wbc",
+        "avatar": "https://avatars.githubusercontent.com/u/100422923?v=4",
+        "description": "C++ library for optimization-based control of redundant robots",
+        "topics": []
+    },
+    {
         "uid": "github/zgazak/TAP",
         "url": "https://github.com/zgazak/TAP",
         "rel": "/software/repository/github/zgazak/TAP",
@@ -27191,6 +27219,14 @@
         "rel": "/software/repository/github/domschrei/mallob",
         "avatar": "https://avatars.githubusercontent.com/u/17687040?v=4",
         "description": "Malleable Load Balancer. Massively Parallel Logic Backend. Award-winning SAT solving for the cloud.",
+        "topics": []
+    },
+    {
+        "uid": "github/hippalectryon-0/pyloggrid",
+        "url": "https://github.com/hippalectryon-0/pyloggrid",
+        "rel": "/software/repository/github/hippalectryon-0/pyloggrid",
+        "avatar": "https://avatars.githubusercontent.com/u/6502864?v=4",
+        "description": "Public docs for the python package pyloggrid",
         "topics": []
     },
     {
@@ -40838,6 +40874,19 @@
             "population-synthesis",
             "protoplanetary-discs",
             "python"
+        ]
+    },
+    {
+        "uid": "github/sodascience/metasyn",
+        "url": "https://github.com/sodascience/metasyn",
+        "rel": "/software/repository/github/sodascience/metasyn",
+        "avatar": "https://avatars.githubusercontent.com/u/71822308?v=4",
+        "description": "Transparent and privacy-friendly synthetic data generation",
+        "topics": [
+            "metadata",
+            "open-data",
+            "synthetic-data",
+            "privacy"
         ]
     },
     {
@@ -55749,6 +55798,21 @@
         "topics": []
     },
     {
+        "uid": "github/SevgiAkten/pycellga",
+        "url": "https://github.com/SevgiAkten/pycellga",
+        "rel": "/software/repository/github/SevgiAkten/pycellga",
+        "avatar": "https://avatars.githubusercontent.com/u/43684746?v=4",
+        "description": "Cellular Genetic Algorithms in Python.",
+        "topics": [
+            "cga",
+            "ieee-754",
+            "optimization",
+            "python",
+            "cellulargeneticalgorithm",
+            "machinecodedoperators"
+        ]
+    },
+    {
         "uid": "github/pandas-dev/pandas",
         "url": "https://github.com/pandas-dev/pandas",
         "rel": "/software/repository/github/pandas-dev/pandas",
@@ -56364,6 +56428,20 @@
             "monofractal",
             "turbulence",
             "holder-exponent"
+        ]
+    },
+    {
+        "uid": "github/ks905383/xagg",
+        "url": "https://github.com/ks905383/xagg",
+        "rel": "/software/repository/github/ks905383/xagg",
+        "avatar": "https://avatars.githubusercontent.com/u/16925278?v=4",
+        "description": "Aggregating gridded data (xarray) to polygons",
+        "topics": [
+            "aggregation",
+            "polygon",
+            "python",
+            "raster-data",
+            "xarray"
         ]
     },
     {
