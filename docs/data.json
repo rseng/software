@@ -9356,6 +9356,14 @@
         "topics": []
     },
     {
+        "uid": "github/Romea/romea-ros2-robot-to-world-localisation-rtls-plugin",
+        "url": "https://github.com/Romea/romea-ros2-robot-to-world-localisation-rtls-plugin",
+        "rel": "/software/repository/github/Romea/romea-ros2-robot-to-world-localisation-rtls-plugin",
+        "avatar": "https://avatars.githubusercontent.com/u/20208303?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/Romea/husky",
         "url": "https://github.com/Romea/husky",
         "rel": "/software/repository/github/Romea/husky",
@@ -26571,6 +26579,14 @@
         "topics": []
     },
     {
+        "uid": "github/wetransform-os/ProMCDA",
+        "url": "https://github.com/wetransform-os/ProMCDA",
+        "rel": "/software/repository/github/wetransform-os/ProMCDA",
+        "avatar": "https://avatars.githubusercontent.com/u/19746183?v=4",
+        "description": "A tool to estimate ranks of alternatives and their uncertainties based on the Multi Criteria Decision Analysis approach.",
+        "topics": []
+    },
+    {
         "uid": "github/astrom-tom/specstack",
         "url": "https://github.com/astrom-tom/specstack",
         "rel": "/software/repository/github/astrom-tom/specstack",
@@ -26804,6 +26820,28 @@
             "solvers",
             "pomdps",
             "black-box"
+        ]
+    },
+    {
+        "uid": "github/sisl/ExpFamilyPCA.jl",
+        "url": "https://github.com/sisl/ExpFamilyPCA.jl",
+        "rel": "/software/repository/github/sisl/ExpFamilyPCA.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/6294054?v=4",
+        "description": "A Julia package for exponential family principal component analysis (EPCA).",
+        "topics": [
+            "dimensionality-reduction",
+            "exponential-family",
+            "julia",
+            "machine-learning",
+            "pca",
+            "principal-component-analysis",
+            "compression",
+            "epca",
+            "compression-algorithm",
+            "denoising",
+            "interpretability",
+            "reinforcement-learning",
+            "signal-processing"
         ]
     },
     {
@@ -28230,6 +28268,14 @@
         "rel": "/software/repository/github/mgieles/limepy",
         "avatar": "https://avatars.githubusercontent.com/u/2310401?v=4",
         "description": "Lowered Isothermal Model Explorer in Python",
+        "topics": []
+    },
+    {
+        "uid": "github/fusk-kpu/StressResponseGenesAtlas",
+        "url": "https://github.com/fusk-kpu/StressResponseGenesAtlas",
+        "rel": "/software/repository/github/fusk-kpu/StressResponseGenesAtlas",
+        "avatar": "https://avatars.githubusercontent.com/u/125861730?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -34782,6 +34828,14 @@
         ]
     },
     {
+        "uid": "github/C2SM-RCM/emiproc",
+        "url": "https://github.com/C2SM-RCM/emiproc",
+        "rel": "/software/repository/github/C2SM-RCM/emiproc",
+        "avatar": "https://avatars.githubusercontent.com/u/13691276?v=4",
+        "description": "Preprocessing of emissions: from any inventory to any model",
+        "topics": []
+    },
+    {
         "uid": "github/Caltech-IPAC/Montage",
         "url": "https://github.com/Caltech-IPAC/Montage",
         "rel": "/software/repository/github/Caltech-IPAC/Montage",
@@ -37153,6 +37207,50 @@
             "c",
             "compression",
             "fast"
+        ]
+    },
+    {
+        "uid": "github/bioinfodlsu/phage-host-prediction",
+        "url": "https://github.com/bioinfodlsu/phage-host-prediction",
+        "rel": "/software/repository/github/bioinfodlsu/phage-host-prediction",
+        "avatar": "https://avatars.githubusercontent.com/u/121936683?v=4",
+        "description": "Published in PLOS ONE. Phage-host interaction prediction tool that uses protein language models to represent the receptor-binding proteins of phages. It presents improvements over using handcrafted sequence properties and eliminates the need to manually extract and select features from phage sequences",
+        "topics": [
+            "bioinformatics",
+            "genomics",
+            "phage-host-prediction",
+            "protein",
+            "protein-embedding",
+            "protein-language-model",
+            "proteomics",
+            "representation-learning",
+            "transfer-learning",
+            "transformer",
+            "machine-learning"
+        ]
+    },
+    {
+        "uid": "github/bioinfodlsu/PHIStruct",
+        "url": "https://github.com/bioinfodlsu/PHIStruct",
+        "rel": "/software/repository/github/bioinfodlsu/PHIStruct",
+        "avatar": "https://avatars.githubusercontent.com/u/121936683?v=4",
+        "description": "Published in Bioinformatics. Phage-host interaction prediction tool that incorporates protein structure information in representing receptor-binding proteins (RBPs). It improves performance especially for phages with RBPs that have low sequence similarity to those of known phages",
+        "topics": [
+            "bioinformatics",
+            "deep-learning",
+            "genomics",
+            "machine-learning",
+            "phage-host-prediction",
+            "protein",
+            "protein-embedding",
+            "protein-language-model",
+            "protein-structure",
+            "proteomics",
+            "representation-learning",
+            "transfer-learning",
+            "transformer",
+            "alphafold",
+            "alphafold2"
         ]
     },
     {
@@ -45200,6 +45298,14 @@
         "topics": []
     },
     {
+        "uid": "github/bricoletc/delfies",
+        "url": "https://github.com/bricoletc/delfies",
+        "rel": "/software/repository/github/bricoletc/delfies",
+        "avatar": "https://avatars.githubusercontent.com/u/22122595?v=4",
+        "description": "Querying genomes for evidence of Programmed DNA Elimination",
+        "topics": []
+    },
+    {
         "uid": "github/andresmegias/radex-python",
         "url": "https://github.com/andresmegias/radex-python",
         "rel": "/software/repository/github/andresmegias/radex-python",
@@ -47991,6 +48097,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/10217715?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/hajimes/mmh3",
+        "url": "https://github.com/hajimes/mmh3",
+        "rel": "/software/repository/github/hajimes/mmh3",
+        "avatar": "https://avatars.githubusercontent.com/u/1262041?v=4",
+        "description": "Python extension for MurmurHash (MurmurHash3), a set of fast and robust hash functions.",
+        "topics": [
+            "cpython",
+            "hash",
+            "murmurhash",
+            "python",
+            "murmurhash3"
+        ]
     },
     {
         "uid": "github/DLR-RM/BlenderProc",
@@ -55885,6 +56005,19 @@
         "avatar": "https://avatars2.githubusercontent.com/u/7605009?v=4",
         "description": "A toolkit and repository for the White-Kauffmann-Le Minor scheme for Salmonella serotyping.",
         "topics": []
+    },
+    {
+        "uid": "github/homerjed/sbiax",
+        "url": "https://github.com/homerjed/sbiax",
+        "rel": "/software/repository/github/homerjed/sbiax",
+        "avatar": "https://avatars.githubusercontent.com/u/47306716?v=4",
+        "description": "Fast, lightweight and parallelised simulation-based inference in JAX.",
+        "topics": [
+            "generative-models",
+            "jax",
+            "normalizing-flows",
+            "simulation-based-inference"
+        ]
     },
     {
         "uid": "github/carlodev/SyntheticEddyMethod.jl",
