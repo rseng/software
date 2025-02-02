@@ -1842,6 +1842,14 @@
         "topics": []
     },
     {
+        "uid": "github/LidkeLab/matlab-instrument-control",
+        "url": "https://github.com/LidkeLab/matlab-instrument-control",
+        "rel": "/software/repository/github/LidkeLab/matlab-instrument-control",
+        "avatar": "https://avatars.githubusercontent.com/u/13421505?v=4",
+        "description": "A collection of MATLAB classes to control various equipment used in fluorescence microscopy",
+        "topics": []
+    },
+    {
         "uid": "github/tcherninceline/PPInteractions",
         "url": "https://github.com/tcherninceline/PPInteractions",
         "rel": "/software/repository/github/tcherninceline/PPInteractions",
@@ -3339,6 +3347,19 @@
         ]
     },
     {
+        "uid": "github/bcgov/ssdtools",
+        "url": "https://github.com/bcgov/ssdtools",
+        "rel": "/software/repository/github/bcgov/ssdtools",
+        "avatar": "https://avatars.githubusercontent.com/u/916280?v=4",
+        "description": "An R package to fit and plot Species Sensitivity Distributions (SSDs)",
+        "topics": [
+            "rstats",
+            "ecotoxicology",
+            "species-sensitivity-distribution",
+            "env"
+        ]
+    },
+    {
         "uid": "github/bcgov/bcdata",
         "url": "https://github.com/bcgov/bcdata",
         "rel": "/software/repository/github/bcgov/bcdata",
@@ -3776,6 +3797,14 @@
             "chip-seq",
             "rna-seq"
         ]
+    },
+    {
+        "uid": "github/NVlabs/scene_synthesizer",
+        "url": "https://github.com/NVlabs/scene_synthesizer",
+        "rel": "/software/repository/github/NVlabs/scene_synthesizer",
+        "avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
+        "description": "Python package to create manipulation scenes.",
+        "topics": []
     },
     {
         "uid": "github/GabrielNakamura/FishPhyloMaker",
@@ -6333,6 +6362,14 @@
             "api-rest",
             "api-testing"
         ]
+    },
+    {
+        "uid": "github/jruffio/breads",
+        "url": "https://github.com/jruffio/breads",
+        "rel": "/software/repository/github/jruffio/breads",
+        "avatar": "https://avatars.githubusercontent.com/u/14828518?v=4",
+        "description": "Broad Repository for Exoplanet Analysis and Discovery",
+        "topics": []
     },
     {
         "uid": "github/medvedevgroup/TwoPaCo",
@@ -10319,6 +10356,24 @@
         ]
     },
     {
+        "uid": "github/voting-tools/pref_voting",
+        "url": "https://github.com/voting-tools/pref_voting",
+        "rel": "/software/repository/github/voting-tools/pref_voting",
+        "avatar": "https://avatars.githubusercontent.com/u/118827404?v=4",
+        "description": "pref_voting is a Python package that can be used to study and run elections with different preferential voting methods (graded voting methods and cardinal voting methods are also included for comparison). ",
+        "topics": [
+            "computational-social-choice",
+            "preferences",
+            "preferential-voting",
+            "python3",
+            "research-tool",
+            "social-choice-theory",
+            "utility-functions",
+            "voting",
+            "voting-methods"
+        ]
+    },
+    {
         "uid": "github/kazewong/flowMC",
         "url": "https://github.com/kazewong/flowMC",
         "rel": "/software/repository/github/kazewong/flowMC",
@@ -10691,6 +10746,14 @@
         "rel": "/software/repository/github/eliotayache/GAMMA",
         "avatar": "https://avatars.githubusercontent.com/u/28777824?v=4",
         "description": "Relativistic hydro and local cooling on a moving mesh",
+        "topics": []
+    },
+    {
+        "uid": "github/philip-long/robot_collision_checking",
+        "url": "https://github.com/philip-long/robot_collision_checking",
+        "rel": "/software/repository/github/philip-long/robot_collision_checking",
+        "avatar": "https://avatars.githubusercontent.com/u/12842810?v=4",
+        "description": "A ROS interface to FCL collision checking",
         "topics": []
     },
     {
@@ -11925,6 +11988,20 @@
         "topics": []
     },
     {
+        "uid": "github/LebeerLab/tidytacos",
+        "url": "https://github.com/LebeerLab/tidytacos",
+        "rel": "/software/repository/github/LebeerLab/tidytacos",
+        "avatar": "https://avatars.githubusercontent.com/u/29303437?v=4",
+        "description": "Functions to manipulate and visualize microbial community data",
+        "topics": [
+            "microbial-communities",
+            "microbiome-analysis",
+            "r",
+            "tidy",
+            "visualization"
+        ]
+    },
+    {
         "uid": "github/multiwavelength/redshifts",
         "url": "https://github.com/multiwavelength/redshifts",
         "rel": "/software/repository/github/multiwavelength/redshifts",
@@ -12011,6 +12088,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/1483210?v=4",
         "description": "The GALEX photon database and tools project.",
         "topics": []
+    },
+    {
+        "uid": "github/trixi-framework/TrixiParticles.jl",
+        "url": "https://github.com/trixi-framework/TrixiParticles.jl",
+        "rel": "/software/repository/github/trixi-framework/TrixiParticles.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/67895161?v=4",
+        "description": "TrixiParticles.jl: Particle-based multiphysics simulations in Julia",
+        "topics": [
+            "julia",
+            "multiphysics",
+            "simulation",
+            "smoothed-particle-hydrodynamics"
+        ]
     },
     {
         "uid": "github/trixi-framework/HOHQMesh",
@@ -26910,6 +27000,14 @@
         ]
     },
     {
+        "uid": "github/eas342/tshirt",
+        "url": "https://github.com/eas342/tshirt",
+        "rel": "/software/repository/github/eas342/tshirt",
+        "avatar": "https://avatars.githubusercontent.com/u/234377?v=4",
+        "description": "Tools for time series",
+        "topics": []
+    },
+    {
         "uid": "github/vhaasteren/piccard",
         "url": "https://github.com/vhaasteren/piccard",
         "rel": "/software/repository/github/vhaasteren/piccard",
@@ -27397,6 +27495,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/12038053?v=4",
         "description": "Determine pixel coordinates for TESS targets",
         "topics": []
+    },
+    {
+        "uid": "github/uclchem/SpectralRadex",
+        "url": "https://github.com/uclchem/SpectralRadex",
+        "rel": "/software/repository/github/uclchem/SpectralRadex",
+        "avatar": "https://avatars.githubusercontent.com/u/14346619?v=4",
+        "description": "A Python library for spectral modelling and RADEX",
+        "topics": [
+            "astrophysics",
+            "radiative-transfer",
+            "radex",
+            "astronomy",
+            "python"
+        ]
     },
     {
         "uid": "github/uclchem/Chemulator",
@@ -28150,6 +28262,14 @@
         "rel": "/software/repository/github/jbattat/pep_core",
         "avatar": "https://avatars.githubusercontent.com/u/8468957?v=4",
         "description": "PEP: Planetary Ephemeris Program core files",
+        "topics": []
+    },
+    {
+        "uid": "github/computproteomics/ProteoMaker",
+        "url": "https://github.com/computproteomics/ProteoMaker",
+        "rel": "/software/repository/github/computproteomics/ProteoMaker",
+        "avatar": "https://avatars.githubusercontent.com/u/158178001?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -31273,6 +31393,14 @@
         "topics": []
     },
     {
+        "uid": "github/EHTJulia/ScatteringOptics.jl",
+        "url": "https://github.com/EHTJulia/ScatteringOptics.jl",
+        "rel": "/software/repository/github/EHTJulia/ScatteringOptics.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/102935150?v=4",
+        "description": "A Julia package to simulate and model interstellar scattering in strong regime.",
+        "topics": []
+    },
+    {
         "uid": "github/joacoh/wise2mbh",
         "url": "https://github.com/joacoh/wise2mbh",
         "rel": "/software/repository/github/joacoh/wise2mbh",
@@ -34284,6 +34412,14 @@
         "topics": []
     },
     {
+        "uid": "github/xychcz/S3Fit",
+        "url": "https://github.com/xychcz/S3Fit",
+        "rel": "/software/repository/github/xychcz/S3Fit",
+        "avatar": "https://avatars.githubusercontent.com/u/14907162?v=4",
+        "description": "S3Fit: a Simultaneous Spectrum and photometric-SED Fitting code for observation of galaxies",
+        "topics": []
+    },
+    {
         "uid": "github/tupui/scipy",
         "url": "https://github.com/tupui/scipy",
         "rel": "/software/repository/github/tupui/scipy",
@@ -35884,6 +36020,27 @@
         "avatar": "https://avatars.githubusercontent.com/u/37465135?v=4",
         "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
         "topics": []
+    },
+    {
+        "uid": "github/Deyht/CIANNA",
+        "url": "https://github.com/Deyht/CIANNA",
+        "rel": "/software/repository/github/Deyht/CIANNA",
+        "avatar": "https://avatars.githubusercontent.com/u/21009408?v=4",
+        "description": "Convolutional Interactive Artificial Neural Networks by/for Astrophysicists",
+        "topics": [
+            "deep-neural-networks",
+            "deep-learning",
+            "convolutional-neural-networks",
+            "machine-learning",
+            "ml",
+            "astrophysics",
+            "astronomy",
+            "neural-network",
+            "cuda",
+            "gpu",
+            "object-detection",
+            "yolo"
+        ]
     },
     {
         "uid": "github/wilkelab/Opfi",
@@ -44148,6 +44305,14 @@
         "topics": []
     },
     {
+        "uid": "github/mjrfringes/haystacks",
+        "url": "https://github.com/mjrfringes/haystacks",
+        "rel": "/software/repository/github/mjrfringes/haystacks",
+        "avatar": "https://avatars.githubusercontent.com/u/13844169?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/beckermr/calclens",
         "url": "https://github.com/beckermr/calclens",
         "rel": "/software/repository/github/beckermr/calclens",
@@ -46592,6 +46757,14 @@
             "maps",
             "spatial-data"
         ]
+    },
+    {
+        "uid": "github/CDCgov/BART-Survival",
+        "url": "https://github.com/CDCgov/BART-Survival",
+        "rel": "/software/repository/github/CDCgov/BART-Survival",
+        "avatar": "https://avatars.githubusercontent.com/u/12104975?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/CBIIT-CGBB/gcMECM",
@@ -49182,6 +49355,22 @@
         "topics": []
     },
     {
+        "uid": "github/yuefan98/nleis.py",
+        "url": "https://github.com/yuefan98/nleis.py",
+        "rel": "/software/repository/github/yuefan98/nleis.py",
+        "avatar": "https://avatars.githubusercontent.com/u/97193085?v=4",
+        "description": "A NLEIS toolbox for impedance.py that provides RC level nonlinear equivalent circuit modeling (nECM) and analysis",
+        "topics": [
+            "eis",
+            "electrochemistry",
+            "2nd-nleis",
+            "lithium-ion-batteries",
+            "impedance-py",
+            "battery",
+            "fuel-cell"
+        ]
+    },
+    {
         "uid": "github/TriPed-Robot/TriP",
         "url": "https://github.com/TriPed-Robot/trip_kinematics",
         "rel": "/software/repository/github/TriPed-Robot/TriP",
@@ -51139,6 +51328,14 @@
         ]
     },
     {
+        "uid": "github/MDamiano/ExoTR",
+        "url": "https://github.com/MDamiano/ExoTR",
+        "rel": "/software/repository/github/MDamiano/ExoTR",
+        "avatar": "https://avatars.githubusercontent.com/u/7510364?v=4",
+        "description": "A Bayesian inverse retrieval algorithm to interpret exoplanetary transmission spectra. ",
+        "topics": []
+    },
+    {
         "uid": "github/byuflowlab/GXBeam.jl",
         "url": "https://github.com/byuflowlab/GXBeam.jl",
         "rel": "/software/repository/github/byuflowlab/GXBeam.jl",
@@ -51839,6 +52036,14 @@
             "jax",
             "keras"
         ]
+    },
+    {
+        "uid": "github/david-bogdan-r/ARTEMIS",
+        "url": "https://github.com/david-bogdan-r/ARTEMIS",
+        "rel": "/software/repository/github/david-bogdan-r/ARTEMIS",
+        "avatar": "https://avatars.githubusercontent.com/u/89922494?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/zhwm/SparsePro_Paper",
@@ -55747,6 +55952,19 @@
         "topics": []
     },
     {
+        "uid": "github/AninaTimmermann/ECCOplanets",
+        "url": "https://github.com/AninaTimmermann/ECCOplanets",
+        "rel": "/software/repository/github/AninaTimmermann/ECCOplanets",
+        "avatar": "https://avatars.githubusercontent.com/u/111730996?v=4",
+        "description": "Python code to simulate the formation of rocky planets in chemical equilibrium (based on Gibbs energy minimisation) and analysis of planet compositions.",
+        "topics": [
+            "chemical-equilibrium",
+            "planet-formation",
+            "planet-composition",
+            "rocky-planets"
+        ]
+    },
+    {
         "uid": "github/Hegghammer/daiR",
         "url": "https://github.com/Hegghammer/daiR",
         "rel": "/software/repository/github/Hegghammer/daiR",
@@ -57061,6 +57279,14 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaHelmecke/MetaboMAPS",
+        "url": "https://github.com/JKoblitz/MetaboMAPS",
+        "rel": "/software/repository/github/JuliaHelmecke/MetaboMAPS",
+        "avatar": "https://avatars.githubusercontent.com/u/22150395?v=4",
+        "description": "Data visualization on metabolic pathway maps.",
+        "topics": []
+    },
+    {
         "uid": "github/mdshw5/pyfaidx",
         "url": "https://github.com/mdshw5/pyfaidx",
         "rel": "/software/repository/github/mdshw5/pyfaidx",
@@ -57567,6 +57793,20 @@
         ]
     },
     {
+        "uid": "github/wrenfold/wrenfold",
+        "url": "https://github.com/wrenfold/wrenfold",
+        "rel": "/software/repository/github/wrenfold/wrenfold",
+        "avatar": "https://avatars.githubusercontent.com/u/167943873?v=4",
+        "description": "Toolkit for generating code from symbolic math expressions.",
+        "topics": [
+            "code-generation",
+            "computer-vision",
+            "mathematics",
+            "robotics",
+            "symbolic-math"
+        ]
+    },
+    {
         "uid": "github/taoliu/MACS",
         "url": "https://github.com/macs3-project/MACS",
         "rel": "/software/repository/github/taoliu/MACS",
@@ -57823,6 +58063,14 @@
         "rel": "/software/repository/github/rossjturner/RAiSERed",
         "avatar": "https://avatars.githubusercontent.com/u/51308689?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/SIOSlab/NEXO",
+        "url": "https://github.com/SIOSlab/NEXO",
+        "rel": "/software/repository/github/SIOSlab/NEXO",
+        "avatar": "https://avatars.githubusercontent.com/u/39835313?v=4",
+        "description": "Nonsingular Estimator for Exoplanet Orbits",
         "topics": []
     },
     {
@@ -63688,6 +63936,20 @@
         "topics": []
     },
     {
+        "uid": "github/OPM/pyopmspe11",
+        "url": "https://github.com/OPM/pyopmspe11",
+        "rel": "/software/repository/github/OPM/pyopmspe11",
+        "avatar": "https://avatars.githubusercontent.com/u/1827197?v=4",
+        "description": "A Python framework using OPM Flow for the SPE11 benchmark project",
+        "topics": [
+            "co2",
+            "csp11",
+            "flow",
+            "opm",
+            "spe11"
+        ]
+    },
+    {
         "uid": "github/PeterKamphuis/FAT",
         "url": "https://github.com/PeterKamphuis/FAT",
         "rel": "/software/repository/github/PeterKamphuis/FAT",
@@ -66261,6 +66523,26 @@
         "avatar": "https://avatars.githubusercontent.com/u/67531873?v=4",
         "description": "Collection of shiny apps for Agricultural research Data Analysis. Allows user to have graphical user interface to perform analysis of Agricultural experimental data. On using the functions in this package a Graphical User Interface will pop up. Apps Works by simple upload of files in CSV format.",
         "topics": []
+    },
+    {
+        "uid": "github/damask-multiphysics/DAMASK",
+        "url": "https://github.com/damask-multiphysics/DAMASK",
+        "rel": "/software/repository/github/damask-multiphysics/DAMASK",
+        "avatar": "https://avatars.githubusercontent.com/u/172325373?v=4",
+        "description": "D\u00fcsseldorf Advanced Material Simulation Kit (Read-only mirror)",
+        "topics": [
+            "plasticity",
+            "engineering",
+            "physics",
+            "metallurgy",
+            "materials-science",
+            "crystal-plasticity",
+            "materials",
+            "science",
+            "multi-physics",
+            "material",
+            "simulation"
+        ]
     },
     {
         "uid": "github/isovic/graphmap",
