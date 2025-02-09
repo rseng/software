@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/ImperialCollegeLondon/PyProBE",
+    "url": "https://github.com/ImperialCollegeLondon/PyProBE",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.14796110",
+        "name": "PyProBE",
+        "url": "https://github.com/ImperialCollegeLondon/PyProBE",
+        "full_name": "ImperialCollegeLondon/PyProBE",
+        "html_url": "https://github.com/ImperialCollegeLondon/PyProBE",
+        "description": "Python Processing for Battery Experiments",
+        "created_at": "2024-05-15T16:36:54Z",
+        "updated_at": "2025-02-06T10:13:40Z",
+        "clone_url": "https://github.com/ImperialCollegeLondon/PyProBE.git",
+        "homepage": "https://imperialcollegelondon.github.io/PyProBE/",
+        "size": 270720,
+        "stargazers_count": 14,
+        "watchers_count": 14,
+        "language": "Python",
+        "open_issues_count": 14,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/ImperialCollegeLondon",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1220306?v=4",
+            "login": "ImperialCollegeLondon",
+            "type": "Organization"
+        },
+        "timestamp": "2025-02-09 00:46:22.324897",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4"
+    }
+}

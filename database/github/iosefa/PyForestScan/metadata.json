@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/iosefa/PyForestScan",
+    "url": "https://github.com/iosefa/PyForestScan",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.14714890",
+        "name": "PyForestScan",
+        "url": "https://github.com/iosefa/PyForestScan",
+        "full_name": "iosefa/PyForestScan",
+        "html_url": "https://github.com/iosefa/PyForestScan",
+        "description": "A python package for calculating forest structural metrics from airborne point clouds.",
+        "created_at": "2023-07-22T06:59:09Z",
+        "updated_at": "2025-02-08T08:55:39Z",
+        "clone_url": "https://github.com/iosefa/PyForestScan.git",
+        "homepage": "https://pyforestscan.sefa.ai/",
+        "size": 214136,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/iosefa",
+            "avatar_url": "https://avatars.githubusercontent.com/u/24607032?v=4",
+            "login": "iosefa",
+            "type": "User"
+        },
+        "topics": [
+            "ecology",
+            "lidar",
+            "point-cloud",
+            "forest-structure"
+        ],
+        "timestamp": "2025-02-09 00:46:19.727679",
+        "avatar": "https://avatars.githubusercontent.com/u/24607032?v=4"
+    }
+}
