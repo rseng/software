@@ -13791,6 +13791,19 @@
         "topics": []
     },
     {
+        "uid": "github/iosefa/PyForestScan",
+        "url": "https://github.com/iosefa/PyForestScan",
+        "rel": "/software/repository/github/iosefa/PyForestScan",
+        "avatar": "https://avatars.githubusercontent.com/u/24607032?v=4",
+        "description": "A python package for calculating forest structural metrics from airborne point clouds.",
+        "topics": [
+            "ecology",
+            "lidar",
+            "point-cloud",
+            "forest-structure"
+        ]
+    },
+    {
         "uid": "github/dftd3/simple-dftd3",
         "url": "https://github.com/dftd3/simple-dftd3",
         "rel": "/software/repository/github/dftd3/simple-dftd3",
@@ -20503,6 +20516,22 @@
         ]
     },
     {
+        "uid": "github/ropensci/gigs",
+        "url": "https://github.com/ropensci/gigs",
+        "rel": "/software/repository/github/ropensci/gigs",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "Convert between measurements and z-scores/percentiles for INTERGROWTH-21st and WHO Child Growth Standards, and classify growth patterns.",
+        "topics": [
+            "growth-standards",
+            "anthropometry",
+            "intergrowth",
+            "r",
+            "who",
+            "r-package",
+            "rstats"
+        ]
+    },
+    {
         "uid": "github/ropensci/rromeo",
         "url": "https://github.com/ropensci/rromeo",
         "rel": "/software/repository/github/ropensci/rromeo",
@@ -21736,6 +21765,19 @@
             "r-package",
             "rstats",
             "scalereprod"
+        ]
+    },
+    {
+        "uid": "github/ropensci/rsvg",
+        "url": "https://github.com/ropensci/rsvg",
+        "rel": "/software/repository/github/ropensci/rsvg",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "SVG renderer for R based on librsvg2",
+        "topics": [
+            "cairo",
+            "glib",
+            "librsvg",
+            "image-processing"
         ]
     },
     {
@@ -37507,6 +37549,21 @@
         "topics": []
     },
     {
+        "uid": "github/Santiso-Group/despasito",
+        "url": "https://github.com/Santiso-Group/despasito",
+        "rel": "/software/repository/github/Santiso-Group/despasito",
+        "avatar": "https://avatars.githubusercontent.com/u/61851070?v=4",
+        "description": "DESPASITO: Determining Equilibrium State and Parametrization Application for SAFT, Intended for Thermodynamic Output",
+        "topics": [
+            "saft",
+            "thermodynamic-calculations",
+            "eos",
+            "parametrization",
+            "equation-of-state",
+            "equations-of-state"
+        ]
+    },
+    {
         "uid": "github/TravisWheelerLab/VIBES",
         "url": "https://github.com/TravisWheelerLab/VIBES",
         "rel": "/software/repository/github/TravisWheelerLab/VIBES",
@@ -52231,6 +52288,23 @@
         "topics": []
     },
     {
+        "uid": "github/toruseo/UXsim",
+        "url": "https://github.com/toruseo/UXsim",
+        "rel": "/software/repository/github/toruseo/UXsim",
+        "avatar": "https://avatars.githubusercontent.com/u/34780089?v=4",
+        "description": "Vehicular traffic flow simulator in road network, written in pure Python",
+        "topics": [
+            "traffic",
+            "traffic-flow",
+            "traffic-flow-simulation",
+            "traffic-simulation",
+            "dynamic-traffic-assignment",
+            "simulation",
+            "transportation",
+            "transportation-network"
+        ]
+    },
+    {
         "uid": "github/dingyaozhang/Evitar",
         "url": "https://github.com/dingyaozhang/Evitar",
         "rel": "/software/repository/github/dingyaozhang/Evitar",
@@ -52758,6 +52832,14 @@
             "particle",
             "python"
         ]
+    },
+    {
+        "uid": "github/instituteofmechanics/paraqus",
+        "url": "https://github.com/InstituteOfMechanics/Paraqus",
+        "rel": "/software/repository/github/instituteofmechanics/paraqus",
+        "avatar": "https://avatars.githubusercontent.com/u/153821080?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/ejmackrell/tidyproteomics-interactive",
@@ -53399,6 +53481,14 @@
         "rel": "/software/repository/github/AprilYuge/ResPAN",
         "avatar": "https://avatars.githubusercontent.com/u/42819288?v=4",
         "description": "a light structured Residual autoencoder and mutual nearest neighbor Paring guided Adversarial Network for scRNA-seq batch correction",
+        "topics": []
+    },
+    {
+        "uid": "github/davidogara/hetGPy",
+        "url": "https://github.com/davidogara/hetGPy",
+        "rel": "/software/repository/github/davidogara/hetGPy",
+        "avatar": "https://avatars.githubusercontent.com/u/21281981?v=4",
+        "description": "Python implementation of the hetGP R package",
         "topics": []
     },
     {
@@ -54705,6 +54795,20 @@
         "topics": []
     },
     {
+        "uid": "github/mxwalbert/cohesivm",
+        "url": "https://github.com/mxwalbert/cohesivm",
+        "rel": "/software/repository/github/mxwalbert/cohesivm",
+        "avatar": "https://avatars.githubusercontent.com/u/84664695?v=4",
+        "description": "Combinatorial h+/e- Sample Investigation using Voltaic Measurements",
+        "topics": [
+            "lab-automation",
+            "materials-science",
+            "python",
+            "combinatorial-approach",
+            "high-throughput-analysis"
+        ]
+    },
+    {
         "uid": "github/esteinig/nanoq",
         "url": "https://github.com/esteinig/nanoq",
         "rel": "/software/repository/github/esteinig/nanoq",
@@ -55985,6 +56089,21 @@
         "topics": []
     },
     {
+        "uid": "github/open2c/polychrom",
+        "url": "https://github.com/open2c/polychrom",
+        "rel": "/software/repository/github/open2c/polychrom",
+        "avatar": "https://avatars.githubusercontent.com/u/70977326?v=4",
+        "description": "Chromosome polymer simulations and in silico capture experiments",
+        "topics": [
+            "loop-extrusion",
+            "simulation",
+            "polymer",
+            "chromatin",
+            "chromosomes",
+            "hi-c"
+        ]
+    },
+    {
         "uid": "github/Exo-TiC/ExoTiC-LD",
         "url": "https://github.com/Exo-TiC/ExoTiC-LD",
         "rel": "/software/repository/github/Exo-TiC/ExoTiC-LD",
@@ -56300,6 +56419,20 @@
             "sustainability",
             "sustainability-developoment-goals",
             "text-mining"
+        ]
+    },
+    {
+        "uid": "github/camfort/fortran-src",
+        "url": "https://github.com/camfort/fortran-src",
+        "rel": "/software/repository/github/camfort/fortran-src",
+        "avatar": "https://avatars.githubusercontent.com/u/18264580?v=4",
+        "description": "Fortran parsing and static analysis infrastructure",
+        "topics": [
+            "automated-refactoring",
+            "fortran",
+            "haskell",
+            "parser",
+            "static-analysis"
         ]
     },
     {
@@ -57195,6 +57328,14 @@
         "rel": "/software/repository/github/ImperialCollegeLondon/UVLM",
         "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
         "description": "Unsteady Vortex Lattice Method for Aeroelasticity in C++",
+        "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/PyProBE",
+        "url": "https://github.com/ImperialCollegeLondon/PyProBE",
+        "rel": "/software/repository/github/ImperialCollegeLondon/PyProBE",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "Python Processing for Battery Experiments",
         "topics": []
     },
     {
@@ -61809,6 +61950,24 @@
         ]
     },
     {
+        "uid": "github/DLR-AMR/t8code",
+        "url": "https://github.com/DLR-AMR/t8code",
+        "rel": "/software/repository/github/DLR-AMR/t8code",
+        "avatar": "https://avatars.githubusercontent.com/u/109299884?v=4",
+        "description": "Parallel algorithms and data structures for tree-based adaptive mesh refinement (AMR) with arbitrary element shapes.",
+        "topics": [
+            "high-performance-computing",
+            "adaptive-mesh-refinement",
+            "mesh",
+            "simulation",
+            "mpi",
+            "parallel",
+            "parallel-computing",
+            "hpc",
+            "modeling"
+        ]
+    },
+    {
         "uid": "github/astroboylrx/PLAN",
         "url": "https://github.com/astroboylrx/PLAN",
         "rel": "/software/repository/github/astroboylrx/PLAN",
@@ -63005,6 +63164,14 @@
         "rel": "/software/repository/github/evanoconnor/GR1D",
         "avatar": "https://avatars.githubusercontent.com/u/1109332?v=4",
         "description": "General Relativistic, Spherically Symmetry, Neutrino Transport Code for Stellar Collapse",
+        "topics": []
+    },
+    {
+        "uid": "github/darrenjw/jax-smfsb",
+        "url": "https://github.com/darrenjw/jax-smfsb",
+        "rel": "/software/repository/github/darrenjw/jax-smfsb",
+        "avatar": "https://avatars.githubusercontent.com/u/1235734?v=4",
+        "description": "SMfSB code in JAX",
         "topics": []
     },
     {
@@ -67177,6 +67344,21 @@
         "avatar": "https://gitlab.comNone",
         "description": "",
         "topics": []
+    },
+    {
+        "uid": "gitlab/davidwoodburn/r3f",
+        "url": "https://gitlab.com/davidwoodburn/r3f",
+        "rel": "/software/repository/gitlab/davidwoodburn/r3f",
+        "avatar": "https://gitlab.comNone",
+        "description": "A library for three-dimensional, reference-frame conversions",
+        "topics": [
+            "ECEF",
+            "Geodetic",
+            "Inertial measurement unit",
+            "navigation",
+            "reference frames",
+            "rotation"
+        ]
     },
     {
         "uid": "gitlab/davidwoodburn/itrm",
