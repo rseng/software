@@ -13268,6 +13268,14 @@
         "topics": []
     },
     {
+        "uid": "github/muttenthalerlab/PeptideMiner",
+        "url": "https://github.com/muttenthalerlab/PeptideMiner",
+        "rel": "/software/repository/github/muttenthalerlab/PeptideMiner",
+        "avatar": "https://avatars.githubusercontent.com/u/177279911?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/octapps/octapps",
         "url": "https://github.com/octapps/octapps",
         "rel": "/software/repository/github/octapps/octapps",
@@ -15044,6 +15052,18 @@
         ]
     },
     {
+        "uid": "github/ebi-jdispatcher/taxonomy-resolver",
+        "url": "https://github.com/ebi-jdispatcher/taxonomy-resolver",
+        "rel": "/software/repository/github/ebi-jdispatcher/taxonomy-resolver",
+        "avatar": "https://avatars.githubusercontent.com/u/105044835?v=4",
+        "description": "Builds lists of Taxonomy Identifiers based on the NCBI Taxonomy Database",
+        "topics": [
+            "bioinformatics",
+            "bioinformatics-tool",
+            "taxonomy"
+        ]
+    },
+    {
         "uid": "github/EoRImaging/FHD",
         "url": "https://github.com/EoRImaging/FHD",
         "rel": "/software/repository/github/EoRImaging/FHD",
@@ -15943,6 +15963,14 @@
             "brain",
             "brainweb"
         ]
+    },
+    {
+        "uid": "github/legacysurvey/legacypipe",
+        "url": "https://github.com/legacysurvey/legacypipe",
+        "rel": "/software/repository/github/legacysurvey/legacypipe",
+        "avatar": "https://avatars.githubusercontent.com/u/13069388?v=4",
+        "description": "Image reduction pipeline for the DESI Legacy Imaging Surveys, using the Tractor framework",
+        "topics": []
     },
     {
         "uid": "github/legacysurvey/unwise_psf",
@@ -25041,6 +25069,14 @@
         ]
     },
     {
+        "uid": "github/gacou54/pyorthanc",
+        "url": "https://github.com/gacou54/pyorthanc",
+        "rel": "/software/repository/github/gacou54/pyorthanc",
+        "avatar": "https://avatars.githubusercontent.com/u/25424166?v=4",
+        "description": "Python library that wrap the Orthanc REST API and facilitate the manipulation of data in Orthanc",
+        "topics": []
+    },
+    {
         "uid": "github/isaackd/wcloud",
         "url": "https://github.com/isaackd/wcloud",
         "rel": "/software/repository/github/isaackd/wcloud",
@@ -27727,6 +27763,14 @@
             "graphical-user-interface",
             "real-datasets"
         ]
+    },
+    {
+        "uid": "github/4DModeller/fdmr",
+        "url": "https://github.com/4DModeller/fdmr",
+        "rel": "/software/repository/github/4DModeller/fdmr",
+        "avatar": "https://avatars.githubusercontent.com/u/123073836?v=4",
+        "description": "4DModeller, Bayesian Spatio-temporal modeling in R",
+        "topics": []
     },
     {
         "uid": "github/QITI/pySLM2",
@@ -55103,6 +55147,14 @@
         "rel": "/software/repository/github/LalResearchGroup/CNV-clinviewer",
         "avatar": "https://avatars.githubusercontent.com/u/98547504?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/alexji/LESSPayne",
+        "url": "https://github.com/alexji/LESSPayne",
+        "rel": "/software/repository/github/alexji/LESSPayne",
+        "avatar": "https://avatars.githubusercontent.com/u/3082382?v=4",
+        "description": "Labeling Echelle Spectra with SMHR and Payne",
         "topics": []
     },
     {
