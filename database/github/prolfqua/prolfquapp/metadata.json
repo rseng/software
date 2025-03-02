@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/prolfqua/prolfquapp",
+    "url": "https://github.com/prolfqua/prolfquapp",
+    "data": {
+        "name": "prolfquapp",
+        "url": "https://github.com/prolfqua/prolfquapp",
+        "full_name": "prolfqua/prolfquapp",
+        "html_url": "https://github.com/prolfqua/prolfquapp",
+        "private": false,
+        "description": "Generating Dynamic DEA Reports with the prolfqua R Package",
+        "created_at": "2023-05-19T12:21:31Z",
+        "updated_at": "2025-02-20T17:57:11Z",
+        "clone_url": "https://github.com/prolfqua/prolfquapp.git",
+        "homepage": "",
+        "size": 80971,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "HTML",
+        "open_issues_count": 9,
+        "license": null,
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/prolfqua",
+            "avatar_url": "https://avatars.githubusercontent.com/u/164514960?v=4",
+            "login": "prolfqua",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2025-03-02 00:48:29.754009",
+        "avatar": "https://avatars.githubusercontent.com/u/164514960?v=4"
+    }
+}
