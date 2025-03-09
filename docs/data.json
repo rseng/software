@@ -546,6 +546,23 @@
         ]
     },
     {
+        "uid": "github/tqsd/photon_weave",
+        "url": "https://github.com/tqsd/photon_weave",
+        "rel": "/software/repository/github/tqsd/photon_weave",
+        "avatar": "https://avatars.githubusercontent.com/u/56349211?v=4",
+        "description": "Photon Weave",
+        "topics": [
+            "optics",
+            "quantum-optics",
+            "quantum-simulator",
+            "jax",
+            "quantum",
+            "quantum-computing",
+            "quantum-physics",
+            "quantum-optics-simulation"
+        ]
+    },
+    {
         "uid": "github/griffithlab/regtools",
         "url": "https://github.com/griffithlab/regtools",
         "rel": "/software/repository/github/griffithlab/regtools",
@@ -5998,6 +6015,19 @@
         "topics": []
     },
     {
+        "uid": "github/zqfang/gseapy",
+        "url": "https://github.com/zqfang/GSEApy",
+        "rel": "/software/repository/github/zqfang/gseapy",
+        "avatar": "https://avatars.githubusercontent.com/u/5889336?v=4",
+        "description": "Gene Set Enrichment Analysis in Python",
+        "topics": [
+            "gsea",
+            "enrichment-analysis",
+            "python3",
+            "rust"
+        ]
+    },
+    {
         "uid": "github/chrishales/pieflag",
         "url": "https://github.com/chrishales/pieflag",
         "rel": "/software/repository/github/chrishales/pieflag",
@@ -9855,6 +9885,14 @@
             "data-science",
             "datasets"
         ]
+    },
+    {
+        "uid": "github/IslasGECI/nerd",
+        "url": "https://github.com/IslasGECI/nerd",
+        "rel": "/software/repository/github/IslasGECI/nerd",
+        "avatar": "https://avatars.githubusercontent.com/u/40274821?v=4",
+        "description": "NERD: Numerical Estimation of Rodenticide Density",
+        "topics": []
     },
     {
         "uid": "github/morriscb/The-wiZZ",
@@ -14152,6 +14190,14 @@
         "rel": "/software/repository/github/clawpack/pyclaw",
         "avatar": "https://avatars3.githubusercontent.com/u/725474?v=4",
         "description": "PyClaw is a Python-based interface to the algorithms of Clawpack and SharpClaw.  It also contains the PetClaw package, which adds parallelism through PETSc.",
+        "topics": []
+    },
+    {
+        "uid": "github/csalyk/spectools_ir",
+        "url": "https://github.com/csalyk/spectools_ir",
+        "rel": "/software/repository/github/csalyk/spectools_ir",
+        "avatar": "https://avatars.githubusercontent.com/u/7980397?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -21113,6 +21159,14 @@
         "topics": []
     },
     {
+        "uid": "github/CITCOM-project/CausalTestingFramework",
+        "url": "https://github.com/CITCOM-project/CausalTestingFramework",
+        "rel": "/software/repository/github/CITCOM-project/CausalTestingFramework",
+        "avatar": "https://avatars.githubusercontent.com/u/76901837?v=4",
+        "description": "A causal inference-driven framework for functional black-box testing of complex software.",
+        "topics": []
+    },
+    {
         "uid": "github/miche-levi/pncbc-eftofpng",
         "url": "https://github.com/miche-levi/pncbc-eftofpng",
         "rel": "/software/repository/github/miche-levi/pncbc-eftofpng",
@@ -23336,6 +23390,22 @@
         ]
     },
     {
+        "uid": "github/ConesaLab/MultiPower",
+        "url": "https://github.com/ConesaLab/MultiPower",
+        "rel": "/software/repository/github/ConesaLab/MultiPower",
+        "avatar": "https://avatars.githubusercontent.com/u/29752440?v=4",
+        "description": "Statistical power studies for multi-omics experiments.",
+        "topics": []
+    },
+    {
+        "uid": "github/ConesaLab/MOSim",
+        "url": "https://github.com/ConesaLab/MOSim",
+        "rel": "/software/repository/github/ConesaLab/MOSim",
+        "avatar": "https://avatars.githubusercontent.com/u/29752440?v=4",
+        "description": "Bulk and single-cell Multi-Omics ground truth Simulator in R",
+        "topics": []
+    },
+    {
         "uid": "github/ruizengalways/FOD-Net",
         "url": "https://github.com/ruizengalways/FOD-Net",
         "rel": "/software/repository/github/ruizengalways/FOD-Net",
@@ -23932,6 +24002,14 @@
         "rel": "/software/repository/github/jfalconbarroso/BAYES-LOSVD",
         "avatar": "https://avatars.githubusercontent.com/u/41444018?v=4",
         "description": "Non-parametric recovery of the LOSVD of galaxies",
+        "topics": []
+    },
+    {
+        "uid": "github/JoshSchramm94/validateHOT",
+        "url": "https://github.com/JoshSchramm94/validateHOT",
+        "rel": "/software/repository/github/JoshSchramm94/validateHOT",
+        "avatar": "https://avatars.githubusercontent.com/u/93316398?v=4",
+        "description": "\ud83c\udfaf Validate your Holdout Task and other tools for preference measurement techniques",
         "topics": []
     },
     {
@@ -28711,6 +28789,22 @@
         "topics": []
     },
     {
+        "uid": "github/zhang-zhixiang/stellarSpecModel",
+        "url": "https://github.com/zhang-zhixiang/stellarSpecModel",
+        "rel": "/software/repository/github/zhang-zhixiang/stellarSpecModel",
+        "avatar": "https://avatars.githubusercontent.com/u/12471308?v=4",
+        "description": "This is a simple package to interpolate the stellar spectral grid. Users provide a group of stellar parameters (Teff, FeH, logg), the package will return the corresponding stellar spectrum.",
+        "topics": []
+    },
+    {
+        "uid": "github/zhang-zhixiang/spectool",
+        "url": "https://github.com/zhang-zhixiang/spectool",
+        "rel": "/software/repository/github/zhang-zhixiang/spectool",
+        "avatar": "https://avatars.githubusercontent.com/u/12471308?v=4",
+        "description": "spectool is a collection of common reduction functions for spectroscopic data, providing tools for rebinning, smoothing, normalization, radial velocity measurement, and more.",
+        "topics": []
+    },
+    {
         "uid": "github/fcs-analysis/PyScanFCS",
         "url": "https://github.com/FCS-analysis/PyScanFCS",
         "rel": "/software/repository/github/fcs-analysis/PyScanFCS",
@@ -28724,6 +28818,14 @@
         "rel": "/software/repository/github/fcs-analysis/PyCorrFit",
         "avatar": "https://avatars.githubusercontent.com/u/16266790?v=4",
         "description": "data analysis and fitting software for fluorescence correlation spectroscopy (FCS)",
+        "topics": []
+    },
+    {
+        "uid": "github/melobio/Attune",
+        "url": "https://github.com/melobio/Attune",
+        "rel": "/software/repository/github/melobio/Attune",
+        "avatar": "https://avatars.githubusercontent.com/u/82862879?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -31814,6 +31916,22 @@
         ]
     },
     {
+        "uid": "github/BiostatOmics/Coxmos",
+        "url": "https://github.com/BiostatOmics/Coxmos",
+        "rel": "/software/repository/github/BiostatOmics/Coxmos",
+        "avatar": "https://avatars.githubusercontent.com/u/161608679?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/BiostatOmics/MORE",
+        "url": "https://github.com/BiostatOmics/MORE",
+        "rel": "/software/repository/github/BiostatOmics/MORE",
+        "avatar": "https://avatars.githubusercontent.com/u/161608679?v=4",
+        "description": "Discover regulatory relationships for multi-omics data using regression models",
+        "topics": []
+    },
+    {
         "uid": "github/CLARIAH/grlc",
         "url": "https://github.com/CLARIAH/grlc",
         "rel": "/software/repository/github/CLARIAH/grlc",
@@ -32790,6 +32908,14 @@
         "topics": []
     },
     {
+        "uid": "github/sintefore/TimeStruct.jl",
+        "url": "https://github.com/sintefore/TimeStruct.jl",
+        "rel": "/software/repository/github/sintefore/TimeStruct.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/151619121?v=4",
+        "description": "Flexible time structures for optimization modeling",
+        "topics": []
+    },
+    {
         "uid": "github/KarrLab/de_sim",
         "url": "https://github.com/KarrLab/de_sim",
         "rel": "/software/repository/github/KarrLab/de_sim",
@@ -33578,6 +33704,14 @@
         "rel": "/software/repository/github/mpound/comb",
         "avatar": "https://avatars.githubusercontent.com/u/22331890?v=4",
         "description": "The AT&T Bell labs singledish radio astronomy data reduction package",
+        "topics": []
+    },
+    {
+        "uid": "github/nppackages/lpcde",
+        "url": "https://github.com/nppackages/lpcde",
+        "rel": "/software/repository/github/nppackages/lpcde",
+        "avatar": "https://avatars.githubusercontent.com/u/69351622?v=4",
+        "description": " R implementation of bandwidth selection, point estimation and inference procedures for local polynomial conditional distribution and density methods.",
         "topics": []
     },
     {
@@ -34454,6 +34588,14 @@
             "cuda",
             "data-mining"
         ]
+    },
+    {
+        "uid": "github/StevenGolovkine/FDApy",
+        "url": "https://github.com/StevenGolovkine/FDApy",
+        "rel": "/software/repository/github/StevenGolovkine/FDApy",
+        "avatar": "https://avatars.githubusercontent.com/u/22517192?v=4",
+        "description": "Python Package for Functional Data Analysis",
+        "topics": []
     },
     {
         "uid": "github/labjg/fibmeasure",
@@ -37741,6 +37883,14 @@
         ]
     },
     {
+        "uid": "github/ckm3/Deep-Transit",
+        "url": "https://github.com/ckm3/Deep-Transit",
+        "rel": "/software/repository/github/ckm3/Deep-Transit",
+        "avatar": "https://avatars.githubusercontent.com/u/46397714?v=4",
+        "description": "Transit identification based on the object detection algorithm",
+        "topics": []
+    },
+    {
         "uid": "github/lorenzo-rovigatti/oxDNA",
         "url": "https://github.com/lorenzo-rovigatti/oxDNA",
         "rel": "/software/repository/github/lorenzo-rovigatti/oxDNA",
@@ -39305,6 +39455,14 @@
             "maps",
             "spatial-data"
         ]
+    },
+    {
+        "uid": "github/QuackenbushLab/NetworkDataCompanion",
+        "url": "https://github.com/QuackenbushLab/NetworkDataCompanion",
+        "rel": "/software/repository/github/QuackenbushLab/NetworkDataCompanion",
+        "avatar": "https://avatars.githubusercontent.com/u/13573979?v=4",
+        "description": "An R library of utilities for performing analyses on TCGA and GTEx data using the Network Zoo",
+        "topics": []
     },
     {
         "uid": "github/ProSolo/prosolo",
@@ -55117,6 +55275,14 @@
         "topics": []
     },
     {
+        "uid": "github/ericagol/NbodyGradient.jl",
+        "url": "https://github.com/ericagol/NbodyGradient.jl",
+        "rel": "/software/repository/github/ericagol/NbodyGradient.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/243664?v=4",
+        "description": "N-body integrator computes derivatives with respect to initial conditions for TTVs, RV, Photodynamics & more",
+        "topics": []
+    },
+    {
         "uid": "github/TORCH-Consortium/MAGMA",
         "url": "https://github.com/TORCH-Consortium/MAGMA",
         "rel": "/software/repository/github/TORCH-Consortium/MAGMA",
@@ -65909,6 +66075,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/45032287?v=4",
         "description": "This project contains the R scripts needed to replicate the results for the conference paper: Modelling the effect of courses over soft skills: A simulation study, presented at AERA 2023 Chicago by Pinos Ullauri L.A., Fleury A., Van den Noortgate W., Lebis A., Vermeulen M., Karami A.",
         "topics": []
+    },
+    {
+        "uid": "github/Cambridge-ICCS/FTorch",
+        "url": "https://github.com/Cambridge-ICCS/FTorch",
+        "rel": "/software/repository/github/Cambridge-ICCS/FTorch",
+        "avatar": "https://avatars.githubusercontent.com/u/97293575?v=4",
+        "description": "A library for directly calling PyTorch ML models from Fortran.",
+        "topics": [
+            "fortran",
+            "pytorch",
+            "machine-learning",
+            "deep-learning",
+            "interoperability",
+            "torch",
+            "python",
+            "hacktoberfest"
+        ]
     },
     {
         "uid": "github/scikit-tda/DREiMac",
