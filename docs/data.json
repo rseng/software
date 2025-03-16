@@ -6750,6 +6750,14 @@
         "topics": []
     },
     {
+        "uid": "github/vdhooftcompmet/MS2LDA",
+        "url": "https://github.com/vdhooftcompmet/MS2LDA",
+        "rel": "/software/repository/github/vdhooftcompmet/MS2LDA",
+        "avatar": "https://avatars.githubusercontent.com/u/95919621?v=4",
+        "description": "Unsupervised Substructure Discovery using Topic Modelling with Automated Annotation.",
+        "topics": []
+    },
+    {
         "uid": "github/ByrumLab/proteoDA",
         "url": "https://github.com/ByrumLab/proteoDA",
         "rel": "/software/repository/github/ByrumLab/proteoDA",
@@ -7697,6 +7705,32 @@
             "benchmarking-framework",
             "scikit-learn",
             "automl"
+        ]
+    },
+    {
+        "uid": "github/Juke34/AliNe",
+        "url": "https://github.com/Juke34/AliNe",
+        "rel": "/software/repository/github/Juke34/AliNe",
+        "avatar": "https://avatars.githubusercontent.com/u/6769395?v=4",
+        "description": "Nextflow Alignment Pipeline - DNAseq RNAseq",
+        "topics": [
+            "bowtie2",
+            "bwa",
+            "hisat2",
+            "minimap2",
+            "nextflow",
+            "nucmer",
+            "star",
+            "graphmap2",
+            "bbmap",
+            "bowtie",
+            "bwa-mem",
+            "kallisto",
+            "ngmlr",
+            "novoalign",
+            "subread",
+            "bwa-sw",
+            "sublong"
         ]
     },
     {
@@ -8871,6 +8905,14 @@
         ]
     },
     {
+        "uid": "github/mranuraggarg/supernovae_classification",
+        "url": "https://github.com/mranuraggarg/supernovae_classification",
+        "rel": "/software/repository/github/mranuraggarg/supernovae_classification",
+        "avatar": "https://avatars.githubusercontent.com/u/66897782?v=4",
+        "description": "Classifying type Ia supernovae through their light curve using ML. ",
+        "topics": []
+    },
+    {
         "uid": "github/cbio-astar-tools/GeneCloudOmics",
         "url": "https://github.com/cbio-astar-tools/GeneCloudOmics",
         "rel": "/software/repository/github/cbio-astar-tools/GeneCloudOmics",
@@ -9643,6 +9685,14 @@
             "exoplanets",
             "closember"
         ]
+    },
+    {
+        "uid": "github/qiangyicheng/flory",
+        "url": "https://github.com/qiangyicheng/flory",
+        "rel": "/software/repository/github/qiangyicheng/flory",
+        "avatar": "https://avatars.githubusercontent.com/u/47470964?v=4",
+        "description": "Python package for finding coexisting phases in multicomponent mixtures.",
+        "topics": []
     },
     {
         "uid": "github/finagle29/DBSP_DRP",
@@ -10718,6 +10768,14 @@
         "rel": "/software/repository/github/FergusDonnan/PyROA",
         "avatar": "https://avatars.githubusercontent.com/u/80899217?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/weber1158/eds-classification",
+        "url": "https://github.com/weber1158/eds-classification",
+        "rel": "/software/repository/github/weber1158/eds-classification",
+        "avatar": "https://avatars.githubusercontent.com/u/133900499?v=4",
+        "description": "Functions for working with SEM-EDS data in MATLAB, including different algorithms for performing mineral classification.",
         "topics": []
     },
     {
@@ -12603,6 +12661,14 @@
         "rel": "/software/repository/github/IMMM-SFA/gamut",
         "avatar": "https://avatars.githubusercontent.com/u/31457237?v=4",
         "description": "An R package to identify multi-sector teleconnection complexity",
+        "topics": []
+    },
+    {
+        "uid": "github/lucaskorol21/GO-RXR",
+        "url": "https://github.com/lucaskorol21/GO-RXR",
+        "rel": "/software/repository/github/lucaskorol21/GO-RXR",
+        "avatar": "https://avatars.githubusercontent.com/u/74730122?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -15172,6 +15238,14 @@
         "url": "https://github.com/computational-chemical-biology/ChemWalker",
         "rel": "/software/repository/github/computational-chemical-biology/ChemWalker",
         "avatar": "https://avatars.githubusercontent.com/u/50704327?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/mberto79/XCALibre.jl",
+        "url": "https://github.com/mberto79/XCALibre.jl",
+        "rel": "/software/repository/github/mberto79/XCALibre.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/61561260?v=4",
         "description": null,
         "topics": []
     },
@@ -21382,6 +21456,41 @@
         ]
     },
     {
+        "uid": "github/aritraghsh09/GaMPEN",
+        "url": "https://github.com/aritraghsh09/GaMPEN",
+        "rel": "/software/repository/github/aritraghsh09/GaMPEN",
+        "avatar": "https://avatars.githubusercontent.com/u/6251857?v=4",
+        "description": "ML framework to estimate Bayesian posteriors of galaxy morphological parameters",
+        "topics": [
+            "astrophysics",
+            "deep-neural-networks",
+            "galaxy-morphology",
+            "pytorch",
+            "spatial-transformer-networks",
+            "uncertainty-neural-networks"
+        ]
+    },
+    {
+        "uid": "github/aritraghsh09/GaMorNet",
+        "url": "https://github.com/aritraghsh09/GaMorNet",
+        "rel": "/software/repository/github/aritraghsh09/GaMorNet",
+        "avatar": "https://avatars.githubusercontent.com/u/6251857?v=4",
+        "description": "GaMorNet is a CNN based on AlexNet to classify galaxies morphologically",
+        "topics": [
+            "astrophysics",
+            "astronomy",
+            "galaxies",
+            "convolutional-neural-networks",
+            "tflearn",
+            "tensorflow",
+            "morphological-analysis",
+            "machine-learning",
+            "neural-networks",
+            "sdss",
+            "candels"
+        ]
+    },
+    {
         "uid": "github/zooniverse/starpy",
         "url": "https://github.com/zooniverse/starpy",
         "rel": "/software/repository/github/zooniverse/starpy",
@@ -22690,6 +22799,23 @@
             "des",
             "lsst",
             "weaklensing"
+        ]
+    },
+    {
+        "uid": "github/TeaspoonTDA/teaspoon",
+        "url": "https://github.com/TeaspoonTDA/teaspoon",
+        "rel": "/software/repository/github/TeaspoonTDA/teaspoon",
+        "avatar": "https://avatars.githubusercontent.com/u/123311460?v=4",
+        "description": "Topological Signal Processing in Python",
+        "topics": [
+            "persistent-homology",
+            "persistent-homology-graphs",
+            "signal-processing",
+            "tda",
+            "topological-data-analysis",
+            "topological-signal-processing",
+            "python",
+            "tda-python"
         ]
     },
     {
@@ -26308,6 +26434,20 @@
             "ensemble-learning",
             "covid-19",
             "ct-scan-images"
+        ]
+    },
+    {
+        "uid": "github/MDU-PHL/emmtyper",
+        "url": "https://github.com/MDU-PHL/emmtyper",
+        "rel": "/software/repository/github/MDU-PHL/emmtyper",
+        "avatar": "https://avatars.githubusercontent.com/u/11035838?v=4",
+        "description": "emm Automatic Isolate Labeller",
+        "topics": [
+            "bioinformatics",
+            "streptococcus-pyogenes",
+            "emm-typing",
+            "genotyping",
+            "genome-annotation"
         ]
     },
     {
@@ -40500,6 +40640,14 @@
         "topics": []
     },
     {
+        "uid": "github/youngkaneda/DemeterWatch",
+        "url": "https://github.com/youngkaneda/DemeterWatch",
+        "rel": "/software/repository/github/youngkaneda/DemeterWatch",
+        "avatar": "https://avatars.githubusercontent.com/u/17750608?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/gerddie/maxflow",
         "url": "https://github.com/gerddie/maxflow",
         "rel": "/software/repository/github/gerddie/maxflow",
@@ -44451,6 +44599,17 @@
             "cosmology",
             "nbody",
             "nbody-simulation"
+        ]
+    },
+    {
+        "uid": "github/Martin-Fahrenberger/GTestimate",
+        "url": "https://github.com/Martin-Fahrenberger/GTestimate",
+        "rel": "/software/repository/github/Martin-Fahrenberger/GTestimate",
+        "avatar": "https://avatars.githubusercontent.com/u/20248502?v=4",
+        "description": "scRNA-seq normalization method, based on the Simple Good-Turing estimator",
+        "topics": [
+            "good-turing",
+            "scrna-seq"
         ]
     },
     {
@@ -49496,6 +49655,20 @@
             "chemistry",
             "hartree-fock",
             "quantum-chemistry"
+        ]
+    },
+    {
+        "uid": "github/unfoldtoolbox/UnfoldSim.jl",
+        "url": "https://github.com/unfoldtoolbox/UnfoldSim.jl",
+        "rel": "/software/repository/github/unfoldtoolbox/UnfoldSim.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/35995464?v=4",
+        "description": "Simulate EEG / ERP data with overlap, non-linear effects, multiple regression",
+        "topics": [
+            "eeg",
+            "erp",
+            "julia",
+            "simulation",
+            "time-series"
         ]
     },
     {
@@ -62254,6 +62427,21 @@
         "topics": []
     },
     {
+        "uid": "github/tscnlab/LightLogR",
+        "url": "https://github.com/tscnlab/LightLogR",
+        "rel": "/software/repository/github/tscnlab/LightLogR",
+        "avatar": "https://avatars.githubusercontent.com/u/78920096?v=4",
+        "description": "R package for processing and analysing light logger and optical radiation dosimeter data",
+        "topics": [
+            "dosimetry",
+            "light",
+            "rstats-package",
+            "time-series-analysis",
+            "wearable-devices",
+            "wearable-sensors"
+        ]
+    },
+    {
         "uid": "github/tp2vis/distribute",
         "url": "https://github.com/tp2vis/distribute",
         "rel": "/software/repository/github/tp2vis/distribute",
@@ -65249,6 +65437,14 @@
         "topics": []
     },
     {
+        "uid": "github/samuelmurail/af_analysis",
+        "url": "https://github.com/samuelmurail/af_analysis",
+        "rel": "/software/repository/github/samuelmurail/af_analysis",
+        "avatar": "https://avatars.githubusercontent.com/u/31649605?v=4",
+        "description": " Analysis of alphafold and colabfold results",
+        "topics": []
+    },
+    {
         "uid": "github/csabiu/kstat",
         "url": "https://github.com/csabiu/kstat",
         "rel": "/software/repository/github/csabiu/kstat",
@@ -65441,6 +65637,14 @@
         "rel": "/software/repository/github/an0wen/MARDIGRAS",
         "avatar": "https://avatars.githubusercontent.com/u/26632008?v=4",
         "description": "MAss-Radius DIaGRAm with Sliders",
+        "topics": []
+    },
+    {
+        "uid": "github/nvanalfen/halotools",
+        "url": "https://github.com/nvanalfen/halotools",
+        "rel": "/software/repository/github/nvanalfen/halotools",
+        "avatar": "https://avatars.githubusercontent.com/u/26467203?v=4",
+        "description": "Python package for studying large scale structure, cosmology, and galaxy evolution using N-body simulations and halo models",
         "topics": []
     },
     {
