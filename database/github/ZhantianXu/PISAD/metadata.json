@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/ZhantianXu/PISAD",
+    "url": "https://github.com/ZhantianXu/PISAD",
+    "data": {
+        "name": "PISAD",
+        "url": "https://github.com/ZhantianXu/PISAD",
+        "full_name": "ZhantianXu/PISAD",
+        "html_url": "https://github.com/ZhantianXu/PISAD",
+        "private": false,
+        "description": "PISAD: reference-free intraspecies sample anomalies detetion tool based on k-mer counting ",
+        "created_at": "2024-10-24T07:42:30Z",
+        "updated_at": "2025-03-19T08:22:55Z",
+        "clone_url": "https://github.com/ZhantianXu/PISAD.git",
+        "homepage": "",
+        "size": 9632,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "C++",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ZhantianXu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/125952645?v=4",
+            "login": "ZhantianXu",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2025-03-23 00:50:52.366795",
+        "avatar": "https://avatars.githubusercontent.com/u/125952645?v=4"
+    }
+}
