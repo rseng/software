@@ -1625,6 +1625,27 @@
         "topics": []
     },
     {
+        "uid": "github/crs4/rocrate-validator",
+        "url": "https://github.com/crs4/rocrate-validator",
+        "rel": "/software/repository/github/crs4/rocrate-validator",
+        "avatar": "https://avatars.githubusercontent.com/u/4609555?v=4",
+        "description": "A Python package to validate RO-Crates",
+        "topics": []
+    },
+    {
+        "uid": "github/crs4/life_monitor",
+        "url": "https://github.com/crs4/life_monitor",
+        "rel": "/software/repository/github/crs4/life_monitor",
+        "avatar": "https://avatars.githubusercontent.com/u/4609555?v=4",
+        "description": "Workflow Sustainability Service",
+        "topics": [
+            "workflow",
+            "monitoring",
+            "sustainable-software",
+            "testing"
+        ]
+    },
+    {
         "uid": "github/mivp/encube",
         "url": "https://github.com/mivp/encube",
         "rel": "/software/repository/github/mivp/encube",
@@ -4990,6 +5011,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/839577?v=4",
         "description": "Library for the Header Dictionary Triples (HDT) compression file format for RDF data.",
         "topics": []
+    },
+    {
+        "uid": "github/GalacticDynamics/unxt",
+        "url": "https://github.com/GalacticDynamics/unxt",
+        "rel": "/software/repository/github/GalacticDynamics/unxt",
+        "avatar": "https://avatars.githubusercontent.com/u/150391400?v=4",
+        "description": "Unitful Quantities in JAX",
+        "topics": [
+            "jax",
+            "quantities",
+            "units",
+            "array",
+            "auto-differentiation"
+        ]
     },
     {
         "uid": "github/eas342/tshirt",
@@ -12168,6 +12203,25 @@
         ]
     },
     {
+        "uid": "github/BerkeleyLab/caffeine",
+        "url": "https://github.com/BerkeleyLab/caffeine",
+        "rel": "/software/repository/github/BerkeleyLab/caffeine",
+        "avatar": "https://avatars.githubusercontent.com/u/18706005?v=4",
+        "description": "A parallel runtime library for Fortran compilers",
+        "topics": [
+            "coarray",
+            "coarray-fortran",
+            "fortran-2018",
+            "pgas",
+            "partitioned-global-address-space",
+            "parallel-programming",
+            "runtime-library",
+            "fortran-2023",
+            "parallel-computing",
+            "parallelism"
+        ]
+    },
+    {
         "uid": "github/phpuech/OT_Analysis",
         "url": "https://github.com/phpuech/OT_Analysis",
         "rel": "/software/repository/github/phpuech/OT_Analysis",
@@ -13907,6 +13961,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/3798865?v=4",
         "description": "Simulation of eco-evolutionary dynamics on multi-trait networks",
         "topics": []
+    },
+    {
+        "uid": "github/PRIDE-Archive/pridepy",
+        "url": "https://github.com/PRIDE-Archive/pridepy",
+        "rel": "/software/repository/github/PRIDE-Archive/pridepy",
+        "avatar": "https://avatars.githubusercontent.com/u/10128554?v=4",
+        "description": "Python client for PRIDE Archive Rest API. ",
+        "topics": [
+            "pride-database",
+            "pride",
+            "python",
+            "proteomics",
+            "mass-spectrometry",
+            "python-client"
+        ]
     },
     {
         "uid": "github/shbhuk/barycorrpy",
@@ -18784,6 +18853,20 @@
             "sac",
             "win32",
             "hinet"
+        ]
+    },
+    {
+        "uid": "github/henrikmelin/h3ppy",
+        "url": "https://github.com/henrikmelin/h3ppy",
+        "rel": "/software/repository/github/henrikmelin/h3ppy",
+        "avatar": "https://avatars.githubusercontent.com/u/345794?v=4",
+        "description": "A python package for modelling and fitting H3+ spectra",
+        "topics": [
+            "astronomy",
+            "data-analysis",
+            "planetary-science",
+            "python3",
+            "spectroscopy"
         ]
     },
     {
@@ -25585,6 +25668,14 @@
             "databases",
             "dna"
         ]
+    },
+    {
+        "uid": "github/ELeeAstro/mini_chem",
+        "url": "https://github.com/ELeeAstro/mini_chem",
+        "rel": "/software/repository/github/ELeeAstro/mini_chem",
+        "avatar": "https://avatars.githubusercontent.com/u/38210132?v=4",
+        "description": "An efficient, lightweight chemical kinetic scheme for GCM models.",
+        "topics": []
     },
     {
         "uid": "github/ELeeAstro/gCMCRT",
@@ -34550,6 +34641,14 @@
         "topics": []
     },
     {
+        "uid": "github/markfortune/luas",
+        "url": "https://github.com/markfortune/luas",
+        "rel": "/software/repository/github/markfortune/luas",
+        "avatar": "https://avatars.githubusercontent.com/u/51966164?v=4",
+        "description": "A small library with efficient implementations of Gaussian processes (GPs) primarily for analysing two-dimensional data sets",
+        "topics": []
+    },
+    {
         "uid": "github/winni2k/abeona",
         "url": "https://github.com/winni2k/abeona",
         "rel": "/software/repository/github/winni2k/abeona",
@@ -34812,6 +34911,14 @@
         "rel": "/software/repository/github/esteinig/nanoq",
         "avatar": "https://avatars.githubusercontent.com/u/12873366?v=4",
         "description": "Minimal but speedy quality control for nanopore reads in Rust :bear:",
+        "topics": []
+    },
+    {
+        "uid": "github/antismash/antismash",
+        "url": "https://github.com/antismash/antismash",
+        "rel": "/software/repository/github/antismash/antismash",
+        "avatar": "https://avatars.githubusercontent.com/u/17174811?v=4",
+        "description": "antiSMASH",
         "topics": []
     },
     {
@@ -37481,6 +37588,19 @@
         ]
     },
     {
+        "uid": "github/russelllab/wesa",
+        "url": "https://github.com/russelllab/wesa",
+        "rel": "/software/repository/github/russelllab/wesa",
+        "avatar": "https://avatars.githubusercontent.com/u/44021207?v=4",
+        "description": "WeSA (Weighted SocioAffinity): a tool for improving affinity proteomics data.",
+        "topics": [
+            "flask-application",
+            "protein-protein-interaction",
+            "proteomics-data-analysis",
+            "visualization"
+        ]
+    },
+    {
         "uid": "github/MatthijsHak/MetalDock",
         "url": "https://github.com/MatthijsHak/MetalDock",
         "rel": "/software/repository/github/MatthijsHak/MetalDock",
@@ -39237,6 +39357,17 @@
             "phylogenetics",
             "feature-selection",
             "sars-cov-2"
+        ]
+    },
+    {
+        "uid": "github/alan-turing-institute/autoemulate",
+        "url": "https://github.com/alan-turing-institute/autoemulate",
+        "rel": "/software/repository/github/alan-turing-institute/autoemulate",
+        "avatar": "https://avatars.githubusercontent.com/u/18304793?v=4",
+        "description": "Emulate simulations easily",
+        "topics": [
+            "hut23",
+            "hut23-1468"
         ]
     },
     {
@@ -43321,6 +43452,14 @@
         "topics": []
     },
     {
+        "uid": "github/aritrachakrabarty/GPS",
+        "url": "https://github.com/aritrachakrabarty/GPS",
+        "rel": "/software/repository/github/aritrachakrabarty/GPS",
+        "avatar": "https://avatars.githubusercontent.com/u/17982881?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/c-zhou/yahs",
         "url": "https://github.com/c-zhou/yahs",
         "rel": "/software/repository/github/c-zhou/yahs",
@@ -43334,6 +43473,14 @@
         "rel": "/software/repository/github/ssadedin/bazam",
         "avatar": "https://avatars.githubusercontent.com/u/138868?v=4",
         "description": "A read extraction and realignment tool for next generation sequencing data",
+        "topics": []
+    },
+    {
+        "uid": "github/meganmansfield/IGRINS_transit",
+        "url": "https://github.com/meganmansfield/IGRINS_transit",
+        "rel": "/software/repository/github/meganmansfield/IGRINS_transit",
+        "avatar": "https://avatars.githubusercontent.com/u/32969116?v=4",
+        "description": "Data reduction pipeline for high-resolution transiting exoplanet observations with the IGRINS spectrograph on Gemini-S",
         "topics": []
     },
     {
@@ -46133,6 +46280,26 @@
         "topics": []
     },
     {
+        "uid": "github/projectmesa/mesa",
+        "url": "https://github.com/projectmesa/mesa",
+        "rel": "/software/repository/github/projectmesa/mesa",
+        "avatar": "https://avatars.githubusercontent.com/u/8754505?v=4",
+        "description": "Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.",
+        "topics": [
+            "mesa",
+            "agent-based-modeling",
+            "agent-based-simulation",
+            "simulation-framework",
+            "simulation",
+            "simulation-environment",
+            "complex-systems",
+            "complexity-analysis",
+            "modeling-agents",
+            "spatial-models",
+            "gis"
+        ]
+    },
+    {
         "uid": "github/llt1836/TE-HI-GCN",
         "url": "https://github.com/llt1836/TE-HI-GCN",
         "rel": "/software/repository/github/llt1836/TE-HI-GCN",
@@ -47348,6 +47515,14 @@
         "topics": []
     },
     {
+        "uid": "github/Jeremycouturier/NcorpiON",
+        "url": "https://github.com/Jeremycouturier/NcorpiON",
+        "rel": "/software/repository/github/Jeremycouturier/NcorpiON",
+        "avatar": "https://avatars.githubusercontent.com/u/49401230?v=4",
+        "description": "The official github repository of NcorpiON",
+        "topics": []
+    },
+    {
         "uid": "github/jalombar/starsmasher",
         "url": "https://github.com/jalombar/starsmasher",
         "rel": "/software/repository/github/jalombar/starsmasher",
@@ -47599,6 +47774,14 @@
         "rel": "/software/repository/github/matteolucchini1/BHJet",
         "avatar": "https://avatars.githubusercontent.com/u/35686549?v=4",
         "description": "Semi analytical black hole jet model, jetset group, Amsterdam",
+        "topics": []
+    },
+    {
+        "uid": "github/cjcollin37/IsoFATE",
+        "url": "https://github.com/cjcollin37/IsoFATE",
+        "rel": "/software/repository/github/cjcollin37/IsoFATE",
+        "avatar": "https://avatars.githubusercontent.com/u/63514976?v=4",
+        "description": "Open source code for the numerical model IsoFATE: Isotopic Fractionation via ATmospheric Escape",
         "topics": []
     },
     {
@@ -48012,6 +48195,14 @@
             "bioinformatics",
             "cli-app"
         ]
+    },
+    {
+        "uid": "github/antwiser/ChemFH",
+        "url": "https://github.com/antwiser/ChemFH",
+        "rel": "/software/repository/github/antwiser/ChemFH",
+        "avatar": "https://avatars.githubusercontent.com/u/86821301?v=4",
+        "description": "Utilizing high-quality database and Directed Message Passing Neural Network (DMPNN) architectures, ChemFH enhances the efficiency of drug R&D by achieving reliable detection of frequent hitters in colloidal aggregate, firefly luciferase reporter enzyme inhibition, fluorescence, chemical reactivity, and promiscuity.",
+        "topics": []
     },
     {
         "uid": "github/jesford/cluster-lensing",
@@ -62740,6 +62931,14 @@
         "topics": []
     },
     {
+        "uid": "github/Jashcraf/katsu",
+        "url": "https://github.com/Jashcraf/katsu",
+        "rel": "/software/repository/github/Jashcraf/katsu",
+        "avatar": "https://avatars.githubusercontent.com/u/25557892?v=4",
+        "description": "Polarimetric Data Reduction and machine control for measuring the polarization of observatories",
+        "topics": []
+    },
+    {
         "uid": "github/SWIFTSIM/emulator",
         "url": "https://github.com/SWIFTSIM/emulator",
         "rel": "/software/repository/github/SWIFTSIM/emulator",
@@ -66391,6 +66590,20 @@
         "topics": []
     },
     {
+        "uid": "github/rahil-makadia/grss",
+        "url": "https://github.com/rahil-makadia/grss",
+        "rel": "/software/repository/github/rahil-makadia/grss",
+        "avatar": "https://avatars.githubusercontent.com/u/40069449?v=4",
+        "description": "Gauss-Radau Small-body Simulator. Maintainer: @rahil-makadia",
+        "topics": [
+            "asteroids",
+            "astronomy",
+            "orbit-determination",
+            "comets",
+            "orbit-propagation"
+        ]
+    },
+    {
         "uid": "github/FZJ-PGI-12/QAOA.jl",
         "url": "https://github.com/FZJ-PGI-12/QAOA.jl",
         "rel": "/software/repository/github/FZJ-PGI-12/QAOA.jl",
@@ -66731,6 +66944,14 @@
         "rel": "/software/repository/github/sidchaini/DistClassiPy",
         "avatar": "https://avatars.githubusercontent.com/u/40721514?v=4",
         "description": "A python package for a distance-based classifier which can use several different distance metrics.",
+        "topics": []
+    },
+    {
+        "uid": "github/kpicteam/kpic_pipeline",
+        "url": "https://github.com/kpicteam/kpic_pipeline",
+        "rel": "/software/repository/github/kpicteam/kpic_pipeline",
+        "avatar": "https://avatars.githubusercontent.com/u/53029575?v=4",
+        "description": "KPIC Data Reduction Pipeline",
         "topics": []
     },
     {
