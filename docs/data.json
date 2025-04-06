@@ -1625,6 +1625,26 @@
         "topics": []
     },
     {
+        "uid": "github/everval/LongMemory.jl",
+        "url": "https://github.com/everval/LongMemory.jl",
+        "rel": "/software/repository/github/everval/LongMemory.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/26837739?v=4",
+        "description": "Julia package to generate, estimate, and forecast long memory processes",
+        "topics": [
+            "arfima",
+            "fractional-differencing",
+            "har-model",
+            "long-memory",
+            "long-range-dependence",
+            "time-series",
+            "time-series-analysis",
+            "cross-sectional-aggregation",
+            "stochastic-duration-shock",
+            "strong-persistence",
+            "forecasting"
+        ]
+    },
+    {
         "uid": "github/crs4/rocrate-validator",
         "url": "https://github.com/crs4/rocrate-validator",
         "rel": "/software/repository/github/crs4/rocrate-validator",
@@ -2669,6 +2689,17 @@
             "python-3",
             "gpu-computing",
             "gpu"
+        ]
+    },
+    {
+        "uid": "github/ISISNeutronMuon/quickBayes",
+        "url": "https://github.com/ISISNeutronMuon/quickBayes",
+        "rel": "/software/repository/github/ISISNeutronMuon/quickBayes",
+        "avatar": "https://avatars.githubusercontent.com/u/30296974?v=4",
+        "description": "A Python package for Bayesian analysis of data.",
+        "topics": [
+            "python",
+            "bayes"
         ]
     },
     {
@@ -8110,6 +8141,14 @@
         "rel": "/software/repository/github/schulze61/RhoPop",
         "avatar": "https://avatars.githubusercontent.com/u/43186618?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/usnistgov/imppy3d",
+        "url": "https://github.com/usnistgov/imppy3d",
+        "rel": "/software/repository/github/usnistgov/imppy3d",
+        "avatar": "https://avatars.githubusercontent.com/u/5330158?v=4",
+        "description": "Image processing in python for 3d image stacks",
         "topics": []
     },
     {
@@ -19498,6 +19537,33 @@
         "topics": []
     },
     {
+        "uid": "github/madupite/madupite",
+        "url": "https://github.com/madupite/madupite",
+        "rel": "/software/repository/github/madupite/madupite",
+        "avatar": "https://avatars.githubusercontent.com/u/179175157?v=4",
+        "description": "a High-Performance Distributed Solver for Large-Scale Markov Decision Processes (MDP) relying on Inexact Policy Iteration; for Python and C++",
+        "topics": [
+            "dynamic-programming",
+            "high-performance-computing",
+            "markov-decision-processes",
+            "mdp",
+            "mpi",
+            "nanobind",
+            "optimal-control",
+            "petsc",
+            "stochastic-optimization",
+            "ethz",
+            "policy-iteration",
+            "optimization",
+            "solver",
+            "stochastic-optimal-control",
+            "cpp",
+            "python",
+            "python3",
+            "mdpsolver"
+        ]
+    },
+    {
         "uid": "github/eldariont/svim",
         "url": "https://github.com/eldariont/svim",
         "rel": "/software/repository/github/eldariont/svim",
@@ -23324,6 +23390,14 @@
         ]
     },
     {
+        "uid": "github/berenslab/fundus_image_toolbox",
+        "url": "https://github.com/berenslab/fundus_image_toolbox",
+        "rel": "/software/repository/github/berenslab/fundus_image_toolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/20125525?v=4",
+        "description": "A Python package for fundus image processing.",
+        "topics": []
+    },
+    {
         "uid": "github/berenslab/MorphoPy",
         "url": "https://github.com/berenslab/MorphoPy",
         "rel": "/software/repository/github/berenslab/MorphoPy",
@@ -25536,6 +25610,14 @@
         "topics": []
     },
     {
+        "uid": "github/arielmission-space/ExoSim2-public",
+        "url": "https://github.com/arielmission-space/ExoSim2-public",
+        "rel": "/software/repository/github/arielmission-space/ExoSim2-public",
+        "avatar": "https://avatars.githubusercontent.com/u/72981825?v=4",
+        "description": "ExoSim 2 is the next generation of the Exoplanet Observation Simulator (ExoSim) tailored for spectro-photometric observations of transiting exoplanets from space, ground, and sub-orbital platforms. This software is a complete rewrite implemented in Python 3, embracing object-oriented design principles.",
+        "topics": []
+    },
+    {
         "uid": "github/EmmanuelSchaan/LaSSI",
         "url": "https://github.com/EmmanuelSchaan/LaSSI",
         "rel": "/software/repository/github/EmmanuelSchaan/LaSSI",
@@ -26357,6 +26439,19 @@
             "scipy",
             "curve-fitting",
             "least-squares"
+        ]
+    },
+    {
+        "uid": "github/evanhockings/QuantumACES.jl",
+        "url": "https://github.com/evanhockings/QuantumACES.jl",
+        "rel": "/software/repository/github/evanhockings/QuantumACES.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/9377288?v=4",
+        "description": "Design scalable noise characterisation experiments for quantum computers",
+        "topics": [
+            "julia",
+            "quantum",
+            "quantum-computing",
+            "quantum-error-correction"
         ]
     },
     {
@@ -28101,6 +28196,14 @@
         "rel": "/software/repository/github/SPARTA-dev/SPARTA",
         "avatar": "https://avatars.githubusercontent.com/u/63186054?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/spastras/galclass",
+        "url": "https://github.com/spastras/galclass",
+        "rel": "/software/repository/github/spastras/galclass",
+        "avatar": "https://avatars.githubusercontent.com/u/79917367?v=4",
+        "description": "A python module for the morphological classification of galaxies",
         "topics": []
     },
     {
@@ -31093,6 +31196,20 @@
             "pre-dispatch",
             "australia",
             "nemweb"
+        ]
+    },
+    {
+        "uid": "github/probml/dynamax",
+        "url": "https://github.com/probml/dynamax",
+        "rel": "/software/repository/github/probml/dynamax",
+        "avatar": "https://avatars.githubusercontent.com/u/6309387?v=4",
+        "description": "A Python package for probabilistic state space modeling with JAX",
+        "topics": [
+            "state-space-models",
+            "hidden-markov-models",
+            "jax",
+            "python",
+            "kalman-filter"
         ]
     },
     {
@@ -34633,6 +34750,14 @@
         "topics": []
     },
     {
+        "uid": "github/helenqu/scone",
+        "url": "https://github.com/helenqu/scone",
+        "rel": "/software/repository/github/helenqu/scone",
+        "avatar": "https://avatars.githubusercontent.com/u/8826297?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/FlorianThibord/OptimiR",
         "url": "https://github.com/FlorianThibord/OptimiR",
         "rel": "/software/repository/github/FlorianThibord/OptimiR",
@@ -37108,6 +37233,14 @@
         "topics": []
     },
     {
+        "uid": "github/hemantaph/ler",
+        "url": "https://github.com/hemantaph/ler",
+        "rel": "/software/repository/github/hemantaph/ler",
+        "avatar": "https://avatars.githubusercontent.com/u/53345498?v=4",
+        "description": "Gravitational waves lensing rate calculator",
+        "topics": []
+    },
+    {
         "uid": "github/pierfied/karmma",
         "url": "https://github.com/pierfied/karmma",
         "rel": "/software/repository/github/pierfied/karmma",
@@ -39122,6 +39255,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/16911363?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/r-lib/lintr",
+        "url": "https://github.com/r-lib/lintr",
+        "rel": "/software/repository/github/r-lib/lintr",
+        "avatar": "https://avatars.githubusercontent.com/u/22618716?v=4",
+        "description": "Static Code Analysis for R",
+        "topics": [
+            "linter",
+            "r"
+        ]
     },
     {
         "uid": "github/r-lib/credentials",
@@ -42067,6 +42211,14 @@
         "rel": "/software/repository/github/MAnalytics/akmedoids",
         "avatar": "https://avatars1.githubusercontent.com/u/27354347?v=4",
         "description": "akmedoids for longitudinal clustering",
+        "topics": []
+    },
+    {
+        "uid": "github/basp-group/R2D2-SII",
+        "url": "https://github.com/basp-group/R2D2-SII",
+        "rel": "/software/repository/github/basp-group/R2D2-SII",
+        "avatar": "https://avatars.githubusercontent.com/u/3670102?v=4",
+        "description": "Residual-to-Residual DNN Series for computational imaging with application to SII in astronomy",
         "topics": []
     },
     {
@@ -47830,6 +47982,14 @@
         "topics": []
     },
     {
+        "uid": "github/cobilab/OptimJV3",
+        "url": "https://github.com/cobilab/OptimJV3",
+        "rel": "/software/repository/github/cobilab/OptimJV3",
+        "avatar": "https://avatars.githubusercontent.com/u/49339287?v=4",
+        "description": "Optimize compression parameters of Jarvis3",
+        "topics": []
+    },
+    {
         "uid": "github/cbrnr/sigviewer",
         "url": "https://github.com/cbrnr/sigviewer",
         "rel": "/software/repository/github/cbrnr/sigviewer",
@@ -49137,6 +49297,14 @@
         "topics": []
     },
     {
+        "uid": "github/assumpcaothiago/NRPyElliptic",
+        "url": "https://github.com/assumpcaothiago/NRPyElliptic",
+        "rel": "/software/repository/github/assumpcaothiago/NRPyElliptic",
+        "avatar": "https://avatars.githubusercontent.com/u/66119258?v=4",
+        "description": "NRPyElliptic: fast hyperbolic relaxation solver for elliptic equations",
+        "topics": []
+    },
+    {
         "uid": "github/redcap-tools/PyCap",
         "url": "https://github.com/redcap-tools/PyCap",
         "rel": "/software/repository/github/redcap-tools/PyCap",
@@ -50212,6 +50380,14 @@
         "topics": []
     },
     {
+        "uid": "github/tvh0021/aweSOM",
+        "url": "https://github.com/tvh0021/aweSOM",
+        "rel": "/software/repository/github/tvh0021/aweSOM",
+        "avatar": "https://avatars.githubusercontent.com/u/72711330?v=4",
+        "description": "Accelerated Self-organizing Map (SOM) and Statistically Combined Ensemble (SCE)",
+        "topics": []
+    },
+    {
         "uid": "github/Mat-dp/mat-dp-core",
         "url": "https://github.com/Mat-dp/mat-dp-core",
         "rel": "/software/repository/github/Mat-dp/mat-dp-core",
@@ -50335,6 +50511,20 @@
             "dmd",
             "pod",
             "cnm"
+        ]
+    },
+    {
+        "uid": "github/silkemaes/MACE",
+        "url": "https://github.com/silkemaes/MACE",
+        "rel": "/software/repository/github/silkemaes/MACE",
+        "avatar": "https://avatars.githubusercontent.com/u/25978534?v=4",
+        "description": "MACE, a Machine-learning Approach to Chemistry Emulation",
+        "topics": [
+            "astrochemistry",
+            "autoencoder",
+            "machine-learning",
+            "astrophysics",
+            "simulation"
         ]
     },
     {
@@ -50982,6 +51172,14 @@
         ]
     },
     {
+        "uid": "github/Rhyd-Lewis/GCol",
+        "url": "https://github.com/Rhyd-Lewis/GCol",
+        "rel": "/software/repository/github/Rhyd-Lewis/GCol",
+        "avatar": "https://avatars.githubusercontent.com/u/163303122?v=4",
+        "description": "A Python library for graph coloring",
+        "topics": []
+    },
+    {
         "uid": "github/BioDepot/biodepot-launcher",
         "url": "https://github.com/BioDepot/biodepot-launcher",
         "rel": "/software/repository/github/BioDepot/biodepot-launcher",
@@ -51079,6 +51277,14 @@
         "rel": "/software/repository/github/Dailer/RCausticMass",
         "avatar": "https://avatars.githubusercontent.com/u/33109275?v=4",
         "description": "Caustic Mass Estimator for Galaxy Clusters",
+        "topics": []
+    },
+    {
+        "uid": "github/cbroeckl/RAMClustR",
+        "url": "https://github.com/cbroeckl/RAMClustR",
+        "rel": "/software/repository/github/cbroeckl/RAMClustR",
+        "avatar": "https://avatars.githubusercontent.com/u/4959997?v=4",
+        "description": "Assigning precursor-product ion relationships in indiscriminant MS/MS data",
         "topics": []
     },
     {
@@ -51455,6 +51661,14 @@
         "rel": "/software/repository/github/precice/aste",
         "avatar": "https://avatars.githubusercontent.com/u/12561035?v=4",
         "description": "Artificial Solver Testing Environment",
+        "topics": []
+    },
+    {
+        "uid": "github/AncientNLP/potnia",
+        "url": "https://github.com/AncientNLP/potnia",
+        "rel": "/software/repository/github/AncientNLP/potnia",
+        "avatar": "https://avatars.githubusercontent.com/u/159224666?v=4",
+        "description": "Potnia is an open-source Python library designed to convert Romanized transliterations of ancient texts into Unicode representations of their respective native scripts.",
         "topics": []
     },
     {
@@ -53772,6 +53986,14 @@
         "rel": "/software/repository/github/astromb/PICsar2D",
         "avatar": "https://avatars.githubusercontent.com/u/8334286?v=4",
         "description": "Particle In Cell pulSAR code",
+        "topics": []
+    },
+    {
+        "uid": "github/D4san/MultiREx-public",
+        "url": "https://github.com/D4san/MultiREx-public",
+        "rel": "/software/repository/github/D4san/MultiREx-public",
+        "avatar": "https://avatars.githubusercontent.com/u/114251096?v=4",
+        "description": "Massive planetary spectra generator",
         "topics": []
     },
     {
@@ -63284,6 +63506,17 @@
         "topics": []
     },
     {
+        "uid": "github/WebSky-CITA/XGPaint.jl",
+        "url": "https://github.com/WebSky-CITA/XGPaint.jl",
+        "rel": "/software/repository/github/WebSky-CITA/XGPaint.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/128504594?v=4",
+        "description": "fast forward simulations of extragalactic foregrounds",
+        "topics": [
+            "cosmology",
+            "julia"
+        ]
+    },
+    {
         "uid": "github/duetosymmetry/qnm",
         "url": "https://github.com/duetosymmetry/qnm",
         "rel": "/software/repository/github/duetosymmetry/qnm",
@@ -64976,6 +65209,20 @@
         "topics": []
     },
     {
+        "uid": "github/pyiron/executorlib",
+        "url": "https://github.com/pyiron/executorlib",
+        "rel": "/software/repository/github/pyiron/executorlib",
+        "avatar": "https://avatars.githubusercontent.com/u/25691954?v=4",
+        "description": "Up-scale python functions for high performance computing (HPC)",
+        "topics": [
+            "hpc",
+            "mpi",
+            "mpi4py",
+            "multiprocessing",
+            "pyiron"
+        ]
+    },
+    {
         "uid": "github/fhcrc/seqmagick",
         "url": "https://github.com/fhcrc/seqmagick",
         "rel": "/software/repository/github/fhcrc/seqmagick",
@@ -65324,6 +65571,14 @@
             "arpack",
             "parpack"
         ]
+    },
+    {
+        "uid": "github/AlmaasLab/csdR",
+        "url": "https://github.com/AlmaasLab/csdR",
+        "rel": "/software/repository/github/AlmaasLab/csdR",
+        "avatar": "https://avatars.githubusercontent.com/u/62121167?v=4",
+        "description": "Efficient CSD implementation in R",
+        "topics": []
     },
     {
         "uid": "github/scottgigante/picopore",
@@ -68342,6 +68597,14 @@
         "rel": "/software/repository/github/jw-lin/lightbeam",
         "avatar": "https://avatars.githubusercontent.com/u/90280749?v=4",
         "description": "simulate light through weakly-guiding waveguides using the finite-differences beam propagation method on an adaptive mesh",
+        "topics": []
+    },
+    {
+        "uid": "github/solids4foam/solids4foam",
+        "url": "https://github.com/solids4foam/solids4foam",
+        "rel": "/software/repository/github/solids4foam/solids4foam",
+        "avatar": "https://avatars.githubusercontent.com/u/110133789?v=4",
+        "description": "The official repository for solids4foam",
         "topics": []
     },
     {
