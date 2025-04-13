@@ -3112,6 +3112,19 @@
         "topics": []
     },
     {
+        "uid": "github/open-and-sustainable/prismaid",
+        "url": "https://github.com/open-and-sustainable/prismaid",
+        "rel": "/software/repository/github/open-and-sustainable/prismaid",
+        "avatar": "https://avatars.githubusercontent.com/u/170118603?v=4",
+        "description": "Open Science AI Tools for Systematic, Protocol-Based Literature Reviews",
+        "topics": [
+            "systematic-literature-reviews",
+            "generative-ai",
+            "open-science",
+            "open-source"
+        ]
+    },
+    {
         "uid": "github/markur4/plotastic",
         "url": "https://github.com/markur4/plotastic",
         "rel": "/software/repository/github/markur4/plotastic",
@@ -7452,6 +7465,14 @@
         ]
     },
     {
+        "uid": "github/daniloceano/CycloPhaser",
+        "url": "https://github.com/daniloceano/CycloPhaser",
+        "rel": "/software/repository/github/daniloceano/CycloPhaser",
+        "avatar": "https://avatars.githubusercontent.com/u/56005607?v=4",
+        "description": "This package calculates extratropical cyclone life cycle phases from vorticity data using Python.",
+        "topics": []
+    },
+    {
         "uid": "github/Valdes-Tresanco-MS/NbThermo",
         "url": "https://github.com/Valdes-Tresanco-MS/NbThermo",
         "rel": "/software/repository/github/Valdes-Tresanco-MS/NbThermo",
@@ -10115,6 +10136,14 @@
         "topics": []
     },
     {
+        "uid": "github/Adamtaranto/mimeo",
+        "url": "https://github.com/Adamtaranto/mimeo",
+        "rel": "/software/repository/github/Adamtaranto/mimeo",
+        "avatar": "https://avatars.githubusercontent.com/u/2160099?v=4",
+        "description": "Scan genomes for internally repeated sequences, elements which are repetitive in another species, or high-identity HGT candidate regions between species.",
+        "topics": []
+    },
+    {
         "uid": "github/htjb/margarine",
         "url": "https://github.com/htjb/margarine",
         "rel": "/software/repository/github/htjb/margarine",
@@ -11028,6 +11057,14 @@
         ]
     },
     {
+        "uid": "github/kinleyid/tempodisco",
+        "url": "https://github.com/kinleyid/tempodisco",
+        "rel": "/software/repository/github/kinleyid/tempodisco",
+        "avatar": "https://avatars.githubusercontent.com/u/18541620?v=4",
+        "description": "An R package for temporal discounting",
+        "topics": []
+    },
+    {
         "uid": "github/lpfworld/DMPNet",
         "url": "https://github.com/lpfworld/DMPNet",
         "rel": "/software/repository/github/lpfworld/DMPNet",
@@ -11334,6 +11371,19 @@
             "data-processing",
             "image-processing",
             "python"
+        ]
+    },
+    {
+        "uid": "github/elixir-europe/rdmkit",
+        "url": "https://github.com/elixir-europe/rdmkit",
+        "rel": "/software/repository/github/elixir-europe/rdmkit",
+        "avatar": "https://avatars.githubusercontent.com/u/18418326?v=4",
+        "description": "ELIXIR Research Data Management Toolkit - Find the answers to your research data management questions here.",
+        "topics": [
+            "research",
+            "data-management",
+            "rdm",
+            "toolkit"
         ]
     },
     {
@@ -15029,6 +15079,14 @@
             "fusion-genes",
             "somatic-fusion-genes"
         ]
+    },
+    {
+        "uid": "github/chklovski/CheckM2",
+        "url": "https://github.com/chklovski/CheckM2",
+        "rel": "/software/repository/github/chklovski/CheckM2",
+        "avatar": "https://avatars.githubusercontent.com/u/54562698?v=4",
+        "description": "Assessing the quality of metagenome-derived genome bins using machine learning",
+        "topics": []
     },
     {
         "uid": "github/sntioudis/papreca",
@@ -20446,6 +20504,14 @@
         "topics": []
     },
     {
+        "uid": "github/manulera/OpenCloning_frontend",
+        "url": "https://github.com/manulera/OpenCloning_frontend",
+        "rel": "/software/repository/github/manulera/OpenCloning_frontend",
+        "avatar": "https://avatars.githubusercontent.com/u/22526102?v=4",
+        "description": "The frontend application for OpenCloning",
+        "topics": []
+    },
+    {
         "uid": "github/yangyanli/DO-Conv",
         "url": "https://github.com/yangyanli/DO-Conv",
         "rel": "/software/repository/github/yangyanli/DO-Conv",
@@ -20474,6 +20540,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/84014489?v=4",
         "description": "Import, process and interpret geophysical data sets to be used in numerical models.",
         "topics": []
+    },
+    {
+        "uid": "github/srigas/jaxkan",
+        "url": "https://github.com/srigas/jaxKAN",
+        "rel": "/software/repository/github/srigas/jaxkan",
+        "avatar": "https://avatars.githubusercontent.com/u/70939180?v=4",
+        "description": "Kolmogorov-Arnold Networks built on JAX",
+        "topics": [
+            "flax",
+            "jax",
+            "kolmogorov-arnold-networks"
+        ]
     },
     {
         "uid": "github/PaulKuin/uvotpy",
@@ -26331,6 +26409,14 @@
         "topics": []
     },
     {
+        "uid": "github/STOmics/cs-benchmark",
+        "url": "https://github.com/STOmics/cs-benchmark",
+        "rel": "/software/repository/github/STOmics/cs-benchmark",
+        "avatar": "https://avatars.githubusercontent.com/u/129851450?v=4",
+        "description": "This repository is for cell segmentation benchmark",
+        "topics": []
+    },
+    {
         "uid": "github/Basvanstein/GSAreport",
         "url": "https://github.com/Basvanstein/GSAreport",
         "rel": "/software/repository/github/Basvanstein/GSAreport",
@@ -30292,6 +30378,14 @@
         ]
     },
     {
+        "uid": "github/joachimwolff/Hi-cGAN",
+        "url": "https://github.com/joachimwolff/Hi-cGAN",
+        "rel": "/software/repository/github/joachimwolff/Hi-cGAN",
+        "avatar": "https://avatars.githubusercontent.com/u/13435136?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/recipy/recipy",
         "url": "https://github.com/recipy/recipy",
         "rel": "/software/repository/github/recipy/recipy",
@@ -31070,6 +31164,32 @@
         "topics": []
     },
     {
+        "uid": "github/souradipp76/MM-PoE",
+        "url": "https://github.com/souradipp76/MM-PoE",
+        "rel": "/software/repository/github/souradipp76/MM-PoE",
+        "avatar": "https://avatars.githubusercontent.com/u/20797533?v=4",
+        "description": "Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models",
+        "topics": [
+            "inference",
+            "llm",
+            "multi-modal",
+            "question-answering"
+        ]
+    },
+    {
+        "uid": "github/souradipp76/ReadMeReady",
+        "url": "https://github.com/souradipp76/ReadMeReady",
+        "rel": "/software/repository/github/souradipp76/ReadMeReady",
+        "avatar": "https://avatars.githubusercontent.com/u/20797533?v=4",
+        "description": "Tool for auto-generating README documentation for code repositories",
+        "topics": [
+            "fine-tuning",
+            "llm",
+            "qlora",
+            "retrieval-augmented-generation"
+        ]
+    },
+    {
         "uid": "github/mikekatz04/BOWIE",
         "url": "https://github.com/mikekatz04/BOWIE",
         "rel": "/software/repository/github/mikekatz04/BOWIE",
@@ -31311,6 +31431,14 @@
         ]
     },
     {
+        "uid": "github/mdsufz/MuDoGeR",
+        "url": "https://github.com/mdsufz/MuDoGeR",
+        "rel": "/software/repository/github/mdsufz/MuDoGeR",
+        "avatar": "https://avatars.githubusercontent.com/u/53437593?v=4",
+        "description": "MuDoGeR makes the recovery of genomes from prokaryotes, viruses, and eukaryotes from metagenomes easy.",
+        "topics": []
+    },
+    {
         "uid": "github/cosmodesi/pycorr",
         "url": "https://github.com/cosmodesi/pycorr",
         "rel": "/software/repository/github/cosmodesi/pycorr",
@@ -31466,6 +31594,16 @@
         "topics": [
             "gravitational-lensing",
             "machine-learning"
+        ]
+    },
+    {
+        "uid": "github/devosoft/avida",
+        "url": "https://github.com/devosoft/avida",
+        "rel": "/software/repository/github/devosoft/avida",
+        "avatar": "https://avatars.githubusercontent.com/u/468914?v=4",
+        "description": null,
+        "topics": [
+            "avida"
         ]
     },
     {
@@ -36044,6 +36182,27 @@
         ]
     },
     {
+        "uid": "github/GeomScale/volesti",
+        "url": "https://github.com/GeomScale/volesti",
+        "rel": "/software/repository/github/GeomScale/volesti",
+        "avatar": "https://avatars.githubusercontent.com/u/46485370?v=4",
+        "description": "Practical volume computation and sampling in high dimensions",
+        "topics": [
+            "geometry",
+            "statistics",
+            "polyhedral-computations",
+            "random-walk",
+            "sampling",
+            "volume",
+            "hit-and-run",
+            "polytope",
+            "cran",
+            "finance",
+            "monte-carlo",
+            "scientific-computing"
+        ]
+    },
+    {
         "uid": "github/Munroe-Meyer-Institute-VR-Laboratory/Biosensor-Framework",
         "url": "https://github.com/Munroe-Meyer-Institute-VR-Laboratory/Biosensor-Framework",
         "rel": "/software/repository/github/Munroe-Meyer-Institute-VR-Laboratory/Biosensor-Framework",
@@ -40237,6 +40396,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/110973012?v=4",
         "description": "This repository contains scripts and tools for analyzing and visualizing astronomical data, specifically targeting the moment-0 maps of NGC 0628 using various methods.",
         "topics": []
+    },
+    {
+        "uid": "github/CastillonMiguel/phasefieldx",
+        "url": "https://github.com/CastillonMiguel/phasefieldx",
+        "rel": "/software/repository/github/CastillonMiguel/phasefieldx",
+        "avatar": "https://avatars.githubusercontent.com/u/103516477?v=4",
+        "description": "An Open-Source Framework for Advanced Phase-Field Simulations",
+        "topics": [
+            "fatigue",
+            "fem",
+            "finite-elements",
+            "fracture",
+            "fracture-mechanics",
+            "phase-field",
+            "phase-field-fracture",
+            "solidification"
+        ]
     },
     {
         "uid": "github/damcb/tyssue",
@@ -45824,6 +46000,14 @@
         "topics": []
     },
     {
+        "uid": "github/thelfer/mfem-mgis",
+        "url": "https://github.com/thelfer/mfem-mgis",
+        "rel": "/software/repository/github/thelfer/mfem-mgis",
+        "avatar": "https://avatars.githubusercontent.com/u/13975528?v=4",
+        "description": "Couple MFEM and MGIS",
+        "topics": []
+    },
+    {
         "uid": "github/refresh-bio/whisper",
         "url": "https://github.com/refresh-bio/Whisper",
         "rel": "/software/repository/github/refresh-bio/whisper",
@@ -51188,6 +51372,14 @@
         "topics": []
     },
     {
+        "uid": "github/USEPA/peat",
+        "url": "https://github.com/USEPA/peat",
+        "rel": "/software/repository/github/USEPA/peat",
+        "avatar": "https://avatars.githubusercontent.com/u/1304320?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/USEPA/SSN2",
         "url": "https://github.com/USEPA/SSN2",
         "rel": "/software/repository/github/USEPA/SSN2",
@@ -55585,6 +55777,14 @@
         "rel": "/software/repository/github/ydLiu-HIT/deSALT",
         "avatar": "https://avatars.githubusercontent.com/u/27715065?v=4",
         "description": "deSALT - De Bruijn graph-based Spliced Aligner for Long Transcriptome reads",
+        "topics": []
+    },
+    {
+        "uid": "github/funkyheatmap/funkyheatmap",
+        "url": "https://github.com/funkyheatmap/funkyheatmap",
+        "rel": "/software/repository/github/funkyheatmap/funkyheatmap",
+        "avatar": "https://avatars.githubusercontent.com/u/131779657?v=4",
+        "description": "Visualising data frames as funky heatmaps \ud83d\udcca",
         "topics": []
     },
     {
@@ -65451,6 +65651,17 @@
         ]
     },
     {
+        "uid": "github/wustat/rjaf",
+        "url": "https://github.com/wustat/rjaf",
+        "rel": "/software/repository/github/wustat/rjaf",
+        "avatar": "https://avatars.githubusercontent.com/u/19987326?v=4",
+        "description": "Regularized Joint Assignment Forest with Treatment Arm Clustering",
+        "topics": [
+            "causal-inference",
+            "machine-learning"
+        ]
+    },
+    {
         "uid": "github/GalletFlorian/TATOO",
         "url": "https://github.com/GalletFlorian/TATOO",
         "rel": "/software/repository/github/GalletFlorian/TATOO",
@@ -67403,6 +67614,21 @@
         ]
     },
     {
+        "uid": "github/BodeTobias/AutoPDEx",
+        "url": "https://github.com/BodeTobias/AutoPDEx",
+        "rel": "/software/repository/github/BodeTobias/AutoPDEx",
+        "avatar": "https://avatars.githubusercontent.com/u/149093216?v=4",
+        "description": "An Automized Partial Differential Equation solver based on JAX",
+        "topics": [
+            "finite-element-method",
+            "jax",
+            "partial-differential-equations",
+            "sensitivity-analysis",
+            "differential-algebraic-equations",
+            "ordinary-differential-equations"
+        ]
+    },
+    {
         "uid": "github/brian-team/brian2",
         "url": "https://github.com/brian-team/brian2",
         "rel": "/software/repository/github/brian-team/brian2",
@@ -68047,6 +68273,21 @@
         "topics": []
     },
     {
+        "uid": "github/idaholab/MontePy",
+        "url": "https://github.com/idaholab/MontePy",
+        "rel": "/software/repository/github/idaholab/MontePy",
+        "avatar": "https://avatars.githubusercontent.com/u/3855370?v=4",
+        "description": "MontePy is the most user friendly Python library (API) to read, edit, and write MCNP input files.",
+        "topics": [
+            "mcnp6",
+            "monte-carlo",
+            "neutronics",
+            "api",
+            "radiation-transport",
+            "mcnp"
+        ]
+    },
+    {
         "uid": "github/idaholab/moose",
         "url": "https://github.com/idaholab/moose",
         "rel": "/software/repository/github/idaholab/moose",
@@ -68215,6 +68456,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/23317602?v=4",
         "description": "pycosie (pie cozy) is a complimentary suite of analyses software written in Python meant to be analyzed on Technicolor Dawn and quasarcosie outputs. It is the Pyhton derivative of ARCOSIE.",
         "topics": []
+    },
+    {
+        "uid": "github/munich-quantum-toolkit/core",
+        "url": "https://github.com/munich-quantum-toolkit/core",
+        "rel": "/software/repository/github/munich-quantum-toolkit/core",
+        "avatar": "https://avatars.githubusercontent.com/u/177826161?v=4",
+        "description": "MQT Core - The Backbone of the Munich Quantum Toolkit",
+        "topics": [
+            "quantum-computing",
+            "quantum-intermediate-representation",
+            "mqt",
+            "tum"
+        ]
     },
     {
         "uid": "github/jaimerzp/limberjack.jl",
