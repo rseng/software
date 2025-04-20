@@ -2159,6 +2159,20 @@
         "topics": []
     },
     {
+        "uid": "github/Danko-Lab/dREG",
+        "url": "https://github.com/Danko-Lab/dREG",
+        "rel": "/software/repository/github/Danko-Lab/dREG",
+        "avatar": "https://avatars.githubusercontent.com/u/6503971?v=4",
+        "description": "Detecting Regulatory Elements using GRO-seq and PRO-seq",
+        "topics": [
+            "gene-regulation",
+            "gro-seq",
+            "pro-seq",
+            "chro-seq",
+            "transcription-regulatory-elements"
+        ]
+    },
+    {
         "uid": "github/christiangil/StellarSpectraObservationFitting.jl",
         "url": "https://github.com/christiangil/StellarSpectraObservationFitting.jl",
         "rel": "/software/repository/github/christiangil/StellarSpectraObservationFitting.jl",
@@ -5547,6 +5561,14 @@
         "topics": []
     },
     {
+        "uid": "github/jlillo/tpfplotter",
+        "url": "https://github.com/jlillo/tpfplotter",
+        "rel": "/software/repository/github/jlillo/tpfplotter",
+        "avatar": "https://avatars.githubusercontent.com/u/6754663?v=4",
+        "description": "TESS TPF plotter with Gaia catalog",
+        "topics": []
+    },
+    {
         "uid": "github/jbuisine/macop",
         "url": "https://github.com/jbuisine/macop",
         "rel": "/software/repository/github/jbuisine/macop",
@@ -5779,6 +5801,14 @@
         "rel": "/software/repository/github/PACurran/MCSpearman",
         "avatar": "https://avatars.githubusercontent.com/u/9524144?v=4",
         "description": "Monte Carlo error analyses of Spearman\u2019s rank test",
+        "topics": []
+    },
+    {
+        "uid": "github/joannegger/plaNETic",
+        "url": "https://github.com/joannegger/plaNETic",
+        "rel": "/software/repository/github/joannegger/plaNETic",
+        "avatar": "https://avatars.githubusercontent.com/u/103075328?v=4",
+        "description": "A neural network-based Bayesian internal structure modelling framework for small exoplanets",
         "topics": []
     },
     {
@@ -10367,6 +10397,24 @@
         "topics": []
     },
     {
+        "uid": "github/mind-inria/mri-nufft",
+        "url": "https://github.com/mind-inria/mri-nufft",
+        "rel": "/software/repository/github/mind-inria/mri-nufft",
+        "avatar": "https://avatars.githubusercontent.com/u/118902559?v=4",
+        "description": "Doing non-Cartesian MR Imaging has never been so easy.",
+        "topics": [
+            "cuda",
+            "gpu",
+            "mri",
+            "mri-reconstruction",
+            "nufft",
+            "tensorflow",
+            "numerical-methods",
+            "numpy",
+            "torch"
+        ]
+    },
+    {
         "uid": "github/ConnorDonegan/geostan",
         "url": "https://github.com/ConnorDonegan/geostan",
         "rel": "/software/repository/github/ConnorDonegan/geostan",
@@ -10744,6 +10792,14 @@
         "rel": "/software/repository/github/pw31/GGchem",
         "avatar": "https://avatars.githubusercontent.com/u/18750275?v=4",
         "description": "fast thermo-chemical equilibrium code with or without equilibrium condensation down to 100K ",
+        "topics": []
+    },
+    {
+        "uid": "github/wordsworthgroup/mars_redox_2021",
+        "url": "https://github.com/wordsworthgroup/mars_redox_2021",
+        "rel": "/software/repository/github/wordsworthgroup/mars_redox_2021",
+        "avatar": "https://avatars.githubusercontent.com/u/10161055?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -14991,6 +15047,14 @@
         ]
     },
     {
+        "uid": "github/itsoulos/GlobalOptimus",
+        "url": "https://github.com/itsoulos/GlobalOptimus",
+        "rel": "/software/repository/github/itsoulos/GlobalOptimus",
+        "avatar": "https://avatars.githubusercontent.com/u/6303921?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/tumcms/Open-Infra-Platform",
         "url": "https://github.com/tumcms/Open-Infra-Platform",
         "rel": "/software/repository/github/tumcms/Open-Infra-Platform",
@@ -16049,6 +16113,22 @@
         "topics": []
     },
     {
+        "uid": "github/lgrcia/nuance",
+        "url": "https://github.com/lgrcia/nuance",
+        "rel": "/software/repository/github/lgrcia/nuance",
+        "avatar": "https://avatars.githubusercontent.com/u/20612771?v=4",
+        "description": "Efficient detection of planets transiting quiet or active stars",
+        "topics": [
+            "correlated-noise",
+            "data-analysis",
+            "exoplanets",
+            "search",
+            "systematics",
+            "transits",
+            "variability"
+        ]
+    },
+    {
         "uid": "github/lgrcia/prose",
         "url": "https://github.com/lgrcia/prose",
         "rel": "/software/repository/github/lgrcia/prose",
@@ -17011,6 +17091,27 @@
             "mhealth",
             "scala",
             "java"
+        ]
+    },
+    {
+        "uid": "github/Schuch666/eva3dm",
+        "url": "https://github.com/Schuch666/eva3dm",
+        "rel": "/software/repository/github/Schuch666/eva3dm",
+        "avatar": "https://avatars.githubusercontent.com/u/32721340?v=4",
+        "description": "A package to evaluate 3d weather and air quality models",
+        "topics": [
+            "air-quality-model",
+            "atmos",
+            "atmosphere",
+            "atmospheric-chemistry",
+            "atmospheric-modelling",
+            "atmospheric-models",
+            "atmospheric-science",
+            "evaluation",
+            "model-evaluation",
+            "model-evaluation-metrics",
+            "wrf-chem",
+            "air-quality-model-evaluation"
         ]
     },
     {
@@ -20192,6 +20293,14 @@
         "topics": []
     },
     {
+        "uid": "github/Jayshil/pycdata",
+        "url": "https://github.com/Jayshil/pycdata",
+        "rel": "/software/repository/github/Jayshil/pycdata",
+        "avatar": "https://avatars.githubusercontent.com/u/40012574?v=4",
+        "description": "A module to import datasets from various instruments in pycheops",
+        "topics": []
+    },
+    {
         "uid": "github/EnricoCorsaro/FAMED",
         "url": "https://github.com/EnricoCorsaro/FAMED",
         "rel": "/software/repository/github/EnricoCorsaro/FAMED",
@@ -22412,6 +22521,14 @@
             "pipeline-framework",
             "docker-compose"
         ]
+    },
+    {
+        "uid": "github/ExoArcturus/TriArc",
+        "url": "https://github.com/ExoArcturus/TriArc",
+        "rel": "/software/repository/github/ExoArcturus/TriArc",
+        "avatar": "https://avatars.githubusercontent.com/u/108469924?v=4",
+        "description": "(reTRIeval ARCturus) Bayesian atmospheric retrieval for assessing detectability of trace gases in exoplanet atmospheres.",
+        "topics": []
     },
     {
         "uid": "github/agshumate/LiftoffTools",
@@ -28042,6 +28159,14 @@
         ]
     },
     {
+        "uid": "github/astro-seanwhy/ExoInt",
+        "url": "https://github.com/astro-seanwhy/ExoInt",
+        "rel": "/software/repository/github/astro-seanwhy/ExoInt",
+        "avatar": "https://avatars.githubusercontent.com/u/30588030?v=4",
+        "description": "Rocky planets as devolatilized stars (Source codes for Wang et al. 2019, MNRAS, doi.org/10.1093/mnras/sty2749). Purpose: devolatilize stellar abundances to produce rocky exoplanetary bulk composition, with which constrain the modelling of the exoplanet interiors. ",
+        "topics": []
+    },
+    {
         "uid": "github/etempel/Bisous",
         "url": "https://github.com/etempel/Bisous",
         "rel": "/software/repository/github/etempel/Bisous",
@@ -30067,6 +30192,21 @@
         "topics": []
     },
     {
+        "uid": "github/pr2database/pr2-primers",
+        "url": "https://github.com/pr2database/pr2-primers",
+        "rel": "/software/repository/github/pr2database/pr2-primers",
+        "avatar": "https://avatars.githubusercontent.com/u/44997718?v=4",
+        "description": "Scripts for paper Vaulot et al. 2022",
+        "topics": [
+            "database",
+            "18s-rrna",
+            "primers",
+            "eukaryotes",
+            "taxonomy",
+            "metabarcoding"
+        ]
+    },
+    {
         "uid": "github/yfperezg/frisbhee",
         "url": "https://github.com/yfperezg/frisbhee",
         "rel": "/software/repository/github/yfperezg/frisbhee",
@@ -30868,6 +31008,14 @@
         "rel": "/software/repository/github/PyTables/PyTables",
         "avatar": "https://avatars1.githubusercontent.com/u/828302?v=4",
         "description": "A Python package to manage extremely large amounts of data",
+        "topics": []
+    },
+    {
+        "uid": "github/mrline/CHIMERA",
+        "url": "https://github.com/mrline/CHIMERA",
+        "rel": "/software/repository/github/mrline/CHIMERA",
+        "avatar": "https://avatars.githubusercontent.com/u/23504081?v=4",
+        "description": "Atmospheric Retrieval Codes for Exoplanets",
         "topics": []
     },
     {
@@ -33098,6 +33246,18 @@
             "astronomy",
             "machine-learning",
             "deep-learning"
+        ]
+    },
+    {
+        "uid": "github/Smith42/astroPT",
+        "url": "https://github.com/Smith42/astroPT",
+        "rel": "/software/repository/github/Smith42/astroPT",
+        "avatar": "https://avatars.githubusercontent.com/u/8194280?v=4",
+        "description": "Transformer for galaxy images (and general astronomy)",
+        "topics": [
+            "astronomy",
+            "transformer",
+            "large-observation-model"
         ]
     },
     {
@@ -36495,6 +36655,16 @@
         "avatar": "https://avatars.githubusercontent.com/u/42075829?v=4",
         "description": "Cython API for the Mutation Annotated Tree (MAT) Online Phylogenetics Toolkit",
         "topics": []
+    },
+    {
+        "uid": "github/VSPEC-collab/VSPEC",
+        "url": "https://github.com/VSPEC-collab/VSPEC",
+        "rel": "/software/repository/github/VSPEC-collab/VSPEC",
+        "avatar": "https://avatars.githubusercontent.com/u/126274339?v=4",
+        "description": "Variable Star PhasE Curve: A Python tool that uses the NASA Planetary Spectrum Generator (PSG) and a variable star model to simulate observations of exoplanets.",
+        "topics": [
+            "exoplanet"
+        ]
     },
     {
         "uid": "github/vedantchandra/wdtools",
@@ -40041,6 +40211,14 @@
         "topics": []
     },
     {
+        "uid": "github/ericsteinbring/PDQ",
+        "url": "https://github.com/ericsteinbring/PDQ",
+        "rel": "/software/repository/github/ericsteinbring/PDQ",
+        "avatar": "https://avatars.githubusercontent.com/u/127259226?v=4",
+        "description": "The IDL code PDQ predicts the positions on the sky of high-redshift quasars that should provide photons that are both acausal and uncorrelated.  The best dates and times for viewing those simultaneously with Gemini `Alopeke/Zorro (for high-framerate photometry) in the coming semester are reported. ",
+        "topics": []
+    },
+    {
         "uid": "github/mscaudill/openseize",
         "url": "https://github.com/mscaudill/openseize",
         "rel": "/software/repository/github/mscaudill/openseize",
@@ -40458,6 +40636,14 @@
         "rel": "/software/repository/github/danxhuber/evolstate",
         "avatar": "https://avatars.githubusercontent.com/u/11814175?v=4",
         "description": "Assign simple evolutionary states to stars",
+        "topics": []
+    },
+    {
+        "uid": "github/RobertHTyler/TROPF",
+        "url": "https://github.com/RobertHTyler/TROPF",
+        "rel": "/software/repository/github/RobertHTyler/TROPF",
+        "avatar": "https://avatars.githubusercontent.com/u/55106747?v=4",
+        "description": "Tidal Response Of Planetary Fluids (TROPF): a Matlab/Octave software package for calculating the tidal response of planetary fluids",
         "topics": []
     },
     {
@@ -41240,6 +41426,14 @@
         "topics": [
             "uq"
         ]
+    },
+    {
+        "uid": "github/JamieDietrich/dynamite",
+        "url": "https://github.com/JamieDietrich/dynamite",
+        "rel": "/software/repository/github/JamieDietrich/dynamite",
+        "avatar": "https://avatars.githubusercontent.com/u/67653347?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/fripon/freeture",
@@ -46856,6 +47050,14 @@
         "rel": "/software/repository/github/valboz/VBBinaryLensing",
         "avatar": "https://avatars.githubusercontent.com/u/15339823?v=4",
         "description": "Microlensing light curve calculation",
+        "topics": []
+    },
+    {
+        "uid": "github/valboz/RTModel",
+        "url": "https://github.com/valboz/RTModel",
+        "rel": "/software/repository/github/valboz/RTModel",
+        "avatar": "https://avatars.githubusercontent.com/u/15339823?v=4",
+        "description": "Microlensing modeling: fast and efficient exploration of the parameter space",
         "topics": []
     },
     {
@@ -53882,6 +54084,14 @@
         "topics": []
     },
     {
+        "uid": "github/grd349/PBjam",
+        "url": "https://github.com/grd349/PBjam",
+        "rel": "/software/repository/github/grd349/PBjam",
+        "avatar": "https://avatars.githubusercontent.com/u/14784265?v=4",
+        "description": "A repo for our peak baggin code and tips on jam",
+        "topics": []
+    },
+    {
         "uid": "github/tobiasrausch/wally",
         "url": "https://github.com/tobiasrausch/wally",
         "rel": "/software/repository/github/tobiasrausch/wally",
@@ -54893,6 +55103,19 @@
         ]
     },
     {
+        "uid": "github/hpparvi/spright",
+        "url": "https://github.com/hpparvi/spright",
+        "rel": "/software/repository/github/hpparvi/spright",
+        "avatar": "https://avatars.githubusercontent.com/u/327523?v=4",
+        "description": "Bayesian mass-radius relation for small planets.",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "exoplanet-analysis",
+            "exoplanets"
+        ]
+    },
+    {
         "uid": "github/tldr-group/taufactor",
         "url": "https://github.com/tldr-group/taufactor",
         "rel": "/software/repository/github/tldr-group/taufactor",
@@ -55845,6 +56068,14 @@
         "topics": []
     },
     {
+        "uid": "github/acil-bwh/bayes_traj",
+        "url": "https://github.com/acil-bwh/bayes_traj",
+        "rel": "/software/repository/github/acil-bwh/bayes_traj",
+        "avatar": "https://avatars.githubusercontent.com/u/4038495?v=4",
+        "description": "Algorithms and tools for Bayesian trajectory modeling",
+        "topics": []
+    },
+    {
         "uid": "github/rgerum/pylustrator",
         "url": "https://github.com/rgerum/pylustrator",
         "rel": "/software/repository/github/rgerum/pylustrator",
@@ -56182,6 +56413,28 @@
         "avatar": "https://avatars.githubusercontent.com/u/11349479?v=4",
         "description": "Dynamics of Interstellar Wanderers",
         "topics": []
+    },
+    {
+        "uid": "github/ymaan4/rficlean",
+        "url": "https://github.com/ymaan4/RFIClean",
+        "rel": "/software/repository/github/ymaan4/rficlean",
+        "avatar": "https://avatars.githubusercontent.com/u/7300480?v=4",
+        "description": "Mitigation of periodic as well as narrow-band and spiky/bursty RFI from time-domain filterbank data.",
+        "topics": [
+            "rfi",
+            "filterbank-data",
+            "spiky",
+            "interference",
+            "interference-identification",
+            "interference-mitigation",
+            "interference-detection",
+            "interference-cancellation",
+            "pulsar",
+            "pulsars",
+            "fast-radio-bursts",
+            "neutron-star",
+            "time-domain-astronomy"
+        ]
     },
     {
         "uid": "github/GreiffLab/immuneREF",
@@ -57089,6 +57342,14 @@
         "rel": "/software/repository/github/eliotayache/GAMMA",
         "avatar": "https://avatars.githubusercontent.com/u/28777824?v=4",
         "description": "Relativistic hydro and local cooling on a moving mesh",
+        "topics": []
+    },
+    {
+        "uid": "github/jorgefz/photoevolver",
+        "url": "https://github.com/jorgefz/photoevolver",
+        "rel": "/software/repository/github/jorgefz/photoevolver",
+        "avatar": "https://avatars.githubusercontent.com/u/55992591?v=4",
+        "description": "Planet evolver that takes into account energy-limited photoevaporation, the star's XUV history, and the planet's internal structure",
         "topics": []
     },
     {
@@ -68739,6 +69000,14 @@
         "topics": []
     },
     {
+        "uid": "github/TeHanHunter/TESS_Gaia_Light_Curve",
+        "url": "https://github.com/TeHanHunter/TESS_Gaia_Light_Curve",
+        "rel": "/software/repository/github/TeHanHunter/TESS_Gaia_Light_Curve",
+        "avatar": "https://avatars.githubusercontent.com/u/49893001?v=4",
+        "description": "TESS FFI light curves fitted with effective PSF and decontaminated with Gaia DR3",
+        "topics": []
+    },
+    {
         "uid": "github/tinglabs/scAIDE",
         "url": "https://github.com/tinglabs/scAIDE",
         "rel": "/software/repository/github/tinglabs/scAIDE",
@@ -69321,6 +69590,14 @@
         "rel": "/software/repository/gitlab/cirad-apps/phylostems",
         "avatar": "https://gitlab.comNone",
         "description": "**phylostems** is a graphical tool developped by CIRAD (UMR PVBMT) to explore temporal signal at various evolutionary scales in heterochronous nucleic acid sequences datasets.",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/morikawa-lab-osakau/vibir-parallel-compute",
+        "url": "https://gitlab.com/morikawa-lab-osakau/vibir-parallel-compute",
+        "rel": "/software/repository/gitlab/morikawa-lab-osakau/vibir-parallel-compute",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/58824042/logo.png",
+        "description": "A HPC-ready parallelized implementation of Vibration and Infrared computations from DFT simulations.\r\n\r\nhttps://morikawa-lab-osakau.gitlab.io/vibir-parallel-compute",
         "topics": []
     },
     {
