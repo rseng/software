@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/fkeruzore/picasso",
+    "url": "https://github.com/fkeruzore/picasso",
+    "data": {
+        "doi": [],
+        "title": "picasso: Painting intracluster gas on gravity-only simulations",
+        "url": "https://github.com/fkeruzore/picasso",
+        "name": "picasso",
+        "full_name": "fkeruzore/picasso",
+        "html_url": "https://github.com/fkeruzore/picasso",
+        "description": "Painting intracluster gas on gravity-only simulations, using JAX and flax",
+        "created_at": "2023-09-15T16:57:29Z",
+        "updated_at": "2025-04-01T18:49:12Z",
+        "clone_url": "https://github.com/fkeruzore/picasso.git",
+        "size": 16312,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/fkeruzore",
+            "avatar_url": "https://avatars.githubusercontent.com/u/26671073?v=4",
+            "login": "fkeruzore",
+            "type": "User"
+        },
+        "timestamp": "2025-04-27 00:53:11.383132",
+        "avatar": "https://avatars.githubusercontent.com/u/26671073?v=4"
+    }
+}
