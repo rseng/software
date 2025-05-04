@@ -2511,6 +2511,27 @@
         ]
     },
     {
+        "uid": "github/goharbor/harbor",
+        "url": "https://github.com/goharbor/harbor",
+        "rel": "/software/repository/github/goharbor/harbor",
+        "avatar": "https://avatars.githubusercontent.com/u/40275816?v=4",
+        "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+        "topics": [
+            "cncf",
+            "container",
+            "registry",
+            "helm",
+            "cloud-native",
+            "containers",
+            "docker",
+            "kubernetes",
+            "cncf-project",
+            "container-management",
+            "container-registry",
+            "hacktoberfest"
+        ]
+    },
+    {
         "uid": "github/cwieder/py-ssPA",
         "url": "https://github.com/cwieder/py-ssPA",
         "rel": "/software/repository/github/cwieder/py-ssPA",
@@ -6447,6 +6468,25 @@
         "avatar": "https://avatars.githubusercontent.com/u/9200321?v=4",
         "description": "Class Python App of My Web Intelligence",
         "topics": []
+    },
+    {
+        "uid": "github/gnuradio/gnuradio",
+        "url": "https://github.com/gnuradio/gnuradio",
+        "rel": "/software/repository/github/gnuradio/gnuradio",
+        "avatar": "https://avatars.githubusercontent.com/u/1278659?v=4",
+        "description": "GNU Radio \u2013 the Free and Open Software Radio Ecosystem",
+        "topics": [
+            "sdr",
+            "dsp",
+            "wireless",
+            "cybersecurity",
+            "c-plus-plus",
+            "python",
+            "gnu",
+            "radio",
+            "gnuradio",
+            "hacktoberfest"
+        ]
     },
     {
         "uid": "github/sybila/biodivine-aeon-py",
@@ -16013,6 +16053,14 @@
         "topics": []
     },
     {
+        "uid": "github/Aravind-Sundararajan/MocoExtendProblem",
+        "url": "https://github.com/Aravind-Sundararajan/MocoExtendProblem",
+        "rel": "/software/repository/github/Aravind-Sundararajan/MocoExtendProblem",
+        "avatar": "https://avatars.githubusercontent.com/u/26929285?v=4",
+        "description": "this is an example of how to add custom Moco goals to existing matlab scripts instead of constructing an omoco file or porting your existing matlab code to c++",
+        "topics": []
+    },
+    {
         "uid": "github/fredericlemoine/goalign",
         "url": "https://github.com/evolbioinfo/goalign",
         "rel": "/software/repository/github/fredericlemoine/goalign",
@@ -16837,6 +16885,18 @@
             "pulsars",
             "binary-stars",
             "astrophysics"
+        ]
+    },
+    {
+        "uid": "github/abhisrkckl/Vela.jl",
+        "url": "https://github.com/abhisrkckl/Vela.jl",
+        "rel": "/software/repository/github/abhisrkckl/Vela.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/20718391?v=4",
+        "description": "A Bayesian pulsar timing and noise analysis package.",
+        "topics": [
+            "astronomy-astrophysics",
+            "data-analysis",
+            "pulsars"
         ]
     },
     {
@@ -19862,6 +19922,14 @@
         "topics": []
     },
     {
+        "uid": "github/LindleyLentati/TempoNest",
+        "url": "https://github.com/LindleyLentati/TempoNest",
+        "rel": "/software/repository/github/LindleyLentati/TempoNest",
+        "avatar": "https://avatars.githubusercontent.com/u/3535163?v=4",
+        "description": "Bayesian analysis tool for pulsar timing",
+        "topics": []
+    },
+    {
         "uid": "github/LindleyLentati/Cobra",
         "url": "https://github.com/LindleyLentati/Cobra",
         "rel": "/software/repository/github/LindleyLentati/Cobra",
@@ -20831,6 +20899,18 @@
         "topics": []
     },
     {
+        "uid": "github/PatrickJTaylor/pengWann",
+        "url": "https://github.com/PatrickJTaylor/pengWann",
+        "rel": "/software/repository/github/PatrickJTaylor/pengWann",
+        "avatar": "https://avatars.githubusercontent.com/u/52406436?v=4",
+        "description": "A lightweight Python package for calculating descriptors of chemical bonding and local electronic structure from Wannier functions.",
+        "topics": [
+            "chemical-bonding",
+            "python",
+            "wannier-functions"
+        ]
+    },
+    {
         "uid": "github/DarkQuestCosmology/dark_emulator_public",
         "url": "https://github.com/DarkQuestCosmology/dark_emulator_public",
         "rel": "/software/repository/github/DarkQuestCosmology/dark_emulator_public",
@@ -20866,6 +20946,14 @@
             "mapping",
             "remote-sensing"
         ]
+    },
+    {
+        "uid": "github/minterpy-project/minterpy",
+        "url": "https://github.com/minterpy-project/minterpy",
+        "rel": "/software/repository/github/minterpy-project/minterpy",
+        "avatar": "https://avatars.githubusercontent.com/u/127753488?v=4",
+        "description": "Multivariate polynomial interpolation in Python",
+        "topics": []
     },
     {
         "uid": "github/amberbiology/scribl",
@@ -26649,6 +26737,14 @@
         "topics": []
     },
     {
+        "uid": "github/phil-mansfield/shellfish",
+        "url": "https://github.com/phil-mansfield/shellfish",
+        "rel": "/software/repository/github/phil-mansfield/shellfish",
+        "avatar": "https://avatars.githubusercontent.com/u/4722826?v=4",
+        "description": "A Go-based package which identifies the splashback shell of halos from N-body simulations.",
+        "topics": []
+    },
+    {
         "uid": "github/matteolucchini1/BHJet",
         "url": "https://github.com/matteolucchini1/BHJet",
         "rel": "/software/repository/github/matteolucchini1/BHJet",
@@ -27002,6 +27098,14 @@
             "structure",
             "nih"
         ]
+    },
+    {
+        "uid": "github/YaoGroup/DIFFICE_jax",
+        "url": "https://github.com/YaoGroup/DIFFICE_jax",
+        "rel": "/software/repository/github/YaoGroup/DIFFICE_jax",
+        "avatar": "https://avatars.githubusercontent.com/u/85553836?v=4",
+        "description": "Differentiable neural-network solver for data assimilation of ice shelves written in JAX",
+        "topics": []
     },
     {
         "uid": "github/hillerlab/GenomeAlignmentTools",
@@ -29286,6 +29390,22 @@
         "topics": []
     },
     {
+        "uid": "github/dspelaez/extended-wdm",
+        "url": "https://github.com/dspelaez/extended-wdm",
+        "rel": "/software/repository/github/dspelaez/extended-wdm",
+        "avatar": "https://avatars.githubusercontent.com/u/6423179?v=4",
+        "description": "Python toolkit for estimating directional wave spectra of ocean waves based on wavelet transform",
+        "topics": [
+            "spotter",
+            "wavelets",
+            "waves",
+            "wdm",
+            "adcps",
+            "directional-spectrum",
+            "wavestaffs"
+        ]
+    },
+    {
         "uid": "github/csb-toolbox/CSB",
         "url": "https://github.com/csb-toolbox/CSB",
         "rel": "/software/repository/github/csb-toolbox/CSB",
@@ -29825,6 +29945,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/47731788?v=4",
         "description": "This python package can perform automated mineral compositional analysis on debris disk spectra. It will determine which minerals are present and what their relative abundances are within the debris disk. This code is used in a paper that has been submitted to the American Journal of Undergraduate Research (AJUR), titled \"An Unbiased Mineral Compositional Analysis Technique for Debris Disks\" by Yung Kipreos and Dr. Inseok Song..",
         "topics": []
+    },
+    {
+        "uid": "github/medbioinf/pia",
+        "url": "https://github.com/medbioinf/pia",
+        "rel": "/software/repository/github/medbioinf/pia",
+        "avatar": "https://avatars.githubusercontent.com/u/139237371?v=4",
+        "description": ":books: :microscope: PIA - Protein Inference Algorithms",
+        "topics": [
+            "proteomics",
+            "protein-inference",
+            "protein",
+            "spectrum-identification",
+            "search-engine",
+            "inference"
+        ]
     },
     {
         "uid": "github/TORCH-Consortium/MAGMA",
@@ -36224,6 +36359,14 @@
         ]
     },
     {
+        "uid": "github/jonotuke/BREADR",
+        "url": "https://github.com/jonotuke/BREADR",
+        "rel": "/software/repository/github/jonotuke/BREADR",
+        "avatar": "https://avatars.githubusercontent.com/u/1281470?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/broadinstitute/wot",
         "url": "https://github.com/broadinstitute/wot",
         "rel": "/software/repository/github/broadinstitute/wot",
@@ -40790,6 +40933,16 @@
         ]
     },
     {
+        "uid": "github/google/flax",
+        "url": "https://github.com/google/flax",
+        "rel": "/software/repository/github/google/flax",
+        "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+        "description": "Flax is a neural network library for JAX that is designed for flexibility.",
+        "topics": [
+            "jax"
+        ]
+    },
+    {
         "uid": "github/OnroerendErfgoed/atramhasis",
         "url": "https://github.com/OnroerendErfgoed/atramhasis",
         "rel": "/software/repository/github/OnroerendErfgoed/atramhasis",
@@ -41312,6 +41465,14 @@
         "topics": []
     },
     {
+        "uid": "github/sintefmath/SurfaceWaterIntegratedModeling.jl",
+        "url": "https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl",
+        "rel": "/software/repository/github/sintefmath/SurfaceWaterIntegratedModeling.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/1901550?v=4",
+        "description": "SWIM - Surface Water Integrated Modeling",
+        "topics": []
+    },
+    {
         "uid": "github/astro-group-bristol/Gradus.jl",
         "url": "https://github.com/astro-group-bristol/Gradus.jl",
         "rel": "/software/repository/github/astro-group-bristol/Gradus.jl",
@@ -41512,6 +41673,22 @@
             "pair-counting",
             "radial-distribution-function",
             "pair-correlation-function"
+        ]
+    },
+    {
+        "uid": "github/exoplanet-dev/jaxoplanet",
+        "url": "https://github.com/exoplanet-dev/jaxoplanet",
+        "rel": "/software/repository/github/exoplanet-dev/jaxoplanet",
+        "avatar": "https://avatars.githubusercontent.com/u/60150744?v=4",
+        "description": "Astronomical time series analysis with JAX",
+        "topics": [
+            "astronomy",
+            "astrophysics",
+            "bayesian-inference",
+            "exoplanets",
+            "jax",
+            "python",
+            "time-series"
         ]
     },
     {
@@ -46837,6 +47014,42 @@
             "tensorly",
             "tensors",
             "visualization"
+        ]
+    },
+    {
+        "uid": "github/OpenMS/OpenMS",
+        "url": "https://github.com/OpenMS/OpenMS",
+        "rel": "/software/repository/github/OpenMS/OpenMS",
+        "avatar": "https://avatars.githubusercontent.com/u/5994841?v=4",
+        "description": "The codebase of the OpenMS project",
+        "topics": [
+            "openms",
+            "c-plus-plus",
+            "ms-data",
+            "mass-spectrometry",
+            "linux",
+            "macos",
+            "windows",
+            "proteomics",
+            "analyses",
+            "algorithms",
+            "metabolomics",
+            "3-clause-bsd",
+            "hacktoberfest"
+        ]
+    },
+    {
+        "uid": "github/OpenMS/pyopenms-extra",
+        "url": "https://github.com/OpenMS/pyopenms-docs",
+        "rel": "/software/repository/github/OpenMS/pyopenms-extra",
+        "avatar": "https://avatars.githubusercontent.com/u/5994841?v=4",
+        "description": "pyOpenMS readthedocs documentation, additional utilities, addons, scripts, and examples.",
+        "topics": [
+            "openms",
+            "python",
+            "ms-data",
+            "hacktoberfest",
+            "hacktoberfest2022"
         ]
     },
     {
@@ -52243,6 +52456,14 @@
         "topics": []
     },
     {
+        "uid": "github/alexandercoulter/fastfrechet",
+        "url": "https://github.com/alexandercoulter/fastfrechet",
+        "rel": "/software/repository/github/alexandercoulter/fastfrechet",
+        "avatar": "https://avatars.githubusercontent.com/u/67101356?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/uab-cgds-worthey/quac",
         "url": "https://github.com/uab-cgds-worthey/quac",
         "rel": "/software/repository/github/uab-cgds-worthey/quac",
@@ -56018,6 +56239,14 @@
         "topics": []
     },
     {
+        "uid": "github/kotekan/kotekan",
+        "url": "https://github.com/kotekan/kotekan",
+        "rel": "/software/repository/github/kotekan/kotekan",
+        "avatar": "https://avatars.githubusercontent.com/u/36037416?v=4",
+        "description": "High performance radio data processing pipeline",
+        "topics": []
+    },
+    {
         "uid": "github/Jashcraf/katsu",
         "url": "https://github.com/Jashcraf/katsu",
         "rel": "/software/repository/github/Jashcraf/katsu",
@@ -59115,6 +59344,14 @@
             "workflow-automation",
             "batch-processing"
         ]
+    },
+    {
+        "uid": "github/rreischke/OneCovariance",
+        "url": "https://github.com/rreischke/OneCovariance",
+        "rel": "/software/repository/github/rreischke/OneCovariance",
+        "avatar": "https://avatars.githubusercontent.com/u/31727230?v=4",
+        "description": "OneCovariance code for KiDS to play",
+        "topics": []
     },
     {
         "uid": "github/tatekawa-astron/3LPT-init",
@@ -65309,6 +65546,20 @@
         ]
     },
     {
+        "uid": "github/ALive-research/Slicer-Liver",
+        "url": "https://github.com/ALive-research/Slicer-Liver",
+        "rel": "/software/repository/github/ALive-research/Slicer-Liver",
+        "avatar": "https://avatars.githubusercontent.com/u/65019699?v=4",
+        "description": "3D Slicer extension for liver analysis and therapy planning",
+        "topics": [
+            "liver",
+            "visualization",
+            "analysis",
+            "3d-slicer-extension",
+            "surgical-planning"
+        ]
+    },
+    {
         "uid": "github/sosl/H-FISTA",
         "url": "https://github.com/sosl/H-FISTA",
         "rel": "/software/repository/github/sosl/H-FISTA",
@@ -65544,6 +65795,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/826296?v=4",
         "description": "PASTA (Practical Alignment using SATe and Transitivity) ",
         "topics": []
+    },
+    {
+        "uid": "github/pharo-project/pharo",
+        "url": "https://github.com/pharo-project/pharo",
+        "rel": "/software/repository/github/pharo-project/pharo",
+        "avatar": "https://avatars.githubusercontent.com/u/1838382?v=4",
+        "description": "Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.",
+        "topics": [
+            "pharo",
+            "reflective",
+            "language",
+            "tools",
+            "bootstrap",
+            "object-oriented-programming",
+            "live-programming",
+            "mit"
+        ]
     },
     {
         "uid": "github/ihrke/pypillometry",
@@ -67766,6 +68034,14 @@
         "rel": "/software/repository/github/YuSugihara/MutMap",
         "avatar": "https://avatars.githubusercontent.com/u/34593586?v=4",
         "description": "MutMap pipeline to identify causative mutations responsible for a phenotype",
+        "topics": []
+    },
+    {
+        "uid": "github/kkma89/dmcalc",
+        "url": "https://github.com/kkma89/dmcalc",
+        "rel": "/software/repository/github/kkma89/dmcalc",
+        "avatar": "https://avatars.githubusercontent.com/u/44204165?v=4",
+        "description": "Python code to calculate in-band dispersion measure of pulsars",
         "topics": []
     },
     {
