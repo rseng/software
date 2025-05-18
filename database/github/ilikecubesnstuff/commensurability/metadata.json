@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/ilikecubesnstuff/commensurability",
+    "url": "https://github.com/ilikecubesnstuff/commensurability",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15350426",
+        "name": "commensurability",
+        "url": "https://github.com/ilikecubesnstuff/commensurability",
+        "full_name": "ilikecubesnstuff/commensurability",
+        "html_url": "https://github.com/ilikecubesnstuff/commensurability",
+        "description": "Packages for calculating orbit commensurabilities.",
+        "created_at": "2023-07-18T13:53:56Z",
+        "updated_at": "2025-05-15T23:29:33Z",
+        "clone_url": "https://github.com/ilikecubesnstuff/commensurability.git",
+        "homepage": "https://commensurability.readthedocs.io/en/latest/",
+        "size": 10194,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/ilikecubesnstuff",
+            "avatar_url": "https://avatars.githubusercontent.com/u/25328250?v=4",
+            "login": "ilikecubesnstuff",
+            "type": "User"
+        },
+        "timestamp": "2025-05-18 00:54:44.006975",
+        "avatar": "https://avatars.githubusercontent.com/u/25328250?v=4"
+    }
+}
