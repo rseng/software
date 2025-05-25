@@ -6148,6 +6148,18 @@
         "topics": []
     },
     {
+        "uid": "github/nomad-coe/greenX",
+        "url": "https://github.com/nomad-coe/greenX",
+        "rel": "/software/repository/github/nomad-coe/greenX",
+        "avatar": "https://avatars.githubusercontent.com/u/14835914?v=4",
+        "description": "Library for Green\u2019s function based electronic structure theory calculations",
+        "topics": [
+            "exascale",
+            "fortran",
+            "greens-functions"
+        ]
+    },
+    {
         "uid": "github/JuliaAI/Imbalance.jl",
         "url": "https://github.com/JuliaAI/Imbalance.jl",
         "rel": "/software/repository/github/JuliaAI/Imbalance.jl",
@@ -11489,6 +11501,21 @@
         ]
     },
     {
+        "uid": "github/pachterlab/kb_python",
+        "url": "https://github.com/pachterlab/kb_python",
+        "rel": "/software/repository/github/pachterlab/kb_python",
+        "avatar": "https://avatars.githubusercontent.com/u/10359946?v=4",
+        "description": "A wrapper for the kallisto | bustools workflow for single-cell RNA-seq pre-processing",
+        "topics": [
+            "bustools",
+            "kallisto",
+            "single-cell-rna-seq",
+            "rna-velocity-estimation",
+            "scrna-seq",
+            "kb-python"
+        ]
+    },
+    {
         "uid": "github/pachterlab/kallisto",
         "url": "https://github.com/pachterlab/kallisto",
         "rel": "/software/repository/github/pachterlab/kallisto",
@@ -11593,6 +11620,14 @@
         "rel": "/software/repository/github/vanheeringen-lab/gimmemotifs",
         "avatar": "https://avatars.githubusercontent.com/u/42635190?v=4",
         "description": "Suite of motif tools, including a motif prediction pipeline for ChIP-seq experiments.  See full GimmeMotifs documentation for detailed installation instructions and usage examples.",
+        "topics": []
+    },
+    {
+        "uid": "github/arkavo/CUDA-METRO",
+        "url": "https://github.com/arkavo/CUDA-METRO",
+        "rel": "/software/repository/github/arkavo/CUDA-METRO",
+        "avatar": "https://avatars.githubusercontent.com/u/16555024?v=4",
+        "description": "Based on the pyCUDA enabled Metropolis MCMC for spintronics simulations.",
         "topics": []
     },
     {
@@ -12328,6 +12363,19 @@
             "bayesian-inference",
             "sampling-methods",
             "hamiltonian-monte-carlo"
+        ]
+    },
+    {
+        "uid": "github/rformassspectrometry/SpectriPy",
+        "url": "https://github.com/rformassspectrometry/SpectriPy",
+        "rel": "/software/repository/github/rformassspectrometry/SpectriPy",
+        "avatar": "https://avatars.githubusercontent.com/u/51361942?v=4",
+        "description": "Interfacing R's Spectra package with the Python world.",
+        "topics": [
+            "mass-spectrometry",
+            "infrastructure",
+            "rstats",
+            "python"
         ]
     },
     {
@@ -15820,6 +15868,24 @@
         ]
     },
     {
+        "uid": "github/nf-core/airrflow",
+        "url": "https://github.com/nf-core/airrflow",
+        "rel": "/software/repository/github/nf-core/airrflow",
+        "avatar": "https://avatars.githubusercontent.com/u/35520196?v=4",
+        "description": "B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework",
+        "topics": [
+            "b-cell",
+            "immcantation",
+            "immunorepertoire",
+            "repseq",
+            "nf-core",
+            "nextflow",
+            "workflow",
+            "pipeline",
+            "airr"
+        ]
+    },
+    {
         "uid": "github/nf-core/sarek",
         "url": "https://github.com/nf-core/sarek",
         "rel": "/software/repository/github/nf-core/sarek",
@@ -16644,6 +16710,14 @@
         "topics": []
     },
     {
+        "uid": "github/TRIQS/ctseg",
+        "url": "https://github.com/TRIQS/ctseg",
+        "rel": "/software/repository/github/TRIQS/ctseg",
+        "avatar": "https://avatars.githubusercontent.com/u/1140373?v=4",
+        "description": "A segment picture impurity solver with spin-spin interactions. ",
+        "topics": []
+    },
+    {
         "uid": "github/TRIQS/solid_dmft",
         "url": "https://github.com/TRIQS/solid_dmft",
         "rel": "/software/repository/github/TRIQS/solid_dmft",
@@ -16705,6 +16779,24 @@
         "avatar": "https://avatars.githubusercontent.com/u/55396775?v=4",
         "description": "An atmospheric growth and evolution model based on the EVo degassing model and FastChem 2.0",
         "topics": []
+    },
+    {
+        "uid": "github/gerlero/foamlib",
+        "url": "https://github.com/gerlero/foamlib",
+        "rel": "/software/repository/github/gerlero/foamlib",
+        "avatar": "https://avatars.githubusercontent.com/u/15150530?v=4",
+        "description": "A modern Python package for interacting with OpenFOAM",
+        "topics": [
+            "asyncio",
+            "openfoam",
+            "parsing",
+            "python",
+            "cases",
+            "dictionaries",
+            "fields",
+            "files",
+            "slurm"
+        ]
     },
     {
         "uid": "github/backyardworlds/wiseview",
@@ -20336,6 +20428,14 @@
         "rel": "/software/repository/github/pjedge/longshot",
         "avatar": "https://avatars.githubusercontent.com/u/6822632?v=4",
         "description": "diploid SNV caller for error-prone reads",
+        "topics": []
+    },
+    {
+        "uid": "github/OpenGene/repaq",
+        "url": "https://github.com/OpenGene/repaq",
+        "rel": "/software/repository/github/OpenGene/repaq",
+        "avatar": "https://avatars.githubusercontent.com/u/16162853?v=4",
+        "description": "A fast lossless FASTQ compressor with ultra-high compression ratio",
         "topics": []
     },
     {
@@ -25983,6 +26083,14 @@
         "rel": "/software/repository/github/fhtouma/subgen2",
         "avatar": "https://avatars.githubusercontent.com/u/142860589?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/SnirMeiri/LCOI_local_crystalline_orientation_identifier",
+        "url": "https://github.com/SnirMeiri/LCOI_local_crystalline_orientation_identifier",
+        "rel": "/software/repository/github/SnirMeiri/LCOI_local_crystalline_orientation_identifier",
+        "avatar": "https://avatars.githubusercontent.com/u/98456826?v=4",
+        "description": "MATLAB based application for colloidal crystal's directionality detection and analysis. Applies to microscope images of the crystal's cross-section. Able to detect triangular, rectangular and hexagonal local order.",
         "topics": []
     },
     {
@@ -32650,6 +32758,20 @@
         "topics": []
     },
     {
+        "uid": "github/ORNL/AdditiveFOAM",
+        "url": "https://github.com/ORNL/AdditiveFOAM",
+        "rel": "/software/repository/github/ORNL/AdditiveFOAM",
+        "avatar": "https://avatars.githubusercontent.com/u/5138006?v=4",
+        "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
+        "topics": [
+            "openfoam",
+            "additive-manufactering",
+            "fluid-flow",
+            "heat-transport",
+            "simulation-modeling"
+        ]
+    },
+    {
         "uid": "github/ORNL/Equilipy",
         "url": "https://github.com/ORNL/Equilipy",
         "rel": "/software/repository/github/ORNL/Equilipy",
@@ -34098,6 +34220,14 @@
         "rel": "/software/repository/github/WhaleConnect/whaleconnect",
         "avatar": "https://avatars.githubusercontent.com/u/174279898?v=4",
         "description": "Cross-platform network communication software",
+        "topics": []
+    },
+    {
+        "uid": "github/Genentech/SPEX",
+        "url": "https://github.com/Genentech/spex",
+        "rel": "/software/repository/github/Genentech/SPEX",
+        "avatar": "https://avatars.githubusercontent.com/u/3913764?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -41562,6 +41692,14 @@
         ]
     },
     {
+        "uid": "github/wal-yan/target-methylseq-qc",
+        "url": "https://github.com/wal-yan/target-methylseq-qc",
+        "rel": "/software/repository/github/wal-yan/target-methylseq-qc",
+        "avatar": "https://avatars.githubusercontent.com/u/132333411?v=4",
+        "description": "A lightweight pipeline for collecting Picard metrics from targeted sequence mapping files.",
+        "topics": []
+    },
+    {
         "uid": "github/mne-tools/mne-icalabel",
         "url": "https://github.com/mne-tools/mne-icalabel",
         "rel": "/software/repository/github/mne-tools/mne-icalabel",
@@ -47093,6 +47231,14 @@
         "topics": []
     },
     {
+        "uid": "github/SimVascular/svZeroDSolver",
+        "url": "https://github.com/SimVascular/svZeroDSolver",
+        "rel": "/software/repository/github/SimVascular/svZeroDSolver",
+        "avatar": "https://avatars.githubusercontent.com/u/13788322?v=4",
+        "description": "A C++ lumped-parameter solver for blood flow and pressure in hemodynamic networks",
+        "topics": []
+    },
+    {
         "uid": "github/mary77/scQcut",
         "url": "https://github.com/mary77/scQcut",
         "rel": "/software/repository/github/mary77/scQcut",
@@ -49841,6 +49987,14 @@
         "topics": [
             "pipeline"
         ]
+    },
+    {
+        "uid": "github/Simthembile/cosmo-pipeline",
+        "url": "https://github.com/Simthembile/cosmo-pipeline",
+        "rel": "/software/repository/github/Simthembile/cosmo-pipeline",
+        "avatar": "https://avatars.githubusercontent.com/u/20681273?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/debian-tex/texlive-nonbin",
@@ -53189,6 +53343,30 @@
         "topics": []
     },
     {
+        "uid": "github/deephyper/deephyper",
+        "url": "https://github.com/deephyper/deephyper",
+        "rel": "/software/repository/github/deephyper/deephyper",
+        "avatar": "https://avatars.githubusercontent.com/u/44810957?v=4",
+        "description": "DeepHyper: Scalable Asynchronous Neural Architecture and Hyperparameter Search for Deep Neural Networks",
+        "topics": [
+            "automl",
+            "scalability",
+            "neural-architecture-search",
+            "hyperparameter-optimization",
+            "python",
+            "tensorflow",
+            "keras",
+            "deep-learning",
+            "hpc",
+            "machine-learning",
+            "multi-fidelity",
+            "pytorch",
+            "uncertainty-quantification",
+            "mpi",
+            "raylib"
+        ]
+    },
+    {
         "uid": "github/jorgefz/photoevolver",
         "url": "https://github.com/jorgefz/photoevolver",
         "rel": "/software/repository/github/jorgefz/photoevolver",
@@ -53356,6 +53534,19 @@
             "16s",
             "silva",
             "bioinformatics"
+        ]
+    },
+    {
+        "uid": "github/aris-mav/NMRInversions.jl",
+        "url": "https://github.com/aris-mav/NMRInversions.jl",
+        "rel": "/software/repository/github/aris-mav/NMRInversions.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/116081909?v=4",
+        "description": "Numerical inversions for Nuclear Magnetic Resonance relaxation and diffusion experiments.  Click on the link below for the full documentation.",
+        "topics": [
+            "inverse-problems",
+            "nmr",
+            "nmr-relaxation",
+            "nmr-diffusion"
         ]
     },
     {
@@ -53708,6 +53899,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/52996140?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/morrowcj/remotePARTS",
+        "url": "https://github.com/morrowcj/remotePARTS",
+        "rel": "/software/repository/github/morrowcj/remotePARTS",
+        "avatar": "https://avatars.githubusercontent.com/u/25436787?v=4",
+        "description": "remotePARTS is a set of tools for running Partitioned spatio-temporal auto regression analyses on remotely-sensed data sets. ",
+        "topics": [
+            "remote-sensing-in-r",
+            "statistical-analysis",
+            "big-data",
+            "autocorrelation"
+        ]
     },
     {
         "uid": "github/twopin/CAMP",
@@ -55999,6 +56203,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/10173557?v=4",
         "description": "Local Likelihood Inference for Conditional Copulas",
         "topics": []
+    },
+    {
+        "uid": "github/ANP-Granular/ParticleTracking",
+        "url": "https://github.com/ANP-Granular/ParticleTracking",
+        "rel": "/software/repository/github/ANP-Granular/ParticleTracking",
+        "avatar": "https://avatars.githubusercontent.com/u/110225052?v=4",
+        "description": "Library and GUI for tracking (rod-like) particles on camera images in 2D and 3D",
+        "topics": [
+            "3d-reconstruction",
+            "microgravity",
+            "object-detection",
+            "physics"
+        ]
     },
     {
         "uid": "github/VegeWaterDynamics/motrainer",
@@ -58957,6 +59174,14 @@
             "numpy",
             "python"
         ]
+    },
+    {
+        "uid": "github/LLNL/popclass",
+        "url": "https://github.com/LLNL/popclass",
+        "rel": "/software/repository/github/LLNL/popclass",
+        "avatar": "https://avatars.githubusercontent.com/u/5921419?v=4",
+        "description": "A  python package that allows flexible, probabilistic classification of a microlensing event",
+        "topics": []
     },
     {
         "uid": "github/LLNL/echemfem",
@@ -63740,6 +63965,23 @@
         ]
     },
     {
+        "uid": "github/kcleal/dysgu",
+        "url": "https://github.com/kcleal/dysgu",
+        "rel": "/software/repository/github/kcleal/dysgu",
+        "avatar": "https://avatars.githubusercontent.com/u/42997789?v=4",
+        "description": "Toolkit for calling structural variants using short or long reads",
+        "topics": [
+            "genomics",
+            "bioinformatics",
+            "structural-variation",
+            "variant-calling",
+            "paired-end",
+            "long-read",
+            "structural",
+            "variant"
+        ]
+    },
+    {
         "uid": "github/csj607/STaRS",
         "url": "https://github.com/csj607/STaRS",
         "rel": "/software/repository/github/csj607/STaRS",
@@ -63834,6 +64076,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/13975528?v=4",
         "description": "Couple MFEM and MGIS",
         "topics": []
+    },
+    {
+        "uid": "github/thelfer/MFrontGallery",
+        "url": "https://github.com/thelfer/MFrontGallery",
+        "rel": "/software/repository/github/thelfer/MFrontGallery",
+        "avatar": "https://avatars.githubusercontent.com/u/13975528?v=4",
+        "description": "This project shows how to create a compilation project for MFront properties, behaviours and models",
+        "topics": [
+            "heat-transfer",
+            "material-properties",
+            "solid-mechanics",
+            "material-knowledge-management",
+            "mfront"
+        ]
     },
     {
         "uid": "github/astro-informatics/s2fft",
@@ -64013,6 +64269,17 @@
             "optimization",
             "c-plus-plus",
             "scikit-hep"
+        ]
+    },
+    {
+        "uid": "github/scikit-hep/vector",
+        "url": "https://github.com/scikit-hep/vector",
+        "rel": "/software/repository/github/scikit-hep/vector",
+        "avatar": "https://avatars.githubusercontent.com/u/23454624?v=4",
+        "description": "Vector classes and utilities",
+        "topics": [
+            "scikit-hep",
+            "vector"
         ]
     },
     {
