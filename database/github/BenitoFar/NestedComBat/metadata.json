@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/BenitoFar/NestedComBat",
+    "url": "https://github.com/BenitoFar/NestedComBat",
+    "data": {
+        "name": "NestedComBat",
+        "url": "https://github.com/BenitoFar/NestedComBat",
+        "full_name": "BenitoFar/NestedComBat",
+        "html_url": "https://github.com/BenitoFar/NestedComBat",
+        "private": false,
+        "description": null,
+        "created_at": "2024-09-25T14:50:00Z",
+        "updated_at": "2025-05-22T12:19:48Z",
+        "clone_url": "https://github.com/BenitoFar/NestedComBat.git",
+        "homepage": null,
+        "size": 505,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/BenitoFar",
+            "avatar_url": "https://avatars.githubusercontent.com/u/151839096?v=4",
+            "login": "BenitoFar",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2025-06-01 01:02:46.512937",
+        "avatar": "https://avatars.githubusercontent.com/u/151839096?v=4"
+    }
+}
