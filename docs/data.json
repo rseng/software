@@ -1850,6 +1850,14 @@
         ]
     },
     {
+        "uid": "github/AgatheSenellart/MultiVae",
+        "url": "https://github.com/AgatheSenellart/MultiVae",
+        "rel": "/software/repository/github/AgatheSenellart/MultiVae",
+        "avatar": "https://avatars.githubusercontent.com/u/60698682?v=4",
+        "description": "Unifying Multimodal Variational Autoencoders (VAEs) in Pytorch",
+        "topics": []
+    },
+    {
         "uid": "github/HorvathLab/ReQTL",
         "url": "https://github.com/HorvathLab/ReQTL",
         "rel": "/software/repository/github/HorvathLab/ReQTL",
@@ -2292,6 +2300,14 @@
             "graph",
             "mmdetection"
         ]
+    },
+    {
+        "uid": "github/RichardPIII/Cumulative-Time-Dilation",
+        "url": "https://github.com/RichardPIII/Cumulative-Time-Dilation",
+        "rel": "/software/repository/github/RichardPIII/Cumulative-Time-Dilation",
+        "avatar": "https://avatars.githubusercontent.com/u/197427316?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/exciting/excitingtools",
@@ -4748,6 +4764,14 @@
         "topics": []
     },
     {
+        "uid": "github/DenaJGibbon/gibbonNetR",
+        "url": "https://github.com/DenaJGibbon/gibbonNetR",
+        "rel": "/software/repository/github/DenaJGibbon/gibbonNetR",
+        "avatar": "https://avatars.githubusercontent.com/u/26265144?v=4",
+        "description": "R package to use 'torch for R' for automated detection using convolutional neural nets in passive acoustic monitoring (PAM) data",
+        "topics": []
+    },
+    {
         "uid": "github/PabloMSanAla/fabada",
         "url": "https://github.com/PabloMSanAla/fabada",
         "rel": "/software/repository/github/PabloMSanAla/fabada",
@@ -5258,6 +5282,25 @@
             "pulsars",
             "ionised-media",
             "radio-astronomy"
+        ]
+    },
+    {
+        "uid": "github/BMCV/giatools",
+        "url": "https://github.com/BMCV/giatools",
+        "rel": "/software/repository/github/BMCV/giatools",
+        "avatar": "https://avatars.githubusercontent.com/u/24603562?v=4",
+        "description": "Tools required for Galaxy Image Analysis",
+        "topics": []
+    },
+    {
+        "uid": "github/BMCV/galaxy-image-analysis",
+        "url": "https://github.com/BMCV/galaxy-image-analysis",
+        "rel": "/software/repository/github/BMCV/galaxy-image-analysis",
+        "avatar": "https://avatars.githubusercontent.com/u/24603562?v=4",
+        "description": "Galaxy tools for image analysis",
+        "topics": [
+            "usegalaxy",
+            "usegalaxy-eu"
         ]
     },
     {
@@ -6599,6 +6642,18 @@
         "topics": []
     },
     {
+        "uid": "github/m2aia/pym2aia",
+        "url": "https://github.com/m2aia/pym2aia",
+        "rel": "/software/repository/github/m2aia/pym2aia",
+        "avatar": "https://avatars.githubusercontent.com/u/115093852?v=4",
+        "description": "pyM\u00b2aia is a Python package for memory-efficient access and processing of mass spectrometry image data. The I/O functionality is derived from the interactive desktop application M\u00b2aia. Special features are the batch generator utilities for deep learning applications.",
+        "topics": [
+            "mass-spectrometry-imaging",
+            "python",
+            "deep-learning"
+        ]
+    },
+    {
         "uid": "github/m2aia/m2aia",
         "url": "https://github.com/m2aia/m2aia",
         "rel": "/software/repository/github/m2aia/m2aia",
@@ -7256,6 +7311,14 @@
         "rel": "/software/repository/github/tariks/peakachu",
         "avatar": "https://avatars3.githubusercontent.com/u/3433086?v=4",
         "description": "Genome-wide contact analysis using sklearn",
+        "topics": []
+    },
+    {
+        "uid": "github/emsig/elfe3D",
+        "url": "https://github.com/emsig/elfe3D",
+        "rel": "/software/repository/github/emsig/elfe3D",
+        "avatar": "https://avatars.githubusercontent.com/u/27303180?v=4",
+        "description": "Modelling with the total electric field approach using finite elements in 3-D",
         "topics": []
     },
     {
@@ -8549,6 +8612,14 @@
         "rel": "/software/repository/github/bwkeller/PASTA",
         "avatar": "https://avatars.githubusercontent.com/u/935082?v=4",
         "description": "Python Astronomical Stacking Tool Array",
+        "topics": []
+    },
+    {
+        "uid": "github/horvatovichlab/MSIWarp",
+        "url": "https://github.com/horvatovichlab/MSIWarp",
+        "rel": "/software/repository/github/horvatovichlab/MSIWarp",
+        "avatar": "https://avatars.githubusercontent.com/u/19997545?v=4",
+        "description": "MAss spectra alignment tool for MSI data",
         "topics": []
     },
     {
@@ -10569,6 +10640,24 @@
         ]
     },
     {
+        "uid": "github/Ecos-platform/ecos",
+        "url": "https://github.com/Ecos-platform/ecos",
+        "rel": "/software/repository/github/Ecos-platform/ecos",
+        "avatar": "https://avatars.githubusercontent.com/u/89104260?v=4",
+        "description": "A simple, fast and easy to use co-simulation engine.",
+        "topics": [
+            "co-simulation",
+            "fmi-standard",
+            "ssp-standard",
+            "command-line-tool",
+            "cpp20",
+            "fmi2",
+            "fmi3",
+            "python3",
+            "fmi1"
+        ]
+    },
+    {
         "uid": "github/ElectionDataAnalysis/electiondata",
         "url": "https://github.com/ElectionDataAnalysis/electiondata",
         "rel": "/software/repository/github/ElectionDataAnalysis/electiondata",
@@ -11629,6 +11718,32 @@
             "benchmarking-framework",
             "scikit-learn",
             "automl"
+        ]
+    },
+    {
+        "uid": "github/izsvenezie-virology/FluMut",
+        "url": "https://github.com/izsvenezie-virology/FluMut",
+        "rel": "/software/repository/github/izsvenezie-virology/FluMut",
+        "avatar": "https://avatars.githubusercontent.com/u/172770299?v=4",
+        "description": "FluMut is a command-line tool to find markers of interest in H5N1 avian influenza viruses.",
+        "topics": [
+            "avian-influenza",
+            "virology",
+            "flumut",
+            "izsve",
+            "izsvenezie",
+            "zoonotic-markers"
+        ]
+    },
+    {
+        "uid": "github/izsvenezie-virology/genin2",
+        "url": "https://github.com/izsvenezie-virology/genin2",
+        "rel": "/software/repository/github/izsvenezie-virology/genin2",
+        "avatar": "https://avatars.githubusercontent.com/u/172770299?v=4",
+        "description": "Genin2 is a lightining-fast bioinformatic tool to predict genotypes for H5 viruses belonging to the European clade 2.3.4.4b",
+        "topics": [
+            "avian-influenza",
+            "genotype-identification"
         ]
     },
     {
@@ -17386,6 +17501,14 @@
         ]
     },
     {
+        "uid": "github/OpenHPS/openhps-core",
+        "url": "https://github.com/OpenHPS/openhps-core",
+        "rel": "/software/repository/github/OpenHPS/openhps-core",
+        "avatar": "https://avatars.githubusercontent.com/u/64551958?v=4",
+        "description": "OpenHPS: Core Component",
+        "topics": []
+    },
+    {
         "uid": "github/JamesKirk11/Tiberius",
         "url": "https://github.com/JamesKirk11/Tiberius",
         "rel": "/software/repository/github/JamesKirk11/Tiberius",
@@ -20281,6 +20404,14 @@
         "rel": "/software/repository/github/ycwu1030/EvoEMD",
         "avatar": "https://avatars.githubusercontent.com/u/39174521?v=4",
         "description": "Evolution with an Early Matter-Dominated era",
+        "topics": []
+    },
+    {
+        "uid": "github/bauer-alex/fuzzyclara",
+        "url": "https://github.com/bauer-alex/fuzzyclara",
+        "rel": "/software/repository/github/bauer-alex/fuzzyclara",
+        "avatar": "https://avatars.githubusercontent.com/u/20172676?v=4",
+        "description": "Efficient medoid-based clustering algorithms for large and fuzzy data",
         "topics": []
     },
     {
@@ -24811,6 +24942,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/ImperialCollegeLondon/SWMManywhere",
+        "url": "https://github.com/ImperialCollegeLondon/SWMManywhere",
+        "rel": "/software/repository/github/ImperialCollegeLondon/SWMManywhere",
+        "avatar": "https://avatars.githubusercontent.com/u/1220306?v=4",
+        "description": "SWMManywhere is used to derive and simulate a sewer network anywhere in the world",
+        "topics": [
+            "hacktoberfest",
+            "hydrology-stormwater-analysis",
+            "python",
+            "stormwater",
+            "swmm",
+            "swmm5",
+            "hydraulic-modelling",
+            "swmmanywhere"
+        ]
     },
     {
         "uid": "github/ImperialCollegeLondon/rcs-pacemakers",
@@ -31319,6 +31467,30 @@
         ]
     },
     {
+        "uid": "github/aslan-ng/keepdelta",
+        "url": "https://github.com/aslan-ng/keepdelta",
+        "rel": "/software/repository/github/aslan-ng/keepdelta",
+        "avatar": "https://avatars.githubusercontent.com/u/42834665?v=4",
+        "description": "A Python Library for Human-Readable Data Differencing",
+        "topics": [
+            "data-structures",
+            "delta-compression",
+            "delta-encoding",
+            "python",
+            "sensing",
+            "simulation",
+            "change-tracking",
+            "diff",
+            "data-differencing",
+            "differential-compression",
+            "human-readable",
+            "nested",
+            "reconstruction",
+            "keepdelta",
+            "recursive"
+        ]
+    },
+    {
         "uid": "github/EoRImaging/FHD",
         "url": "https://github.com/EoRImaging/FHD",
         "rel": "/software/repository/github/EoRImaging/FHD",
@@ -31839,6 +32011,16 @@
             "benchmarks",
             "low-latency",
             "high-performance"
+        ]
+    },
+    {
+        "uid": "github/michalc/OpenTTDLab",
+        "url": "https://github.com/michalc/OpenTTDLab",
+        "rel": "/software/repository/github/michalc/OpenTTDLab",
+        "avatar": "https://avatars.githubusercontent.com/u/13877?v=4",
+        "description": "A Python framework for running reproducible experiments using OpenTTD",
+        "topics": [
+            "openttd"
         ]
     },
     {
@@ -38234,6 +38416,14 @@
         ]
     },
     {
+        "uid": "github/hjozwiak-umk/bigos_h2he",
+        "url": "https://github.com/hjozwiak-umk/bigos_h2he",
+        "rel": "/software/repository/github/hjozwiak-umk/bigos_h2he",
+        "avatar": "https://avatars.githubusercontent.com/u/70630776?v=4",
+        "description": "the SCATTERING code from the BIGOS package adjusted for diatom-atom calculations",
+        "topics": []
+    },
+    {
         "uid": "github/ixkael/QuickSip",
         "url": "https://github.com/ixkael/QuickSip",
         "rel": "/software/repository/github/ixkael/QuickSip",
@@ -38688,6 +38878,14 @@
         "rel": "/software/repository/github/davidogara/hetGPy",
         "avatar": "https://avatars.githubusercontent.com/u/21281981?v=4",
         "description": "Python implementation of the hetGP R package",
+        "topics": []
+    },
+    {
+        "uid": "github/astrostat/TD-CARMA",
+        "url": "https://github.com/astrostat/TD-CARMA",
+        "rel": "/software/repository/github/astrostat/TD-CARMA",
+        "avatar": "https://avatars.githubusercontent.com/u/7632236?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -39421,6 +39619,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/25983686?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/chenzhaiyu/abspy",
+        "url": "https://github.com/chenzhaiyu/abspy",
+        "rel": "/software/repository/github/chenzhaiyu/abspy",
+        "avatar": "https://avatars.githubusercontent.com/u/24312770?v=4",
+        "description": "3D adaptive binary space partitioning and beyond",
+        "topics": [
+            "point-cloud",
+            "3d",
+            "adaptive",
+            "binary-space-partition",
+            "reconstruction",
+            "python"
+        ]
     },
     {
         "uid": "github/Pas-Kapli/mptp",
@@ -48036,6 +48249,14 @@
         ]
     },
     {
+        "uid": "github/LaRoccaRaphael/MSI_recalibration",
+        "url": "https://github.com/LaRoccaRaphael/MSI_recalibration",
+        "rel": "/software/repository/github/LaRoccaRaphael/MSI_recalibration",
+        "avatar": "https://avatars.githubusercontent.com/u/70296317?v=4",
+        "description": "Using Biological Signals for Mass Recalibration of Mass Spectrometry Imaging Data",
+        "topics": []
+    },
+    {
         "uid": "github/hmtabernero/SteParSyn",
         "url": "https://github.com/hmtabernero/SteParSyn",
         "rel": "/software/repository/github/hmtabernero/SteParSyn",
@@ -51102,6 +51323,14 @@
         ]
     },
     {
+        "uid": "github/hibridon/hibridon",
+        "url": "https://github.com/hibridon/hibridon",
+        "rel": "/software/repository/github/hibridon/hibridon",
+        "avatar": "https://avatars.githubusercontent.com/u/81297253?v=4",
+        "description": "Hibridon is a program package to solve the close-coupled equations which occur in the quantum treatment of inelastic atomic and molecular collisions. Gas-phase scattering, photodissociation, collisions of atoms and/or molecules with flat surfaces, and bound states of weakly-bound complexes can be treated",
+        "topics": []
+    },
+    {
         "uid": "github/beastraban/INSANE",
         "url": "https://github.com/beastraban/INSANE",
         "rel": "/software/repository/github/beastraban/INSANE",
@@ -53273,6 +53502,14 @@
         ]
     },
     {
+        "uid": "github/utpal-singh/SAnTex",
+        "url": "https://github.com/utpal-singh/SAnTex",
+        "rel": "/software/repository/github/utpal-singh/SAnTex",
+        "avatar": "https://avatars.githubusercontent.com/u/63436627?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/H-E-L-P/XID_plus",
         "url": "https://github.com/H-E-L-P/XID_plus",
         "rel": "/software/repository/github/H-E-L-P/XID_plus",
@@ -53763,6 +54000,14 @@
         "uid": "github/evolbioinfo/bdpn",
         "url": "https://github.com/evolbioinfo/bdpn",
         "rel": "/software/repository/github/evolbioinfo/bdpn",
+        "avatar": "https://avatars.githubusercontent.com/u/25950370?v=4",
+        "description": "Birth-death epidemiological parameter estimator accounting for partner notification",
+        "topics": []
+    },
+    {
+        "uid": "github/evolbioinfo/bdct",
+        "url": "https://github.com/evolbioinfo/bdct",
+        "rel": "/software/repository/github/evolbioinfo/bdct",
         "avatar": "https://avatars.githubusercontent.com/u/25950370?v=4",
         "description": "Birth-death epidemiological parameter estimator accounting for partner notification",
         "topics": []
@@ -54607,6 +54852,14 @@
         "rel": "/software/repository/github/tony-travis/PIQUE",
         "avatar": "https://avatars.githubusercontent.com/u/4498665?v=4",
         "description": "Parallel Identification of QTL's Using EMMAX",
+        "topics": []
+    },
+    {
+        "uid": "github/blobtoolkit/viewer",
+        "url": "https://github.com/blobtoolkit/viewer",
+        "rel": "/software/repository/github/blobtoolkit/viewer",
+        "avatar": "https://avatars.githubusercontent.com/u/29755752?v=4",
+        "description": "[Archived] BlobToolKit API and viewer code",
         "topics": []
     },
     {
@@ -57191,6 +57444,19 @@
         "topics": []
     },
     {
+        "uid": "github/phitterio/phitter-kernel",
+        "url": "https://github.com/phitter-core/phitter-kernel",
+        "rel": "/software/repository/github/phitterio/phitter-kernel",
+        "avatar": "https://avatars.githubusercontent.com/u/106888809?v=4",
+        "description": "Phitter is a python library for accurately fitting statistical distributions to datasets, offering intuitive usage, comprehensive visualization, and support for multiple distributions to enhance data analysis projects.",
+        "topics": [
+            "operations-research",
+            "probability-distribution",
+            "probability-models",
+            "simulation"
+        ]
+    },
+    {
         "uid": "github/oscaribv/exotrending",
         "url": "https://github.com/oscaribv/exotrending",
         "rel": "/software/repository/github/oscaribv/exotrending",
@@ -57573,6 +57839,17 @@
             "pharmacodynamics",
             "systems-pharmacology",
             "systems-biology"
+        ]
+    },
+    {
+        "uid": "github/HuttleyLab/DiverseSeq",
+        "url": "https://github.com/HuttleyLab/DiverseSeq",
+        "rel": "/software/repository/github/HuttleyLab/DiverseSeq",
+        "avatar": "https://avatars.githubusercontent.com/u/54967899?v=4",
+        "description": "Tools for analysis of sequence divergence",
+        "topics": [
+            "bioinformatics",
+            "phylogenetics"
         ]
     },
     {
@@ -66777,6 +67054,14 @@
         "topics": []
     },
     {
+        "uid": "github/gabo-di/AquaCrop.jl",
+        "url": "https://github.com/gabo-di/AquaCrop.jl",
+        "rel": "/software/repository/github/gabo-di/AquaCrop.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/53311264?v=4",
+        "description": "FAO's Aqua Crop in Julia as part of Persefone.jl",
+        "topics": []
+    },
+    {
         "uid": "github/flu-crew/smot",
         "url": "https://github.com/flu-crew/smot",
         "rel": "/software/repository/github/flu-crew/smot",
@@ -67725,6 +68010,14 @@
         "topics": []
     },
     {
+        "uid": "github/basp-group/AIRI",
+        "url": "https://github.com/basp-group/AIRI",
+        "rel": "/software/repository/github/basp-group/AIRI",
+        "avatar": "https://avatars.githubusercontent.com/u/3670102?v=4",
+        "description": "\"AI for Regularisation in Imaging\" plug-and-play algorithms for computational imaging",
+        "topics": []
+    },
+    {
         "uid": "github/basp-group/sopt",
         "url": "https://github.com/basp-group/sopt",
         "rel": "/software/repository/github/basp-group/sopt",
@@ -68157,6 +68450,14 @@
         "rel": "/software/repository/github/ebellm/pyraf-dbsp",
         "avatar": "https://avatars.githubusercontent.com/u/733983?v=4",
         "description": " :telescope: A PyRAF-based reduction pipeline for spectra taken with the Palomar 200-inch Double Spectrograph.",
+        "topics": []
+    },
+    {
+        "uid": "github/spexod/iSLAT",
+        "url": "https://github.com/spexod/iSLAT",
+        "rel": "/software/repository/github/spexod/iSLAT",
+        "avatar": "https://avatars.githubusercontent.com/u/107328517?v=4",
+        "description": null,
         "topics": []
     },
     {

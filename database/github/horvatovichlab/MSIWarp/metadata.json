@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/horvatovichlab/MSIWarp",
+    "url": "https://github.com/horvatovichlab/MSIWarp",
+    "data": {
+        "doi": "10.1021/acs.analchem.0c03833",
+        "name": "MSIWarp",
+        "url": "https://github.com/horvatovichlab/MSIWarp",
+        "full_name": "horvatovichlab/MSIWarp",
+        "html_url": "https://github.com/horvatovichlab/MSIWarp",
+        "description": "MAss spectra alignment tool for MSI data",
+        "created_at": "2020-11-08T17:16:25Z",
+        "updated_at": "2025-02-13T08:56:04Z",
+        "clone_url": "https://github.com/horvatovichlab/MSIWarp.git",
+        "size": 903,
+        "stargazers_count": 19,
+        "watchers_count": 19,
+        "language": "C++",
+        "open_issues_count": 7,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/horvatovichlab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19997545?v=4",
+            "login": "horvatovichlab",
+            "type": "User"
+        },
+        "timestamp": "2025-06-08 00:57:24.908289",
+        "avatar": "https://avatars.githubusercontent.com/u/19997545?v=4"
+    }
+}
