@@ -3887,6 +3887,20 @@
         "topics": []
     },
     {
+        "uid": "github/Nextomics/NextDenovo",
+        "url": "https://github.com/Nextomics/NextDenovo",
+        "rel": "/software/repository/github/Nextomics/NextDenovo",
+        "avatar": "https://avatars.githubusercontent.com/u/17420776?v=4",
+        "description": "Fast and accurate de novo assembler for long reads",
+        "topics": [
+            "genome-assembly",
+            "long-reads",
+            "assembler",
+            "oxford-nanopore",
+            "pacbio"
+        ]
+    },
+    {
         "uid": "github/gbernstein/gbdes",
         "url": "https://github.com/gbernstein/gbdes",
         "rel": "/software/repository/github/gbernstein/gbdes",
@@ -4551,6 +4565,14 @@
             "python-ast",
             "ast-matcher"
         ]
+    },
+    {
+        "uid": "github/CNuge/BOLD-CLI",
+        "url": "https://github.com/CNuge/BOLD-CLI",
+        "rel": "/software/repository/github/CNuge/BOLD-CLI",
+        "avatar": "https://avatars.githubusercontent.com/u/17327173?v=4",
+        "description": "Command line interface for the retrieval of data from http://www.boldsystems.org",
+        "topics": []
     },
     {
         "uid": "github/equitable-equations/fqar",
@@ -9895,6 +9917,14 @@
         ]
     },
     {
+        "uid": "github/mamartinod/grip-nulling",
+        "url": "https://github.com/mamartinod/grip-nulling",
+        "rel": "/software/repository/github/mamartinod/grip-nulling",
+        "avatar": "https://avatars.githubusercontent.com/u/4233805?v=4",
+        "description": "Nulling Data Processing Software",
+        "topics": []
+    },
+    {
         "uid": "github/alexfields/ORF-RATER",
         "url": "https://github.com/alexfields/ORF-RATER",
         "rel": "/software/repository/github/alexfields/ORF-RATER",
@@ -13795,6 +13825,14 @@
         "rel": "/software/repository/github/samtools/bcftools",
         "avatar": "https://avatars.githubusercontent.com/u/1518450?v=4",
         "description": "This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html",
+        "topics": []
+    },
+    {
+        "uid": "github/mahulchak/quickmerge",
+        "url": "https://github.com/mahulchak/quickmerge",
+        "rel": "/software/repository/github/mahulchak/quickmerge",
+        "avatar": "https://avatars.githubusercontent.com/u/7537640?v=4",
+        "description": "A simple and fast metassembler and assembly gap filler designed for long molecule based assemblies.",
         "topics": []
     },
     {
@@ -23783,6 +23821,21 @@
         "topics": []
     },
     {
+        "uid": "github/sneumann/xcms",
+        "url": "https://github.com/sneumann/xcms",
+        "rel": "/software/repository/github/sneumann/xcms",
+        "avatar": "https://avatars.githubusercontent.com/u/195385?v=4",
+        "description": "This is the git repository matching the Bioconductor package xcms: LC/MS and GC/MS Data Analysis",
+        "topics": [
+            "bioconductor",
+            "metabolomics",
+            "mass-spectrometry",
+            "peak-detection",
+            "feature-detection",
+            "r"
+        ]
+    },
+    {
         "uid": "github/jonaspleyer/cellular_raza",
         "url": "https://github.com/jonaspleyer/cellular_raza",
         "rel": "/software/repository/github/jonaspleyer/cellular_raza",
@@ -23823,6 +23876,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/125552939?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/levuvietphong/pyTCR",
+        "url": "https://github.com/levuvietphong/pyTCR",
+        "rel": "/software/repository/github/levuvietphong/pyTCR",
+        "avatar": "https://avatars.githubusercontent.com/u/1987216?v=4",
+        "description": "A tropical cyclone rainfall model for python",
+        "topics": [
+            "climate",
+            "cyclone",
+            "modeling",
+            "rainfall"
+        ]
     },
     {
         "uid": "github/jharno/cubep3m",
@@ -28443,6 +28509,23 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaPOMDP/CompressedBeliefMDPs.jl",
+        "url": "https://github.com/JuliaPOMDP/CompressedBeliefMDPs.jl",
+        "rel": "/software/repository/github/JuliaPOMDP/CompressedBeliefMDPs.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/16347008?v=4",
+        "description": "A Julia package for solving POMDPs with belief compression. Part of the POMDPs.jl community.",
+        "topics": [
+            "artificial-intelligence",
+            "compression",
+            "dimensionality-reduction",
+            "julia",
+            "markov-decision-processes",
+            "mdps",
+            "pomdps",
+            "reinforcement-learning"
+        ]
+    },
+    {
         "uid": "github/mlr-org/mcboost",
         "url": "https://github.com/mlr-org/mcboost",
         "rel": "/software/repository/github/mlr-org/mcboost",
@@ -30814,6 +30897,16 @@
         "avatar": "https://avatars.githubusercontent.com/u/13909167?v=4",
         "description": "Toolkit to manipulate Gaia catalogue tables hosted at ESAC archive.",
         "topics": []
+    },
+    {
+        "uid": "github/huangnengCSU/compleasm",
+        "url": "https://github.com/huangnengCSU/compleasm",
+        "rel": "/software/repository/github/huangnengCSU/compleasm",
+        "avatar": "https://avatars.githubusercontent.com/u/28866823?v=4",
+        "description": "A genome completeness evaluation tool based on miniprot",
+        "topics": [
+            "bioinformatics"
+        ]
     },
     {
         "uid": "github/GOVS-pack/GOVS",
@@ -38953,6 +39046,14 @@
         "topics": []
     },
     {
+        "uid": "github/isovic/racon",
+        "url": "https://github.com/isovic/racon",
+        "rel": "/software/repository/github/isovic/racon",
+        "avatar": "https://avatars.githubusercontent.com/u/1976877?v=4",
+        "description": "Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads. http://genome.cshlp.org/content/early/2017/01/18/gr.214270.116 Note: This was the original repository which will no longer be officially maintained. Please use the new official repository here:",
+        "topics": []
+    },
+    {
         "uid": "github/isovic/graphmap",
         "url": "https://github.com/isovic/graphmap",
         "rel": "/software/repository/github/isovic/graphmap",
@@ -39920,6 +40021,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/16303138?v=4",
         "description": "A public moving mesh hydrodynamical integration code, including gravity and a collisionless component.",
         "topics": []
+    },
+    {
+        "uid": "github/pcubillos/gen_tso",
+        "url": "https://github.com/pcubillos/gen_tso",
+        "rel": "/software/repository/github/pcubillos/gen_tso",
+        "avatar": "https://avatars.githubusercontent.com/u/2119263?v=4",
+        "description": "A general TSO simulator for exoplanets with JWST",
+        "topics": [
+            "etc",
+            "exoplanets",
+            "jwst"
+        ]
     },
     {
         "uid": "github/pcubillos/mc3",
@@ -42593,6 +42706,14 @@
             "population-synthesis",
             "python"
         ]
+    },
+    {
+        "uid": "github/yapenzhang/excalibuhr",
+        "url": "https://github.com/yapenzhang/excalibuhr",
+        "rel": "/software/repository/github/yapenzhang/excalibuhr",
+        "avatar": "https://avatars.githubusercontent.com/u/45408119?v=4",
+        "description": "A pipeline for high-resolution spectral data reduction",
+        "topics": []
     },
     {
         "uid": "github/AbeelLab/lorikeet",
@@ -45543,6 +45664,14 @@
         ]
     },
     {
+        "uid": "github/rajmadan96/StochasticDominance.jl",
+        "url": "https://github.com/rajmadan96/StochasticDominance.jl",
+        "rel": "/software/repository/github/rajmadan96/StochasticDominance.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/62553056?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/MichielCottaar/velbin",
         "url": "https://github.com/MichielCottaar/velbin",
         "rel": "/software/repository/github/MichielCottaar/velbin",
@@ -46495,6 +46624,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/4458741?v=4",
         "description": "LOFAR solutions tool",
         "topics": []
+    },
+    {
+        "uid": "github/mantzaris/WunDeeDB.jl",
+        "url": "https://github.com/mantzaris/WunDeeDB.jl",
+        "rel": "/software/repository/github/mantzaris/WunDeeDB.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/11978807?v=4",
+        "description": "Your just-works / zero-config / embedded / WAL: vector database",
+        "topics": [
+            "embedded",
+            "julia",
+            "julialang",
+            "vector-database"
+        ]
     },
     {
         "uid": "github/mantzaris/LMDiskANN.jl",
@@ -48346,6 +48488,14 @@
         "topics": []
     },
     {
+        "uid": "github/fgerick/Limace.jl",
+        "url": "https://github.com/fgerick/Limace.jl",
+        "rel": "/software/repository/github/fgerick/Limace.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/12558460?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/gnudatalanguage/gdl",
         "url": "https://github.com/gnudatalanguage/gdl",
         "rel": "/software/repository/github/gnudatalanguage/gdl",
@@ -48899,6 +49049,14 @@
         "topics": []
     },
     {
+        "uid": "github/dfguan/purge_dups",
+        "url": "https://github.com/dfguan/purge_dups",
+        "rel": "/software/repository/github/dfguan/purge_dups",
+        "avatar": "https://avatars.githubusercontent.com/u/6100864?v=4",
+        "description": "haplotypic duplication identification tool",
+        "topics": []
+    },
+    {
         "uid": "github/Jwindler/PlotHiC",
         "url": "https://github.com/Jwindler/PlotHiC",
         "rel": "/software/repository/github/Jwindler/PlotHiC",
@@ -49121,6 +49279,17 @@
             "average-nucleotide-identity",
             "nearest-neighbor-search",
             "probminhash-similarity"
+        ]
+    },
+    {
+        "uid": "github/tao-bioinfo/MiFish",
+        "url": "https://github.com/tao-bioinfo/MiFish",
+        "rel": "/software/repository/github/tao-bioinfo/MiFish",
+        "avatar": "https://avatars.githubusercontent.com/u/1146090?v=4",
+        "description": "This is the command line version of MiFish pipeline. It can also be used with any other eDNA meta-barcoding primers",
+        "topics": [
+            "edna",
+            "edna-pipeline"
         ]
     },
     {
@@ -56319,6 +56488,14 @@
         ]
     },
     {
+        "uid": "github/stefanofisc/dartvetter_apj",
+        "url": "https://github.com/stefanofisc/dartvetter_apj",
+        "rel": "/software/repository/github/stefanofisc/dartvetter_apj",
+        "avatar": "https://avatars.githubusercontent.com/u/47246021?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/JoschaJ/mockFRBhosts",
         "url": "https://github.com/JoschaJ/mockFRBhosts",
         "rel": "/software/repository/github/JoschaJ/mockFRBhosts",
@@ -61336,6 +61513,14 @@
         "topics": []
     },
     {
+        "uid": "github/onsala-space-observatory/astromorph",
+        "url": "https://github.com/onsala-space-observatory/astromorph",
+        "rel": "/software/repository/github/onsala-space-observatory/astromorph",
+        "avatar": "https://avatars.githubusercontent.com/u/48208845?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/lightning-project/lightning",
         "url": "https://github.com/lightning-project/lightning",
         "rel": "/software/repository/github/lightning-project/lightning",
@@ -64236,6 +64421,14 @@
         "topics": []
     },
     {
+        "uid": "github/mikolmogorov/Flye",
+        "url": "https://github.com/mikolmogorov/Flye",
+        "rel": "/software/repository/github/mikolmogorov/Flye",
+        "avatar": "https://avatars.githubusercontent.com/u/2475380?v=4",
+        "description": "De novo assembler for single molecule sequencing reads using repeat graphs",
+        "topics": []
+    },
+    {
         "uid": "github/ylab-hi/ScanExitronLR",
         "url": "https://github.com/ylab-hi/ScanExitronLR",
         "rel": "/software/repository/github/ylab-hi/ScanExitronLR",
@@ -64957,6 +65150,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/557448?v=4",
         "description": "Astronomy plugins for Taverna Workbench",
         "topics": []
+    },
+    {
+        "uid": "github/cumbof/MetaSBT-DBs",
+        "url": "https://github.com/cumbof/MetaSBT-DBs",
+        "rel": "/software/repository/github/cumbof/MetaSBT-DBs",
+        "avatar": "https://avatars.githubusercontent.com/u/3764656?v=4",
+        "description": "MetaSBT public databases",
+        "topics": [
+            "databases",
+            "metagenome-assembled-genomes",
+            "metagenomics",
+            "reference-genomes",
+            "sequence-bloom-trees"
+        ]
     },
     {
         "uid": "github/cumbof/honto",
@@ -67272,6 +67479,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/988606?v=4",
         "description": "Tool for assessing/improving assembly quality in extra-long tandem repeats",
         "topics": []
+    },
+    {
+        "uid": "github/ablab/quast",
+        "url": "https://github.com/ablab/quast",
+        "rel": "/software/repository/github/ablab/quast",
+        "avatar": "https://avatars.githubusercontent.com/u/988606?v=4",
+        "description": "Genome assembly evaluation tool",
+        "topics": [
+            "bioinformatics",
+            "genome-assembly-evaluation",
+            "visualization",
+            "contigs"
+        ]
     },
     {
         "uid": "github/ablab/spades",
@@ -71253,6 +71473,14 @@
         "rel": "/software/repository/gitlab/chjordan/sslf",
         "avatar": "https://gitlab.comNone",
         "description": "Simple Spectral Line Finder",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/groimp-plugins/Pointcloud",
+        "url": "https://gitlab.com/groimp-plugins/pointcloud",
+        "rel": "/software/repository/gitlab/groimp-plugins/Pointcloud",
+        "avatar": "https://gitlab.comNone",
+        "description": null,
         "topics": []
     },
     {
