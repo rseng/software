@@ -111,6 +111,14 @@
         "topics": []
     },
     {
+        "uid": "github/slacgismo/solar-data-tools",
+        "url": "https://github.com/slacgismo/solar-data-tools",
+        "rel": "/software/repository/github/slacgismo/solar-data-tools",
+        "avatar": "https://avatars.githubusercontent.com/u/19895500?v=4",
+        "description": "Some data analysis tools for working with historical PV solar time-series data sets. ",
+        "topics": []
+    },
+    {
         "uid": "github/JMLascar/SUSHI",
         "url": "https://github.com/JMLascar/SUSHI",
         "rel": "/software/repository/github/JMLascar/SUSHI",
@@ -1602,6 +1610,33 @@
         "avatar": "https://avatars.githubusercontent.com/u/32969116?v=4",
         "description": "Data reduction pipeline for high-resolution transiting exoplanet observations with the IGRINS spectrograph on Gemini-S",
         "topics": []
+    },
+    {
+        "uid": "github/DFKI-NI/syclops",
+        "url": "https://github.com/DFKI-NI/syclops",
+        "rel": "/software/repository/github/DFKI-NI/syclops",
+        "avatar": "https://avatars.githubusercontent.com/u/69036303?v=4",
+        "description": "Syclops is a tool for creating synthetic data from 3D virtual environments with photorealistic renderings and pixel-perfect annotations.",
+        "topics": [
+            "3d-rendering",
+            "annotation",
+            "asset-management",
+            "bounding-boxes",
+            "computer-vision",
+            "data-generation",
+            "dataset-creation",
+            "depth-estimation",
+            "instance-segmentation",
+            "keypoints",
+            "machine-learning",
+            "photorealistic",
+            "point-clouds",
+            "randomization",
+            "semantic-segmentation",
+            "structured-light",
+            "synthetic-data",
+            "virtual-environments"
+        ]
     },
     {
         "uid": "github/bricoletc/delfies",
@@ -4550,6 +4585,14 @@
         "rel": "/software/repository/github/christopherburke/tess-point",
         "avatar": "https://avatars.githubusercontent.com/u/12038053?v=4",
         "description": "Determine pixel coordinates for TESS targets",
+        "topics": []
+    },
+    {
+        "uid": "github/IRL2/nanover-server-py",
+        "url": "https://github.com/IRL2/nanover-server-py",
+        "rel": "/software/repository/github/IRL2/nanover-server-py",
+        "avatar": "https://avatars.githubusercontent.com/u/1699106?v=4",
+        "description": "Interactive Molecular Dynamics (iMD) in VR",
         "topics": []
     },
     {
@@ -19700,6 +19743,14 @@
         ]
     },
     {
+        "uid": "github/matta-research-group/SwiftPol",
+        "url": "https://github.com/matta-research-group/SwiftPol",
+        "rel": "/software/repository/github/matta-research-group/SwiftPol",
+        "avatar": "https://avatars.githubusercontent.com/u/98654089?v=4",
+        "description": "Tools for polymer molecular dynamics simulations",
+        "topics": []
+    },
+    {
         "uid": "github/cblakeastro/intensitypower",
         "url": "https://github.com/cblakeastro/intensitypower",
         "rel": "/software/repository/github/cblakeastro/intensitypower",
@@ -33296,6 +33347,14 @@
         "topics": []
     },
     {
+        "uid": "github/maddataanalyst/hextractor",
+        "url": "https://github.com/maddataanalyst/hextractor",
+        "rel": "/software/repository/github/maddataanalyst/hextractor",
+        "avatar": "https://avatars.githubusercontent.com/u/33813997?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/JanLeppert/GasChromatographySimulator.jl",
         "url": "https://github.com/JanLeppert/GasChromatographySimulator.jl",
         "rel": "/software/repository/github/JanLeppert/GasChromatographySimulator.jl",
@@ -37666,6 +37725,26 @@
         ]
     },
     {
+        "uid": "github/m-shahbaz-kharal/LiGuard-JOSS",
+        "url": "https://github.com/m-shahbaz-kharal/LiGuard-JOSS",
+        "rel": "/software/repository/github/m-shahbaz-kharal/LiGuard-JOSS",
+        "avatar": "https://avatars.githubusercontent.com/u/9637550?v=4",
+        "description": "A research-purposed, GUI-powered, Python-based framework that allows easy development of dynamic point-cloud (and accompanying image) data processing pipelines.",
+        "topics": [
+            "bulk-operation",
+            "camera",
+            "image-processing",
+            "image-visualization",
+            "lidar",
+            "lidar-camera-fusion",
+            "open3d",
+            "opencv",
+            "point-cloud-processing",
+            "point-cloud-visualization",
+            "python"
+        ]
+    },
+    {
         "uid": "github/minterpy-project/minterpy",
         "url": "https://github.com/minterpy-project/minterpy",
         "rel": "/software/repository/github/minterpy-project/minterpy",
@@ -38914,6 +38993,30 @@
         "rel": "/software/repository/github/agsreejith/CONTROL",
         "avatar": "https://avatars.githubusercontent.com/u/32366864?v=4",
         "description": "V1.0 of CUTE data reduction pipeline",
+        "topics": []
+    },
+    {
+        "uid": "github/PimenoffV/VIBE",
+        "url": "https://github.com/PimenoffV/VIBE",
+        "rel": "/software/repository/github/PimenoffV/VIBE",
+        "avatar": "https://avatars.githubusercontent.com/u/56830098?v=4",
+        "description": "Visualization of Integrated Biological Exposures (VIBE) from wearable devices.",
+        "topics": []
+    },
+    {
+        "uid": "github/PimenoffV/Abiotic",
+        "url": "https://github.com/PimenoffV/Abiotic",
+        "rel": "/software/repository/github/PimenoffV/Abiotic",
+        "avatar": "https://avatars.githubusercontent.com/u/56830098?v=4",
+        "description": "Integration of abiotic environmental chemical data and analysis with biotic infirmation. ",
+        "topics": []
+    },
+    {
+        "uid": "github/PimenoffV/biotic",
+        "url": "https://github.com/PimenoffV/Biotic",
+        "rel": "/software/repository/github/PimenoffV/biotic",
+        "avatar": "https://avatars.githubusercontent.com/u/56830098?v=4",
+        "description": "Comprehensive biotic analysis of metagenomes from environmental and aerosol metagenomes.",
         "topics": []
     },
     {
@@ -44059,6 +44162,14 @@
         "topics": []
     },
     {
+        "uid": "github/valentingar/confluxpro",
+        "url": "https://github.com/valentingar/ConFluxPro",
+        "rel": "/software/repository/github/valentingar/confluxpro",
+        "avatar": "https://avatars.githubusercontent.com/u/74970146?v=4",
+        "description": "A toolkit for soil gas analysis",
+        "topics": []
+    },
+    {
         "uid": "github/dgrun/FateID",
         "url": "https://github.com/dgrun/FateID",
         "rel": "/software/repository/github/dgrun/FateID",
@@ -44557,6 +44668,22 @@
         "rel": "/software/repository/github/HEAP-EXPOSOME/ConsumerData",
         "avatar": "https://avatars.githubusercontent.com/u/86734080?v=4",
         "description": "Pipeline for ConsumerData",
+        "topics": []
+    },
+    {
+        "uid": "github/HEAP-EXPOSOME/KITE",
+        "url": "https://github.com/HEAP-EXPOSOME/KITE",
+        "rel": "/software/repository/github/HEAP-EXPOSOME/KITE",
+        "avatar": "https://avatars.githubusercontent.com/u/86734080?v=4",
+        "description": "KITE: K-mer Index Tversky Estimator application",
+        "topics": []
+    },
+    {
+        "uid": "github/HEAP-EXPOSOME/biopipe",
+        "url": "https://github.com/HEAP-EXPOSOME/biopipe",
+        "rel": "/software/repository/github/HEAP-EXPOSOME/biopipe",
+        "avatar": "https://avatars.githubusercontent.com/u/86734080?v=4",
+        "description": "Taxonomy classification pipeline (bacteria, virus, fungi)",
         "topics": []
     },
     {
@@ -49100,6 +49227,24 @@
             "clustering-algorithm",
             "imgui",
             "gnu-gplv3"
+        ]
+    },
+    {
+        "uid": "github/T0ngChen/medRCT",
+        "url": "https://github.com/T0ngChen/medRCT",
+        "rel": "/software/repository/github/T0ngChen/medRCT",
+        "avatar": "https://avatars.githubusercontent.com/u/44077157?v=4",
+        "description": "\ud83d\udce6R package medRCT",
+        "topics": [
+            "causal-inference",
+            "causal-mediation-analysis",
+            "interventional-effects",
+            "mediation",
+            "target-trial",
+            "rstats",
+            "mediation-analysis",
+            "rstat",
+            "rstats-package"
         ]
     },
     {
@@ -53772,6 +53917,32 @@
         "topics": []
     },
     {
+        "uid": "github/spm/spm",
+        "url": "https://github.com/spm/spm",
+        "rel": "/software/repository/github/spm/spm",
+        "avatar": "https://avatars.githubusercontent.com/u/14014701?v=4",
+        "description": "SPM (Statistical Parametric Mapping) - Development Version",
+        "topics": [
+            "matlab",
+            "neuroscience",
+            "neuroimaging",
+            "spm",
+            "eeg",
+            "fmri",
+            "meg",
+            "pet",
+            "spect",
+            "mapping",
+            "parametric",
+            "statistical",
+            "opm",
+            "nifti",
+            "brain",
+            "dcm",
+            "vbm"
+        ]
+    },
+    {
         "uid": "github/mindearth/mobilkit",
         "url": "https://github.com/mindearth/mobilkit",
         "rel": "/software/repository/github/mindearth/mobilkit",
@@ -58253,6 +58424,24 @@
         "topics": []
     },
     {
+        "uid": "github/scverse/scanpy",
+        "url": "https://github.com/scverse/scanpy",
+        "rel": "/software/repository/github/scverse/scanpy",
+        "avatar": "https://avatars.githubusercontent.com/u/95305807?v=4",
+        "description": "Single-cell analysis in Python. Scales to >100M cells.",
+        "topics": [
+            "machine-learning",
+            "data-science",
+            "visualize-data",
+            "transcriptomics",
+            "bioinformatics",
+            "scanpy",
+            "anndata",
+            "python",
+            "scverse"
+        ]
+    },
+    {
         "uid": "github/scverse/muon",
         "url": "https://github.com/scverse/muon",
         "rel": "/software/repository/github/scverse/muon",
@@ -59151,6 +59340,14 @@
         "rel": "/software/repository/github/bempp/bempp-cl",
         "avatar": "https://avatars.githubusercontent.com/u/693670?v=4",
         "description": "A fast Python based just-in-time compiling boundary element library",
+        "topics": []
+    },
+    {
+        "uid": "github/bempp/kifmm",
+        "url": "https://github.com/bempp/kifmm",
+        "rel": "/software/repository/github/bempp/kifmm",
+        "avatar": "https://avatars.githubusercontent.com/u/693670?v=4",
+        "description": "Fast Multipole Methods in Rust",
         "topics": []
     },
     {
@@ -65745,6 +65942,14 @@
         "topics": []
     },
     {
+        "uid": "github/angelmons/landlab",
+        "url": "https://github.com/angelmons/landlab",
+        "rel": "/software/repository/github/angelmons/landlab",
+        "avatar": "https://avatars.githubusercontent.com/u/96837810?v=4",
+        "description": "Landlab codebase, wiki, and tests",
+        "topics": []
+    },
+    {
         "uid": "github/jradavenport/appaloosa",
         "url": "https://github.com/jradavenport/appaloosa",
         "rel": "/software/repository/github/jradavenport/appaloosa",
@@ -67102,6 +67307,18 @@
         "topics": []
     },
     {
+        "uid": "github/MouseLand/cellpose",
+        "url": "https://github.com/MouseLand/cellpose",
+        "rel": "/software/repository/github/MouseLand/cellpose",
+        "avatar": "https://avatars.githubusercontent.com/u/28845184?v=4",
+        "description": "a generalist algorithm for cellular segmentation with human-in-the-loop capabilities",
+        "topics": [
+            "segmentation",
+            "cell-segmentation",
+            "cell-biology"
+        ]
+    },
+    {
         "uid": "github/neuralhydrology/neuralhydrology",
         "url": "https://github.com/neuralhydrology/neuralhydrology",
         "rel": "/software/repository/github/neuralhydrology/neuralhydrology",
@@ -68438,6 +68655,14 @@
         "rel": "/software/repository/github/mc-imperial/multicore-test-harness",
         "avatar": "https://avatars.githubusercontent.com/u/7672161?v=4",
         "description": "A multicore microprocessor test harness for measuring interference",
+        "topics": []
+    },
+    {
+        "uid": "github/openmsr/CAD_to_OpenMC",
+        "url": "https://github.com/openmsr/CAD_to_OpenMC",
+        "rel": "/software/repository/github/openmsr/CAD_to_OpenMC",
+        "avatar": "https://avatars.githubusercontent.com/u/36203476?v=4",
+        "description": "code to target the conversion from a step-file to a h5m-geometry for neutronics ",
         "topics": []
     },
     {
