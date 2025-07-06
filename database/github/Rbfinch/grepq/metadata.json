@@ -1,0 +1,51 @@
+{
+    "parser": "github",
+    "uid": "github/Rbfinch/grepq",
+    "url": "https://github.com/Rbfinch/grepq",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15612061",
+        "name": "grepq",
+        "url": "https://github.com/Rbfinch/grepq",
+        "full_name": "Rbfinch/grepq",
+        "html_url": "https://github.com/Rbfinch/grepq",
+        "description": "quickly filter fastq files by matching sequences to a set of regex patterns",
+        "created_at": "2024-11-03T06:05:35Z",
+        "updated_at": "2025-07-05T01:54:44Z",
+        "clone_url": "https://github.com/Rbfinch/grepq.git",
+        "homepage": "https://github.com/Rbfinch/grepq",
+        "size": 4555,
+        "stargazers_count": 54,
+        "watchers_count": 54,
+        "language": "Rust",
+        "open_issues_count": 2,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/Rbfinch",
+            "avatar_url": "https://avatars.githubusercontent.com/u/181547594?v=4",
+            "login": "Rbfinch",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "fastq",
+            "grep",
+            "grep-like",
+            "grep-search",
+            "grepping",
+            "gzip",
+            "json",
+            "regex",
+            "sqlite",
+            "zstd"
+        ],
+        "timestamp": "2025-07-06 01:00:41.669700",
+        "avatar": "https://avatars.githubusercontent.com/u/181547594?v=4"
+    }
+}
