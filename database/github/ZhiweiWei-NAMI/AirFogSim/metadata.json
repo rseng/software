@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/ZhiweiWei-NAMI/AirFogSim",
+    "url": "https://github.com/ZhiweiWei-NAMI/AirFogSim",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15779001",
+        "name": "AirFogSim",
+        "url": "https://github.com/ZhiweiWei-NAMI/AirFogSim",
+        "full_name": "ZhiweiWei-NAMI/AirFogSim",
+        "html_url": "https://github.com/ZhiweiWei-NAMI/AirFogSim",
+        "created_at": "2023-12-24T08:47:54Z",
+        "updated_at": "2025-07-04T02:51:27Z",
+        "clone_url": "https://github.com/ZhiweiWei-NAMI/AirFogSim.git",
+        "size": 307732,
+        "stargazers_count": 33,
+        "watchers_count": 33,
+        "language": "Python",
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ZhiweiWei-NAMI",
+            "avatar_url": "https://avatars.githubusercontent.com/u/153070550?v=4",
+            "login": "ZhiweiWei-NAMI",
+            "type": "User"
+        },
+        "timestamp": "2025-07-06 01:00:40.655704",
+        "avatar": "https://avatars.githubusercontent.com/u/153070550?v=4"
+    }
+}

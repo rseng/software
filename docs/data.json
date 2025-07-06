@@ -2020,6 +2020,26 @@
         ]
     },
     {
+        "uid": "github/Rbfinch/grepq",
+        "url": "https://github.com/Rbfinch/grepq",
+        "rel": "/software/repository/github/Rbfinch/grepq",
+        "avatar": "https://avatars.githubusercontent.com/u/181547594?v=4",
+        "description": "quickly filter fastq files by matching sequences to a set of regex patterns",
+        "topics": [
+            "bioinformatics",
+            "fastq",
+            "grep",
+            "grep-like",
+            "grep-search",
+            "grepping",
+            "gzip",
+            "json",
+            "regex",
+            "sqlite",
+            "zstd"
+        ]
+    },
+    {
         "uid": "github/nilearn/nilearnhub.io",
         "url": null,
         "rel": "/software/repository/github/nilearn/nilearnhub.io",
@@ -4465,6 +4485,14 @@
         ]
     },
     {
+        "uid": "github/LauraHerold/pinc",
+        "url": "https://github.com/LauraHerold/pinc",
+        "rel": "/software/repository/github/LauraHerold/pinc",
+        "avatar": "https://avatars.githubusercontent.com/u/28920885?v=4",
+        "description": "Simple simulated-annealing minimization for computing profile likelihoods in cosmology",
+        "topics": []
+    },
+    {
         "uid": "github/iosefa/PyForestScan",
         "url": "https://github.com/iosefa/PyForestScan",
         "rel": "/software/repository/github/iosefa/PyForestScan",
@@ -5870,6 +5898,16 @@
         "avatar": "https://avatars1.githubusercontent.com/u/43805905?v=4",
         "description": "A catalogue of available long read sequencing data analysis tools",
         "topics": []
+    },
+    {
+        "uid": "github/sefffal/Octofitter.jl",
+        "url": "https://github.com/sefffal/Octofitter.jl",
+        "rel": "/software/repository/github/sefffal/Octofitter.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/7330605?v=4",
+        "description": "Octofitter is a Julia package for performing Bayesian inference against a wide variety of exoplanet and binary star data.",
+        "topics": [
+            "julia"
+        ]
     },
     {
         "uid": "github/Dfupa/meTAline",
@@ -9568,6 +9606,19 @@
         "avatar": "https://avatars3.githubusercontent.com/u/42937038?v=4",
         "description": "Python library for YAML type inference, schema checking and syntactic sugar",
         "topics": []
+    },
+    {
+        "uid": "github/x-tabdeveloping/turftopic",
+        "url": "https://github.com/x-tabdeveloping/turftopic",
+        "rel": "/software/repository/github/x-tabdeveloping/turftopic",
+        "avatar": "https://avatars.githubusercontent.com/u/13087737?v=4",
+        "description": "Robust and fast topic models with sentence-transformers.",
+        "topics": [
+            "contextual",
+            "llm",
+            "topic-modeling",
+            "transformers"
+        ]
     },
     {
         "uid": "github/FunctionalUrology/MLcps",
@@ -21692,6 +21743,14 @@
         "topics": []
     },
     {
+        "uid": "github/tkarwal/procoli",
+        "url": "https://github.com/tkarwal/procoli",
+        "rel": "/software/repository/github/tkarwal/procoli",
+        "avatar": "https://avatars.githubusercontent.com/u/33636657?v=4",
+        "description": "Profiles of cosmological likelihoods: Code for extracting the 1D profile likelihood of a parameter using MontePython ",
+        "topics": []
+    },
+    {
         "uid": "github/LukeDuttweiler/skipTrack",
         "url": "https://github.com/LukeDuttweiler/skipTrack",
         "rel": "/software/repository/github/LukeDuttweiler/skipTrack",
@@ -23456,6 +23515,14 @@
         ]
     },
     {
+        "uid": "github/KCL-BMEIS/NiftySeg",
+        "url": "https://github.com/KCL-BMEIS/NiftySeg",
+        "rel": "/software/repository/github/KCL-BMEIS/NiftySeg",
+        "avatar": "https://avatars.githubusercontent.com/u/39486397?v=4",
+        "description": "contains programs to perform EM based segmentation of images in nifti or analyse format.",
+        "topics": []
+    },
+    {
         "uid": "github/libgamera/GAMERA",
         "url": "https://github.com/libgamera/GAMERA",
         "rel": "/software/repository/github/libgamera/GAMERA",
@@ -23816,6 +23883,14 @@
         "topics": []
     },
     {
+        "uid": "github/Ohervet/Bjet_MCMC",
+        "url": "https://github.com/Ohervet/Bjet_MCMC",
+        "rel": "/software/repository/github/Ohervet/Bjet_MCMC",
+        "avatar": "https://avatars.githubusercontent.com/u/52715983?v=4",
+        "description": "Bjet_MCMC is a tool to to automatically model multiwavelength spectral energy distributions of blazars, considering one-zone synchrotron-self-Compton (SSC) model with or without the addition of external inverse-Compton process from the thermal emission of the nucleus. It also contains manual fitting functionalities for multi-zone SSC modeling. ",
+        "topics": []
+    },
+    {
         "uid": "github/cjbarrie/academictwitteR",
         "url": "https://github.com/cjbarrie/academictwitteR",
         "rel": "/software/repository/github/cjbarrie/academictwitteR",
@@ -24031,6 +24106,14 @@
         "rel": "/software/repository/github/mcataneo/mochi_class_public",
         "avatar": "https://avatars.githubusercontent.com/u/10965274?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/TeamNCMC/cuisto",
+        "url": "https://github.com/TeamNCMC/cuisto",
+        "rel": "/software/repository/github/TeamNCMC/cuisto",
+        "avatar": "https://avatars.githubusercontent.com/u/186301548?v=4",
+        "description": "Quantify histological data",
         "topics": []
     },
     {
@@ -25929,6 +26012,14 @@
         "rel": "/software/repository/github/BirkhoffG/jax-relax",
         "avatar": "https://avatars.githubusercontent.com/u/26811230?v=4",
         "description": "Recourse Explanation Library in JAX",
+        "topics": []
+    },
+    {
+        "uid": "github/levitsky/pyteomics",
+        "url": "https://github.com/levitsky/pyteomics",
+        "rel": "/software/repository/github/levitsky/pyteomics",
+        "avatar": "https://avatars.githubusercontent.com/u/3358268?v=4",
+        "description": "Pyteomics is a collection of lightweight and handy tools for Python that help to handle various sorts of proteomics data. Pyteomics provides a growing set of modules to facilitate the most common tasks in proteomics data analysis.",
         "topics": []
     },
     {
@@ -33619,6 +33710,17 @@
         ]
     },
     {
+        "uid": "github/wangbingjie/sbi_pp",
+        "url": "https://github.com/wangbingjie/sbi_pp",
+        "rel": "/software/repository/github/wangbingjie/sbi_pp",
+        "avatar": "https://avatars.githubusercontent.com/u/12805735?v=4",
+        "description": "Simulation-based (likelihood-free) inference customized for astronomical applications",
+        "topics": [
+            "sed-fitting",
+            "simulation-based-inference"
+        ]
+    },
+    {
         "uid": "github/lucatelli/morphen",
         "url": "https://github.com/lucatelli/morphen",
         "rel": "/software/repository/github/lucatelli/morphen",
@@ -34202,6 +34304,14 @@
         "rel": "/software/repository/github/adriancorrendo/metrica",
         "avatar": "https://avatars.githubusercontent.com/u/46946511?v=4",
         "description": "Prediction Performance Metrics",
+        "topics": []
+    },
+    {
+        "uid": "github/computproteomics/OmicsQ",
+        "url": "https://github.com/computproteomics/OmicsQ",
+        "rel": "/software/repository/github/computproteomics/OmicsQ",
+        "avatar": "https://avatars.githubusercontent.com/u/158178001?v=4",
+        "description": "OmicsQ: a toolkit for quantitative Omics analysis",
         "topics": []
     },
     {
@@ -35261,6 +35371,14 @@
         "rel": "/software/repository/github/rafaeleufrasio/lightning",
         "avatar": "https://avatars.githubusercontent.com/u/15216531?v=4",
         "description": "Lightning SED Fitting Package",
+        "topics": []
+    },
+    {
+        "uid": "github/varchasgopalaswamy/AutoUncertainties",
+        "url": "https://github.com/varchasgopalaswamy/AutoUncertainties",
+        "rel": "/software/repository/github/varchasgopalaswamy/AutoUncertainties",
+        "avatar": "https://avatars.githubusercontent.com/u/2359219?v=4",
+        "description": "Drop-in Uncertainty Propagation with Automatic Differentiation",
         "topics": []
     },
     {
@@ -36721,6 +36839,14 @@
         "topics": []
     },
     {
+        "uid": "github/domeckert/hydromass",
+        "url": "https://github.com/domeckert/hydromass",
+        "rel": "/software/repository/github/domeckert/hydromass",
+        "avatar": "https://avatars.githubusercontent.com/u/47885645?v=4",
+        "description": "Hydrostatic mass profile reconstruction using X-ray and/or Sunyaev-Zeldovich data",
+        "topics": []
+    },
+    {
         "uid": "github/csalyk/spectools_ir",
         "url": "https://github.com/csalyk/spectools_ir",
         "rel": "/software/repository/github/csalyk/spectools_ir",
@@ -37136,6 +37262,40 @@
         "avatar": "https://avatars.githubusercontent.com/u/120204754?v=4",
         "description": "A high-performance compression library optimized for up-to 16-bit digitized analog signals",
         "topics": []
+    },
+    {
+        "uid": "github/threeML/astromodels",
+        "url": "https://github.com/threeML/astromodels",
+        "rel": "/software/repository/github/threeML/astromodels",
+        "avatar": "https://avatars.githubusercontent.com/u/44911645?v=4",
+        "description": "Spatial and spectral models for astrophysics",
+        "topics": [
+            "astrophysics",
+            "spectral-models",
+            "modeling-tool",
+            "astronomy",
+            "multi-wavelength",
+            "multi-messenger"
+        ]
+    },
+    {
+        "uid": "github/threeML/threeML",
+        "url": "https://github.com/threeML/threeML",
+        "rel": "/software/repository/github/threeML/threeML",
+        "avatar": "https://avatars.githubusercontent.com/u/44911645?v=4",
+        "description": "The Multi-Mission Maximum Likelihood framework (3ML)",
+        "topics": [
+            "python-environment",
+            "xspec",
+            "fermi",
+            "fermi-science",
+            "xspec-models",
+            "python",
+            "astronomy",
+            "spectral-analysis",
+            "multi-wavelength",
+            "hawc"
+        ]
     },
     {
         "uid": "github/jpcoles/glass",
@@ -38620,6 +38780,14 @@
             "visualization",
             "webgl"
         ]
+    },
+    {
+        "uid": "github/awmann/M_-M_K-",
+        "url": "https://github.com/awmann/M_-M_K-",
+        "rel": "/software/repository/github/awmann/M_-M_K-",
+        "avatar": "https://avatars.githubusercontent.com/u/6567968?v=4",
+        "description": "Code for estimating realistic masses and uncertainties from M_Ks (2MASS Ks + distance)",
+        "topics": []
     },
     {
         "uid": "github/elixir-europe/rdmkit",
@@ -41965,6 +42133,14 @@
         "rel": "/software/repository/github/ideasrule/platon",
         "avatar": "https://avatars.githubusercontent.com/u/1724065?v=4",
         "description": "Fast exoplanet transmission spectrum calculator",
+        "topics": []
+    },
+    {
+        "uid": "github/ideasrule/pyTPCI",
+        "url": "https://github.com/ideasrule/pyTPCI",
+        "rel": "/software/repository/github/ideasrule/pyTPCI",
+        "avatar": "https://avatars.githubusercontent.com/u/1724065?v=4",
+        "description": "Python version of TPCI",
         "topics": []
     },
     {
@@ -48358,6 +48534,14 @@
         "topics": []
     },
     {
+        "uid": "github/nach00gar/16SMicrobiomeMLFS",
+        "url": "https://github.com/nach00gar/16SMicrobiomeMLFS",
+        "rel": "/software/repository/github/nach00gar/16SMicrobiomeMLFS",
+        "avatar": "https://avatars.githubusercontent.com/u/44344214?v=4",
+        "description": "Data & Code for the 16S Microbiome Disease Classification Article",
+        "topics": []
+    },
+    {
         "uid": "github/moustakas/iSEDfit",
         "url": "https://github.com/moustakas/iSEDfit",
         "rel": "/software/repository/github/moustakas/iSEDfit",
@@ -49844,6 +50028,23 @@
         ]
     },
     {
+        "uid": "github/grburgess/pynchrotron",
+        "url": "https://github.com/grburgess/pynchrotron",
+        "rel": "/software/repository/github/grburgess/pynchrotron",
+        "avatar": "https://avatars.githubusercontent.com/u/6764007?v=4",
+        "description": "Implements synchrotron emission from cooling electrons",
+        "topics": [
+            "gamma-ray-astronomy",
+            "synchrotron",
+            "chang-cooper",
+            "electrons",
+            "grb",
+            "numerics",
+            "threeml",
+            "astromodels"
+        ]
+    },
+    {
         "uid": "github/JonasRieger/ldaPrototype",
         "url": "https://github.com/JonasRieger/ldaPrototype",
         "rel": "/software/repository/github/JonasRieger/ldaPrototype",
@@ -50493,6 +50694,14 @@
             "bioinformatics",
             "medical-informatics"
         ]
+    },
+    {
+        "uid": "github/Ompha/CLUES",
+        "url": "https://github.com/Ompha/CLUES",
+        "rel": "/software/repository/github/Ompha/CLUES",
+        "avatar": "https://avatars.githubusercontent.com/u/12269235?v=4",
+        "description": "CLustering UnsupErvised with Sequencer: A fully interpretable clustering tool for analyzing spectral data ",
+        "topics": []
     },
     {
         "uid": "github/adammoss/supernovae",
@@ -51880,6 +52089,14 @@
         "topics": []
     },
     {
+        "uid": "github/JakobRoche/OCSVM-Transit-Detection",
+        "url": "https://github.com/JakobRoche/OCSVM-Transit-Detection",
+        "rel": "/software/repository/github/JakobRoche/OCSVM-Transit-Detection",
+        "avatar": "https://avatars.githubusercontent.com/u/175963631?v=4",
+        "description": "The source code for a One-Class SVM model designed to detect exoplanet transit events.",
+        "topics": []
+    },
+    {
         "uid": "github/pmkruyen/dearscholar",
         "url": "https://github.com/pmkruyen/dearscholar",
         "rel": "/software/repository/github/pmkruyen/dearscholar",
@@ -52848,6 +53065,14 @@
         "rel": "/software/repository/github/bokulich-lab/q2-fondue",
         "avatar": "https://avatars.githubusercontent.com/u/66746566?v=4",
         "description": "Functions for reproducibly Obtaining and Normalizing Data re-Used from Elsewhere",
+        "topics": []
+    },
+    {
+        "uid": "github/nawrockie/vadr",
+        "url": "https://github.com/ncbi/vadr",
+        "rel": "/software/repository/github/nawrockie/vadr",
+        "avatar": "https://avatars.githubusercontent.com/u/3812119?v=4",
+        "description": "Viral Annotation DefineR: classification and annotation of viral sequences based on RefSeq annotation",
         "topics": []
     },
     {
@@ -56265,6 +56490,14 @@
         ]
     },
     {
+        "uid": "github/ZhiweiWei-NAMI/AirFogSim",
+        "url": "https://github.com/ZhiweiWei-NAMI/AirFogSim",
+        "rel": "/software/repository/github/ZhiweiWei-NAMI/AirFogSim",
+        "avatar": "https://avatars.githubusercontent.com/u/153070550?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/shenwei356/seqkit",
         "url": "https://github.com/shenwei356/seqkit",
         "rel": "/software/repository/github/shenwei356/seqkit",
@@ -56297,6 +56530,24 @@
             "bioinformatics",
             "command-line",
             "tool"
+        ]
+    },
+    {
+        "uid": "github/shenwei356/LexicMap",
+        "url": "https://github.com/shenwei356/LexicMap",
+        "rel": "/software/repository/github/shenwei356/LexicMap",
+        "avatar": "https://avatars.githubusercontent.com/u/2655946?v=4",
+        "description": "LexicMap: efficient sequence alignment against millions of prokaryotic genomes",
+        "topics": [
+            "prokaryotic-genomes",
+            "sequence-alignment",
+            "sequence-search",
+            "alignment",
+            "large-scale-dataset",
+            "microbial-genomes",
+            "bacterial-database",
+            "bacterial-genomes",
+            "lexichash"
         ]
     },
     {
@@ -65096,6 +65347,14 @@
         ]
     },
     {
+        "uid": "github/IFCA-Advanced-Computing/FAIR_eva",
+        "url": "https://github.com/IFCA-Advanced-Computing/FAIR_eva",
+        "rel": "/software/repository/github/IFCA-Advanced-Computing/FAIR_eva",
+        "avatar": "https://avatars.githubusercontent.com/u/2565514?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/sims-lab/CapCruncher",
         "url": "https://github.com/sims-lab/CapCruncher",
         "rel": "/software/repository/github/sims-lab/CapCruncher",
@@ -70090,6 +70349,20 @@
         "topics": []
     },
     {
+        "uid": "github/cadet/CADET-Core",
+        "url": "https://github.com/cadet/CADET-Core",
+        "rel": "/software/repository/github/cadet/CADET-Core",
+        "avatar": "https://avatars.githubusercontent.com/u/68232670?v=4",
+        "description": "The heart of CADET. A modular, fast, and accurate modeling and simulation framework for biotechnology processes.",
+        "topics": [
+            "chromatography",
+            "chromatography-analysis",
+            "simulator",
+            "general-rate-model",
+            "cadet"
+        ]
+    },
+    {
         "uid": "github/abrupt-climate/hyper-canny",
         "url": "https://github.com/abrupt-climate/hyper-canny",
         "rel": "/software/repository/github/abrupt-climate/hyper-canny",
@@ -71720,6 +71993,14 @@
             "solar wind",
             "turbulence"
         ]
+    },
+    {
+        "uid": "gitlab/ag-salinga/fastatomstruct",
+        "url": "https://gitlab.com/ag-salinga/fastatomstruct",
+        "rel": "/software/repository/gitlab/ag-salinga/fastatomstruct",
+        "avatar": "https://gitlab.comNone",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "gitlab/RKIBioinformaticsPipelines/QCumber",
