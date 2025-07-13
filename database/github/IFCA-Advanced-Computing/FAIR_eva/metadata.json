@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/IFCA-Advanced-Computing/FAIR_eva",
+    "url": "https://github.com/IFCA-Advanced-Computing/FAIR_eva",
+    "data": {
+        "doi": "10.1038/s41597-023-02652-8",
+        "name": "FAIR_eva",
+        "url": "https://github.com/IFCA-Advanced-Computing/FAIR_eva",
+        "full_name": "IFCA-Advanced-Computing/FAIR_eva",
+        "html_url": "https://github.com/IFCA-Advanced-Computing/FAIR_eva",
+        "created_at": "2023-10-09T11:17:47Z",
+        "updated_at": "2025-03-26T13:33:52Z",
+        "clone_url": "https://github.com/IFCA-Advanced-Computing/FAIR_eva.git",
+        "size": 5881,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 5,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/IFCA-Advanced-Computing",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2565514?v=4",
+            "login": "IFCA-Advanced-Computing",
+            "type": "Organization"
+        },
+        "timestamp": "2025-07-13 01:01:10.804993",
+        "avatar": "https://avatars.githubusercontent.com/u/2565514?v=4"
+    }
+}
