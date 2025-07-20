@@ -6573,6 +6573,14 @@
         "topics": []
     },
     {
+        "uid": "github/gevaertlab/DUNE",
+        "url": "https://github.com/gevaertlab/DUNE",
+        "rel": "/software/repository/github/gevaertlab/DUNE",
+        "avatar": "https://avatars.githubusercontent.com/u/37343740?v=4",
+        "description": "DUNE",
+        "topics": []
+    },
+    {
         "uid": "github/T0ngChen/medRCT",
         "url": "https://github.com/T0ngChen/medRCT",
         "rel": "/software/repository/github/T0ngChen/medRCT",
@@ -10269,6 +10277,14 @@
         ]
     },
     {
+        "uid": "github/rgcgithub/regenie",
+        "url": "https://github.com/rgcgithub/regenie",
+        "rel": "/software/repository/github/rgcgithub/regenie",
+        "avatar": "https://avatars.githubusercontent.com/u/14313709?v=4",
+        "description": "regenie is a C++ program for whole genome regression modelling of large genome-wide association studies.",
+        "topics": []
+    },
+    {
         "uid": "github/mgalardini/pyseer",
         "url": "https://github.com/mgalardini/pyseer",
         "rel": "/software/repository/github/mgalardini/pyseer",
@@ -13597,6 +13613,14 @@
         ]
     },
     {
+        "uid": "github/folsomcp/specpolFlow",
+        "url": "https://github.com/folsomcp/specpolFlow",
+        "rel": "/software/repository/github/folsomcp/specpolFlow",
+        "avatar": "https://avatars.githubusercontent.com/u/26417587?v=4",
+        "description": "Tools and tutorials for the analysis of stellar spectropolarimetric observations.",
+        "topics": []
+    },
+    {
         "uid": "github/bihealth/sodar_core",
         "url": "https://github.com/bihealth/sodar_core",
         "rel": "/software/repository/github/bihealth/sodar_core",
@@ -16888,6 +16912,27 @@
         "avatar": "https://avatars.githubusercontent.com/u/6273005?v=4",
         "description": "This is a deposit template repository to help researchers in starting their project in a online VCS",
         "topics": []
+    },
+    {
+        "uid": "github/Critical-Infrastructure-Systems-Lab/PowNet",
+        "url": "https://github.com/Critical-Infrastructure-Systems-Lab/PowNet",
+        "rel": "/software/repository/github/Critical-Infrastructure-Systems-Lab/PowNet",
+        "avatar": "https://avatars.githubusercontent.com/u/133989297?v=4",
+        "description": "PowNet: Network-constrained Unit Commitment / Economic Dispatch model in Python",
+        "topics": [
+            "power-system-analysis",
+            "unit-commitment",
+            "economic-dispatch",
+            "transmission",
+            "dc-flow",
+            "n-1-criterion",
+            "water-energy-nexus",
+            "python",
+            "dispatchable-units",
+            "renewable-resources",
+            "electricity-supply",
+            "substations"
+        ]
     },
     {
         "uid": "github/tensorly/viz",
@@ -25266,6 +25311,19 @@
         ]
     },
     {
+        "uid": "github/bzrudski/vectorose",
+        "url": "https://github.com/bzrudski/vectorose",
+        "rel": "/software/repository/github/bzrudski/vectorose",
+        "avatar": "https://avatars.githubusercontent.com/u/49771453?v=4",
+        "description": "Python package for producing spherical histograms",
+        "topics": [
+            "anisotropy",
+            "directional-statistics",
+            "histogram",
+            "spherical-histograms"
+        ]
+    },
+    {
         "uid": "github/alex-b-davis/gubas",
         "url": "https://github.com/alex-b-davis/gubas",
         "rel": "/software/repository/github/alex-b-davis/gubas",
@@ -33194,6 +33252,14 @@
         "topics": []
     },
     {
+        "uid": "github/JGCRI/gaia",
+        "url": "https://github.com/JGCRI/gaia",
+        "rel": "/software/repository/github/JGCRI/gaia",
+        "avatar": "https://avatars.githubusercontent.com/u/8431983?v=4",
+        "description": "gaia is an empirical econometric model designed to estimate annual crop yield responses to climate impacts.",
+        "topics": []
+    },
+    {
         "uid": "github/JGCRI/plutus",
         "url": "https://github.com/JGCRI/plutus",
         "rel": "/software/repository/github/JGCRI/plutus",
@@ -33353,6 +33419,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/1004255?v=4",
         "description": "CLI for BioMAJ",
         "topics": []
+    },
+    {
+        "uid": "github/RWTH-EBC/districtgenerator",
+        "url": "https://github.com/RWTH-EBC/districtgenerator",
+        "rel": "/software/repository/github/RWTH-EBC/districtgenerator",
+        "avatar": "https://avatars.githubusercontent.com/u/8121773?v=4",
+        "description": "Tool for demand profile generation in districts",
+        "topics": [
+            "maintained",
+            "tool"
+        ]
     },
     {
         "uid": "github/RWTH-EBC/AixCaliBuHA",
@@ -59377,6 +59454,21 @@
         "topics": []
     },
     {
+        "uid": "github/hyriver/hysetter",
+        "url": "https://github.com/hyriver/hysetter",
+        "rel": "/software/repository/github/hyriver/hysetter",
+        "avatar": "https://avatars.githubusercontent.com/u/109259800?v=4",
+        "description": "A command-line tool for getting hydroclimate data within CONUS using HyRiver",
+        "topics": [
+            "climate-data",
+            "daymet",
+            "gridmet",
+            "hydrology",
+            "nldas",
+            "nwis"
+        ]
+    },
+    {
         "uid": "github/CDSP-SCPO/metadata-middleware",
         "url": "https://github.com/CDSP-SCPO/metadata-middleware",
         "rel": "/software/repository/github/CDSP-SCPO/metadata-middleware",
@@ -62522,6 +62614,19 @@
         "topics": []
     },
     {
+        "uid": "github/DZeevi-Lab/TinkerHap",
+        "url": "https://github.com/DZeevi-Lab/TinkerHap",
+        "rel": "/software/repository/github/DZeevi-Lab/TinkerHap",
+        "avatar": "https://avatars.githubusercontent.com/u/184602495?v=4",
+        "description": "Read-Based Phasing Algorithm with Integrated Multi-Method Support for Enhanced Accuracy",
+        "topics": [
+            "genetic-analysis",
+            "genetics",
+            "genomics",
+            "genomics-analysis"
+        ]
+    },
+    {
         "uid": "github/iontorrent/TS",
         "url": "https://github.com/iontorrent/TS",
         "rel": "/software/repository/github/iontorrent/TS",
@@ -63628,6 +63733,14 @@
         "rel": "/software/repository/github/poissonconsulting/bbousuite",
         "avatar": "https://avatars.githubusercontent.com/u/1679318?v=4",
         "description": "Easily install and load bbou (boreal caribou) R packages",
+        "topics": []
+    },
+    {
+        "uid": "github/poissonconsulting/bisonpicsuite",
+        "url": "https://github.com/poissonconsulting/bisonpicsuite",
+        "rel": "/software/repository/github/poissonconsulting/bisonpicsuite",
+        "avatar": "https://avatars.githubusercontent.com/u/1679318?v=4",
+        "description": "Loads the three bisonpic packages (bisonpictools, shinybisonpic, and runbisonpic)",
         "topics": []
     },
     {
@@ -66136,6 +66249,14 @@
         "rel": "/software/repository/github/variomes/sibtm-variomes",
         "avatar": "https://avatars.githubusercontent.com/u/95295102?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/saigegit/SAIGE",
+        "url": "https://github.com/saigegit/SAIGE",
+        "rel": "/software/repository/github/saigegit/SAIGE",
+        "avatar": "https://avatars.githubusercontent.com/u/98546675?v=4",
+        "description": "Development for SAIGE and SAIGE-GENE(+)",
         "topics": []
     },
     {
@@ -69933,6 +70054,22 @@
             "greenland",
             "weather",
             "weather-station"
+        ]
+    },
+    {
+        "uid": "github/GEUS-Glaciology-and-Climate/GrIML",
+        "url": "https://github.com/GEUS-Glaciology-and-Climate/GrIML",
+        "rel": "/software/repository/github/GEUS-Glaciology-and-Climate/GrIML",
+        "avatar": "https://avatars.githubusercontent.com/u/71171316?v=4",
+        "description": "Remote sensing classification of ice marginal lakes",
+        "topics": [
+            "esa",
+            "remote-sensing",
+            "glacial-lakes",
+            "satellite-imagery",
+            "glofs",
+            "ice-marginal-lakes",
+            "cryosphere"
         ]
     },
     {
