@@ -1519,6 +1519,24 @@
         ]
     },
     {
+        "uid": "github/mne-tools/mne-lsl",
+        "url": "https://github.com/mne-tools/mne-lsl",
+        "rel": "/software/repository/github/mne-tools/mne-lsl",
+        "avatar": "https://avatars.githubusercontent.com/u/583875?v=4",
+        "description": "A framework for real-time brain signal streaming with MNE-Python.",
+        "topics": [
+            "neuroscience",
+            "lsl",
+            "real-time",
+            "neuroimaging",
+            "brain",
+            "labstreaminglayer",
+            "brain-computer-interfaces",
+            "network",
+            "visualisation"
+        ]
+    },
+    {
         "uid": "github/mne-tools/mne-icalabel",
         "url": "https://github.com/mne-tools/mne-icalabel",
         "rel": "/software/repository/github/mne-tools/mne-icalabel",
@@ -5823,6 +5841,14 @@
         "topics": []
     },
     {
+        "uid": "github/SHF-NAILResearchGroup/HINA",
+        "url": "https://github.com/SHF-NAILResearchGroup/HINA",
+        "rel": "/software/repository/github/SHF-NAILResearchGroup/HINA",
+        "avatar": "https://avatars.githubusercontent.com/u/199019566?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/stegmaja/TSE",
         "url": "https://github.com/stegmaja/TSE",
         "rel": "/software/repository/github/stegmaja/TSE",
@@ -6241,6 +6267,14 @@
         "rel": "/software/repository/github/sherpa-deproject/deproject",
         "avatar": "https://avatars.githubusercontent.com/u/47479958?v=4",
         "description": "CIAO Sherpa extension package for deprojection of two-dimensional annular X-ray spectra to recover the three-dimensional source properties.",
+        "topics": []
+    },
+    {
+        "uid": "github/avapolzin/spike",
+        "url": "https://github.com/avapolzin/spike",
+        "rel": "/software/repository/github/avapolzin/spike",
+        "avatar": "https://avatars.githubusercontent.com/u/29441772?v=4",
+        "description": "All-in-one tool to generate, and correctly drizzle, HST, JWST, and Roman PSFs.",
         "topics": []
     },
     {
@@ -8144,6 +8178,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/39174521?v=4",
         "description": "Evolution with an Early Matter-Dominated era",
         "topics": []
+    },
+    {
+        "uid": "github/pasteurlabs/tesseract-core",
+        "url": "https://github.com/pasteurlabs/tesseract-core",
+        "rel": "/software/repository/github/pasteurlabs/tesseract-core",
+        "avatar": "https://avatars.githubusercontent.com/u/94583413?v=4",
+        "description": "Universal, autodiff-native software components for Simulation Intelligence. \ud83d\udce6",
+        "topics": [
+            "containers",
+            "differentiable-programming",
+            "api-rest",
+            "automatic-differentiation",
+            "remote-procedure-calls",
+            "scientific-machine-learning"
+        ]
     },
     {
         "uid": "github/cma2015/iwa-miRNA",
@@ -13953,6 +14002,14 @@
         "topics": []
     },
     {
+        "uid": "github/PhysiBoSS/PhysiBoSS",
+        "url": "https://github.com/PhysiBoSS/PhysiBoSS",
+        "rel": "/software/repository/github/PhysiBoSS/PhysiBoSS",
+        "avatar": "https://avatars.githubusercontent.com/u/77400927?v=4",
+        "description": "PhysiBoSS 2.0: a sustainable integration of stochastic Boolean and agent-based modelling frameworks",
+        "topics": []
+    },
+    {
         "uid": "github/spiketools/spiketools",
         "url": "https://github.com/spiketools/spiketools",
         "rel": "/software/repository/github/spiketools/spiketools",
@@ -17595,6 +17652,14 @@
         "topics": []
     },
     {
+        "uid": "github/IDEMSInternational/ExcelToShiny",
+        "url": "https://github.com/IDEMSInternational/ExcelToShiny",
+        "rel": "/software/repository/github/IDEMSInternational/ExcelToShiny",
+        "avatar": "https://avatars.githubusercontent.com/u/44813009?v=4",
+        "description": "A system for creating Shiny dashboards using Excel spreadsheets",
+        "topics": []
+    },
+    {
         "uid": "github/SWAT-Sheffield/SAC",
         "url": "https://github.com/SWAT-Sheffield/SAC",
         "rel": "/software/repository/github/SWAT-Sheffield/SAC",
@@ -19614,6 +19679,14 @@
         "rel": "/software/repository/github/nyusngroup/pyMCZ",
         "avatar": "https://avatars.githubusercontent.com/u/8115653?v=4",
         "description": "montecarlo sampling method to calculate metalicity from flux data",
+        "topics": []
+    },
+    {
+        "uid": "github/EvolOMICS-TU/ETENLNC",
+        "url": "https://github.com/EvolOMICS-TU/ETENLNC",
+        "rel": "/software/repository/github/EvolOMICS-TU/ETENLNC",
+        "avatar": "https://avatars.githubusercontent.com/u/113347720?v=4",
+        "description": "ETENLNC (End-To-End-Novel-NonCoding) lncRNA identification and analysis framework",
         "topics": []
     },
     {
@@ -21947,6 +22020,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/1272030?v=4",
         "description": "A Python package for calculations with the MRP parameterisation of the Halo Mass Function.",
         "topics": []
+    },
+    {
+        "uid": "github/Trybnetic/paat",
+        "url": "https://github.com/Trybnetic/paat",
+        "rel": "/software/repository/github/Trybnetic/paat",
+        "avatar": "https://avatars.githubusercontent.com/u/7532062?v=4",
+        "description": "The physical activity analysis toolbox (PAAT) is a comprehensive toolbox to analyse raw acceleration data from the hip.",
+        "topics": [
+            "physical-activity",
+            "actigraphy",
+            "actigraph",
+            "accelerometry",
+            "hip"
+        ]
     },
     {
         "uid": "github/thomaswilliamsastro/mcfine",
@@ -26189,6 +26276,19 @@
         "topics": [
             "plasmid-annotation",
             "webserver"
+        ]
+    },
+    {
+        "uid": "github/barricklab/seabreeze",
+        "url": "https://github.com/barricklab/seabreeze",
+        "rel": "/software/repository/github/barricklab/seabreeze",
+        "avatar": "https://avatars.githubusercontent.com/u/11457754?v=4",
+        "description": "seabreeze: A Pipeline for Analyzing Structural Variation Between Bacterial Genome Assemblies",
+        "topics": [
+            "bioinformatics-pipeline",
+            "experimental-evolution",
+            "long-read-sequencing",
+            "structural-variation"
         ]
     },
     {
@@ -31182,6 +31282,14 @@
         "rel": "/software/repository/github/marziarivi/RadioLensfit2",
         "avatar": "https://avatars.githubusercontent.com/u/6614454?v=4",
         "description": "Radio Weak Lensing shear measurement in the Visibility Domain ",
+        "topics": []
+    },
+    {
+        "uid": "github/xiaziyna/PyStarshade",
+        "url": "https://github.com/xiaziyna/PyStarshade",
+        "rel": "/software/repository/github/xiaziyna/PyStarshade",
+        "avatar": "https://avatars.githubusercontent.com/u/79553716?v=4",
+        "description": "PyStarshade is a Python library for efficient Fresnel optical simulations of direct imaging with an external occulter from stellar system to CCD",
         "topics": []
     },
     {
@@ -42863,6 +42971,14 @@
         ]
     },
     {
+        "uid": "github/EBI-Metagenomics/EukCC",
+        "url": "https://github.com/EBI-Metagenomics/EukCC",
+        "rel": "/software/repository/github/EBI-Metagenomics/EukCC",
+        "avatar": "https://avatars.githubusercontent.com/u/32897658?v=4",
+        "description": "  Tool to estimate genome quality of microbial eukaryotes ",
+        "topics": []
+    },
+    {
         "uid": "github/bokeh/bokeh",
         "url": "https://github.com/bokeh/bokeh",
         "rel": "/software/repository/github/bokeh/bokeh",
@@ -50585,6 +50701,18 @@
         ]
     },
     {
+        "uid": "github/Tomaubier/CoperniFUS",
+        "url": "https://github.com/Tomaubier/CoperniFUS",
+        "rel": "/software/repository/github/Tomaubier/CoperniFUS",
+        "avatar": "https://avatars.githubusercontent.com/u/17113619?v=4",
+        "description": "A flexible Python-based GUI for stereotaxic experiment planning.",
+        "topics": [
+            "neuroscience-experiments",
+            "neurostimulation",
+            "ultrasound"
+        ]
+    },
+    {
         "uid": "github/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP",
         "url": "https://github.com/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP",
         "rel": "/software/repository/github/ELELAB/CAncer-bioMarker-Prediction-Pipeline-CAMPP",
@@ -53938,6 +54066,14 @@
             "gotran",
             "code-generation"
         ]
+    },
+    {
+        "uid": "github/ankilab/EvoVis",
+        "url": "https://github.com/ankilab/EvoVis",
+        "rel": "/software/repository/github/ankilab/EvoVis",
+        "avatar": "https://avatars.githubusercontent.com/u/94447681?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/mneeleman/qubefit",
@@ -69532,6 +69668,14 @@
         "rel": "/software/repository/github/orcasgit/python-fitbit",
         "avatar": "https://avatars.githubusercontent.com/u/9833?v=4",
         "description": "Fitbit API Python Client Implementation",
+        "topics": []
+    },
+    {
+        "uid": "github/rnajena/sugar",
+        "url": "https://github.com/rnajena/sugar",
+        "rel": "/software/repository/github/rnajena/sugar",
+        "avatar": "https://avatars.githubusercontent.com/u/45449800?v=4",
+        "description": "S*R -- A Python framework for bioinformatics",
         "topics": []
     },
     {
