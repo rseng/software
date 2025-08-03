@@ -1,0 +1,49 @@
+{
+    "parser": "github",
+    "uid": "github/simonprovost/scikit-longitudinal",
+    "url": "https://github.com/simonprovost/scikit-longitudinal",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16412722",
+        "name": "scikit-longitudinal",
+        "url": "https://github.com/simonprovost/scikit-longitudinal",
+        "full_name": "simonprovost/scikit-longitudinal",
+        "html_url": "https://github.com/simonprovost/scikit-longitudinal",
+        "description": "\u2602\ufe0f Scikit-longitudinal (Sklong) is an open-source Python library & Scikit-Learn API compliant, tailored to longitudinal machine learning classification tasks. It is ideal for researchers, data scientists, and analysts, as it provides specialist tools for dealing with repeated-measures data challenges ",
+        "created_at": "2023-03-27T03:09:51Z",
+        "updated_at": "2025-08-01T16:23:33Z",
+        "clone_url": "https://github.com/simonprovost/scikit-longitudinal.git",
+        "homepage": "https://scikit-longitudinal.readthedocs.io/latest/",
+        "size": 70348,
+        "stargazers_count": 48,
+        "watchers_count": 48,
+        "language": "Python",
+        "open_issues_count": 2,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/simonprovost",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32747568?v=4",
+            "login": "simonprovost",
+            "type": "User"
+        },
+        "topics": [
+            "classification",
+            "longitudinal",
+            "machine-learning",
+            "repeated-measurements",
+            "supervised-learning",
+            "longitudinal-classification",
+            "scikit-learn",
+            "longitudinal-data",
+            "longitudinal-studies"
+        ],
+        "timestamp": "2025-08-03 01:02:01.794061",
+        "avatar": "https://avatars.githubusercontent.com/u/32747568?v=4"
+    }
+}
