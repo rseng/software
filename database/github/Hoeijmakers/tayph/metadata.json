@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/Hoeijmakers/tayph",
+    "url": "https://github.com/Hoeijmakers/tayph",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2024AJ....168..133P",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft07008H/abstract"
+        ],
+        "title": "tayph: Cross-correlation analysis of high resolution spectroscopy",
+        "url": "https://github.com/Hoeijmakers/tayph",
+        "name": "tayph",
+        "full_name": "Hoeijmakers/tayph",
+        "html_url": "https://github.com/Hoeijmakers/tayph",
+        "description": "Analysis of high resolution spectroscopic time-series of exoplanets",
+        "created_at": "2020-05-29T20:29:33Z",
+        "updated_at": "2024-10-30T14:41:37Z",
+        "clone_url": "https://github.com/Hoeijmakers/tayph.git",
+        "size": 53523,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "Python",
+        "open_issues_count": 53,
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/Hoeijmakers",
+            "avatar_url": "https://avatars.githubusercontent.com/u/57099343?v=4",
+            "login": "Hoeijmakers",
+            "type": "User"
+        },
+        "timestamp": "2025-08-03 01:01:44.549160",
+        "avatar": "https://avatars.githubusercontent.com/u/57099343?v=4"
+    }
+}

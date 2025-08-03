@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/aasensio/torchmfbd",
+    "url": "https://github.com/aasensio/torchmfbd",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025arXiv250510639A",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft07028A/abstract"
+        ],
+        "title": "torchmfbd: Multi-object multi-frame blind deconvolution of point-like or extended objects",
+        "url": "https://github.com/aasensio/torchmfbd",
+        "name": "torchmfbd",
+        "full_name": "aasensio/torchmfbd",
+        "html_url": "https://github.com/aasensio/torchmfbd",
+        "created_at": "2024-12-19T08:29:48Z",
+        "updated_at": "2025-05-21T20:40:16Z",
+        "clone_url": "https://github.com/aasensio/torchmfbd.git",
+        "homepage": "https://aasensio.github.io/torchmfbd/",
+        "size": 236723,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "Python",
+        "open_issues_count": 3,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/aasensio",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1766597?v=4",
+            "login": "aasensio",
+            "type": "User"
+        },
+        "timestamp": "2025-08-03 01:01:41.252779",
+        "avatar": "https://avatars.githubusercontent.com/u/1766597?v=4"
+    }
+}

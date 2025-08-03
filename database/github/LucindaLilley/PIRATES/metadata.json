@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/LucindaLilley/PIRATES",
+    "url": "https://github.com/LucindaLilley/PIRATES",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025arXiv250511950L",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft07029L/abstract"
+        ],
+        "title": "PIRATES: Polarimetric Image Reconstruction AI for Tracing Evolved Structures",
+        "url": "https://github.com/LucindaLilley/PIRATES",
+        "name": "PIRATES",
+        "full_name": "LucindaLilley/PIRATES",
+        "html_url": "https://github.com/LucindaLilley/PIRATES",
+        "description": "Code for PIRATES Image Reconstruction Algorithm",
+        "created_at": "2025-05-16T09:34:40Z",
+        "updated_at": "2025-06-03T04:45:51Z",
+        "clone_url": "https://github.com/LucindaLilley/PIRATES.git",
+        "size": 38,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/LucindaLilley",
+            "avatar_url": "https://avatars.githubusercontent.com/u/82076657?v=4",
+            "login": "LucindaLilley",
+            "type": "User"
+        },
+        "timestamp": "2025-08-03 01:01:41.011911",
+        "avatar": "https://avatars.githubusercontent.com/u/82076657?v=4"
+    }
+}
