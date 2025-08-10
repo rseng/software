@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/kokkos/kokkos-fft",
+    "url": "https://github.com/kokkos/kokkos-fft",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16602543",
+        "name": "kokkos-fft",
+        "url": "https://github.com/kokkos/kokkos-fft",
+        "full_name": "kokkos/kokkos-fft",
+        "html_url": "https://github.com/kokkos/kokkos-fft",
+        "description": "A shared-memory FFT for the Kokkos ecosystem",
+        "created_at": "2023-11-27T07:27:13Z",
+        "updated_at": "2025-08-05T07:12:56Z",
+        "clone_url": "https://github.com/kokkos/kokkos-fft.git",
+        "homepage": "https://kokkosfft.readthedocs.io/",
+        "size": 18882,
+        "stargazers_count": 41,
+        "watchers_count": 41,
+        "language": "C++",
+        "open_issues_count": 19,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 10,
+        "owner": {
+            "html_url": "https://github.com/kokkos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10199860?v=4",
+            "login": "kokkos",
+            "type": "Organization"
+        },
+        "topics": [
+            "fft",
+            "fft-library",
+            "kokkos"
+        ],
+        "timestamp": "2025-08-10 00:59:51.711203",
+        "avatar": "https://avatars.githubusercontent.com/u/10199860?v=4"
+    }
+}
