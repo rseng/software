@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/supsi-dacd-isaac/BayesReconPy",
+    "url": "https://github.com/supsi-dacd-isaac/BayesReconPy",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15974287",
+        "name": "BayesReconPy",
+        "url": "https://github.com/supsi-dacd-isaac/BayesReconPy",
+        "full_name": "supsi-dacd-isaac/BayesReconPy",
+        "html_url": "https://github.com/supsi-dacd-isaac/BayesReconPy",
+        "description": "Bayesian Reconciliation for Hierarchical Forecasting",
+        "created_at": "2024-09-04T08:22:57Z",
+        "updated_at": "2025-08-07T08:58:26Z",
+        "clone_url": "https://github.com/supsi-dacd-isaac/BayesReconPy.git",
+        "size": 4707,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "lgpl-3.0",
+            "name": "GNU Lesser General Public License v3.0",
+            "spdx_id": "LGPL-3.0",
+            "url": "https://api.github.com/licenses/lgpl-3.0",
+            "node_id": "MDc6TGljZW5zZTEy"
+        },
+        "subscribers_count": 6,
+        "owner": {
+            "html_url": "https://github.com/supsi-dacd-isaac",
+            "avatar_url": "https://avatars.githubusercontent.com/u/11190202?v=4",
+            "login": "supsi-dacd-isaac",
+            "type": "Organization"
+        },
+        "timestamp": "2025-08-10 00:59:51.288141",
+        "avatar": "https://avatars.githubusercontent.com/u/11190202?v=4"
+    }
+}

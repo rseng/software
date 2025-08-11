@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/RafaelSdeSouza/capivara",
+    "url": "https://github.com/RafaelSdeSouza/capivara",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.3166S",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft07023S/abstract"
+        ],
+        "title": "Capivara: Scalable spectral-based segmentation package",
+        "url": "https://github.com/RafaelSdeSouza/capivara",
+        "name": "capivara",
+        "full_name": "RafaelSdeSouza/capivara",
+        "html_url": "https://github.com/RafaelSdeSouza/capivara",
+        "created_at": "2024-12-06T15:52:45Z",
+        "updated_at": "2025-07-30T20:35:12Z",
+        "clone_url": "https://github.com/RafaelSdeSouza/capivara.git",
+        "size": 47169,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "R",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/RafaelSdeSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3153856?v=4",
+            "login": "RafaelSdeSouza",
+            "type": "User"
+        },
+        "timestamp": "2025-08-10 00:59:29.449403",
+        "avatar": "https://avatars.githubusercontent.com/u/3153856?v=4"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/zhanghe9704/tpsa_sym",
+    "url": "https://github.com/zhanghe9704/tpsa_sym",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16740209",
+        "name": "tpsa_sym",
+        "url": "https://github.com/zhanghe9704/tpsa_sym",
+        "full_name": "zhanghe9704/tpsa_sym",
+        "html_url": "https://github.com/zhanghe9704/tpsa_sym",
+        "created_at": "2024-04-12T17:58:05Z",
+        "updated_at": "2025-08-04T18:51:23Z",
+        "clone_url": "https://github.com/zhanghe9704/tpsa_sym.git",
+        "size": 1472,
+        "language": "C++",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/zhanghe9704",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8061962?v=4",
+            "login": "zhanghe9704",
+            "type": "User"
+        },
+        "timestamp": "2025-08-10 00:59:49.669665",
+        "avatar": "https://avatars.githubusercontent.com/u/8061962?v=4"
+    }
+}
