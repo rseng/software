@@ -4179,6 +4179,14 @@
         ]
     },
     {
+        "uid": "github/HzaCode/ChemInformant",
+        "url": "https://github.com/HzaCode/ChemInformant",
+        "rel": "/software/repository/github/HzaCode/ChemInformant",
+        "avatar": "https://avatars.githubusercontent.com/u/92981090?v=4",
+        "description": "An all-in-one solution for chemical property retrieval from PubChem.",
+        "topics": []
+    },
+    {
         "uid": "github/jgducoin/galclaim",
         "url": "https://github.com/jgducoin/galclaim",
         "rel": "/software/repository/github/jgducoin/galclaim",
@@ -4570,6 +4578,22 @@
             "oop",
             "r6",
             "intervals"
+        ]
+    },
+    {
+        "uid": "github/neuromodulation/py_neuromodulation",
+        "url": "https://github.com/neuromodulation/py_neuromodulation",
+        "rel": "/software/repository/github/neuromodulation/py_neuromodulation",
+        "avatar": "https://avatars.githubusercontent.com/u/58917760?v=4",
+        "description": "Real-time analysis of intracranial neurophysiology recordings.",
+        "topics": [
+            "python",
+            "deep-brain-stimulation",
+            "electrocorticography",
+            "ecog",
+            "dbs",
+            "machine-learning",
+            "real-time"
         ]
     },
     {
@@ -6814,6 +6838,14 @@
         "topics": []
     },
     {
+        "uid": "github/lberaldoesilva/tropygal",
+        "url": "https://github.com/lberaldoesilva/tropygal",
+        "rel": "/software/repository/github/lberaldoesilva/tropygal",
+        "avatar": "https://avatars.githubusercontent.com/u/44235490?v=4",
+        "description": "Entropy estimates and distribution functions for galactic dynamics",
+        "topics": []
+    },
+    {
         "uid": "github/jiujiezz/tsnad",
         "url": "https://github.com/jiujiezz/tsnad",
         "rel": "/software/repository/github/jiujiezz/tsnad",
@@ -8805,6 +8837,14 @@
         "rel": "/software/repository/github/AA-ALERT/AMBER",
         "avatar": "https://avatars2.githubusercontent.com/u/20970511?v=4",
         "description": "A many-core transient searching pipeline, designed mainly to search in real-time for Fast Radio Bursts.",
+        "topics": []
+    },
+    {
+        "uid": "github/assume-framework/assume",
+        "url": "https://github.com/assume-framework/assume",
+        "rel": "/software/repository/github/assume-framework/assume",
+        "avatar": "https://avatars.githubusercontent.com/u/131251735?v=4",
+        "description": "ASSUME - Agent-based Simulation for Studying and Understanding Market Evolution",
         "topics": []
     },
     {
@@ -11831,6 +11871,24 @@
         "topics": []
     },
     {
+        "uid": "github/pedbrgs/PyCCEA",
+        "url": "https://github.com/pedbrgs/PyCCEA",
+        "rel": "/software/repository/github/pedbrgs/PyCCEA",
+        "avatar": "https://avatars.githubusercontent.com/u/30960165?v=4",
+        "description": "A Python package of cooperative co-evolutionary algorithms for feature selection in high-dimensional data.",
+        "topics": [
+            "feature-selection",
+            "cooperative-coevolution",
+            "machine-learning",
+            "supervised-learning",
+            "evolutionary-algorithms",
+            "high-dimensional-data",
+            "classification-tasks",
+            "regression-tasks",
+            "python"
+        ]
+    },
+    {
         "uid": "github/jmejia8/Metaheuristics.jl",
         "url": "https://github.com/jmejia8/Metaheuristics.jl",
         "rel": "/software/repository/github/jmejia8/Metaheuristics.jl",
@@ -13471,6 +13529,14 @@
         "rel": "/software/repository/github/samwaseda/mamonca",
         "avatar": "https://avatars.githubusercontent.com/u/37879103?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/FoxFortino/ABC-SN",
+        "url": "https://github.com/FoxFortino/ABC-SN",
+        "rel": "/software/repository/github/FoxFortino/ABC-SN",
+        "avatar": "https://avatars.githubusercontent.com/u/29548930?v=4",
+        "description": "The Attention Based Classifier for Supernovae (ABC-SN) is a neural network, inspired by the Transformer, to classify supernova into subtypes based on their spectra.",
         "topics": []
     },
     {
@@ -16237,6 +16303,14 @@
         "rel": "/software/repository/github/tatekawa-astron/PN",
         "avatar": "https://avatars.githubusercontent.com/u/47408759?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/bge-barcoding/gene_fetch",
+        "url": "https://github.com/bge-barcoding/gene_fetch",
+        "rel": "/software/repository/github/bge-barcoding/gene_fetch",
+        "avatar": "https://avatars.githubusercontent.com/u/157588017?v=4",
+        "description": "A Python tool for high-throughput retrieval of protein and/or gene sequences from NCBI GenBank for single or multiple taxa.",
         "topics": []
     },
     {
@@ -19640,6 +19714,14 @@
         "topics": []
     },
     {
+        "uid": "github/fkeruzore/halox",
+        "url": "https://github.com/fkeruzore/halox",
+        "rel": "/software/repository/github/fkeruzore/halox",
+        "avatar": "https://avatars.githubusercontent.com/u/26671073?v=4",
+        "description": "Dark matter halo properties and halo mass functions using JAX",
+        "topics": []
+    },
+    {
         "uid": "github/fkeruzore/panco2",
         "url": "https://github.com/fkeruzore/panco2",
         "rel": "/software/repository/github/fkeruzore/panco2",
@@ -21726,6 +21808,14 @@
         "rel": "/software/repository/github/mdruett/COCOPLOT",
         "avatar": "https://avatars.githubusercontent.com/u/42343001?v=4",
         "description": "COlor COllapsed PLOTting quick-look and context image software is designed to convey spectral profile information from all of the spatial pixels in a 3D datacube as a single image, using color.",
+        "topics": []
+    },
+    {
+        "uid": "github/CLINDA-AAU/simulacrumWorkflowR",
+        "url": "https://github.com/CLINDA-AAU/simulacrumWorkflowR",
+        "rel": "/software/repository/github/CLINDA-AAU/simulacrumWorkflowR",
+        "avatar": "https://avatars.githubusercontent.com/u/10705292?v=4",
+        "description": "An R library to ease the process of using Simulacrum.",
         "topics": []
     },
     {
@@ -26045,6 +26135,23 @@
             "salmon",
             "dam-impact-analysis",
             "simulation"
+        ]
+    },
+    {
+        "uid": "github/danStich/anadrofish",
+        "url": "https://github.com/danStich/anadrofish",
+        "rel": "/software/repository/github/danStich/anadrofish",
+        "avatar": "https://avatars.githubusercontent.com/u/36766897?v=4",
+        "description": "R package for modeling anadromous fish population responses to dams",
+        "topics": [
+            "river",
+            "fish",
+            "dams",
+            "fisheries",
+            "r",
+            "anadromous",
+            "life-history",
+            "stock-assessment"
         ]
     },
     {
@@ -34285,6 +34392,20 @@
         "topics": []
     },
     {
+        "uid": "github/bio-phys/asyncmd",
+        "url": "https://github.com/bio-phys/asyncmd",
+        "rel": "/software/repository/github/bio-phys/asyncmd",
+        "avatar": "https://avatars.githubusercontent.com/u/30295439?v=4",
+        "description": "asyncmd is a library to write concurrent code to run and analyze molecular dynamics simulations using pythons async/await syntax. Computationally costly operations can be performed locally or submitted to a queuing system.",
+        "topics": [
+            "enhanced-sampling",
+            "molecular-dynamics",
+            "molecular-dynamics-simulation",
+            "slurm",
+            "slurm-cluster"
+        ]
+    },
+    {
         "uid": "github/bio-phys/BioEn",
         "url": "https://github.com/bio-phys/BioEn",
         "rel": "/software/repository/github/bio-phys/BioEn",
@@ -34834,6 +34955,22 @@
         "topics": []
     },
     {
+        "uid": "github/JoWestermann/smolyax",
+        "url": "https://github.com/JoWestermann/smolyax",
+        "rel": "/software/repository/github/JoWestermann/smolyax",
+        "avatar": "https://avatars.githubusercontent.com/u/91186482?v=4",
+        "description": "Fast high-dimensional interpolation of vector valued functions in JAX",
+        "topics": [
+            "barycentric-interpolation",
+            "jax",
+            "polynomial-interpolation",
+            "sparse-grids",
+            "smolyak-operator",
+            "numba",
+            "polynomial-chaos"
+        ]
+    },
+    {
         "uid": "github/WelbornGroup/ELECTRIC",
         "url": "https://github.com/WelbornGroup/ELECTRIC",
         "rel": "/software/repository/github/WelbornGroup/ELECTRIC",
@@ -35205,6 +35342,14 @@
         "rel": "/software/repository/github/BaroudLab/Griottes",
         "avatar": "https://avatars.githubusercontent.com/u/97296791?v=4",
         "description": "Python program to generate NetworkX graphs from segmented images.",
+        "topics": []
+    },
+    {
+        "uid": "github/msyazwanfaid/hilalimagingdataextraction",
+        "url": "https://github.com/msyazwanfaid/hilalimagingdataextraction",
+        "rel": "/software/repository/github/msyazwanfaid/hilalimagingdataextraction",
+        "avatar": "https://avatars.githubusercontent.com/u/34955054?v=4",
+        "description": "Code to detect the availability of lunar crescent from image",
         "topics": []
     },
     {
@@ -39961,6 +40106,14 @@
         ]
     },
     {
+        "uid": "github/Habiba-Eldababy/Parallel-CDM",
+        "url": "https://github.com/Habiba-Eldababy/Parallel-CDM",
+        "rel": "/software/repository/github/Habiba-Eldababy/Parallel-CDM",
+        "avatar": "https://avatars.githubusercontent.com/u/180611623?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/rpetit3/fastq-dl",
         "url": "https://github.com/rpetit3/fastq-dl",
         "rel": "/software/repository/github/rpetit3/fastq-dl",
@@ -41477,6 +41630,14 @@
         "topics": []
     },
     {
+        "uid": "github/CIBERER/nf-CBRA-snvs",
+        "url": "https://github.com/CIBERER/nf-CBRA-snvs",
+        "rel": "/software/repository/github/CIBERER/nf-CBRA-snvs",
+        "avatar": "https://avatars.githubusercontent.com/u/105356203?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/tensorlayer/tensorlayer",
         "url": "https://github.com/tensorlayer/TensorLayer",
         "rel": "/software/repository/github/tensorlayer/tensorlayer",
@@ -42987,6 +43148,16 @@
             "adcps",
             "directional-spectrum",
             "wavestaffs"
+        ]
+    },
+    {
+        "uid": "github/childmindresearch/actisleep-tracker",
+        "url": "https://github.com/childmindresearch/actisleep-tracker",
+        "rel": "/software/repository/github/childmindresearch/actisleep-tracker",
+        "avatar": "https://avatars.githubusercontent.com/u/132617703?v=4",
+        "description": "A webapp for annotating actigraphy data",
+        "topics": [
+            "actigraphy"
         ]
     },
     {
@@ -48432,6 +48603,14 @@
         "topics": []
     },
     {
+        "uid": "github/zsylvester/segmenteverygrain",
+        "url": "https://github.com/zsylvester/segmenteverygrain",
+        "rel": "/software/repository/github/zsylvester/segmenteverygrain",
+        "avatar": "https://avatars.githubusercontent.com/u/5200560?v=4",
+        "description": "A SAM-based model for instance segmentation of images of grains",
+        "topics": []
+    },
+    {
         "uid": "github/joergbuchwald/joss_ogs6py_VTUinterface",
         "url": "https://github.com/joergbuchwald/joss_ogs6py_VTUinterface",
         "rel": "/software/repository/github/joergbuchwald/joss_ogs6py_VTUinterface",
@@ -49346,6 +49525,22 @@
             "spectral-analysis",
             "multi-wavelength",
             "hawc"
+        ]
+    },
+    {
+        "uid": "github/donishadsmith/neurocaps",
+        "url": "https://github.com/donishadsmith/neurocaps",
+        "rel": "/software/repository/github/donishadsmith/neurocaps",
+        "avatar": "https://avatars.githubusercontent.com/u/112973674?v=4",
+        "description": "A Python package for performing Co-Activation Patterns (CAPs) analyses on resting-state and task-based fMRI data.",
+        "topics": [
+            "neuroimaging",
+            "fmri",
+            "kmeans",
+            "fmriprep",
+            "python",
+            "dynamic-functional-connectivity",
+            "co-activation-patterns"
         ]
     },
     {
@@ -61029,6 +61224,20 @@
         "topics": []
     },
     {
+        "uid": "github/USEPA/MCSimMod",
+        "url": "https://github.com/USEPA/MCSimMod",
+        "rel": "/software/repository/github/USEPA/MCSimMod",
+        "avatar": "https://avatars.githubusercontent.com/u/1304320?v=4",
+        "description": "MCSim Models in R",
+        "topics": [
+            "ode-model",
+            "pbpk",
+            "pbpk-modeling",
+            "r",
+            "ode"
+        ]
+    },
+    {
         "uid": "github/21cmfast/21cmEMU",
         "url": "https://github.com/21cmfast/21cmEMU",
         "rel": "/software/repository/github/21cmfast/21cmEMU",
@@ -65278,6 +65487,14 @@
         "topics": []
     },
     {
+        "uid": "github/gumilevskij/Framework",
+        "url": "https://github.com/gumilevskij/Framework",
+        "rel": "/software/repository/github/gumilevskij/Framework",
+        "avatar": "https://avatars.githubusercontent.com/u/195054977?v=4",
+        "description": "Python Framework for DSGE Modeling",
+        "topics": []
+    },
+    {
         "uid": "github/ictr/covid19-outbreak-simulator",
         "url": "https://github.com/ictr/covid19-outbreak-simulator",
         "rel": "/software/repository/github/ictr/covid19-outbreak-simulator",
@@ -66271,6 +66488,22 @@
         "topics": []
     },
     {
+        "uid": "github/TBLabFJD/WHALE",
+        "url": "https://github.com/TBLabFJD/WHALE",
+        "rel": "/software/repository/github/TBLabFJD/WHALE",
+        "avatar": "https://avatars.githubusercontent.com/u/48798983?v=4",
+        "description": "WHALE: (W)orkflow for (H)uman-genome (A)nalysis of (L)ong-read (E)xperiments",
+        "topics": []
+    },
+    {
+        "uid": "github/TBLabFJD/PARROT-FJD",
+        "url": "https://github.com/TBLabFJD/PARROT-FJD",
+        "rel": "/software/repository/github/TBLabFJD/PARROT-FJD",
+        "avatar": "https://avatars.githubusercontent.com/u/48798983?v=4",
+        "description": "(P)ipeline of (A)nalysis and (R)esearch of (R)are diseases (O)ptimized in (T)blab-Fundaci\u00f3n Jim\u00e9nez D\u00edaz. ",
+        "topics": []
+    },
+    {
         "uid": "github/TBLabFJD/DBofAFs",
         "url": "https://github.com/TBLabFJD/DBofAFs",
         "rel": "/software/repository/github/TBLabFJD/DBofAFs",
@@ -66729,6 +66962,14 @@
             "atmosphere",
             "python"
         ]
+    },
+    {
+        "uid": "github/NikolayOskolkov/MCWorkflow",
+        "url": "https://github.com/NikolayOskolkov/MCWorkflow",
+        "rel": "/software/repository/github/NikolayOskolkov/MCWorkflow",
+        "avatar": "https://avatars.githubusercontent.com/u/49948664?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/jts/nanopolish",

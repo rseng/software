@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/JoWestermann/smolyax",
+    "url": "https://github.com/JoWestermann/smolyax",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16860779",
+        "name": "smolyax",
+        "url": "https://github.com/JoWestermann/smolyax",
+        "full_name": "JoWestermann/smolyax",
+        "html_url": "https://github.com/JoWestermann/smolyax",
+        "description": "Fast high-dimensional interpolation of vector valued functions in JAX",
+        "created_at": "2025-01-21T21:21:52Z",
+        "updated_at": "2025-08-15T07:59:34Z",
+        "clone_url": "https://github.com/JoWestermann/smolyax.git",
+        "size": 4900,
+        "language": "Python",
+        "open_issues_count": 2,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/JoWestermann",
+            "avatar_url": "https://avatars.githubusercontent.com/u/91186482?v=4",
+            "login": "JoWestermann",
+            "type": "User"
+        },
+        "topics": [
+            "barycentric-interpolation",
+            "jax",
+            "polynomial-interpolation",
+            "sparse-grids",
+            "smolyak-operator",
+            "numba",
+            "polynomial-chaos"
+        ],
+        "timestamp": "2025-08-17 00:57:13.700226",
+        "avatar": "https://avatars.githubusercontent.com/u/91186482?v=4"
+    }
+}
