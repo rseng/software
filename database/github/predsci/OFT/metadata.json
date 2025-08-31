@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/predsci/OFT",
+    "url": "https://github.com/predsci/OFT",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025ApJS..278...24C",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft08013C/abstract"
+        ],
+        "title": "OFT: Open-source Flux Transport",
+        "url": "https://github.com/predsci/OFT",
+        "name": "OFT",
+        "full_name": "predsci/OFT",
+        "html_url": "https://github.com/predsci/OFT",
+        "description": "Open Source Flux Transport",
+        "created_at": "2024-01-16T22:17:01Z",
+        "updated_at": "2025-08-28T22:53:30Z",
+        "clone_url": "https://github.com/predsci/OFT.git",
+        "size": 3344,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 6,
+        "owner": {
+            "html_url": "https://github.com/predsci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8443402?v=4",
+            "login": "predsci",
+            "type": "Organization"
+        },
+        "timestamp": "2025-08-31 00:52:51.786968",
+        "avatar": "https://avatars.githubusercontent.com/u/8443402?v=4"
+    }
+}

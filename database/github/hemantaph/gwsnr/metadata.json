@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/hemantaph/gwsnr",
+    "url": "https://github.com/hemantaph/gwsnr",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025RSPTA.38340127M",
+            "https://ui.adsabs.harvard.edu/abs/2024arXiv241209888P",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft08011P/abstract"
+        ],
+        "title": "gwsnr: Gravitational Wave Signal-to-Noise Ratio computation",
+        "url": "https://github.com/hemantaph/gwsnr",
+        "name": "gwsnr",
+        "full_name": "hemantaph/gwsnr",
+        "html_url": "https://github.com/hemantaph/gwsnr",
+        "created_at": "2023-04-12T05:40:40Z",
+        "updated_at": "2025-08-25T10:22:54Z",
+        "clone_url": "https://github.com/hemantaph/gwsnr.git",
+        "size": 140734,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Jupyter Notebook",
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/hemantaph",
+            "avatar_url": "https://avatars.githubusercontent.com/u/53345498?v=4",
+            "login": "hemantaph",
+            "type": "User"
+        },
+        "timestamp": "2025-08-31 00:52:53.089955",
+        "avatar": "https://avatars.githubusercontent.com/u/53345498?v=4"
+    }
+}
