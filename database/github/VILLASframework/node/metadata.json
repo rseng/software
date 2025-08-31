@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/VILLASframework/node",
+    "url": "https://github.com/VILLASframework/node",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16917994",
+        "name": "node",
+        "url": "https://github.com/VILLASframework/node",
+        "full_name": "VILLASframework/node",
+        "html_url": "https://github.com/VILLASframework/node",
+        "description": "Connecting real-time power grid simulation equipment",
+        "created_at": "2022-12-02T09:11:02Z",
+        "updated_at": "2025-08-26T07:01:45Z",
+        "clone_url": "https://github.com/VILLASframework/node.git",
+        "homepage": "https://fein-aachen.org/projects/villas-node/",
+        "size": 73018,
+        "stargazers_count": 15,
+        "watchers_count": 15,
+        "language": "C++",
+        "open_issues_count": 74,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/VILLASframework",
+            "avatar_url": "https://avatars.githubusercontent.com/u/33834284?v=4",
+            "login": "VILLASframework",
+            "type": "Organization"
+        },
+        "topics": [
+            "simulation",
+            "villas"
+        ],
+        "timestamp": "2025-08-31 00:53:19.465381",
+        "avatar": "https://avatars.githubusercontent.com/u/33834284?v=4"
+    }
+}

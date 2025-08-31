@@ -1,0 +1,32 @@
+{
+    "parser": "github",
+    "uid": "github/wm75/vaporup",
+    "url": "https://github.com/wm75/vaporup",
+    "data": {
+        "doi": "10.1093/bioinformatics/btz814",
+        "name": "vaporup",
+        "url": "https://github.com/wm75/vaporup",
+        "full_name": "wm75/vaporup",
+        "html_url": "https://github.com/wm75/vaporup",
+        "created_at": "2022-08-09T08:54:25Z",
+        "updated_at": "2025-08-28T11:50:45Z",
+        "clone_url": "https://github.com/wm75/vaporup.git",
+        "size": 222,
+        "language": "Python",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "owner": {
+            "html_url": "https://github.com/wm75",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4742081?v=4",
+            "login": "wm75",
+            "type": "User"
+        },
+        "timestamp": "2025-08-31 00:53:38.661171",
+        "avatar": "https://avatars.githubusercontent.com/u/4742081?v=4"
+    }
+}
