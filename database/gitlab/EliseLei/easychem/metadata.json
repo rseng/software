@@ -1,0 +1,37 @@
+{
+    "parser": "gitlab",
+    "uid": "gitlab/EliseLei/easychem",
+    "url": "https://gitlab.com/EliseLei/easychem",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16834894",
+        "id": 39021845,
+        "name": "easychem",
+        "name_with_namespace": "EliseLei / easychem",
+        "path": "easychem",
+        "path_with_namespace": "EliseLei/easychem",
+        "created_at": "2022-08-31T09:09:32.524Z",
+        "default_branch": "master",
+        "ssh_url_to_repo": "git@gitlab.com:EliseLei/easychem.git",
+        "http_url_to_repo": "https://gitlab.com/EliseLei/easychem.git",
+        "web_url": "https://gitlab.com/EliseLei/easychem",
+        "readme_url": "https://gitlab.com/EliseLei/easychem/-/blob/master/README.rst",
+        "forks_count": 1,
+        "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/39021845/easyCHEM_logo_light.png",
+        "star_count": 1,
+        "last_activity_at": "2025-08-13T08:09:30.800Z",
+        "visibility": "public",
+        "namespace": {
+            "id": 12878319,
+            "name": "EliseLei",
+            "path": "EliseLei",
+            "kind": "user",
+            "full_path": "EliseLei",
+            "parent_id": null,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3f6108bf64749306ce6f62b6215026b6298f00bd1eda6b7c6926ebedc584d03?s=80&d=identicon",
+            "web_url": "https://gitlab.com/EliseLei"
+        },
+        "timestamp": "2025-09-07 00:52:12.057265",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/39021845/easyCHEM_logo_light.png",
+        "url": "https://gitlab.com/EliseLei/easychem"
+    }
+}
