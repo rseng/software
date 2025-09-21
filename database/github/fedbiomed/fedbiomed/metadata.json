@@ -1,0 +1,49 @@
+{
+    "parser": "github",
+    "uid": "github/fedbiomed/fedbiomed",
+    "url": "https://github.com/fedbiomed/fedbiomed",
+    "data": {
+        "doi": "10.1038/s41746-025-01434-3",
+        "name": "fedbiomed",
+        "url": "https://github.com/fedbiomed/fedbiomed",
+        "full_name": "fedbiomed/fedbiomed",
+        "html_url": "https://github.com/fedbiomed/fedbiomed",
+        "description": "A collaborative learning framework for empowering biomedical research",
+        "created_at": "2023-05-30T06:23:36Z",
+        "updated_at": "2025-09-11T12:01:31Z",
+        "clone_url": "https://github.com/fedbiomed/fedbiomed.git",
+        "homepage": "https://fedbiomed.org",
+        "size": 60072,
+        "stargazers_count": 59,
+        "watchers_count": 59,
+        "language": "Python",
+        "open_issues_count": 207,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 12,
+        "owner": {
+            "html_url": "https://github.com/fedbiomed",
+            "avatar_url": "https://avatars.githubusercontent.com/u/131657914?v=4",
+            "login": "fedbiomed",
+            "type": "Organization"
+        },
+        "topics": [
+            "ai",
+            "biomedical",
+            "clinical",
+            "federated",
+            "learning",
+            "analytics",
+            "collaborative",
+            "healthcare",
+            "multicentric"
+        ],
+        "timestamp": "2025-09-21 00:53:02.875173",
+        "avatar": "https://avatars.githubusercontent.com/u/131657914?v=4"
+    }
+}
