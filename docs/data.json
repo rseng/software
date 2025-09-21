@@ -3471,6 +3471,14 @@
         "topics": []
     },
     {
+        "uid": "github/Feng-Ji-Lab/FedIRT",
+        "url": "https://github.com/Feng-Ji-Lab/FedIRT",
+        "rel": "/software/repository/github/Feng-Ji-Lab/FedIRT",
+        "avatar": "https://avatars.githubusercontent.com/u/166061424?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/AndrewAnnex/SpiceyPy",
         "url": "https://github.com/AndrewAnnex/SpiceyPy",
         "rel": "/software/repository/github/AndrewAnnex/SpiceyPy",
@@ -6112,6 +6120,14 @@
         "topics": []
     },
     {
+        "uid": "github/PBjam-projects/PBjam",
+        "url": "https://github.com/PBjam-projects/PBjam",
+        "rel": "/software/repository/github/PBjam-projects/PBjam",
+        "avatar": "https://avatars.githubusercontent.com/u/229987229?v=4",
+        "description": "A repo for our peak baggin code and tips on jam",
+        "topics": []
+    },
+    {
         "uid": "github/Michalychforever/CLASS_LVDM",
         "url": "https://github.com/Michalychforever/CLASS_LVDM",
         "rel": "/software/repository/github/Michalychforever/CLASS_LVDM",
@@ -7149,6 +7165,14 @@
         "topics": []
     },
     {
+        "uid": "github/nasa/condor",
+        "url": "https://github.com/nasa/condor",
+        "rel": "/software/repository/github/nasa/condor",
+        "avatar": "https://avatars.githubusercontent.com/u/848102?v=4",
+        "description": "NASA's Condor is a framework for mathematical modeling of engineering systems in Python, for engineers with deadlines.",
+        "topics": []
+    },
+    {
         "uid": "github/nasa/kepler-robovetter",
         "url": "https://github.com/nasa/kepler-robovetter",
         "rel": "/software/repository/github/nasa/kepler-robovetter",
@@ -7561,6 +7585,14 @@
             "microbiome",
             "systems-biology"
         ]
+    },
+    {
+        "uid": "github/OpenGene/fastplong",
+        "url": "https://github.com/OpenGene/fastplong",
+        "rel": "/software/repository/github/OpenGene/fastplong",
+        "avatar": "https://avatars.githubusercontent.com/u/16162853?v=4",
+        "description": "Ultra-fast preprocessing and quality control for long-read sequencing data",
+        "topics": []
     },
     {
         "uid": "github/OpenGene/repaq",
@@ -20881,6 +20913,23 @@
         "topics": []
     },
     {
+        "uid": "github/Ecogenomics/GTDBTk",
+        "url": "https://github.com/Ecogenomics/GTDBTk",
+        "rel": "/software/repository/github/Ecogenomics/GTDBTk",
+        "avatar": "https://avatars.githubusercontent.com/u/1404161?v=4",
+        "description": "GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.",
+        "topics": [
+            "taxonomy",
+            "species-assignments",
+            "phylogenetics",
+            "archaea",
+            "bacteria",
+            "nomenclature",
+            "bioinformatics",
+            "metagenomics"
+        ]
+    },
+    {
         "uid": "github/vimc/vaultr",
         "url": "https://github.com/vimc/vaultr",
         "rel": "/software/repository/github/vimc/vaultr",
@@ -23756,6 +23805,14 @@
         "topics": []
     },
     {
+        "uid": "github/ConnorStoneAstro/caskade",
+        "url": "https://github.com/ConnorStoneAstro/caskade",
+        "rel": "/software/repository/github/ConnorStoneAstro/caskade",
+        "avatar": "https://avatars.githubusercontent.com/u/78555321?v=4",
+        "description": "Build scientific simulators, treating them as a directed acyclic graph",
+        "topics": []
+    },
+    {
         "uid": "github/ConnorStoneAstro/AutoProf",
         "url": "https://github.com/ConnorStoneAstro/AutoProf",
         "rel": "/software/repository/github/ConnorStoneAstro/AutoProf",
@@ -24030,6 +24087,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/42872728?v=4",
         "description": "A Python package for estimating mixed logit models with nonparametric distributions",
         "topics": []
+    },
+    {
+        "uid": "github/bowang-lab/scGPT",
+        "url": "https://github.com/bowang-lab/scGPT",
+        "rel": "/software/repository/github/bowang-lab/scGPT",
+        "avatar": "https://avatars.githubusercontent.com/u/50999261?v=4",
+        "description": "scGPT is a foundation model for Single-Cell Multi-omics using generative AI. scGPT can be optimized to achieve superior performance across diverse downstream applications such as cell type annotation, multi-batch integration, multi-omic integration, perturbation response prediction and gene network inference",
+        "topics": [
+            "foundation-model",
+            "gpt",
+            "single-cell"
+        ]
     },
     {
         "uid": "github/davidemms/OrthoFinder",
@@ -25391,6 +25460,22 @@
         "topics": [
             "satisfiability-modulo-theories",
             "smt-lib"
+        ]
+    },
+    {
+        "uid": "github/gyselax/gyselalibxx",
+        "url": "https://github.com/gyselax/gyselalibxx",
+        "rel": "/software/repository/github/gyselax/gyselalibxx",
+        "avatar": "https://avatars.githubusercontent.com/u/80884529?v=4",
+        "description": "Gyselalib++ is a collection of C++ components for writing gyrokinetic semi-lagrangian codes and similar",
+        "topics": [
+            "hpc",
+            "numerical-simulation",
+            "gyrokinetic",
+            "poisson-solver",
+            "vlasov-solver",
+            "plasma-physics",
+            "ddc"
         ]
     },
     {
@@ -26990,6 +27075,26 @@
         "avatar": "https://avatars.githubusercontent.com/u/20248820?v=4",
         "description": "Light curve model of supernova precursors powered by compact object companions",
         "topics": []
+    },
+    {
+        "uid": "github/cthoyt/chembl-downloader",
+        "url": "https://github.com/cthoyt/chembl-downloader",
+        "rel": "/software/repository/github/cthoyt/chembl-downloader",
+        "avatar": "https://avatars.githubusercontent.com/u/5069736?v=4",
+        "description": "Write reproducible code for getting and processing ChEMBL",
+        "topics": [
+            "reproducible-research",
+            "chembl",
+            "python",
+            "cheminformatics",
+            "toxicology",
+            "chemogenomics",
+            "chemometrics",
+            "pharmacology",
+            "proteochemometrics",
+            "bioinformatics",
+            "machine-learning"
+        ]
     },
     {
         "uid": "github/cthoyt/bel-resources",
@@ -30888,6 +30993,14 @@
         "topics": []
     },
     {
+        "uid": "github/magnuspalmblad/navpa",
+        "url": "https://github.com/magnuspalmblad/navpa",
+        "rel": "/software/repository/github/magnuspalmblad/navpa",
+        "avatar": "https://avatars.githubusercontent.com/u/16084125?v=4",
+        "description": "Navpa is non-software, deriving its name from nav pa', Klingon for paper town.",
+        "topics": []
+    },
+    {
         "uid": "github/pyxnat/pyxnat",
         "url": "https://github.com/pyxnat/pyxnat",
         "rel": "/software/repository/github/pyxnat/pyxnat",
@@ -33870,6 +33983,23 @@
         "topics": []
     },
     {
+        "uid": "github/DatViseR/Vivid-Volcano",
+        "url": "https://github.com/DatViseR/Vivid-Volcano",
+        "rel": "/software/repository/github/DatViseR/Vivid-Volcano",
+        "avatar": "https://avatars.githubusercontent.com/u/64078730?v=4",
+        "description": "A shiny app for custom analyzes of preprocessed omics data",
+        "topics": [
+            "bioinformatics",
+            "genomics-visualization",
+            "gsea",
+            "life-sciences",
+            "omics",
+            "proteomics",
+            "rnaseq",
+            "volcano-plot"
+        ]
+    },
+    {
         "uid": "github/nach00gar/16SMicrobiomeMLFS",
         "url": "https://github.com/nach00gar/16SMicrobiomeMLFS",
         "rel": "/software/repository/github/nach00gar/16SMicrobiomeMLFS",
@@ -35536,6 +35666,20 @@
         "topics": []
     },
     {
+        "uid": "github/oss-slu/Pi4Micronaut",
+        "url": "https://github.com/oss-slu/Pi4Micronaut",
+        "rel": "/software/repository/github/oss-slu/Pi4Micronaut",
+        "avatar": "https://avatars.githubusercontent.com/u/103513755?v=4",
+        "description": "A java library combining Micronaut and Pi4j to streamline hardware connectivity to Raspberry Pi's",
+        "topics": [
+            "java",
+            "micronaut",
+            "micronaut-framework",
+            "pi4j",
+            "raspberry-pi"
+        ]
+    },
+    {
         "uid": "github/joshuakt/Oxygen-False-Positives",
         "url": "https://github.com/joshuakt/Oxygen-False-Positives",
         "rel": "/software/repository/github/joshuakt/Oxygen-False-Positives",
@@ -35741,6 +35885,18 @@
         "topics": [
             "blazar",
             "astrophysics"
+        ]
+    },
+    {
+        "uid": "github/DPP4ResearchGroup/substrateminer",
+        "url": "https://github.com/DPP4ResearchGroup/substrateminer",
+        "rel": "/software/repository/github/DPP4ResearchGroup/substrateminer",
+        "avatar": "https://avatars.githubusercontent.com/u/39476165?v=4",
+        "description": "A python package to discover enzyme substrates based on sequence consensus ",
+        "topics": [
+            "bioinformatics",
+            "proteomics",
+            "substrate"
         ]
     },
     {
@@ -37892,6 +38048,14 @@
         "topics": []
     },
     {
+        "uid": "github/chaoliu-cl/textAnnotatoR",
+        "url": "https://github.com/chaoliu-cl/textAnnotatoR",
+        "rel": "/software/repository/github/chaoliu-cl/textAnnotatoR",
+        "avatar": "https://avatars.githubusercontent.com/u/99229010?v=4",
+        "description": "Interactive Text Annotation Tool with Shiny GUI",
+        "topics": []
+    },
+    {
         "uid": "github/ThomasBakx/cobra",
         "url": "https://github.com/ThomasBakx/cobra",
         "rel": "/software/repository/github/ThomasBakx/cobra",
@@ -38246,6 +38410,20 @@
             "mcmc",
             "bayesian-data-analysis",
             "data-visualization"
+        ]
+    },
+    {
+        "uid": "github/BlueSpacePotato/hsi-wizard",
+        "url": "https://github.com/BlueSpacePotato/hsi-wizard",
+        "rel": "/software/repository/github/BlueSpacePotato/hsi-wizard",
+        "avatar": "https://avatars.githubusercontent.com/u/35776511?v=4",
+        "description": "Straightforward environment for hyperspectral analysis in Python.",
+        "topics": [
+            "hsi",
+            "hyperspectral",
+            "hyperspectral-imaging",
+            "python",
+            "python3"
         ]
     },
     {
@@ -42297,6 +42475,14 @@
         "topics": []
     },
     {
+        "uid": "github/JosephIsaacTurner/pypaperretriever",
+        "url": "https://github.com/JosephIsaacTurner/pypaperretriever",
+        "rel": "/software/repository/github/JosephIsaacTurner/pypaperretriever",
+        "avatar": "https://avatars.githubusercontent.com/u/124412177?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/casasglobal-org/psymple",
         "url": "https://github.com/casasglobal-org/psymple",
         "rel": "/software/repository/github/casasglobal-org/psymple",
@@ -46144,6 +46330,22 @@
         "topics": []
     },
     {
+        "uid": "github/esilver01/resnet-model-training",
+        "url": "https://github.com/esilver01/resnet-model-training",
+        "rel": "/software/repository/github/esilver01/resnet-model-training",
+        "avatar": "https://avatars.githubusercontent.com/u/70253762?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/esilver01/small-lens-forecast-sims",
+        "url": "https://github.com/esilver01/small-lens-forecast-sims",
+        "rel": "/software/repository/github/esilver01/small-lens-forecast-sims",
+        "avatar": "https://avatars.githubusercontent.com/u/70253762?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/Extraweich/homopy",
         "url": "https://github.com/Extraweich/homopy",
         "rel": "/software/repository/github/Extraweich/homopy",
@@ -46610,6 +46812,14 @@
         "rel": "/software/repository/github/TBLabFJD/DBofAFs",
         "avatar": "https://avatars.githubusercontent.com/u/48798983?v=4",
         "description": "Pipeline for database creation of allele frequencies ",
+        "topics": []
+    },
+    {
+        "uid": "github/raphael-group/chisel",
+        "url": "https://github.com/raphael-group/chisel",
+        "rel": "/software/repository/github/raphael-group/chisel",
+        "avatar": "https://avatars.githubusercontent.com/u/5168500?v=4",
+        "description": "CHISEL -- Copy-number Haplotype Inference in Single-cell by Evolutionary Links",
         "topics": []
     },
     {
@@ -50912,6 +51122,14 @@
         ]
     },
     {
+        "uid": "github/radwinskis/RadGEEToolbox",
+        "url": "https://github.com/radwinskis/RadGEEToolbox",
+        "rel": "/software/repository/github/radwinskis/RadGEEToolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/78708345?v=4",
+        "description": "Python package simplifying large-scale operations using Google Earth Engine (GEE) for users who utilize Landsat and Sentinel",
+        "topics": []
+    },
+    {
         "uid": "github/10XGenomics/bamtofastq",
         "url": "https://github.com/10XGenomics/bamtofastq",
         "rel": "/software/repository/github/10XGenomics/bamtofastq",
@@ -51616,6 +51834,14 @@
             "bioinformatics",
             "proteomics"
         ]
+    },
+    {
+        "uid": "github/comp-phys-marc/qasm-ts",
+        "url": "https://github.com/comp-phys-marc/qasm-ts",
+        "rel": "/software/repository/github/comp-phys-marc/qasm-ts",
+        "avatar": "https://avatars.githubusercontent.com/u/94946848?v=4",
+        "description": "QASM, the low-level programming language for quantum circuit specification, implemented in TypeScript.",
+        "topics": []
     },
     {
         "uid": "github/jveitchmichaelis/pygadgetreader",
@@ -54236,6 +54462,14 @@
         "topics": []
     },
     {
+        "uid": "github/jake-w-liu/SpecialFunctions",
+        "url": "https://github.com/jake-w-liu/SpecialFunctions",
+        "rel": "/software/repository/github/jake-w-liu/SpecialFunctions",
+        "avatar": "https://avatars.githubusercontent.com/u/126843050?v=4",
+        "description": "A minimal special function package for C# with MATLAB-like API.",
+        "topics": []
+    },
+    {
         "uid": "github/nombac/optab",
         "url": "https://github.com/nombac/optab",
         "rel": "/software/repository/github/nombac/optab",
@@ -54989,6 +55223,24 @@
         "avatar": "https://avatars.githubusercontent.com/u/10011382?v=4",
         "description": "Python implementation of ARIO model",
         "topics": []
+    },
+    {
+        "uid": "github/alb3rtjarvis/numbacs",
+        "url": "https://github.com/alb3rtjarvis/numbacs",
+        "rel": "/software/repository/github/alb3rtjarvis/numbacs",
+        "avatar": "https://avatars.githubusercontent.com/u/97908936?v=4",
+        "description": "Python package which takes advantage of Numba to efficiently implement a variety of coherent structure methods and analyze time-dependent dynamical systems.",
+        "topics": [
+            "applied-mathematics",
+            "coherent-structures",
+            "dynamical-systems",
+            "geophysical-fluid-dynamics",
+            "numba",
+            "ftle",
+            "lcs",
+            "fluid-dynamics",
+            "lagrangian-coherent-structures"
+        ]
     },
     {
         "uid": "github/krab1k/ChargeFW2",
@@ -65010,6 +65262,14 @@
         ]
     },
     {
+        "uid": "github/Baohua-Chen/GFFx",
+        "url": "https://github.com/Baohua-Chen/GFFx",
+        "rel": "/software/repository/github/Baohua-Chen/GFFx",
+        "avatar": "https://avatars.githubusercontent.com/u/52615906?v=4",
+        "description": "A Rust-Based suite of utilities for ultra-fast genomic feature extraction",
+        "topics": []
+    },
+    {
         "uid": "github/shangguandong1996/FindIT2",
         "url": "https://github.com/shangguandong1996/FindIT2",
         "rel": "/software/repository/github/shangguandong1996/FindIT2",
@@ -68137,6 +68397,14 @@
         ]
     },
     {
+        "uid": "github/OHDSI/omock",
+        "url": "https://github.com/OHDSI/omock",
+        "rel": "/software/repository/github/OHDSI/omock",
+        "avatar": "https://avatars.githubusercontent.com/u/6570077?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/dirostri/CREPE",
         "url": "https://github.com/dirostri/CREPE",
         "rel": "/software/repository/github/dirostri/CREPE",
@@ -68797,6 +69065,24 @@
         "topics": [
             "graph-convolutional-network",
             "human-phenotype-ontology"
+        ]
+    },
+    {
+        "uid": "github/fedbiomed/fedbiomed",
+        "url": "https://github.com/fedbiomed/fedbiomed",
+        "rel": "/software/repository/github/fedbiomed/fedbiomed",
+        "avatar": "https://avatars.githubusercontent.com/u/131657914?v=4",
+        "description": "A collaborative learning framework for empowering biomedical research",
+        "topics": [
+            "ai",
+            "biomedical",
+            "clinical",
+            "federated",
+            "learning",
+            "analytics",
+            "collaborative",
+            "healthcare",
+            "multicentric"
         ]
     },
     {
@@ -74671,6 +74957,14 @@
         "rel": "/software/repository/gitlab/octopus-code/octopus",
         "avatar": "https://gitlab.com/uploads/-/system/project/avatar/2018405/octopus.png",
         "description": "Real-space Time-Dependent Density Functional Theory code",
+        "topics": []
+    },
+    {
+        "uid": "gitlab/cosmology-ethz/ufig",
+        "url": "https://gitlab.com/cosmology-ethz/ufig",
+        "rel": "/software/repository/gitlab/cosmology-ethz/ufig",
+        "avatar": "https://gitlab.com/uploads/-/system/project/avatar/64659173/example_image_small.jpg",
+        "description": "UFig: The Ultra Fast Image Generator",
         "topics": []
     },
     {

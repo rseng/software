@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/DatViseR/Vivid-Volcano",
+    "url": "https://github.com/DatViseR/Vivid-Volcano",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16920103",
+        "name": "Vivid-Volcano",
+        "url": "https://github.com/DatViseR/Vivid-Volcano",
+        "full_name": "DatViseR/Vivid-Volcano",
+        "html_url": "https://github.com/DatViseR/Vivid-Volcano",
+        "description": "A shiny app for custom analyzes of preprocessed omics data",
+        "created_at": "2024-10-21T11:40:23Z",
+        "updated_at": "2025-09-11T08:06:57Z",
+        "clone_url": "https://github.com/DatViseR/Vivid-Volcano.git",
+        "size": 32540,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "HTML",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/DatViseR",
+            "avatar_url": "https://avatars.githubusercontent.com/u/64078730?v=4",
+            "login": "DatViseR",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "genomics-visualization",
+            "gsea",
+            "life-sciences",
+            "omics",
+            "proteomics",
+            "rnaseq",
+            "volcano-plot"
+        ],
+        "timestamp": "2025-09-21 00:52:45.257821",
+        "avatar": "https://avatars.githubusercontent.com/u/64078730?v=4"
+    }
+}
