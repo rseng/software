@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/Lindt8/PHITS-Tools",
+    "url": "https://github.com/Lindt8/PHITS-Tools",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17193688",
+        "name": "PHITS-Tools",
+        "url": "https://github.com/Lindt8/PHITS-Tools",
+        "full_name": "Lindt8/PHITS-Tools",
+        "html_url": "https://github.com/Lindt8/PHITS-Tools",
+        "description": "Python package for parsing and post-processing output from the PHITS code ",
+        "created_at": "2024-10-14T13:23:22Z",
+        "updated_at": "2025-09-26T15:24:28Z",
+        "clone_url": "https://github.com/Lindt8/PHITS-Tools.git",
+        "homepage": "https://lindt8.github.io/PHITS-Tools/",
+        "size": 40710,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Python",
+        "open_issues_count": 4,
+        "license": {
+            "key": "mpl-2.0",
+            "name": "Mozilla Public License 2.0",
+            "spdx_id": "MPL-2.0",
+            "url": "https://api.github.com/licenses/mpl-2.0",
+            "node_id": "MDc6TGljZW5zZTE0"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/Lindt8",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7330668?v=4",
+            "login": "Lindt8",
+            "type": "User"
+        },
+        "timestamp": "2025-09-28 00:57:21.420852",
+        "avatar": "https://avatars.githubusercontent.com/u/7330668?v=4"
+    }
+}

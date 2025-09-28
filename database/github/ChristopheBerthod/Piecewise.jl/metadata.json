@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/ChristopheBerthod/Piecewise.jl",
+    "url": "https://github.com/ChristopheBerthod/Piecewise.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17016438",
+        "name": "Piecewise.jl",
+        "url": "https://github.com/ChristopheBerthod/Piecewise.jl",
+        "full_name": "ChristopheBerthod/Piecewise.jl",
+        "html_url": "https://github.com/ChristopheBerthod/Piecewise.jl",
+        "created_at": "2025-02-12T05:23:31Z",
+        "updated_at": "2025-09-22T20:38:54Z",
+        "clone_url": "https://github.com/ChristopheBerthod/Piecewise.jl.git",
+        "size": 5118,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ChristopheBerthod",
+            "avatar_url": "https://avatars.githubusercontent.com/u/36079222?v=4",
+            "login": "ChristopheBerthod",
+            "type": "User"
+        },
+        "timestamp": "2025-09-28 00:57:23.739642",
+        "avatar": "https://avatars.githubusercontent.com/u/36079222?v=4"
+    }
+}
