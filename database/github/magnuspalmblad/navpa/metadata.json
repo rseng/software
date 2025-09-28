@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/magnuspalmblad/navpa",
+    "url": "https://github.com/magnuspalmblad/navpa",
+    "data": {
+        "name": "navpa",
+        "url": "https://github.com/magnuspalmblad/navpa",
+        "full_name": "magnuspalmblad/navpa",
+        "html_url": "https://github.com/magnuspalmblad/navpa",
+        "private": false,
+        "description": "Navpa is non-software, deriving its name from nav pa', Klingon for paper town.",
+        "created_at": "2024-09-21T15:22:56Z",
+        "updated_at": "2024-09-27T07:28:01Z",
+        "clone_url": "https://github.com/magnuspalmblad/navpa.git",
+        "homepage": null,
+        "size": 81,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Witcher Script",
+        "open_issues_count": 0,
+        "license": {
+            "key": "agpl-3.0",
+            "name": "GNU Affero General Public License v3.0",
+            "spdx_id": "AGPL-3.0",
+            "url": "https://api.github.com/licenses/agpl-3.0",
+            "node_id": "MDc6TGljZW5zZTE="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/magnuspalmblad",
+            "avatar_url": "https://avatars.githubusercontent.com/u/16084125?v=4",
+            "login": "magnuspalmblad",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2025-09-28 00:57:54.262953",
+        "avatar": "https://avatars.githubusercontent.com/u/16084125?v=4"
+    }
+}
