@@ -10015,6 +10015,14 @@
         "topics": []
     },
     {
+        "uid": "github/cassidymwagner/fluidsf",
+        "url": "https://github.com/cassidymwagner/fluidsf",
+        "rel": "/software/repository/github/cassidymwagner/fluidsf",
+        "avatar": "https://avatars.githubusercontent.com/u/18169742?v=4",
+        "description": "FluidSF is a package used to calculate structure functions from fluid data.",
+        "topics": []
+    },
+    {
         "uid": "github/afd-illinois/grim",
         "url": "https://github.com/AFD-Illinois/grim",
         "rel": "/software/repository/github/afd-illinois/grim",
@@ -16832,6 +16840,14 @@
         "rel": "/software/repository/github/csbioinfopk/iSumoK-PseAAC",
         "avatar": "https://avatars.githubusercontent.com/u/53048263?v=4",
         "description": "This is a GitHub repository page that is maintained by Bioinformatics Lab at the Department of Computer Science, University of Management and Technology, Lahore, Pakistan.",
+        "topics": []
+    },
+    {
+        "uid": "github/ashleyblawas/respdetect",
+        "url": "https://github.com/ashleyblawas/respdetect",
+        "rel": "/software/repository/github/ashleyblawas/respdetect",
+        "avatar": "https://avatars.githubusercontent.com/u/33466273?v=4",
+        "description": "A tool to detect respirations from kinematic data",
         "topics": []
     },
     {
@@ -38886,6 +38902,14 @@
         "topics": []
     },
     {
+        "uid": "github/omerveille/VSMOD",
+        "url": "https://github.com/omerveille/VSMOD",
+        "rel": "/software/repository/github/omerveille/VSMOD",
+        "avatar": "https://avatars.githubusercontent.com/u/8049869?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/dolaver/calsagos",
         "url": "https://github.com/dolaver/calsagos",
         "rel": "/software/repository/github/dolaver/calsagos",
@@ -39525,6 +39549,14 @@
             "deseq2",
             "anndata"
         ]
+    },
+    {
+        "uid": "github/carlacupcake/hashin_shtrikman_mp",
+        "url": "https://github.com/carlacupcake/hashin_shtrikman_mp",
+        "rel": "/software/repository/github/carlacupcake/hashin_shtrikman_mp",
+        "avatar": "https://avatars.githubusercontent.com/u/13389734?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/jmsdsouzaPhD/GWDALI",
@@ -43268,6 +43300,14 @@
         "topics": []
     },
     {
+        "uid": "github/sys-bio/ratesb_python",
+        "url": "https://github.com/sys-bio/ratesb_python",
+        "rel": "/software/repository/github/sys-bio/ratesb_python",
+        "avatar": "https://avatars.githubusercontent.com/u/5590646?v=4",
+        "description": "Analysis of rate laws in reaction networks.",
+        "topics": []
+    },
+    {
         "uid": "github/kdeck/TTVFast",
         "url": "https://github.com/kdeck/TTVFast",
         "rel": "/software/repository/github/kdeck/TTVFast",
@@ -45790,6 +45830,30 @@
         "topics": []
     },
     {
+        "uid": "github/adtzlr/felupe",
+        "url": "https://github.com/adtzlr/felupe",
+        "rel": "/software/repository/github/adtzlr/felupe",
+        "avatar": "https://avatars.githubusercontent.com/u/5793153?v=4",
+        "description": "finite element analysis for continuum mechanics of solid bodies",
+        "topics": [
+            "finite-element-analysis",
+            "python",
+            "hyperelasticity",
+            "fem",
+            "partial-differential-equations",
+            "pde",
+            "scientific-computing",
+            "solid-mechanics",
+            "fea",
+            "finite-element-methods",
+            "solid-mechanics-codes",
+            "finite-elements",
+            "umat",
+            "3d",
+            "jax"
+        ]
+    },
+    {
         "uid": "github/dstansby/pfsspy",
         "url": "https://github.com/dstansby/pfsspy",
         "rel": "/software/repository/github/dstansby/pfsspy",
@@ -47737,6 +47801,14 @@
         "topics": []
     },
     {
+        "uid": "github/uw-ipd/RoseTTAFold2",
+        "url": "https://github.com/uw-ipd/RoseTTAFold2",
+        "rel": "/software/repository/github/uw-ipd/RoseTTAFold2",
+        "avatar": "https://avatars.githubusercontent.com/u/39229126?v=4",
+        "description": "RoseTTAFold2, extends the original three-track architecture of RoseTTAFold over the full network, incorporating the concepts of Frame-aligned point error, recycling during training, and the use of a distillation set from AlphaFold2.",
+        "topics": []
+    },
+    {
         "uid": "github/ropensci-archive/monkeylearn",
         "url": "https://github.com/ropensci-archive/monkeylearn",
         "rel": "/software/repository/github/ropensci-archive/monkeylearn",
@@ -48255,6 +48327,14 @@
         "rel": "/software/repository/github/LiShuTJ/NDNet",
         "avatar": "https://avatars.githubusercontent.com/u/100602054?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/hartwigmedical/hmftools",
+        "url": "https://github.com/hartwigmedical/hmftools",
+        "rel": "/software/repository/github/hartwigmedical/hmftools",
+        "avatar": "https://avatars.githubusercontent.com/u/16318013?v=4",
+        "description": "Various algorithms for analysing genomics data",
         "topics": []
     },
     {
@@ -62301,6 +62381,14 @@
         "topics": []
     },
     {
+        "uid": "github/Julian-Sommer/chen-dai-2025-lightcurve-model",
+        "url": "https://github.com/Julian-Sommer/chen-dai-2025-lightcurve-model",
+        "rel": "/software/repository/github/Julian-Sommer/chen-dai-2025-lightcurve-model",
+        "avatar": "https://avatars.githubusercontent.com/u/65716879?v=4",
+        "description": "This code generates lightcurves based on the theoretical model of electromagnetic counterparts of BBH mergers embedded in AGN disks from Chen & Dai (2025), ApJ, 987, 214.",
+        "topics": []
+    },
+    {
         "uid": "github/SMTG-UCL/surfaxe",
         "url": "https://github.com/SMTG-UCL/surfaxe",
         "rel": "/software/repository/github/SMTG-UCL/surfaxe",
@@ -66585,6 +66673,14 @@
         "topics": []
     },
     {
+        "uid": "github/bc3LC/rhap",
+        "url": "https://github.com/bc3LC/rhap",
+        "rel": "/software/repository/github/bc3LC/rhap",
+        "avatar": "https://avatars.githubusercontent.com/u/113363938?v=4",
+        "description": "Econometric analysis to analyze health impacts attributable to indoor air pollution",
+        "topics": []
+    },
+    {
         "uid": "github/copasi/basico",
         "url": "https://github.com/copasi/basico",
         "rel": "/software/repository/github/copasi/basico",
@@ -69210,6 +69306,14 @@
             "rstats",
             "r"
         ]
+    },
+    {
+        "uid": "github/computproteomics/PolySTest",
+        "url": "https://github.com/computproteomics/PolySTest",
+        "rel": "/software/repository/github/computproteomics/PolySTest",
+        "avatar": "https://avatars.githubusercontent.com/u/158178001?v=4",
+        "description": "PolySTest: Statistical testing with missing values",
+        "topics": []
     },
     {
         "uid": "github/computproteomics/ProteoMaker",
@@ -71930,6 +72034,21 @@
             "parsing",
             "gotran",
             "code-generation"
+        ]
+    },
+    {
+        "uid": "github/finsberg/fenicsx-beat",
+        "url": "https://github.com/finsberg/fenicsx-beat",
+        "rel": "/software/repository/github/finsberg/fenicsx-beat",
+        "avatar": "https://avatars.githubusercontent.com/u/2010323?v=4",
+        "description": null,
+        "topics": [
+            "cardiac",
+            "ecg",
+            "electrophysiology",
+            "fenicsx",
+            "finite-element-analysis",
+            "monodomain-model"
         ]
     },
     {
