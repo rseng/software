@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/bioexcel/virtualscreening",
+    "url": "https://github.com/bioexcel/virtualscreening",
+    "data": {
+        "doi": "10.5281/zenodo.263965",
+        "name": "virtualscreening",
+        "url": "https://github.com/bioexcel/virtualscreening",
+        "full_name": "bioexcel/virtualscreening",
+        "html_url": "https://github.com/bioexcel/virtualscreening",
+        "created_at": "2018-04-08T17:35:28Z",
+        "updated_at": "2021-12-03T18:54:47Z",
+        "clone_url": "https://github.com/bioexcel/virtualscreening.git",
+        "size": 126388,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/bioexcel",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15978232?v=4",
+            "login": "bioexcel",
+            "type": "Organization"
+        },
+        "timestamp": "2025-10-19 00:54:41.766599",
+        "avatar": "https://avatars.githubusercontent.com/u/15978232?v=4"
+    }
+}
