@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/bioinfweb/AlignmentComparator",
+    "url": "https://github.com/bioinfweb/AlignmentComparator",
+    "data": {
+        "name": "AlignmentComparator",
+        "url": "https://github.com/bioinfweb/AlignmentComparator",
+        "full_name": "bioinfweb/AlignmentComparator",
+        "html_url": "https://github.com/bioinfweb/AlignmentComparator",
+        "private": false,
+        "description": "Visualizing differences between alternative multiple sequence alignments of the same dataset",
+        "created_at": "2017-08-30T14:34:09Z",
+        "updated_at": "2021-02-11T01:17:15Z",
+        "clone_url": "https://github.com/bioinfweb/AlignmentComparator.git",
+        "homepage": "http://bioinfweb.info/AlignmentComparator/",
+        "size": 11338,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Java",
+        "open_issues_count": 0,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/bioinfweb",
+            "avatar_url": "https://avatars.githubusercontent.com/u/24612521?v=4",
+            "login": "bioinfweb",
+            "type": "Organization"
+        },
+        "topics": [
+            "multiple-sequence-alignment",
+            "comparison",
+            "bioinformatics"
+        ],
+        "timestamp": "2025-10-19 00:54:42.549718",
+        "avatar": "https://avatars.githubusercontent.com/u/24612521?v=4"
+    }
+}
