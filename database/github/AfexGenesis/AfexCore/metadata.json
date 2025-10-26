@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/AfexGenesis/AfexCore",
+    "url": "https://github.com/AfexGenesis/AfexCore",
+    "data": {
+        "name": "AfexCore",
+        "url": "https://github.com/AfexGenesis/AfexCore",
+        "full_name": "AfexGenesis/AfexCore",
+        "html_url": "https://github.com/AfexGenesis/AfexCore",
+        "private": false,
+        "description": "World\u2019s First Open Source User-Friendly, Click & Go Genetic Toolkit.",
+        "created_at": "2025-09-22T16:09:30Z",
+        "updated_at": "2025-09-26T18:38:48Z",
+        "clone_url": "https://github.com/AfexGenesis/AfexCore.git",
+        "homepage": null,
+        "size": 2466,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "JavaScript",
+        "open_issues_count": 0,
+        "license": {
+            "key": "agpl-3.0",
+            "name": "GNU Affero General Public License v3.0",
+            "spdx_id": "AGPL-3.0",
+            "url": "https://api.github.com/licenses/agpl-3.0",
+            "node_id": "MDc6TGljZW5zZTE="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/AfexGenesis",
+            "avatar_url": "https://avatars.githubusercontent.com/u/176066676?v=4",
+            "login": "AfexGenesis",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2025-10-26 00:53:22.607875",
+        "avatar": "https://avatars.githubusercontent.com/u/176066676?v=4"
+    }
+}
