@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/JaxLayerLumos/JaxLayerLumos",
+    "url": "https://github.com/JaxLayerLumos/JaxLayerLumos",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15171548",
+        "name": "JaxLayerLumos",
+        "url": "https://github.com/JaxLayerLumos/JaxLayerLumos",
+        "full_name": "JaxLayerLumos/JaxLayerLumos",
+        "html_url": "https://github.com/JaxLayerLumos/JaxLayerLumos",
+        "description": "A JAX-based Differentiable Optical and Radio Frequency Simulator for Multilayer Structures",
+        "created_at": "2024-04-02T03:23:07Z",
+        "updated_at": "2025-10-17T06:11:42Z",
+        "clone_url": "https://github.com/JaxLayerLumos/JaxLayerLumos.git",
+        "homepage": "https://jaxlayerlumos.github.io",
+        "size": 46088,
+        "stargazers_count": 20,
+        "watchers_count": 20,
+        "language": "Python",
+        "open_issues_count": 6,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/JaxLayerLumos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/173750410?v=4",
+            "login": "JaxLayerLumos",
+            "type": "Organization"
+        },
+        "timestamp": "2025-10-26 00:53:05.547446",
+        "avatar": "https://avatars.githubusercontent.com/u/173750410?v=4"
+    }
+}

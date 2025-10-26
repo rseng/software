@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/Teichlab/celltypist",
+    "url": "https://github.com/Teichlab/celltypist",
+    "data": {
+        "name": "celltypist",
+        "url": "https://github.com/Teichlab/celltypist",
+        "full_name": "Teichlab/celltypist",
+        "html_url": "https://github.com/Teichlab/celltypist",
+        "private": false,
+        "description": "A tool for semi-automatic cell type classification",
+        "created_at": "2021-05-19T20:29:20Z",
+        "updated_at": "2025-10-20T12:16:23Z",
+        "clone_url": "https://github.com/Teichlab/celltypist.git",
+        "homepage": "https://www.celltypist.org/",
+        "size": 23541,
+        "stargazers_count": 414,
+        "watchers_count": 414,
+        "language": "Python",
+        "open_issues_count": 42,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 7,
+        "owner": {
+            "html_url": "https://github.com/Teichlab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/13640351?v=4",
+            "login": "Teichlab",
+            "type": "Organization"
+        },
+        "topics": [
+            "python",
+            "single-cell",
+            "machine-learning",
+            "scrna-seq",
+            "cell-type-classification",
+            "label-transfer"
+        ],
+        "timestamp": "2025-10-26 00:53:20.549926",
+        "avatar": "https://avatars.githubusercontent.com/u/13640351?v=4"
+    }
+}

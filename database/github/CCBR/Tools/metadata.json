@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/CCBR/Tools",
+    "url": "https://github.com/CCBR/Tools",
+    "data": {
+        "name": "Tools",
+        "url": "https://github.com/CCBR/Tools",
+        "full_name": "CCBR/Tools",
+        "html_url": "https://github.com/CCBR/Tools",
+        "private": false,
+        "description": "Utilities for CCBR Bioinformatics Software \ud83d\udee0\ufe0f",
+        "created_at": "2018-09-20T18:12:27Z",
+        "updated_at": "2025-10-20T14:19:29Z",
+        "clone_url": "https://github.com/CCBR/Tools.git",
+        "homepage": "https://ccbr.github.io/Tools/",
+        "size": 8937,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 9,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/CCBR",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10426639?v=4",
+            "login": "CCBR",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2025-10-26 00:53:23.003121",
+        "avatar": "https://avatars.githubusercontent.com/u/10426639?v=4"
+    }
+}

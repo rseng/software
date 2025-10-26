@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/povilaskarvelis/e2p-simulator",
+    "url": "https://github.com/povilaskarvelis/e2p-simulator",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17112626",
+        "name": "e2p-simulator",
+        "url": "https://github.com/povilaskarvelis/e2p-simulator",
+        "full_name": "povilaskarvelis/e2p-simulator",
+        "html_url": "https://github.com/povilaskarvelis/e2p-simulator",
+        "description": "An interactive web-based tool for estimating real-world predictive utility of research findings",
+        "created_at": "2025-02-17T17:55:35Z",
+        "updated_at": "2025-10-25T13:50:27Z",
+        "clone_url": "https://github.com/povilaskarvelis/e2p-simulator.git",
+        "size": 23146,
+        "stargazers_count": 15,
+        "watchers_count": 15,
+        "language": "JavaScript",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/povilaskarvelis",
+            "avatar_url": "https://avatars.githubusercontent.com/u/37621154?v=4",
+            "login": "povilaskarvelis",
+            "type": "User"
+        },
+        "timestamp": "2025-10-26 00:52:59.672115",
+        "avatar": "https://avatars.githubusercontent.com/u/37621154?v=4"
+    }
+}

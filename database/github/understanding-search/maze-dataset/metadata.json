@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/understanding-search/maze-dataset",
+    "url": "https://github.com/understanding-search/maze-dataset",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16915900",
+        "name": "maze-dataset",
+        "url": "https://github.com/understanding-search/maze-dataset",
+        "full_name": "understanding-search/maze-dataset",
+        "html_url": "https://github.com/understanding-search/maze-dataset",
+        "description": "maze datasets for investigating OOD behavior of ML systems",
+        "created_at": "2023-06-07T15:12:18Z",
+        "updated_at": "2025-10-23T13:23:31Z",
+        "clone_url": "https://github.com/understanding-search/maze-dataset.git",
+        "size": 264225,
+        "stargazers_count": 64,
+        "watchers_count": 64,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 17,
+        "license": {
+            "key": "lgpl-3.0",
+            "name": "GNU Lesser General Public License v3.0",
+            "spdx_id": "LGPL-3.0",
+            "url": "https://api.github.com/licenses/lgpl-3.0",
+            "node_id": "MDc6TGljZW5zZTEy"
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/understanding-search",
+            "avatar_url": "https://avatars.githubusercontent.com/u/124733501?v=4",
+            "login": "understanding-search",
+            "type": "Organization"
+        },
+        "timestamp": "2025-10-26 00:53:03.069498",
+        "avatar": "https://avatars.githubusercontent.com/u/124733501?v=4"
+    }
+}

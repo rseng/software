@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/rnajena/dynamont",
+    "url": "https://github.com/rnajena/dynamont",
+    "data": {
+        "name": "dynamont",
+        "url": "https://github.com/rnajena/dynamont",
+        "full_name": "rnajena/dynamont",
+        "html_url": "https://github.com/rnajena/dynamont",
+        "private": false,
+        "description": null,
+        "created_at": "2023-03-01T15:01:56Z",
+        "updated_at": "2025-09-08T13:38:51Z",
+        "clone_url": "https://github.com/rnajena/dynamont.git",
+        "homepage": "",
+        "size": 44482,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "C++",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/rnajena",
+            "avatar_url": "https://avatars.githubusercontent.com/u/45449800?v=4",
+            "login": "rnajena",
+            "type": "Organization"
+        },
+        "topics": [
+            "cpp",
+            "forward-backward-algorithm",
+            "hmm",
+            "nanopore",
+            "nanopore-sequencing",
+            "ont",
+            "python3",
+            "signal-processing"
+        ],
+        "timestamp": "2025-10-26 00:53:24.292063",
+        "avatar": "https://avatars.githubusercontent.com/u/45449800?v=4"
+    }
+}

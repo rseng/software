@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/bioinfbrad/DDGWizard",
+    "url": "https://github.com/bioinfbrad/DDGWizard",
+    "data": {
+        "name": "DDGWizard",
+        "url": "https://github.com/bioinfbrad/DDGWizard",
+        "full_name": "bioinfbrad/DDGWizard",
+        "html_url": "https://github.com/bioinfbrad/DDGWizard",
+        "private": false,
+        "description": null,
+        "created_at": "2024-12-18T07:28:51Z",
+        "updated_at": "2025-01-06T10:35:49Z",
+        "clone_url": "https://github.com/bioinfbrad/DDGWizard.git",
+        "homepage": null,
+        "size": 3008,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/bioinfbrad",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65970725?v=4",
+            "login": "bioinfbrad",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2025-10-26 00:53:22.255544",
+        "avatar": "https://avatars.githubusercontent.com/u/65970725?v=4"
+    }
+}
