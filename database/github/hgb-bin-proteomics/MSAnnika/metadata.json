@@ -1,0 +1,53 @@
+{
+    "parser": "github",
+    "uid": "github/hgb-bin-proteomics/MSAnnika",
+    "url": "https://github.com/hgb-bin-proteomics/MSAnnika",
+    "data": {
+        "doi": "10.1038/s42004-024-01386-x",
+        "name": "MSAnnika",
+        "url": "https://github.com/hgb-bin-proteomics/MSAnnika",
+        "full_name": "hgb-bin-proteomics/MSAnnika",
+        "html_url": "https://github.com/hgb-bin-proteomics/MSAnnika",
+        "description": "MS Annika is a crosslink search engine based on MS Amanda, aimed at identifying crosslinks of cleavable and non-cleavable crosslinkers from MS2 and MS3 spectra.",
+        "created_at": "2023-03-27T09:02:50Z",
+        "updated_at": "2025-10-29T15:24:11Z",
+        "clone_url": "https://github.com/hgb-bin-proteomics/MSAnnika.git",
+        "homepage": "https://hgb-bin-proteomics.github.io/MSAnnika/",
+        "size": 124579,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "open_issues_count": 8,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/hgb-bin-proteomics",
+            "avatar_url": "https://avatars.githubusercontent.com/u/110912796?v=4",
+            "login": "hgb-bin-proteomics",
+            "type": "Organization"
+        },
+        "topics": [
+            "cross-linking",
+            "crosslinker",
+            "crosslinking",
+            "mass",
+            "mass-spectrometry",
+            "ms2",
+            "ms3",
+            "search-engine",
+            "spectrometry",
+            "tandem-ms",
+            "xlms",
+            "proteomics",
+            "cleavable",
+            "non-cleavable"
+        ],
+        "timestamp": "2025-11-02 00:54:35.829647",
+        "avatar": "https://avatars.githubusercontent.com/u/110912796?v=4"
+    }
+}

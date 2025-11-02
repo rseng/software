@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/ucsbdeepspace/tripp_pipeline",
+    "url": "https://github.com/ucsbdeepspace/tripp_pipeline",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025ApJ...985...60T",
+            "https://ui.adsabs.harvard.edu/abs/2025arXiv250118142T",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft10008T/abstract"
+        ],
+        "title": "TRIPP: TRansient Image Processing Pipeline",
+        "url": "https://github.com/ucsbdeepspace/tripp_pipeline",
+        "name": "tripp_pipeline",
+        "full_name": "ucsbdeepspace/tripp_pipeline",
+        "html_url": "https://github.com/ucsbdeepspace/tripp_pipeline",
+        "description": "TRIPP",
+        "created_at": "2019-03-09T01:01:55Z",
+        "updated_at": "2025-08-29T15:19:34Z",
+        "clone_url": "https://github.com/ucsbdeepspace/tripp_pipeline.git",
+        "size": 2143378,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Python",
+        "open_issues_count": 57,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 6,
+        "owner": {
+            "html_url": "https://github.com/ucsbdeepspace",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5273399?v=4",
+            "login": "ucsbdeepspace",
+            "type": "Organization"
+        },
+        "timestamp": "2025-11-02 00:53:43.396559",
+        "avatar": "https://avatars.githubusercontent.com/u/5273399?v=4"
+    }
+}
