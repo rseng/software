@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/maormizrachi/MadVoro",
+    "url": "https://github.com/maormizrachi/MadVoro",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025RASTI...4...39M",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft10017M/abstract"
+        ],
+        "title": "MadVoro: Massively distributed construction of Voronoi diagrams",
+        "url": "https://github.com/maormizrachi/MadVoro",
+        "name": "MadVoro",
+        "full_name": "maormizrachi/MadVoro",
+        "html_url": "https://github.com/maormizrachi/MadVoro",
+        "created_at": "2025-02-05T12:41:22Z",
+        "updated_at": "2025-05-16T21:56:54Z",
+        "clone_url": "https://github.com/maormizrachi/MadVoro.git",
+        "size": 13958,
+        "stargazers_count": 19,
+        "watchers_count": 19,
+        "language": "Shell",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/maormizrachi",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85169126?v=4",
+            "login": "maormizrachi",
+            "type": "User"
+        },
+        "timestamp": "2025-11-02 00:53:39.723803",
+        "avatar": "https://avatars.githubusercontent.com/u/85169126?v=4"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/GreenleafLab/NucleoATAC",
+    "url": "https://github.com/GreenleafLab/NucleoATAC",
+    "data": {
+        "doi": "10.1101/GR.192294.115",
+        "name": "NucleoATAC",
+        "url": "https://github.com/GreenleafLab/NucleoATAC",
+        "full_name": "GreenleafLab/NucleoATAC",
+        "html_url": "https://github.com/GreenleafLab/NucleoATAC",
+        "description": "nucleosome calling using ATAC-seq",
+        "created_at": "2015-03-10T01:30:24Z",
+        "updated_at": "2025-10-20T21:19:20Z",
+        "clone_url": "https://github.com/GreenleafLab/NucleoATAC.git",
+        "size": 15728,
+        "stargazers_count": 108,
+        "watchers_count": 108,
+        "language": "Python",
+        "open_issues_count": 26,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 17,
+        "owner": {
+            "html_url": "https://github.com/GreenleafLab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8398169?v=4",
+            "login": "GreenleafLab",
+            "type": "Organization"
+        },
+        "topics": [
+            "atac-seq",
+            "bioinformatics",
+            "nuclesosome"
+        ],
+        "timestamp": "2025-11-02 00:54:35.264224",
+        "avatar": "https://avatars.githubusercontent.com/u/8398169?v=4"
+    }
+}

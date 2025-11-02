@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/mhammell-laboratory/TEtranscripts",
+    "url": "https://github.com/mhammell-laboratory/TEtranscripts",
+    "data": {
+        "doi": "10.1093/bioinformatics/btv422",
+        "name": "TEtranscripts",
+        "url": "https://github.com/mhammell-laboratory/TEtranscripts",
+        "full_name": "mhammell-laboratory/TEtranscripts",
+        "html_url": "https://github.com/mhammell-laboratory/TEtranscripts",
+        "description": "A package for including transposable elements in differential enrichment analysis of sequencing datasets.",
+        "created_at": "2015-03-24T14:11:46Z",
+        "updated_at": "2025-11-01T17:10:28Z",
+        "clone_url": "https://github.com/mhammell-laboratory/TEtranscripts.git",
+        "homepage": "http://hammelllab.labsites.cshl.edu/software/#TEtranscripts",
+        "size": 764,
+        "stargazers_count": 267,
+        "watchers_count": 267,
+        "language": "Python",
+        "open_issues_count": 3,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 18,
+        "owner": {
+            "html_url": "https://github.com/mhammell-laboratory",
+            "avatar_url": "https://avatars.githubusercontent.com/u/11631427?v=4",
+            "login": "mhammell-laboratory",
+            "type": "Organization"
+        },
+        "timestamp": "2025-11-02 00:54:33.374446",
+        "avatar": "https://avatars.githubusercontent.com/u/11631427?v=4"
+    }
+}
