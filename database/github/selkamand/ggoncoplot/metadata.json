@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/selkamand/ggoncoplot",
+    "url": "https://github.com/selkamand/ggoncoplot",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17489268",
+        "name": "ggoncoplot",
+        "url": "https://github.com/selkamand/ggoncoplot",
+        "full_name": "selkamand/ggoncoplot",
+        "html_url": "https://github.com/selkamand/ggoncoplot",
+        "description": "Easily Create Interactive Oncoplots",
+        "created_at": "2022-10-05T12:19:18Z",
+        "updated_at": "2025-11-04T09:47:10Z",
+        "clone_url": "https://github.com/selkamand/ggoncoplot.git",
+        "homepage": "https://selkamand.github.io/ggoncoplot/",
+        "size": 88491,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "R",
+        "open_issues_count": 44,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/selkamand",
+            "avatar_url": "https://avatars.githubusercontent.com/u/73202525?v=4",
+            "login": "selkamand",
+            "type": "User"
+        },
+        "timestamp": "2025-11-09 00:54:56.274642",
+        "avatar": "https://avatars.githubusercontent.com/u/73202525?v=4"
+    }
+}
