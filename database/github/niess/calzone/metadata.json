@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/niess/calzone",
+    "url": "https://github.com/niess/calzone",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17378876",
+        "name": "calzone",
+        "url": "https://github.com/niess/calzone",
+        "full_name": "niess/calzone",
+        "html_url": "https://github.com/niess/calzone",
+        "description": "A Geant4 Python wrapper for the simulation of outdoor particle detectors",
+        "created_at": "2024-08-20T14:40:02Z",
+        "updated_at": "2025-10-16T06:57:39Z",
+        "clone_url": "https://github.com/niess/calzone.git",
+        "homepage": "https://calzone.readthedocs.io/en/latest/",
+        "size": 7571,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Rust",
+        "license": {
+            "key": "lgpl-3.0",
+            "name": "GNU Lesser General Public License v3.0",
+            "spdx_id": "LGPL-3.0",
+            "url": "https://api.github.com/licenses/lgpl-3.0",
+            "node_id": "MDc6TGljZW5zZTEy"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/niess",
+            "avatar_url": "https://avatars.githubusercontent.com/u/11327514?v=4",
+            "login": "niess",
+            "type": "User"
+        },
+        "topics": [
+            "geant4",
+            "monte-carlo",
+            "python"
+        ],
+        "timestamp": "2025-11-09 00:54:58.110677",
+        "avatar": "https://avatars.githubusercontent.com/u/11327514?v=4"
+    }
+}

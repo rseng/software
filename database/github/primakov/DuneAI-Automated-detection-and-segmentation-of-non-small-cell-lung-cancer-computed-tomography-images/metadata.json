@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images",
+    "url": "https://github.com/primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images",
+    "data": {
+        "doi": "10.1038/s41467-022-30841-3",
+        "name": "DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images",
+        "url": "https://github.com/primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images",
+        "full_name": "primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images",
+        "html_url": "https://github.com/primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images",
+        "description": "Repository supporting the original research paper in Nature Communications (Primakov et al. 2022)",
+        "created_at": "2022-04-03T15:33:05Z",
+        "updated_at": "2025-10-09T08:01:39Z",
+        "clone_url": "https://github.com/primakov/DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images.git",
+        "size": 327904,
+        "stargazers_count": 83,
+        "watchers_count": 83,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 4,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/primakov",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9025444?v=4",
+            "login": "primakov",
+            "type": "User"
+        },
+        "timestamp": "2025-11-09 00:55:24.512569",
+        "avatar": "https://avatars.githubusercontent.com/u/9025444?v=4"
+    }
+}
