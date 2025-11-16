@@ -8440,6 +8440,19 @@
         ]
     },
     {
+        "uid": "github/quicophy/mdopt",
+        "url": "https://github.com/quicophy/mdopt",
+        "rel": "/software/repository/github/quicophy/mdopt",
+        "avatar": "https://avatars.githubusercontent.com/u/66485363?v=4",
+        "description": "A code-agnostic tensor-network (MPS-MPO) decoder for quantum error-correcting codes.",
+        "topics": [
+            "matrix-product-states",
+            "tensor-networks",
+            "discrete-optimization",
+            "matrix-product-operators"
+        ]
+    },
+    {
         "uid": "github/peikuan/WBBC",
         "url": "https://github.com/peikuan/WBBC",
         "rel": "/software/repository/github/peikuan/WBBC",
@@ -11496,6 +11509,14 @@
         "topics": []
     },
     {
+        "uid": "github/depasquale-lab/StateSpaceDynamics.jl",
+        "url": "https://github.com/depasquale-lab/StateSpaceDynamics.jl",
+        "rel": "/software/repository/github/depasquale-lab/StateSpaceDynamics.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/115058197?v=4",
+        "description": "Julia library for fitting and analyzing state space models. Provides efficient implementations of various SSMs including the canonical Gaussian LDS (Kalman Filter/Smoother), Poisson LDS, HMMs, etc. Check out the documentation below!",
+        "topics": []
+    },
+    {
         "uid": "github/zizroc/villager",
         "url": "https://github.com/zizroc/villager",
         "rel": "/software/repository/github/zizroc/villager",
@@ -12448,6 +12469,14 @@
         "topics": []
     },
     {
+        "uid": "github/pvlib/solposx",
+        "url": "https://github.com/pvlib/solposx",
+        "rel": "/software/repository/github/pvlib/solposx",
+        "avatar": "https://avatars.githubusercontent.com/u/11037261?v=4",
+        "description": "solposx is a Python package for determining solar position and atmospheric refraction",
+        "topics": []
+    },
+    {
         "uid": "github/pvlib/pvlib-python",
         "url": "https://github.com/pvlib/pvlib-python",
         "rel": "/software/repository/github/pvlib/pvlib-python",
@@ -13326,6 +13355,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/60190328?v=4",
         "description": "Microlensing with Gaia",
         "topics": []
+    },
+    {
+        "uid": "github/coding4Acause/PANKH",
+        "url": "https://github.com/coding4Acause/PANKH",
+        "rel": "/software/repository/github/coding4Acause/PANKH",
+        "avatar": "https://avatars.githubusercontent.com/u/199661758?v=4",
+        "description": "PANKH (Panel Analysis of uNsteady Kinematics of Hovering airfoils) is a solver for studying unsteady aerodynamics of flapping and hovering airfoils using the unsteady vortex panel method. This repository includes the source code, example cases, and validation results. ",
+        "topics": [
+            "airfoils",
+            "kutta-schukowski",
+            "naca",
+            "potential-flow-theory",
+            "unsteady-flows",
+            "vortex-panel-method",
+            "kutta-condition"
+        ]
     },
     {
         "uid": "github/Bgi-LUSH/GPMeta",
@@ -16792,6 +16837,14 @@
             "nldas",
             "nwis"
         ]
+    },
+    {
+        "uid": "github/AyehBlk/RAPTOR",
+        "url": "https://github.com/AyehBlk/RAPTOR",
+        "rel": "/software/repository/github/AyehBlk/RAPTOR",
+        "avatar": "https://avatars.githubusercontent.com/u/157579333?v=4",
+        "description": "RNA-seq Analysis Pipeline Testing and Optimization Resource - Intelligent pipeline selection and comprehensive benchmarking.",
+        "topics": []
     },
     {
         "uid": "github/Filter-Bubble/e2e-Dutch",
@@ -24490,6 +24543,14 @@
         "topics": []
     },
     {
+        "uid": "github/Daniel-Rud/fgwqsr",
+        "url": "https://github.com/Daniel-Rud/fgwqsr",
+        "rel": "/software/repository/github/Daniel-Rud/fgwqsr",
+        "avatar": "https://avatars.githubusercontent.com/u/79773467?v=4",
+        "description": "Frequentist Grouped Weighted Quantile Sum Regression for correlated chemical/pollutant mixture modeling",
+        "topics": []
+    },
+    {
         "uid": "github/magnusmanske/snpomatic",
         "url": "https://github.com/magnusmanske/snpomatic",
         "rel": "/software/repository/github/magnusmanske/snpomatic",
@@ -27979,6 +28040,14 @@
         ]
     },
     {
+        "uid": "github/Ahmedbargheet/AssumpSure",
+        "url": "https://github.com/Ahmedbargheet/AssumpSure",
+        "rel": "/software/repository/github/Ahmedbargheet/AssumpSure",
+        "avatar": "https://avatars.githubusercontent.com/u/71798069?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/OpenGene/fastplong",
         "url": "https://github.com/OpenGene/fastplong",
         "rel": "/software/repository/github/OpenGene/fastplong",
@@ -30235,6 +30304,14 @@
         "rel": "/software/repository/github/Pizzuti92/MG-MAMPOSSt",
         "avatar": "https://avatars.githubusercontent.com/u/80061006?v=4",
         "description": "MG-MAMPOSSt is a FORTRAN code that extended the MAMPOSSt algorithm of G. Mamon, A. Biviano and G. Bou\u00e9, that performs Bayesian fits of models of mass and velocity anisotropy profiles to the distribution of tracers in projected phase space, to handle modified gravity models and constrain its parameters. The new version implements two distinct types of gravity modifications, namely general chameleon (including $f(\\mathcal{R})$ models) and beyond Horndeski gravity (Vainshtein screening).",
+        "topics": []
+    },
+    {
+        "uid": "github/kgd-al/amaze",
+        "url": "https://github.com/kgd-al/amaze",
+        "rel": "/software/repository/github/kgd-al/amaze",
+        "avatar": "https://avatars.githubusercontent.com/u/17125058?v=4",
+        "description": "Lightweight maze navigation task generator for sighted AI agents",
         "topics": []
     },
     {
@@ -33280,6 +33357,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/72026915?v=4",
         "description": "A sequence-based deep learning approach to predict N4-methylcytosine sites in Escherichia coli ",
         "topics": []
+    },
+    {
+        "uid": "github/ADSCIAN/ssalib",
+        "url": "https://github.com/ADSCIAN/ssalib",
+        "rel": "/software/repository/github/ADSCIAN/ssalib",
+        "avatar": "https://avatars.githubusercontent.com/u/92307468?v=4",
+        "description": "Singular Spectrum Analysis Library (SSALib)",
+        "topics": [
+            "python",
+            "singular-spectrum-analysis",
+            "singular-value-decomposition",
+            "time-series"
+        ]
     },
     {
         "uid": "github/timchurches/NetEpi-Collection",
@@ -40576,6 +40666,20 @@
         "topics": []
     },
     {
+        "uid": "github/rimonim/embedplyr",
+        "url": "https://github.com/rimonim/embedplyr",
+        "rel": "/software/repository/github/rimonim/embedplyr",
+        "avatar": "https://avatars.githubusercontent.com/u/29883318?v=4",
+        "description": "Tools for Working With Text Embeddings in R",
+        "topics": [
+            "embeddings",
+            "natural-language-processing",
+            "r",
+            "sentiment-analysis",
+            "text-embeddings"
+        ]
+    },
+    {
         "uid": "github/brainets/frites",
         "url": "https://github.com/brainets/frites",
         "rel": "/software/repository/github/brainets/frites",
@@ -43873,6 +43977,19 @@
         "topics": [
             "protein-structure",
             "alignments"
+        ]
+    },
+    {
+        "uid": "github/steineggerlab/folddisco",
+        "url": "https://github.com/steineggerlab/folddisco",
+        "rel": "/software/repository/github/steineggerlab/folddisco",
+        "avatar": "https://avatars.githubusercontent.com/u/62094016?v=4",
+        "description": "Fast indexing and search of discontinuous motifs in protein structures",
+        "topics": [
+            "bioinformatics",
+            "foldseek",
+            "motif",
+            "protein-structure"
         ]
     },
     {
@@ -52318,6 +52435,14 @@
         "topics": []
     },
     {
+        "uid": "github/abpoll/unsafe",
+        "url": "https://github.com/abpoll/unsafe",
+        "rel": "/software/repository/github/abpoll/unsafe",
+        "avatar": "https://avatars.githubusercontent.com/u/7188728?v=4",
+        "description": "A package for adding parametric uncertainty to the national structure inventory and estimating flood losses with uncertain depth-damage relationships",
+        "topics": []
+    },
+    {
         "uid": "github/rinikerlab/Ensembler",
         "url": "https://github.com/rinikerlab/Ensembler",
         "rel": "/software/repository/github/rinikerlab/Ensembler",
@@ -55084,6 +55209,23 @@
             "eeg",
             "seizure",
             "signal-processing"
+        ]
+    },
+    {
+        "uid": "github/mscaudill/tabbed",
+        "url": "https://github.com/mscaudill/tabbed",
+        "rel": "/software/repository/github/mscaudill/tabbed",
+        "avatar": "https://avatars.githubusercontent.com/u/12617099?v=4",
+        "description": "A Python package for reading variably structured text files at scale",
+        "topics": [
+            "csv",
+            "csv-files",
+            "csv-parser",
+            "reader",
+            "text-reader",
+            "txt",
+            "delimited-data",
+            "parsing"
         ]
     },
     {
@@ -62984,6 +63126,17 @@
         "topics": []
     },
     {
+        "uid": "github/rennmeng/SERtool",
+        "url": "https://github.com/rennmeng/SERtool",
+        "rel": "/software/repository/github/rennmeng/SERtool",
+        "avatar": "https://avatars.githubusercontent.com/u/46642088?v=4",
+        "description": "The tool is used to search for proteins with repetitive sequence amino acids and can also be applied to the search of nucleic acid sequences.",
+        "topics": [
+            "enrichment-analysis",
+            "hgvs-sequence"
+        ]
+    },
+    {
         "uid": "github/elsoroka/Satisfiability.jl",
         "url": "https://github.com/elsoroka/Satisfiability.jl",
         "rel": "/software/repository/github/elsoroka/Satisfiability.jl",
@@ -64837,6 +64990,14 @@
         "rel": "/software/repository/github/aberer/RogueNaRok",
         "avatar": "https://avatars.githubusercontent.com/u/881002?v=4",
         "description": "A versatile and scalable algorithm for rogue taxon identification. Also includes implementations of the maximum agreement subtree, leaf stability index and taxonomic instability index",
+        "topics": []
+    },
+    {
+        "uid": "github/meliao/jaxhps",
+        "url": "https://github.com/meliao/jaxhps",
+        "rel": "/software/repository/github/meliao/jaxhps",
+        "avatar": "https://avatars.githubusercontent.com/u/34496686?v=4",
+        "description": "jaxhps: an elliptic PDE solver built with machine learning in mind",
         "topics": []
     },
     {
@@ -70556,6 +70717,14 @@
         "topics": []
     },
     {
+        "uid": "github/mlgid-project/mlgidGUI",
+        "url": "https://github.com/mlgid-project/mlgidGUI",
+        "rel": "/software/repository/github/mlgid-project/mlgidGUI",
+        "avatar": "https://avatars.githubusercontent.com/u/202107488?v=4",
+        "description": "mlgidGUI - an annotation program for 2D scattering data",
+        "topics": []
+    },
+    {
         "uid": "github/esilver01/small-lens-forecast-sims",
         "url": "https://github.com/esilver01/small-lens-forecast-sims",
         "rel": "/software/repository/github/esilver01/small-lens-forecast-sims",
@@ -75896,6 +76065,24 @@
         "avatar": "https://avatars.githubusercontent.com/u/4923605?v=4",
         "description": "SEREN SPH code (Hubber et al. 2011) for astrophysical hydrodynamics simulations",
         "topics": []
+    },
+    {
+        "uid": "github/SofaPirate/Plaquette",
+        "url": "https://github.com/SofaPirate/Plaquette",
+        "rel": "/software/repository/github/SofaPirate/Plaquette",
+        "avatar": "https://avatars.githubusercontent.com/u/15873037?v=4",
+        "description": "Object-oriented programming framework for creative physical computing",
+        "topics": [
+            "interaction-design",
+            "physical-computing",
+            "creative-coding",
+            "object-oriented",
+            "sensors",
+            "open-source",
+            "arduino",
+            "arduino-library",
+            "signal-processing"
+        ]
     },
     {
         "uid": "github/dylancromer/maszcal",
