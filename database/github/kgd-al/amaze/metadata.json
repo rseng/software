@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/kgd-al/amaze",
+    "url": "https://github.com/kgd-al/amaze",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17571759",
+        "name": "amaze",
+        "url": "https://github.com/kgd-al/amaze",
+        "full_name": "kgd-al/amaze",
+        "html_url": "https://github.com/kgd-al/amaze",
+        "description": "Lightweight maze navigation task generator for sighted AI agents",
+        "created_at": "2023-06-01T09:01:47Z",
+        "updated_at": "2025-11-11T06:09:18Z",
+        "clone_url": "https://github.com/kgd-al/amaze.git",
+        "homepage": "https://amaze.readthedocs.io",
+        "size": 23152,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/kgd-al",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17125058?v=4",
+            "login": "kgd-al",
+            "type": "User"
+        },
+        "timestamp": "2025-11-16 00:56:18.670656",
+        "avatar": "https://avatars.githubusercontent.com/u/17125058?v=4"
+    }
+}
