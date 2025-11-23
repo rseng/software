@@ -11496,6 +11496,14 @@
         "topics": []
     },
     {
+        "uid": "github/depasquale-lab/StateSpaceDynamics.jl",
+        "url": "https://github.com/depasquale-lab/StateSpaceDynamics.jl",
+        "rel": "/software/repository/github/depasquale-lab/StateSpaceDynamics.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/115058197?v=4",
+        "description": "Julia library for fitting and analyzing state space models. Provides efficient implementations of various SSMs including the canonical Gaussian LDS (Kalman Filter/Smoother), Poisson LDS, HMMs, etc. Check out the documentation below!",
+        "topics": []
+    },
+    {
         "uid": "github/zizroc/villager",
         "url": "https://github.com/zizroc/villager",
         "rel": "/software/repository/github/zizroc/villager",
@@ -12445,6 +12453,14 @@
         "rel": "/software/repository/github/forceflow1049/phast",
         "avatar": "https://avatars.githubusercontent.com/u/1127046?v=4",
         "description": "PhAst: A flexible IDL astronomical image viewer",
+        "topics": []
+    },
+    {
+        "uid": "github/pvlib/solposx",
+        "url": "https://github.com/pvlib/solposx",
+        "rel": "/software/repository/github/pvlib/solposx",
+        "avatar": "https://avatars.githubusercontent.com/u/11037261?v=4",
+        "description": "solposx is a Python package for determining solar position and atmospheric refraction",
         "topics": []
     },
     {
@@ -13987,6 +14003,14 @@
         "topics": []
     },
     {
+        "uid": "github/vpz4/TDC",
+        "url": "https://github.com/vpz4/TDC",
+        "rel": "/software/repository/github/vpz4/TDC",
+        "avatar": "https://avatars.githubusercontent.com/u/15791743?v=4",
+        "description": "Tabular data curation (TDC) tool",
+        "topics": []
+    },
+    {
         "uid": "github/pysersic/pysersic",
         "url": "https://github.com/pysersic/pysersic",
         "rel": "/software/repository/github/pysersic/pysersic",
@@ -15373,6 +15397,18 @@
             "coastal-modelling",
             "tidesandcurrents",
             "tide-modelling"
+        ]
+    },
+    {
+        "uid": "github/colinbousige/OPTIMEO",
+        "url": "https://github.com/colinbousige/OPTIMEO",
+        "rel": "/software/repository/github/colinbousige/OPTIMEO",
+        "avatar": "https://avatars.githubusercontent.com/u/6990734?v=4",
+        "description": "OPTIMEO is a web application doubled by a package that helps you optimize your experimental process by generating a Design of Experiment, generating new experiments using Bayesian Optimization (BO), and analyzing the results of your experiments using Machine Learning models.",
+        "topics": [
+            "bayesian-optimization",
+            "design-of-experiments",
+            "experimental-analysis"
         ]
     },
     {
@@ -16792,6 +16828,14 @@
             "nldas",
             "nwis"
         ]
+    },
+    {
+        "uid": "github/AyehBlk/RAPTOR",
+        "url": "https://github.com/AyehBlk/RAPTOR",
+        "rel": "/software/repository/github/AyehBlk/RAPTOR",
+        "avatar": "https://avatars.githubusercontent.com/u/157579333?v=4",
+        "description": "RNA-seq Analysis Pipeline Testing and Optimization Resource - Intelligent pipeline selection and comprehensive benchmarking.",
+        "topics": []
     },
     {
         "uid": "github/Filter-Bubble/e2e-Dutch",
@@ -22093,6 +22137,14 @@
         ]
     },
     {
+        "uid": "github/haddocking/protein-quest",
+        "url": "https://github.com/haddocking/protein-quest",
+        "rel": "/software/repository/github/haddocking/protein-quest",
+        "avatar": "https://avatars.githubusercontent.com/u/5637709?v=4",
+        "description": "Python package to search/retrieve/filter proteins and protein structures",
+        "topics": []
+    },
+    {
         "uid": "github/subisarkar/JexoSim",
         "url": "https://github.com/subisarkar/JexoSim",
         "rel": "/software/repository/github/subisarkar/JexoSim",
@@ -25990,6 +26042,14 @@
         ]
     },
     {
+        "uid": "github/rreischke/levin_bessel",
+        "url": "https://github.com/rreischke/levin_bessel",
+        "rel": "/software/repository/github/rreischke/levin_bessel",
+        "avatar": "https://avatars.githubusercontent.com/u/31727230?v=4",
+        "description": "Python library implementing the Levin method to calculate integrals containing products of up to three Bessel functions",
+        "topics": []
+    },
+    {
         "uid": "github/rreischke/OneCovariance",
         "url": "https://github.com/rreischke/OneCovariance",
         "rel": "/software/repository/github/rreischke/OneCovariance",
@@ -26531,6 +26591,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/67101356?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/mlr-org/mlr3extralearners",
+        "url": "https://github.com/mlr-org/mlr3extralearners",
+        "rel": "/software/repository/github/mlr-org/mlr3extralearners",
+        "avatar": "https://avatars.githubusercontent.com/u/12941794?v=4",
+        "description": "Extra learners for use in mlr3.",
+        "topics": [
+            "mlr3",
+            "machine-learning",
+            "r",
+            "r-package"
+        ]
     },
     {
         "uid": "github/mlr-org/mcboost",
@@ -27979,6 +28052,14 @@
         ]
     },
     {
+        "uid": "github/Ahmedbargheet/AssumpSure",
+        "url": "https://github.com/Ahmedbargheet/AssumpSure",
+        "rel": "/software/repository/github/Ahmedbargheet/AssumpSure",
+        "avatar": "https://avatars.githubusercontent.com/u/71798069?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/OpenGene/fastplong",
         "url": "https://github.com/OpenGene/fastplong",
         "rel": "/software/repository/github/OpenGene/fastplong",
@@ -28063,6 +28144,20 @@
             "machine-learning",
             "data-structures",
             "data-processing"
+        ]
+    },
+    {
+        "uid": "github/zstephens/telogator2",
+        "url": "https://github.com/zstephens/telogator2",
+        "rel": "/software/repository/github/zstephens/telogator2",
+        "avatar": "https://avatars.githubusercontent.com/u/8508373?v=4",
+        "description": "A method for measuring allele-specific telomere length and characterizing telomere variant repeat sequences from long reads.",
+        "topics": [
+            "longreads",
+            "nanopore",
+            "pacbio",
+            "telomere",
+            "telomeres"
         ]
     },
     {
@@ -31265,6 +31360,14 @@
         "topics": []
     },
     {
+        "uid": "github/TI-Forest-Sector-Modelling/TiMBA",
+        "url": "https://github.com/TI-Forest-Sector-Modelling/TiMBA",
+        "rel": "/software/repository/github/TI-Forest-Sector-Modelling/TiMBA",
+        "avatar": "https://avatars.githubusercontent.com/u/182213721?v=4",
+        "description": "Timber market Model for policy-Based Analysis",
+        "topics": []
+    },
+    {
         "uid": "github/cmoestl/3DCORE",
         "url": "https://github.com/cmoestl/3DCORE",
         "rel": "/software/repository/github/cmoestl/3DCORE",
@@ -33280,6 +33383,19 @@
         "avatar": "https://avatars.githubusercontent.com/u/72026915?v=4",
         "description": "A sequence-based deep learning approach to predict N4-methylcytosine sites in Escherichia coli ",
         "topics": []
+    },
+    {
+        "uid": "github/ADSCIAN/ssalib",
+        "url": "https://github.com/ADSCIAN/ssalib",
+        "rel": "/software/repository/github/ADSCIAN/ssalib",
+        "avatar": "https://avatars.githubusercontent.com/u/92307468?v=4",
+        "description": "Singular Spectrum Analysis Library (SSALib)",
+        "topics": [
+            "python",
+            "singular-spectrum-analysis",
+            "singular-value-decomposition",
+            "time-series"
+        ]
     },
     {
         "uid": "github/timchurches/NetEpi-Collection",
@@ -38141,6 +38257,17 @@
         "avatar": "https://avatars0.githubusercontent.com/u/10012441?v=4",
         "description": "A high performance python package for network analysis based on non canonical metrics",
         "topics": []
+    },
+    {
+        "uid": "github/dagghe/pyOMA2",
+        "url": "https://github.com/dagghe/pyOMA2",
+        "rel": "/software/repository/github/dagghe/pyOMA2",
+        "avatar": "https://avatars.githubusercontent.com/u/64746269?v=4",
+        "description": "Python module for conducting operational modal analysis",
+        "topics": [
+            "operational-modal-analysis",
+            "structural-dynamics"
+        ]
     },
     {
         "uid": "github/ltlancas/walter",
@@ -43876,6 +44003,19 @@
         ]
     },
     {
+        "uid": "github/steineggerlab/folddisco",
+        "url": "https://github.com/steineggerlab/folddisco",
+        "rel": "/software/repository/github/steineggerlab/folddisco",
+        "avatar": "https://avatars.githubusercontent.com/u/62094016?v=4",
+        "description": "Fast indexing and search of discontinuous motifs in protein structures",
+        "topics": [
+            "bioinformatics",
+            "foldseek",
+            "motif",
+            "protein-structure"
+        ]
+    },
+    {
         "uid": "github/abs2k12/COCOA",
         "url": "https://github.com/abs2k12/COCOA",
         "rel": "/software/repository/github/abs2k12/COCOA",
@@ -49417,6 +49557,14 @@
         ]
     },
     {
+        "uid": "github/TomonoriHoshi/jpinfect",
+        "url": "https://github.com/TomonoriHoshi/jpinfect",
+        "rel": "/software/repository/github/TomonoriHoshi/jpinfect",
+        "avatar": "https://avatars.githubusercontent.com/u/30429678?v=4",
+        "description": "R Package for Acquiring and Processing Data from Japan Institute for Health Security",
+        "topics": []
+    },
+    {
         "uid": "github/jlustigy/coronagraph",
         "url": "https://github.com/jlustigy/coronagraph",
         "rel": "/software/repository/github/jlustigy/coronagraph",
@@ -51591,6 +51739,30 @@
         "topics": []
     },
     {
+        "uid": "github/deepinv/deepinv",
+        "url": "https://github.com/deepinv/deepinv",
+        "rel": "/software/repository/github/deepinv/deepinv",
+        "avatar": "https://avatars.githubusercontent.com/u/125013500?v=4",
+        "description": "DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning",
+        "topics": [
+            "computational-imaging",
+            "deep-learning",
+            "image-processing",
+            "computed-tomography",
+            "deblurring",
+            "inverse-problems",
+            "mri",
+            "super-resolution",
+            "deep-equilibrium-models",
+            "plug-and-play",
+            "unfolded",
+            "diffusion-models",
+            "image-reconstruction",
+            "imaging",
+            "pytorch"
+        ]
+    },
+    {
         "uid": "github/mggg/ecological-inference",
         "url": "https://github.com/mggg/ecological-inference",
         "rel": "/software/repository/github/mggg/ecological-inference",
@@ -52315,6 +52487,14 @@
         "rel": "/software/repository/github/biomed-AI/GraphBepi",
         "avatar": "https://avatars.githubusercontent.com/u/57830798?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/abpoll/unsafe",
+        "url": "https://github.com/abpoll/unsafe",
+        "rel": "/software/repository/github/abpoll/unsafe",
+        "avatar": "https://avatars.githubusercontent.com/u/7188728?v=4",
+        "description": "A package for adding parametric uncertainty to the national structure inventory and estimating flood losses with uncertain depth-damage relationships",
         "topics": []
     },
     {
@@ -54862,6 +55042,14 @@
         "topics": []
     },
     {
+        "uid": "github/ruohai0925/IAMReX",
+        "url": "https://github.com/ruohai0925/IAMReX",
+        "rel": "/software/repository/github/ruohai0925/IAMReX",
+        "avatar": "https://avatars.githubusercontent.com/u/30739800?v=4",
+        "description": "IAMReX documentation",
+        "topics": []
+    },
+    {
         "uid": "github/gadomski/antimeridian",
         "url": "https://github.com/gadomski/antimeridian",
         "rel": "/software/repository/github/gadomski/antimeridian",
@@ -54998,6 +55186,17 @@
         "topics": []
     },
     {
+        "uid": "github/schreiber-lab/reflectorch",
+        "url": "https://github.com/schreiber-lab/reflectorch",
+        "rel": "/software/repository/github/schreiber-lab/reflectorch",
+        "avatar": "https://avatars.githubusercontent.com/u/54135178?v=4",
+        "description": "Machine learning package for X-ray and neutron reflectometry incorporating prior knowledge",
+        "topics": [
+            "deep-learning",
+            "physics"
+        ]
+    },
+    {
         "uid": "github/caimeng2/seesus",
         "url": "https://github.com/caimeng2/seesus",
         "rel": "/software/repository/github/caimeng2/seesus",
@@ -55074,6 +55273,14 @@
         ]
     },
     {
+        "uid": "github/tomer1812/pydts",
+        "url": "https://github.com/tomer1812/pydts",
+        "rel": "/software/repository/github/tomer1812/pydts",
+        "avatar": "https://avatars.githubusercontent.com/u/30202416?v=4",
+        "description": "A python package for discrete-time survival analysis with competing risks",
+        "topics": []
+    },
+    {
         "uid": "github/mscaudill/openseize",
         "url": "https://github.com/mscaudill/openseize",
         "rel": "/software/repository/github/mscaudill/openseize",
@@ -55084,6 +55291,23 @@
             "eeg",
             "seizure",
             "signal-processing"
+        ]
+    },
+    {
+        "uid": "github/mscaudill/tabbed",
+        "url": "https://github.com/mscaudill/tabbed",
+        "rel": "/software/repository/github/mscaudill/tabbed",
+        "avatar": "https://avatars.githubusercontent.com/u/12617099?v=4",
+        "description": "A Python package for reading variably structured text files at scale",
+        "topics": [
+            "csv",
+            "csv-files",
+            "csv-parser",
+            "reader",
+            "text-reader",
+            "txt",
+            "delimited-data",
+            "parsing"
         ]
     },
     {
@@ -60602,6 +60826,14 @@
         "topics": []
     },
     {
+        "uid": "github/ML-AMD/exa-amd",
+        "url": "https://github.com/ML-AMD/exa-amd",
+        "rel": "/software/repository/github/ML-AMD/exa-amd",
+        "avatar": "https://avatars.githubusercontent.com/u/186345595?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/tbisbas/PDFchem",
         "url": "https://github.com/tbisbas/PDFchem",
         "rel": "/software/repository/github/tbisbas/PDFchem",
@@ -62984,6 +63216,17 @@
         "topics": []
     },
     {
+        "uid": "github/rennmeng/SERtool",
+        "url": "https://github.com/rennmeng/SERtool",
+        "rel": "/software/repository/github/rennmeng/SERtool",
+        "avatar": "https://avatars.githubusercontent.com/u/46642088?v=4",
+        "description": "The tool is used to search for proteins with repetitive sequence amino acids and can also be applied to the search of nucleic acid sequences.",
+        "topics": [
+            "enrichment-analysis",
+            "hgvs-sequence"
+        ]
+    },
+    {
         "uid": "github/elsoroka/Satisfiability.jl",
         "url": "https://github.com/elsoroka/Satisfiability.jl",
         "rel": "/software/repository/github/elsoroka/Satisfiability.jl",
@@ -64837,6 +65080,14 @@
         "rel": "/software/repository/github/aberer/RogueNaRok",
         "avatar": "https://avatars.githubusercontent.com/u/881002?v=4",
         "description": "A versatile and scalable algorithm for rogue taxon identification. Also includes implementations of the maximum agreement subtree, leaf stability index and taxonomic instability index",
+        "topics": []
+    },
+    {
+        "uid": "github/meliao/jaxhps",
+        "url": "https://github.com/meliao/jaxhps",
+        "rel": "/software/repository/github/meliao/jaxhps",
+        "avatar": "https://avatars.githubusercontent.com/u/34496686?v=4",
+        "description": "jaxhps: an elliptic PDE solver built with machine learning in mind",
         "topics": []
     },
     {
@@ -68532,6 +68783,14 @@
         "rel": "/software/repository/github/renecotyfanboy/jaxspec",
         "avatar": "https://avatars.githubusercontent.com/u/49200287?v=4",
         "description": "jaxspec is an X-ray spectra Bayesian analysis package, relying on JAX to enable just in time compilation",
+        "topics": []
+    },
+    {
+        "uid": "github/LuluQin766/FPNuNet",
+        "url": "https://github.com/LuluQin766/FPNuNet",
+        "rel": "/software/repository/github/LuluQin766/FPNuNet",
+        "avatar": "https://avatars.githubusercontent.com/u/45515462?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -75965,6 +76224,14 @@
             "machine-learning",
             "python"
         ]
+    },
+    {
+        "uid": "github/mad-lab-fau/BioMAC-Sim-Toolbox",
+        "url": "https://github.com/mad-lab-fau/BioMAC-Sim-Toolbox",
+        "rel": "/software/repository/github/mad-lab-fau/BioMAC-Sim-Toolbox",
+        "avatar": "https://avatars.githubusercontent.com/u/48119197?v=4",
+        "description": "The biomechanical motion analysis and creation (BioMAC) simulation toolbox can be used to analyse human movement, with a focus on gait simulations ",
+        "topics": []
     },
     {
         "uid": "github/mad-lab-fau/imucal",

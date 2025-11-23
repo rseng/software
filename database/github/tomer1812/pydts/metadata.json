@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/tomer1812/pydts",
+    "url": "https://github.com/tomer1812/pydts",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17593777",
+        "name": "pydts",
+        "url": "https://github.com/tomer1812/pydts",
+        "full_name": "tomer1812/pydts",
+        "html_url": "https://github.com/tomer1812/pydts",
+        "description": "A python package for discrete-time survival analysis with competing risks",
+        "created_at": "2022-03-04T21:26:45Z",
+        "updated_at": "2025-11-21T20:52:31Z",
+        "clone_url": "https://github.com/tomer1812/pydts.git",
+        "homepage": "https://tomer1812.github.io/pydts/",
+        "size": 14200,
+        "stargazers_count": 24,
+        "watchers_count": 24,
+        "language": "Python",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/tomer1812",
+            "avatar_url": "https://avatars.githubusercontent.com/u/30202416?v=4",
+            "login": "tomer1812",
+            "type": "User"
+        },
+        "timestamp": "2025-11-23 00:58:46.290874",
+        "avatar": "https://avatars.githubusercontent.com/u/30202416?v=4"
+    }
+}
