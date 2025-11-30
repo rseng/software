@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/EcologyR/BlueCarbon",
+    "url": "https://github.com/EcologyR/BlueCarbon",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17521760",
+        "name": "BlueCarbon",
+        "url": "https://github.com/EcologyR/BlueCarbon",
+        "full_name": "EcologyR/BlueCarbon",
+        "html_url": "https://github.com/EcologyR/BlueCarbon",
+        "description": "Estimation of organic carbon stocks and sequestration rates from soil/sediment cores from blue carbon ecosystems",
+        "created_at": "2023-03-22T18:42:24Z",
+        "updated_at": "2025-11-26T18:31:45Z",
+        "clone_url": "https://github.com/EcologyR/BlueCarbon.git",
+        "homepage": "https://ecologyr.github.io/BlueCarbon/",
+        "size": 5391,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "R",
+        "open_issues_count": 2,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/EcologyR",
+            "avatar_url": "https://avatars.githubusercontent.com/u/121908130?v=4",
+            "login": "EcologyR",
+            "type": "Organization"
+        },
+        "topics": [
+            "blue-carbon",
+            "bluecarbon",
+            "carbon",
+            "ecology",
+            "r-package"
+        ],
+        "timestamp": "2025-11-30 00:59:29.304316",
+        "avatar": "https://avatars.githubusercontent.com/u/121908130?v=4"
+    }
+}

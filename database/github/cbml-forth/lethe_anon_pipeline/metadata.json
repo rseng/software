@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/cbml-forth/lethe_anon_pipeline",
+    "url": "https://github.com/cbml-forth/lethe_anon_pipeline",
+    "data": {
+        "name": "lethe_anon_pipeline",
+        "url": "https://github.com/cbml-forth/lethe_anon_pipeline",
+        "full_name": "cbml-forth/lethe_anon_pipeline",
+        "html_url": "https://github.com/cbml-forth/lethe_anon_pipeline",
+        "private": false,
+        "description": "DICOM anonymization pipeline",
+        "created_at": "2025-10-02T12:12:59Z",
+        "updated_at": "2025-11-28T07:42:37Z",
+        "clone_url": "https://github.com/cbml-forth/lethe_anon_pipeline.git",
+        "homepage": "",
+        "size": 4865,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/cbml-forth",
+            "avatar_url": "https://avatars.githubusercontent.com/u/24669067?v=4",
+            "login": "cbml-forth",
+            "type": "Organization"
+        },
+        "topics": [
+            "anonymization",
+            "dicom"
+        ],
+        "timestamp": "2025-11-30 00:59:52.781175",
+        "avatar": "https://avatars.githubusercontent.com/u/24669067?v=4"
+    }
+}

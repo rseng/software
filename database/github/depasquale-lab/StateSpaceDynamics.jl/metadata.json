@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/depasquale-lab/StateSpaceDynamics.jl",
+    "url": "https://github.com/depasquale-lab/StateSpaceDynamics.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17583787",
+        "name": "StateSpaceDynamics.jl",
+        "url": "https://github.com/depasquale-lab/StateSpaceDynamics.jl",
+        "full_name": "depasquale-lab/StateSpaceDynamics.jl",
+        "html_url": "https://github.com/depasquale-lab/StateSpaceDynamics.jl",
+        "description": "Julia library for fitting and analyzing state space models. Provides efficient implementations of various SSMs including the canonical Gaussian LDS (Kalman Filter/Smoother), Poisson LDS, HMMs, etc. Check out the documentation below!",
+        "created_at": "2023-09-23T15:46:50Z",
+        "updated_at": "2025-11-21T13:58:46Z",
+        "clone_url": "https://github.com/depasquale-lab/StateSpaceDynamics.jl.git",
+        "homepage": "https://depasquale-lab.github.io/StateSpaceDynamics.jl/stable/",
+        "size": 101531,
+        "stargazers_count": 24,
+        "watchers_count": 24,
+        "language": "Julia",
+        "open_issues_count": 6,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/depasquale-lab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/115058197?v=4",
+            "login": "depasquale-lab",
+            "type": "Organization"
+        },
+        "timestamp": "2025-11-30 00:59:38.213269",
+        "avatar": "https://avatars.githubusercontent.com/u/115058197?v=4"
+    }
+}
