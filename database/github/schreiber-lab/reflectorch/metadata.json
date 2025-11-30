@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/schreiber-lab/reflectorch",
+    "url": "https://github.com/schreiber-lab/reflectorch",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17571199",
+        "name": "reflectorch",
+        "url": "https://github.com/schreiber-lab/reflectorch",
+        "full_name": "schreiber-lab/reflectorch",
+        "html_url": "https://github.com/schreiber-lab/reflectorch",
+        "description": "Machine learning package for X-ray and neutron reflectometry incorporating prior knowledge",
+        "created_at": "2023-02-17T16:19:47Z",
+        "updated_at": "2025-11-23T16:26:05Z",
+        "clone_url": "https://github.com/schreiber-lab/reflectorch.git",
+        "homepage": "https://www.soft-matter.uni-tuebingen.de/",
+        "size": 268926,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "open_issues_count": 15,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/schreiber-lab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/54135178?v=4",
+            "login": "schreiber-lab",
+            "type": "Organization"
+        },
+        "topics": [
+            "deep-learning",
+            "physics"
+        ],
+        "timestamp": "2025-11-30 00:59:33.399479",
+        "avatar": "https://avatars.githubusercontent.com/u/54135178?v=4"
+    }
+}

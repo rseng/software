@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/meliao/jaxhps",
+    "url": "https://github.com/meliao/jaxhps",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17610335",
+        "name": "jaxhps",
+        "url": "https://github.com/meliao/jaxhps",
+        "full_name": "meliao/jaxhps",
+        "html_url": "https://github.com/meliao/jaxhps",
+        "description": "jaxhps: an elliptic PDE solver built with machine learning in mind",
+        "created_at": "2025-02-13T16:08:00Z",
+        "updated_at": "2025-11-14T18:25:26Z",
+        "clone_url": "https://github.com/meliao/jaxhps.git",
+        "size": 1907,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/meliao",
+            "avatar_url": "https://avatars.githubusercontent.com/u/34496686?v=4",
+            "login": "meliao",
+            "type": "User"
+        },
+        "timestamp": "2025-11-30 00:59:37.596851",
+        "avatar": "https://avatars.githubusercontent.com/u/34496686?v=4"
+    }
+}
