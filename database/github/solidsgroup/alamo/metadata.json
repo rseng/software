@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/solidsgroup/alamo",
+    "url": "https://github.com/solidsgroup/alamo",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15792528",
+        "name": "alamo",
+        "url": "https://github.com/solidsgroup/alamo",
+        "full_name": "solidsgroup/alamo",
+        "html_url": "https://github.com/solidsgroup/alamo",
+        "description": "Alamo: Explicit and implicit solvers for solid mechanics with AMR",
+        "created_at": "2017-06-20T14:14:27Z",
+        "updated_at": "2025-12-04T22:52:05Z",
+        "clone_url": "https://github.com/solidsgroup/alamo.git",
+        "homepage": "https://solidsgroup.github.io/alamo/",
+        "size": 299971,
+        "stargazers_count": 20,
+        "watchers_count": 20,
+        "language": "C++",
+        "open_issues_count": 10,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 7,
+        "owner": {
+            "html_url": "https://github.com/solidsgroup",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49920042?v=4",
+            "login": "solidsgroup",
+            "type": "Organization"
+        },
+        "topics": [
+            "amrex"
+        ],
+        "timestamp": "2025-12-07 00:58:58.398761",
+        "avatar": "https://avatars.githubusercontent.com/u/49920042?v=4"
+    }
+}

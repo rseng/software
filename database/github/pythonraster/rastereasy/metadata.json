@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/pythonraster/rastereasy",
+    "url": "https://github.com/pythonraster/rastereasy",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17822344",
+        "name": "rastereasy",
+        "url": "https://github.com/pythonraster/rastereasy",
+        "full_name": "pythonraster/rastereasy",
+        "html_url": "https://github.com/pythonraster/rastereasy",
+        "description": "pip install rastereasy",
+        "created_at": "2025-06-04T12:13:58Z",
+        "updated_at": "2025-12-06T09:24:58Z",
+        "clone_url": "https://github.com/pythonraster/rastereasy.git",
+        "homepage": "https://rastereasy.github.io/",
+        "size": 173396,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/pythonraster",
+            "avatar_url": "https://avatars.githubusercontent.com/u/205240309?v=4",
+            "login": "pythonraster",
+            "type": "Organization"
+        },
+        "topics": [
+            "geodata",
+            "python",
+            "raster",
+            "rasterio",
+            "remote",
+            "sensing"
+        ],
+        "timestamp": "2025-12-07 00:58:55.784780",
+        "avatar": "https://avatars.githubusercontent.com/u/205240309?v=4"
+    }
+}
