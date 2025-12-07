@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/TI-Forest-Sector-Modelling/TiMBA",
+    "url": "https://github.com/TI-Forest-Sector-Modelling/TiMBA",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17398504",
+        "name": "TiMBA",
+        "url": "https://github.com/TI-Forest-Sector-Modelling/TiMBA",
+        "full_name": "TI-Forest-Sector-Modelling/TiMBA",
+        "html_url": "https://github.com/TI-Forest-Sector-Modelling/TiMBA",
+        "description": "Timber market Model for policy-Based Analysis",
+        "created_at": "2024-09-25T04:06:08Z",
+        "updated_at": "2025-12-05T06:08:13Z",
+        "clone_url": "https://github.com/TI-Forest-Sector-Modelling/TiMBA.git",
+        "homepage": "https://doi.org/10.5281/zenodo.13842384",
+        "size": 35745,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "Python",
+        "open_issues_count": 10,
+        "license": {
+            "key": "agpl-3.0",
+            "name": "GNU Affero General Public License v3.0",
+            "spdx_id": "AGPL-3.0",
+            "url": "https://api.github.com/licenses/agpl-3.0",
+            "node_id": "MDc6TGljZW5zZTE="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/TI-Forest-Sector-Modelling",
+            "avatar_url": "https://avatars.githubusercontent.com/u/182213721?v=4",
+            "login": "TI-Forest-Sector-Modelling",
+            "type": "Organization"
+        },
+        "timestamp": "2025-12-07 00:59:05.520302",
+        "avatar": "https://avatars.githubusercontent.com/u/182213721?v=4"
+    }
+}
