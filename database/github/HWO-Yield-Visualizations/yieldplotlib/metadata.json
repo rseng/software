@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/HWO-Yield-Visualizations/yieldplotlib",
+    "url": "https://github.com/HWO-Yield-Visualizations/yieldplotlib",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17822644",
+        "name": "yieldplotlib",
+        "url": "https://github.com/HWO-Yield-Visualizations/yieldplotlib",
+        "full_name": "HWO-Yield-Visualizations/yieldplotlib",
+        "html_url": "https://github.com/HWO-Yield-Visualizations/yieldplotlib",
+        "description": "Python library to visualize the results of AYO and EXOSIMS.",
+        "created_at": "2024-06-05T15:20:05Z",
+        "updated_at": "2025-12-11T17:10:37Z",
+        "clone_url": "https://github.com/HWO-Yield-Visualizations/yieldplotlib.git",
+        "homepage": "https://yieldplotlib.readthedocs.io",
+        "size": 85903,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/HWO-Yield-Visualizations",
+            "avatar_url": "https://avatars.githubusercontent.com/u/178319593?v=4",
+            "login": "HWO-Yield-Visualizations",
+            "type": "Organization"
+        },
+        "topics": [
+            "exoplanets",
+            "matplotlib",
+            "visualizations"
+        ],
+        "timestamp": "2025-12-14 00:58:34.968401",
+        "avatar": "https://avatars.githubusercontent.com/u/178319593?v=4"
+    }
+}

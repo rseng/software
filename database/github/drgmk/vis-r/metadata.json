@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/drgmk/vis-r",
+    "url": "https://github.com/drgmk/vis-r",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025RASTI...4....4D",
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft11022K/abstract"
+        ],
+        "title": "vis-r: Fast radial profile modeling for radio interferometric data",
+        "url": "https://github.com/drgmk/vis-r",
+        "name": "vis-r",
+        "full_name": "drgmk/vis-r",
+        "html_url": "https://github.com/drgmk/vis-r",
+        "description": "fast radial profile modelling for radio interferometric data",
+        "created_at": "2024-02-19T11:38:53Z",
+        "updated_at": "2025-12-09T04:28:50Z",
+        "clone_url": "https://github.com/drgmk/vis-r.git",
+        "size": 150907,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/drgmk",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15953646?v=4",
+            "login": "drgmk",
+            "type": "User"
+        },
+        "timestamp": "2025-12-14 00:58:05.605408",
+        "avatar": "https://avatars.githubusercontent.com/u/15953646?v=4"
+    }
+}
