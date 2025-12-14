@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/emit-sds/SpectralUnmixing.jl",
+    "url": "https://github.com/emit-sds/SpectralUnmixing.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17537928",
+        "name": "SpectralUnmixing.jl",
+        "url": "https://github.com/emit-sds/SpectralUnmixing.jl",
+        "full_name": "emit-sds/SpectralUnmixing.jl",
+        "html_url": "https://github.com/emit-sds/SpectralUnmixing.jl",
+        "description": "Spectral unmixing, oriented towards imaging spectroscopy data.  Lots of flavors included.",
+        "created_at": "2022-01-21T21:39:46Z",
+        "updated_at": "2025-11-20T00:01:11Z",
+        "clone_url": "https://github.com/emit-sds/SpectralUnmixing.jl.git",
+        "homepage": "https://emit-sds.github.io/SpectralUnmixing.jl/",
+        "size": 11068,
+        "stargazers_count": 21,
+        "watchers_count": 21,
+        "language": "Julia",
+        "open_issues_count": 11,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/emit-sds",
+            "avatar_url": "https://avatars.githubusercontent.com/u/98183721?v=4",
+            "login": "emit-sds",
+            "type": "Organization"
+        },
+        "timestamp": "2025-12-14 00:58:36.357970",
+        "avatar": "https://avatars.githubusercontent.com/u/98183721?v=4"
+    }
+}

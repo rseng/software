@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/camlloyd/oct-to-tiff",
+    "url": "https://github.com/camlloyd/oct-to-tiff",
+    "data": {
+        "name": "oct-to-tiff",
+        "url": "https://github.com/camlloyd/oct-to-tiff",
+        "full_name": "camlloyd/oct-to-tiff",
+        "html_url": "https://github.com/camlloyd/oct-to-tiff",
+        "private": false,
+        "description": "A command line tool for converting optical coherence tomography angiography (OCTA) data.",
+        "created_at": "2021-07-02T23:36:05Z",
+        "updated_at": "2025-10-12T23:06:50Z",
+        "clone_url": "https://github.com/camlloyd/oct-to-tiff.git",
+        "homepage": "https://pypi.org/project/oct-to-tiff",
+        "size": 142,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/camlloyd",
+            "avatar_url": "https://avatars.githubusercontent.com/u/25730442?v=4",
+            "login": "camlloyd",
+            "type": "User"
+        },
+        "topics": [
+            "cli",
+            "oct",
+            "octa",
+            "angiography"
+        ],
+        "timestamp": "2025-12-14 00:58:55.332743",
+        "avatar": "https://avatars.githubusercontent.com/u/25730442?v=4"
+    }
+}
