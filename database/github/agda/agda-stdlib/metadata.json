@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/agda/agda-stdlib",
+    "url": "https://github.com/agda/agda-stdlib",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17998438",
+        "name": "agda-stdlib",
+        "url": "https://github.com/agda/agda-stdlib",
+        "full_name": "agda/agda-stdlib",
+        "html_url": "https://github.com/agda/agda-stdlib",
+        "description": "The Agda standard library",
+        "created_at": "2014-01-17T09:09:18Z",
+        "updated_at": "2025-12-17T17:48:44Z",
+        "clone_url": "https://github.com/agda/agda-stdlib.git",
+        "homepage": "https://wiki.portal.chalmers.se/agda/Libraries/StandardLibrary",
+        "size": 608865,
+        "stargazers_count": 638,
+        "watchers_count": 638,
+        "language": "Agda",
+        "open_issues_count": 348,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 25,
+        "owner": {
+            "html_url": "https://github.com/agda",
+            "avatar_url": "https://avatars.githubusercontent.com/u/410000?v=4",
+            "login": "agda",
+            "type": "Organization"
+        },
+        "topics": [
+            "agda",
+            "library",
+            "proof"
+        ],
+        "timestamp": "2025-12-21 00:58:28.791267",
+        "avatar": "https://avatars.githubusercontent.com/u/410000?v=4"
+    }
+}
