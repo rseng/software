@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/bourumir-wyngs/thaf",
+    "url": "https://github.com/bourumir-wyngs/thaf",
+    "data": {
+        "name": "thaf",
+        "url": "https://github.com/bourumir-wyngs/thaf",
+        "full_name": "bourumir-wyngs/thaf",
+        "html_url": "https://github.com/bourumir-wyngs/thaf",
+        "private": false,
+        "description": "`thaf` is a command-line tool to extract transcript sequences from a genome FASTA file based on GFF3 annotation files. It can also generate transcript-to-gene mapping files compatible with tools such as Salmon.",
+        "created_at": "2025-07-08T20:18:33Z",
+        "updated_at": "2025-12-05T20:50:13Z",
+        "clone_url": "https://github.com/bourumir-wyngs/thaf.git",
+        "homepage": null,
+        "size": 108,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Rust",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/bourumir-wyngs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/127052462?v=4",
+            "login": "bourumir-wyngs",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2025-12-21 00:58:51.327109",
+        "avatar": "https://avatars.githubusercontent.com/u/127052462?v=4"
+    }
+}
