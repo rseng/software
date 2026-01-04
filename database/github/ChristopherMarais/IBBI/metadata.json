@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/ChristopherMarais/IBBI",
+    "url": "https://github.com/ChristopherMarais/IBBI",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17891287",
+        "name": "IBBI",
+        "url": "https://github.com/ChristopherMarais/IBBI",
+        "full_name": "ChristopherMarais/IBBI",
+        "html_url": "https://github.com/ChristopherMarais/IBBI",
+        "description": "The Intelligent Bark Beetle Identifier (IBBI) is a Python package that provides a simple and unified interface for detecting and classifying bark and ambrosia beetles from images, using state-of-the-art computer vision models trained on what we believe to be the largest collection of bark and ambrosia beetle images in the world.",
+        "created_at": "2025-05-22T15:42:12Z",
+        "updated_at": "2025-12-20T21:56:03Z",
+        "clone_url": "https://github.com/ChristopherMarais/IBBI.git",
+        "homepage": "http://gcmarais.com/IBBI/",
+        "size": 84633,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "open_issues_count": 4,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ChristopherMarais",
+            "avatar_url": "https://avatars.githubusercontent.com/u/53177842?v=4",
+            "login": "ChristopherMarais",
+            "type": "User"
+        },
+        "timestamp": "2026-01-04 01:01:54.122736",
+        "avatar": "https://avatars.githubusercontent.com/u/53177842?v=4"
+    }
+}

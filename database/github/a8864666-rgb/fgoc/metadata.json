@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/a8864666-rgb/fgoc",
+    "url": "https://github.com/a8864666-rgb/fgoc",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025ascl.soft12003L/abstract"
+        ],
+        "title": "FGOC: Focal-Geometry and Curvature classifier",
+        "url": "https://github.com/a8864666-rgb/fgoc",
+        "name": "fgoc",
+        "full_name": "a8864666-rgb/fgoc",
+        "html_url": "https://github.com/a8864666-rgb/fgoc",
+        "description": "FGOC: Focal-Geometry and Curvature classifier for early identification of non-Keplerian and interstellar trajectories in LSST short-arc astrometry.",
+        "created_at": "2025-11-29T02:19:06Z",
+        "updated_at": "2025-12-30T04:49:09Z",
+        "clone_url": "https://github.com/a8864666-rgb/fgoc.git",
+        "size": 89,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/a8864666-rgb",
+            "avatar_url": "https://avatars.githubusercontent.com/u/240145241?v=4",
+            "login": "a8864666-rgb",
+            "type": "User"
+        },
+        "timestamp": "2026-01-04 01:01:23.658812",
+        "avatar": "https://avatars.githubusercontent.com/u/240145241?v=4"
+    }
+}
