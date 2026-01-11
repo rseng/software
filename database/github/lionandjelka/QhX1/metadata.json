@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/lionandjelka/QhX1",
+    "url": "https://github.com/lionandjelka/QhX1",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17980656",
+        "name": "QhX1",
+        "url": "https://github.com/lionandjelka/QhX1",
+        "full_name": "lionandjelka/QhX1",
+        "html_url": "https://github.com/lionandjelka/QhX1",
+        "description": "QhX-Quasar harmonics eXplorer- Python package for detecting oscillations in red noise",
+        "created_at": "2023-11-27T09:46:15Z",
+        "updated_at": "2025-11-16T06:07:37Z",
+        "clone_url": "https://github.com/lionandjelka/QhX1.git",
+        "size": 184525,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/lionandjelka",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7264975?v=4",
+            "login": "lionandjelka",
+            "type": "User"
+        },
+        "timestamp": "2026-01-11 01:01:49.076042",
+        "avatar": "https://avatars.githubusercontent.com/u/7264975?v=4"
+    }
+}
