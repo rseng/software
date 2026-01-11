@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/huanghua1994/HiGP",
+    "url": "https://github.com/huanghua1994/HiGP",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18181178",
+        "name": "HiGP",
+        "url": "https://github.com/huanghua1994/HiGP",
+        "full_name": "huanghua1994/HiGP",
+        "html_url": "https://github.com/huanghua1994/HiGP",
+        "created_at": "2024-10-25T05:24:36Z",
+        "updated_at": "2025-12-17T05:57:46Z",
+        "clone_url": "https://github.com/huanghua1994/HiGP.git",
+        "size": 6408,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/huanghua1994",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22476972?v=4",
+            "login": "huanghua1994",
+            "type": "User"
+        },
+        "timestamp": "2026-01-11 01:01:43.905983",
+        "avatar": "https://avatars.githubusercontent.com/u/22476972?v=4"
+    }
+}
