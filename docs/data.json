@@ -5124,6 +5124,20 @@
         ]
     },
     {
+        "uid": "github/ropensci/trud",
+        "url": "https://github.com/ropensci/trud",
+        "rel": "/software/repository/github/ropensci/trud",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4",
+        "description": "R package wrapper for the NHS TRUD API",
+        "topics": [
+            "api-wrapper",
+            "ehr",
+            "icd",
+            "nhs",
+            "snomed-ct"
+        ]
+    },
+    {
         "uid": "github/ropensci/ecoengine",
         "url": "https://github.com/ropensci/ecoengine",
         "rel": "/software/repository/github/ropensci/ecoengine",
@@ -11026,6 +11040,14 @@
         ]
     },
     {
+        "uid": "github/ymahlau/fdtdx",
+        "url": "https://github.com/ymahlau/fdtdx",
+        "rel": "/software/repository/github/ymahlau/fdtdx",
+        "avatar": "https://avatars.githubusercontent.com/u/59509701?v=4",
+        "description": "Electromagnetic FDTD Simulations in JAX",
+        "topics": []
+    },
+    {
         "uid": "github/jamesrhester/Lerche.jl",
         "url": "https://github.com/jamesrhester/Lerche.jl",
         "rel": "/software/repository/github/jamesrhester/Lerche.jl",
@@ -12619,6 +12641,14 @@
         "rel": "/software/repository/github/ChengF-Lab/AOPEDF",
         "avatar": "https://avatars.githubusercontent.com/u/39405991?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/DRDC-RDDC/pyMassEvac",
+        "url": "https://github.com/DRDC-RDDC/pyMassEvac",
+        "rel": "/software/repository/github/DRDC-RDDC/pyMassEvac",
+        "avatar": "https://avatars.githubusercontent.com/u/11459907?v=4",
+        "description": "A Python package for simulating multi-domain mass evacuation operations",
         "topics": []
     },
     {
@@ -17838,6 +17868,20 @@
         "topics": []
     },
     {
+        "uid": "github/unitaryfoundation/qlass",
+        "url": "https://github.com/unitaryfoundation/qlass",
+        "rel": "/software/repository/github/unitaryfoundation/qlass",
+        "avatar": "https://avatars.githubusercontent.com/u/50056634?v=4",
+        "description": "VQE on photonic quantum devices",
+        "topics": [
+            "compiler",
+            "photonics",
+            "qpu",
+            "quantum-computing",
+            "variational-algorithms"
+        ]
+    },
+    {
         "uid": "github/ajeldorado/falco-matlab",
         "url": "https://github.com/ajeldorado/falco-matlab",
         "rel": "/software/repository/github/ajeldorado/falco-matlab",
@@ -22859,6 +22903,14 @@
         "topics": []
     },
     {
+        "uid": "github/prvjapan/pyird",
+        "url": "https://github.com/prvjapan/pyird",
+        "rel": "/software/repository/github/prvjapan/pyird",
+        "avatar": "https://avatars.githubusercontent.com/u/82982905?v=4",
+        "description": "Python pipeline for infrared detectors, and/or IRD/REACH ",
+        "topics": []
+    },
+    {
         "uid": "github/AndreyTavleev/DiscVerSt",
         "url": "https://github.com/AndreyTavleev/DiscVerSt",
         "rel": "/software/repository/github/AndreyTavleev/DiscVerSt",
@@ -24398,6 +24450,14 @@
         "rel": "/software/repository/github/PyDL/cat-puma",
         "avatar": "https://avatars.githubusercontent.com/u/7454038?v=4",
         "description": "CME Arrival Time Prediction Using Machine learning Algorithms",
+        "topics": []
+    },
+    {
+        "uid": "github/FNLCR-DMAP/SCSAWorkflow",
+        "url": "https://github.com/FNLCR-DMAP/SCSAWorkflow",
+        "rel": "/software/repository/github/FNLCR-DMAP/SCSAWorkflow",
+        "avatar": "https://avatars.githubusercontent.com/u/51838481?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -29735,6 +29795,19 @@
             "particle-diameter",
             "aerosols",
             "image-processing"
+        ]
+    },
+    {
+        "uid": "github/ERMETE-Lab/ROSE-pyforce",
+        "url": "https://github.com/ERMETE-Lab/ROSE-pyforce",
+        "rel": "/software/repository/github/ERMETE-Lab/ROSE-pyforce",
+        "avatar": "https://avatars.githubusercontent.com/u/115166981?v=4",
+        "description": "Python Framework for data-driven model Order Reduction of multi-physiCs problEms ",
+        "topics": [
+            "data-driven",
+            "multi-physics",
+            "nuclear-engineering",
+            "reduced-order-models"
         ]
     },
     {
@@ -40069,6 +40142,14 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaSmoothOptimizers/JSOSolvers.jl",
+        "url": "https://github.com/JuliaSmoothOptimizers/JSOSolvers.jl",
+        "rel": "/software/repository/github/JuliaSmoothOptimizers/JSOSolvers.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/15710294?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/JuliaSmoothOptimizers/DCISolver.jl",
         "url": "https://github.com/JuliaSmoothOptimizers/DCISolver.jl",
         "rel": "/software/repository/github/JuliaSmoothOptimizers/DCISolver.jl",
@@ -43504,6 +43585,14 @@
         "rel": "/software/repository/github/me-manu/gammaALPs",
         "avatar": "https://avatars.githubusercontent.com/u/1806684?v=4",
         "description": "A python code to calculate the conversion probability between photons and axions / axionlike particles",
+        "topics": []
+    },
+    {
+        "uid": "github/abuzarmahmood/pytau",
+        "url": "https://github.com/abuzarmahmood/pytau",
+        "rel": "/software/repository/github/abuzarmahmood/pytau",
+        "avatar": "https://avatars.githubusercontent.com/u/12436309?v=4",
+        "description": "Library to streamline batch-fitting of Bayesian changepoint models to neural population spiking data",
         "topics": []
     },
     {
@@ -52654,6 +52743,14 @@
         ]
     },
     {
+        "uid": "github/rjaneUCF/MultiHazard",
+        "url": "https://github.com/rjaneUCF/MultiHazard",
+        "rel": "/software/repository/github/rjaneUCF/MultiHazard",
+        "avatar": "https://avatars.githubusercontent.com/u/60888116?v=4",
+        "description": "The MultiHazard package provides tools for stationary multivariate statistical modeling to estimate the joint occurrence probabilities of MULTIple co-occurring HAZARDs.",
+        "topics": []
+    },
+    {
         "uid": "github/potassco/clingo",
         "url": "https://github.com/potassco/clingo",
         "rel": "/software/repository/github/potassco/clingo",
@@ -55315,6 +55412,14 @@
         "rel": "/software/repository/github/erf-model/ERF",
         "avatar": "https://avatars.githubusercontent.com/u/59941622?v=4",
         "description": "Energy Research and Forecasting Model",
+        "topics": []
+    },
+    {
+        "uid": "github/anthbapt/MOSAIK",
+        "url": "https://github.com/anthbapt/MOSAIK",
+        "rel": "/software/repository/github/anthbapt/MOSAIK",
+        "avatar": "https://avatars.githubusercontent.com/u/35119963?v=4",
+        "description": "Documentation",
         "topics": []
     },
     {
@@ -58899,6 +59004,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/57955390?v=4",
         "description": "A lightweight python-based framework for high-throughput material simulation",
         "topics": []
+    },
+    {
+        "uid": "github/Pisces-Project/PyMetric",
+        "url": "https://github.com/Pisces-Project/PyMetric",
+        "rel": "/software/repository/github/Pisces-Project/PyMetric",
+        "avatar": "https://avatars.githubusercontent.com/u/203330046?v=4",
+        "description": "PyMetric is a differential geometry and field computation library designed for symbolic and numerical analysis on structured coordinate systems. It enables seamless computation of gradients, divergences, Laplacians, and tensor operations on curvilinear grids, with full support for units, symbolic expressions, and high-performance backends.",
+        "topics": [
+            "astrophysics",
+            "geometry",
+            "gravitation",
+            "physics",
+            "python"
+        ]
     },
     {
         "uid": "github/heracles-ec/heracles",
@@ -68479,6 +68598,14 @@
         ]
     },
     {
+        "uid": "github/kebschulllab/Dissecting-Atlas-Registered-Tissue",
+        "url": "https://github.com/kebschulllab/Dissecting-Atlas-Registered-Tissue",
+        "rel": "/software/repository/github/kebschulllab/Dissecting-Atlas-Registered-Tissue",
+        "avatar": "https://avatars.githubusercontent.com/u/253610869?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/CExA-project/ddc",
         "url": "https://github.com/CExA-project/ddc",
         "rel": "/software/repository/github/CExA-project/ddc",
@@ -68775,6 +68902,22 @@
         "topics": []
     },
     {
+        "uid": "github/ichlubna/vkCompViz",
+        "url": "https://github.com/ichlubna/vkCompViz",
+        "rel": "/software/repository/github/ichlubna/vkCompViz",
+        "avatar": "https://avatars.githubusercontent.com/u/43234438?v=4",
+        "description": "Vulkan image and data processing framework capable of running a cascade of compute shaders and displaying or storing the result.",
+        "topics": [
+            "compute-shader",
+            "gpgpu",
+            "gpu",
+            "render",
+            "shader",
+            "vulkan",
+            "vulkan-api"
+        ]
+    },
+    {
         "uid": "github/dfki-ric/movement_primitives",
         "url": "https://github.com/dfki-ric/movement_primitives",
         "rel": "/software/repository/github/dfki-ric/movement_primitives",
@@ -68959,6 +69102,14 @@
         "rel": "/software/repository/github/CNuge/BOLD-CLI",
         "avatar": "https://avatars.githubusercontent.com/u/17327173?v=4",
         "description": "Command line interface for the retrieval of data from http://www.boldsystems.org",
+        "topics": []
+    },
+    {
+        "uid": "github/oxpig/ImmuneBuilder",
+        "url": "https://github.com/oxpig/ImmuneBuilder",
+        "rel": "/software/repository/github/oxpig/ImmuneBuilder",
+        "avatar": "https://avatars.githubusercontent.com/u/43843505?v=4",
+        "description": "Predict the structure of immune receptor proteins",
         "topics": []
     },
     {
@@ -69963,6 +70114,14 @@
         "rel": "/software/repository/github/rbrthogan/GAz",
         "avatar": "https://avatars.githubusercontent.com/u/9214671?v=4",
         "description": "A genetic algorithm that finds optimal polynomial form to fit to data. ",
+        "topics": []
+    },
+    {
+        "uid": "github/Kamuish/ASTRA",
+        "url": "https://github.com/Kamuish/ASTRA",
+        "rel": "/software/repository/github/Kamuish/ASTRA",
+        "avatar": "https://avatars.githubusercontent.com/u/33263706?v=4",
+        "description": "Astrophysical Spectral Tools for Retrieval & Analysis",
         "topics": []
     },
     {
@@ -74636,6 +74795,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/96714586?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/maxall41/RustSASA",
+        "url": "https://github.com/maxall41/RustSASA",
+        "rel": "/software/repository/github/maxall41/RustSASA",
+        "avatar": "https://avatars.githubusercontent.com/u/41460735?v=4",
+        "description": "A Rust library for calculating the SASA for a protein. 5x faster than Freesasa. Based on the Shrake & Rupley algorithm. ",
+        "topics": [
+            "bioinformatics",
+            "rust",
+            "biology"
+        ]
     },
     {
         "uid": "github/VBlesius/RHRT",

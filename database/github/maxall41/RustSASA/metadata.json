@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/maxall41/RustSASA",
+    "url": "https://github.com/maxall41/RustSASA",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16958791",
+        "name": "RustSASA",
+        "url": "https://github.com/maxall41/RustSASA",
+        "full_name": "maxall41/RustSASA",
+        "html_url": "https://github.com/maxall41/RustSASA",
+        "description": "A Rust library for calculating the SASA for a protein. 5x faster than Freesasa. Based on the Shrake & Rupley algorithm. ",
+        "created_at": "2024-02-09T08:34:46Z",
+        "updated_at": "2026-01-15T05:03:54Z",
+        "clone_url": "https://github.com/maxall41/RustSASA.git",
+        "homepage": "https://crates.io/crates/rust-sasa",
+        "size": 262376,
+        "stargazers_count": 17,
+        "watchers_count": 17,
+        "language": "Rust",
+        "open_issues_count": 2,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/maxall41",
+            "avatar_url": "https://avatars.githubusercontent.com/u/41460735?v=4",
+            "login": "maxall41",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "rust",
+            "biology"
+        ],
+        "timestamp": "2026-01-18 01:02:10.690956",
+        "avatar": "https://avatars.githubusercontent.com/u/41460735?v=4"
+    }
+}
