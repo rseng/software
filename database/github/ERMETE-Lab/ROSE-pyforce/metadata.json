@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/ERMETE-Lab/ROSE-pyforce",
+    "url": "https://github.com/ERMETE-Lab/ROSE-pyforce",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18189656",
+        "name": "ROSE-pyforce",
+        "url": "https://github.com/ERMETE-Lab/ROSE-pyforce",
+        "full_name": "ERMETE-Lab/ROSE-pyforce",
+        "html_url": "https://github.com/ERMETE-Lab/ROSE-pyforce",
+        "description": "Python Framework for data-driven model Order Reduction of multi-physiCs problEms ",
+        "created_at": "2023-07-12T14:33:55Z",
+        "updated_at": "2026-01-21T08:50:40Z",
+        "clone_url": "https://github.com/ERMETE-Lab/ROSE-pyforce.git",
+        "homepage": "https://ermete-lab.github.io/ROSE-pyforce/intro.html",
+        "size": 110017,
+        "stargazers_count": 16,
+        "watchers_count": 16,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ERMETE-Lab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/115166981?v=4",
+            "login": "ERMETE-Lab",
+            "type": "Organization"
+        },
+        "topics": [
+            "data-driven",
+            "multi-physics",
+            "nuclear-engineering",
+            "reduced-order-models"
+        ],
+        "timestamp": "2026-01-25 01:02:18.569956",
+        "avatar": "https://avatars.githubusercontent.com/u/115166981?v=4"
+    }
+}

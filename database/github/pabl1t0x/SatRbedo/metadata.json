@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/pabl1t0x/SatRbedo",
+    "url": "https://github.com/pabl1t0x/SatRbedo",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.17905205",
+        "name": "SatRbedo",
+        "url": "https://github.com/pabl1t0x/SatRbedo",
+        "full_name": "pabl1t0x/SatRbedo",
+        "html_url": "https://github.com/pabl1t0x/SatRbedo",
+        "description": "Tools for retrieving snow and ice albedo from optical satellite imagery",
+        "created_at": "2025-06-12T15:54:25Z",
+        "updated_at": "2026-01-24T03:14:17Z",
+        "clone_url": "https://github.com/pabl1t0x/SatRbedo.git",
+        "homepage": "https://pabl1t0x.github.io/SatRbedo/",
+        "size": 9628,
+        "language": "R",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/pabl1t0x",
+            "avatar_url": "https://avatars.githubusercontent.com/u/142388033?v=4",
+            "login": "pabl1t0x",
+            "type": "User"
+        },
+        "timestamp": "2026-01-25 01:02:13.867874",
+        "avatar": "https://avatars.githubusercontent.com/u/142388033?v=4"
+    }
+}

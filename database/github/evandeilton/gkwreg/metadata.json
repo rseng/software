@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/evandeilton/gkwreg",
+    "url": "https://github.com/evandeilton/gkwreg",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18292325",
+        "name": "gkwreg",
+        "url": "https://github.com/evandeilton/gkwreg",
+        "full_name": "evandeilton/gkwreg",
+        "html_url": "https://github.com/evandeilton/gkwreg",
+        "description": "gkwreg: Generalized Kumaraswamy Regression Models for Bounded Data",
+        "created_at": "2025-03-23T20:05:24Z",
+        "updated_at": "2026-01-19T18:31:23Z",
+        "clone_url": "https://github.com/evandeilton/gkwreg.git",
+        "homepage": "https://evandeilton.github.io/gkwreg/",
+        "size": 114144,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "R",
+        "open_issues_count": 2,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/evandeilton",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9373260?v=4",
+            "login": "evandeilton",
+            "type": "User"
+        },
+        "timestamp": "2026-01-25 01:02:17.173542",
+        "avatar": "https://avatars.githubusercontent.com/u/9373260?v=4"
+    }
+}
