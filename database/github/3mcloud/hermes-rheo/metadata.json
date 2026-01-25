@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/3mcloud/hermes-rheo",
+    "url": "https://github.com/3mcloud/hermes-rheo",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.15066722",
+        "name": "hermes-rheo",
+        "url": "https://github.com/3mcloud/hermes-rheo",
+        "full_name": "3mcloud/hermes-rheo",
+        "html_url": "https://github.com/3mcloud/hermes-rheo",
+        "description": "Python package designed to complement and extend the piblin library, offering a set of transforms tailored for analysis of rheological data",
+        "created_at": "2024-09-03T21:07:26Z",
+        "updated_at": "2026-01-20T20:55:24Z",
+        "clone_url": "https://github.com/3mcloud/hermes-rheo.git",
+        "size": 114365,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/3mcloud",
+            "avatar_url": "https://avatars.githubusercontent.com/u/58945963?v=4",
+            "login": "3mcloud",
+            "type": "Organization"
+        },
+        "topics": [
+            "rheology",
+            "data-science",
+            "scientific-computing"
+        ],
+        "timestamp": "2026-01-25 01:02:14.871405",
+        "avatar": "https://avatars.githubusercontent.com/u/58945963?v=4"
+    }
+}

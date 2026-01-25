@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/insysbio/LikelihoodProfiler.jl",
+    "url": "https://github.com/insysbio/LikelihoodProfiler.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18243712",
+        "name": "LikelihoodProfiler.jl",
+        "url": "https://github.com/insysbio/LikelihoodProfiler.jl",
+        "full_name": "insysbio/LikelihoodProfiler.jl",
+        "html_url": "https://github.com/insysbio/LikelihoodProfiler.jl",
+        "description": "LikelihoodProfiler is a Julia package for practical identifiability analysis and confidence intervals estimation.",
+        "created_at": "2018-10-02T12:00:11Z",
+        "updated_at": "2026-01-19T20:19:46Z",
+        "clone_url": "https://github.com/insysbio/LikelihoodProfiler.jl.git",
+        "homepage": "https://insysbio.github.io/LikelihoodProfiler.jl/stable",
+        "size": 9411,
+        "stargazers_count": 36,
+        "watchers_count": 36,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 17,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/insysbio",
+            "avatar_url": "https://avatars.githubusercontent.com/u/25060139?v=4",
+            "login": "insysbio",
+            "type": "Organization"
+        },
+        "topics": [
+            "julia",
+            "confidence-intervals",
+            "likelihood",
+            "systems-biology",
+            "identifiability",
+            "identifiability-analysis"
+        ],
+        "timestamp": "2026-01-25 01:02:15.819129",
+        "avatar": "https://avatars.githubusercontent.com/u/25060139?v=4"
+    }
+}

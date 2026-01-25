@@ -10260,6 +10260,19 @@
         "topics": []
     },
     {
+        "uid": "github/Yehor-Mishchyriak/PureML",
+        "url": "https://github.com/Yehor-Mishchyriak/PureML",
+        "rel": "/software/repository/github/Yehor-Mishchyriak/PureML",
+        "avatar": "https://avatars.githubusercontent.com/u/89663891?v=4",
+        "description": "Transparent, NumPy-only deep learning framework for teaching, small-scale projects, prototyping, and reproducible experiments. No CUDA, no giant dependency tree. Batteries included: VJP autograd, layers, activations, losses, optimizers, Zarr checkpoints, and more!",
+        "topics": [
+            "autodiff",
+            "deep-learning",
+            "machine-learning",
+            "neural-network"
+        ]
+    },
+    {
         "uid": "github/ewanbarr/peasoup",
         "url": "https://github.com/ewanbarr/peasoup",
         "rel": "/software/repository/github/ewanbarr/peasoup",
@@ -12059,6 +12072,14 @@
         "topics": []
     },
     {
+        "uid": "github/pontoppi/ctool",
+        "url": "https://github.com/pontoppi/ctool",
+        "rel": "/software/repository/github/pontoppi/ctool",
+        "avatar": "https://avatars.githubusercontent.com/u/3697922?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/qqpigass/FREEPII",
         "url": "https://github.com/qqpigass/FREEPII",
         "rel": "/software/repository/github/qqpigass/FREEPII",
@@ -12531,6 +12552,21 @@
         "topics": []
     },
     {
+        "uid": "github/insysbio/LikelihoodProfiler.jl",
+        "url": "https://github.com/insysbio/LikelihoodProfiler.jl",
+        "rel": "/software/repository/github/insysbio/LikelihoodProfiler.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/25060139?v=4",
+        "description": "LikelihoodProfiler is a Julia package for practical identifiability analysis and confidence intervals estimation.",
+        "topics": [
+            "julia",
+            "confidence-intervals",
+            "likelihood",
+            "systems-biology",
+            "identifiability",
+            "identifiability-analysis"
+        ]
+    },
+    {
         "uid": "github/pvlib/pvlib-python",
         "url": "https://github.com/pvlib/pvlib-python",
         "rel": "/software/repository/github/pvlib/pvlib-python",
@@ -12937,6 +12973,14 @@
             "tracking",
             "yolo"
         ]
+    },
+    {
+        "uid": "github/mccoymd/SNP2SIM",
+        "url": "https://github.com/mccoymd/snp2sim",
+        "rel": "/software/repository/github/mccoymd/SNP2SIM",
+        "avatar": "https://avatars.githubusercontent.com/u/29253108?v=4",
+        "description": "Molecular Simulation of Somatic Variation",
+        "topics": []
     },
     {
         "uid": "github/sourmash-bio/sourmash",
@@ -14527,6 +14571,25 @@
         "topics": []
     },
     {
+        "uid": "github/spectralmatch/spectralmatch",
+        "url": "https://github.com/spectralmatch/spectralmatch",
+        "rel": "/software/repository/github/spectralmatch/spectralmatch",
+        "avatar": "https://avatars.githubusercontent.com/u/209691165?v=4",
+        "description": "Relative radiometric normalization toolkit for raster mosaics and time series",
+        "topics": [
+            "histogram-matching",
+            "qgis-plugin",
+            "remote-sensing",
+            "time-series",
+            "relative-radiometric-normalization",
+            "mosaic",
+            "cloud-masking",
+            "python",
+            "pseudo-invariant-features",
+            "seamline"
+        ]
+    },
+    {
         "uid": "github/idefix-code/idefix",
         "url": "https://github.com/idefix-code/idefix",
         "rel": "/software/repository/github/idefix-code/idefix",
@@ -15935,6 +15998,27 @@
         ]
     },
     {
+        "uid": "github/martinjrobins/diffsol",
+        "url": "https://github.com/martinjrobins/diffsol",
+        "rel": "/software/repository/github/martinjrobins/diffsol",
+        "avatar": "https://avatars.githubusercontent.com/u/1148404?v=4",
+        "description": "ODE solver library in Rust",
+        "topics": [
+            "bdf",
+            "ode-solver",
+            "dsl",
+            "jacobian",
+            "ode",
+            "ode-integrator",
+            "runge-kutta",
+            "rust",
+            "scientific-computing",
+            "solver",
+            "sparse-matrix",
+            "mass-matrix"
+        ]
+    },
+    {
         "uid": "github/ruta-k/uGMRT-pipeline",
         "url": "https://github.com/ruta-k/uGMRT-pipeline",
         "rel": "/software/repository/github/ruta-k/uGMRT-pipeline",
@@ -16468,6 +16552,14 @@
         "rel": "/software/repository/github/swiss-seismological-service/DUGseis",
         "avatar": "https://avatars.githubusercontent.com/u/50695471?v=4",
         "description": "Software for acquisition and processing of micro-seismic data",
+        "topics": []
+    },
+    {
+        "uid": "github/interTwin-eu/itwinai",
+        "url": "https://github.com/interTwin-eu/itwinai",
+        "rel": "/software/repository/github/interTwin-eu/itwinai",
+        "avatar": "https://avatars.githubusercontent.com/u/123980631?v=4",
+        "description": "Advanced AI workflows for scientific digital twins",
         "topics": []
     },
     {
@@ -17838,6 +17930,20 @@
         "topics": []
     },
     {
+        "uid": "github/unitaryfoundation/qlass",
+        "url": "https://github.com/unitaryfoundation/qlass",
+        "rel": "/software/repository/github/unitaryfoundation/qlass",
+        "avatar": "https://avatars.githubusercontent.com/u/50056634?v=4",
+        "description": "VQE on photonic quantum devices",
+        "topics": [
+            "compiler",
+            "photonics",
+            "qpu",
+            "quantum-computing",
+            "variational-algorithms"
+        ]
+    },
+    {
         "uid": "github/ajeldorado/falco-matlab",
         "url": "https://github.com/ajeldorado/falco-matlab",
         "rel": "/software/repository/github/ajeldorado/falco-matlab",
@@ -18826,6 +18932,14 @@
         ]
     },
     {
+        "uid": "github/noble-research-institute/fnbtools",
+        "url": "https://github.com/BCH-RC/fnbtools",
+        "rel": "/software/repository/github/noble-research-institute/fnbtools",
+        "avatar": "https://avatars.githubusercontent.com/u/88107223?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/sciapp/sampledb",
         "url": "https://github.com/sciapp/sampledb",
         "rel": "/software/repository/github/sciapp/sampledb",
@@ -19292,6 +19406,14 @@
             "dam-impact-analysis",
             "simulation"
         ]
+    },
+    {
+        "uid": "github/RAI-SCC/torch_bayesian",
+        "url": "https://github.com/RAI-SCC/torch_blue",
+        "rel": "/software/repository/github/RAI-SCC/torch_bayesian",
+        "avatar": "https://avatars.githubusercontent.com/u/157382985?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/csmsoftware/IMPaCTS",
@@ -20752,6 +20874,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/7566806?v=4",
         "description": "A web application providing high level functionalities to perform data reduction on scientific FITS images.",
         "topics": []
+    },
+    {
+        "uid": "github/QMCSoftware/QMCSoftware",
+        "url": "https://github.com/QMCSoftware/QMCSoftware",
+        "rel": "/software/repository/github/QMCSoftware/QMCSoftware",
+        "avatar": "https://avatars.githubusercontent.com/u/44040960?v=4",
+        "description": "Quasi-Monte Carlo point generators, automatic transformations, and adaptive stopping criteria",
+        "topics": [
+            "quasi-monte-carlo",
+            "mathematics",
+            "python",
+            "monte-carlo",
+            "stopping-criterion"
+        ]
     },
     {
         "uid": "github/shikhar249/OnionMHC",
@@ -22859,6 +22995,14 @@
         "topics": []
     },
     {
+        "uid": "github/prvjapan/pyird",
+        "url": "https://github.com/prvjapan/pyird",
+        "rel": "/software/repository/github/prvjapan/pyird",
+        "avatar": "https://avatars.githubusercontent.com/u/82982905?v=4",
+        "description": "Python pipeline for infrared detectors, and/or IRD/REACH ",
+        "topics": []
+    },
+    {
         "uid": "github/AndreyTavleev/DiscVerSt",
         "url": "https://github.com/AndreyTavleev/DiscVerSt",
         "rel": "/software/repository/github/AndreyTavleev/DiscVerSt",
@@ -24146,6 +24290,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/57012544?v=4",
         "description": "Extended Kalman Filter-Based Calibration and Localization",
         "topics": []
+    },
+    {
+        "uid": "github/NeLy-EPFL/sequential-inverse-kinematics",
+        "url": "https://github.com/NeLy-EPFL/sequential-inverse-kinematics",
+        "rel": "/software/repository/github/NeLy-EPFL/sequential-inverse-kinematics",
+        "avatar": "https://avatars.githubusercontent.com/u/36967736?v=4",
+        "description": "Sequential inverse kinematics pipeline.",
+        "topics": [
+            "drosophila-melanogaster",
+            "inverse-kinematics"
+        ]
     },
     {
         "uid": "github/BerkeleyLab/caffeine",
@@ -26052,6 +26207,18 @@
         "topics": []
     },
     {
+        "uid": "github/jmorris335/ConstraintHg",
+        "url": "https://github.com/jmorris335/ConstraintHg",
+        "rel": "/software/repository/github/jmorris335/ConstraintHg",
+        "avatar": "https://avatars.githubusercontent.com/u/70734743?v=4",
+        "description": "General system simulation using constraint hypergraphs",
+        "topics": [
+            "constraints-solver-algorithm",
+            "mbse",
+            "system-simulation"
+        ]
+    },
+    {
         "uid": "github/mantzaris/LMDiskANN.jl",
         "url": "https://github.com/mantzaris/LMDiskANN.jl",
         "rel": "/software/repository/github/mantzaris/LMDiskANN.jl",
@@ -27136,6 +27303,14 @@
         "rel": "/software/repository/github/biolab-unige/nifti2dicom",
         "avatar": "https://avatars.githubusercontent.com/u/1324907?v=4",
         "description": "Convert 3D NIfTI images (and other formats supported by ITK) to DICOM 2D series",
+        "topics": []
+    },
+    {
+        "uid": "github/pabl1t0x/SatRbedo",
+        "url": "https://github.com/pabl1t0x/SatRbedo",
+        "rel": "/software/repository/github/pabl1t0x/SatRbedo",
+        "avatar": "https://avatars.githubusercontent.com/u/142388033?v=4",
+        "description": "Tools for retrieving snow and ice albedo from optical satellite imagery",
         "topics": []
     },
     {
@@ -29735,6 +29910,19 @@
             "particle-diameter",
             "aerosols",
             "image-processing"
+        ]
+    },
+    {
+        "uid": "github/ERMETE-Lab/ROSE-pyforce",
+        "url": "https://github.com/ERMETE-Lab/ROSE-pyforce",
+        "rel": "/software/repository/github/ERMETE-Lab/ROSE-pyforce",
+        "avatar": "https://avatars.githubusercontent.com/u/115166981?v=4",
+        "description": "Python Framework for data-driven model Order Reduction of multi-physiCs problEms ",
+        "topics": [
+            "data-driven",
+            "multi-physics",
+            "nuclear-engineering",
+            "reduced-order-models"
         ]
     },
     {
@@ -35820,6 +36008,18 @@
         ]
     },
     {
+        "uid": "github/aghozlane/shaman",
+        "url": "https://github.com/aghozlane/shaman",
+        "rel": "/software/repository/github/aghozlane/shaman",
+        "avatar": "https://avatars.githubusercontent.com/u/1582715?v=4",
+        "description": "SHAMAN is a SHiny application for Metagenomic ANalysis including a bioinformatic workflow, the statistical analysis and multiple visualization.",
+        "topics": [
+            "metagenomics",
+            "differential-analysis",
+            "visualization"
+        ]
+    },
+    {
         "uid": "github/mongibellili/QuantizedSystemSolver.jl",
         "url": "https://github.com/mongibellili/QuantizedSystemSolver.jl",
         "rel": "/software/repository/github/mongibellili/QuantizedSystemSolver.jl",
@@ -40069,6 +40269,14 @@
         "topics": []
     },
     {
+        "uid": "github/JuliaSmoothOptimizers/JSOSolvers.jl",
+        "url": "https://github.com/JuliaSmoothOptimizers/JSOSolvers.jl",
+        "rel": "/software/repository/github/JuliaSmoothOptimizers/JSOSolvers.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/15710294?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/JuliaSmoothOptimizers/DCISolver.jl",
         "url": "https://github.com/JuliaSmoothOptimizers/DCISolver.jl",
         "rel": "/software/repository/github/JuliaSmoothOptimizers/DCISolver.jl",
@@ -40319,6 +40527,14 @@
             "conservation-prioritization",
             "conservation"
         ]
+    },
+    {
+        "uid": "github/brsaran/LBEEP",
+        "url": "https://github.com/brsaran/LBEEP",
+        "rel": "/software/repository/github/brsaran/LBEEP",
+        "avatar": "https://avatars.githubusercontent.com/u/8578810?v=4",
+        "description": "Linear Exact B-Cell Epitope Predictor",
+        "topics": []
     },
     {
         "uid": "github/hope-data-science/tidyfst",
@@ -49776,6 +49992,18 @@
         ]
     },
     {
+        "uid": "github/3mcloud/hermes-rheo",
+        "url": "https://github.com/3mcloud/hermes-rheo",
+        "rel": "/software/repository/github/3mcloud/hermes-rheo",
+        "avatar": "https://avatars.githubusercontent.com/u/58945963?v=4",
+        "description": "Python package designed to complement and extend the piblin library, offering a set of transforms tailored for analysis of rheological data",
+        "topics": [
+            "rheology",
+            "data-science",
+            "scientific-computing"
+        ]
+    },
+    {
         "uid": "github/KALMUS-Color-Toolkit/KALMUS",
         "url": "https://github.com/KALMUS-Color-Toolkit/KALMUS",
         "rel": "/software/repository/github/KALMUS-Color-Toolkit/KALMUS",
@@ -52654,6 +52882,14 @@
         ]
     },
     {
+        "uid": "github/rjaneUCF/MultiHazard",
+        "url": "https://github.com/rjaneUCF/MultiHazard",
+        "rel": "/software/repository/github/rjaneUCF/MultiHazard",
+        "avatar": "https://avatars.githubusercontent.com/u/60888116?v=4",
+        "description": "The MultiHazard package provides tools for stationary multivariate statistical modeling to estimate the joint occurrence probabilities of MULTIple co-occurring HAZARDs.",
+        "topics": []
+    },
+    {
         "uid": "github/potassco/clingo",
         "url": "https://github.com/potassco/clingo",
         "rel": "/software/repository/github/potassco/clingo",
@@ -55318,6 +55554,14 @@
         "topics": []
     },
     {
+        "uid": "github/anthbapt/MOSAIK",
+        "url": "https://github.com/anthbapt/MOSAIK",
+        "rel": "/software/repository/github/anthbapt/MOSAIK",
+        "avatar": "https://avatars.githubusercontent.com/u/35119963?v=4",
+        "description": "Documentation",
+        "topics": []
+    },
+    {
         "uid": "github/phenomecentre/nPYc-Toolbox",
         "url": "https://github.com/phenomecentre/nPYc-Toolbox",
         "rel": "/software/repository/github/phenomecentre/nPYc-Toolbox",
@@ -55388,6 +55632,14 @@
             "binning-refiner",
             "bioinformatics"
         ]
+    },
+    {
+        "uid": "github/Slugger70/VelvetOptimiser",
+        "url": "https://github.com/Slugger70/VelvetOptimiser",
+        "rel": "/software/repository/github/Slugger70/VelvetOptimiser",
+        "avatar": "https://avatars.githubusercontent.com/u/1740254?v=4",
+        "description": "Automatically optimise three of Velvet's assembly parameters.",
+        "topics": []
     },
     {
         "uid": "github/MichaelCretignier/Rassine_public",
@@ -61107,6 +61359,14 @@
         ]
     },
     {
+        "uid": "github/compomics/pladipus",
+        "url": "https://github.com/CompOmics/pladipus",
+        "rel": "/software/repository/github/compomics/pladipus",
+        "avatar": "https://avatars.githubusercontent.com/u/11630937?v=4",
+        "description": "Platform for Distributed Proteomics Software",
+        "topics": []
+    },
+    {
         "uid": "github/compomics/xilmass",
         "url": "https://github.com/compomics/xilmass",
         "rel": "/software/repository/github/compomics/xilmass",
@@ -61121,6 +61381,18 @@
         "avatar": "https://avatars0.githubusercontent.com/u/11630937?v=4",
         "description": "COSS: CompOmics Spectral Searching",
         "topics": []
+    },
+    {
+        "uid": "github/compomics/moFF",
+        "url": "https://github.com/CompOmics/moFF",
+        "rel": "/software/repository/github/compomics/moFF",
+        "avatar": "https://avatars.githubusercontent.com/u/11630937?v=4",
+        "description": " A modest Feature Finder (moFF) to extract  MS1 intensities from Thermo raw file",
+        "topics": [
+            "mass-spectrometry",
+            "proteomics",
+            "apex-intensity-ms1"
+        ]
     },
     {
         "uid": "github/compomics/DeepLC",
@@ -62762,6 +63034,14 @@
         "topics": []
     },
     {
+        "uid": "github/evandeilton/gkwreg",
+        "url": "https://github.com/evandeilton/gkwreg",
+        "rel": "/software/repository/github/evandeilton/gkwreg",
+        "avatar": "https://avatars.githubusercontent.com/u/9373260?v=4",
+        "description": "gkwreg: Generalized Kumaraswamy Regression Models for Bounded Data",
+        "topics": []
+    },
+    {
         "uid": "github/damocles-code/damocles",
         "url": "https://github.com/damocles-code/damocles",
         "rel": "/software/repository/github/damocles-code/damocles",
@@ -63854,6 +64134,14 @@
         "rel": "/software/repository/github/TimothyADavis/KinMSpy",
         "avatar": "https://avatars.githubusercontent.com/u/15347748?v=4",
         "description": "A Python version of KinMS (github.com/TimothyADavis/KinMS)",
+        "topics": []
+    },
+    {
+        "uid": "github/LBBSoft/FeatureSelect",
+        "url": "https://github.com/LBBSoft/FeatureSelect",
+        "rel": "/software/repository/github/LBBSoft/FeatureSelect",
+        "avatar": "https://avatars.githubusercontent.com/u/42937478?v=4",
+        "description": "FeatureSelect",
         "topics": []
     },
     {
@@ -65059,6 +65347,14 @@
         "rel": "/software/repository/github/tommyau/bamclipper",
         "avatar": "https://avatars.githubusercontent.com/u/12424384?v=4",
         "description": "Remove primer sequence from BAM alignments by soft-clipping",
+        "topics": []
+    },
+    {
+        "uid": "github/DanFaria/GOEnrichment",
+        "url": "https://github.com/DanFaria/GOEnrichment",
+        "rel": "/software/repository/github/DanFaria/GOEnrichment",
+        "avatar": "https://avatars.githubusercontent.com/u/12392178?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -68479,6 +68775,14 @@
         ]
     },
     {
+        "uid": "github/kebschulllab/Dissecting-Atlas-Registered-Tissue",
+        "url": "https://github.com/kebschulllab/Dissecting-Atlas-Registered-Tissue",
+        "rel": "/software/repository/github/kebschulllab/Dissecting-Atlas-Registered-Tissue",
+        "avatar": "https://avatars.githubusercontent.com/u/253610869?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/CExA-project/ddc",
         "url": "https://github.com/CExA-project/ddc",
         "rel": "/software/repository/github/CExA-project/ddc",
@@ -68775,6 +69079,22 @@
         "topics": []
     },
     {
+        "uid": "github/ichlubna/vkCompViz",
+        "url": "https://github.com/ichlubna/vkCompViz",
+        "rel": "/software/repository/github/ichlubna/vkCompViz",
+        "avatar": "https://avatars.githubusercontent.com/u/43234438?v=4",
+        "description": "Vulkan image and data processing framework capable of running a cascade of compute shaders and displaying or storing the result.",
+        "topics": [
+            "compute-shader",
+            "gpgpu",
+            "gpu",
+            "render",
+            "shader",
+            "vulkan",
+            "vulkan-api"
+        ]
+    },
+    {
         "uid": "github/dfki-ric/movement_primitives",
         "url": "https://github.com/dfki-ric/movement_primitives",
         "rel": "/software/repository/github/dfki-ric/movement_primitives",
@@ -68959,6 +69279,14 @@
         "rel": "/software/repository/github/CNuge/BOLD-CLI",
         "avatar": "https://avatars.githubusercontent.com/u/17327173?v=4",
         "description": "Command line interface for the retrieval of data from http://www.boldsystems.org",
+        "topics": []
+    },
+    {
+        "uid": "github/oxpig/ImmuneBuilder",
+        "url": "https://github.com/oxpig/ImmuneBuilder",
+        "rel": "/software/repository/github/oxpig/ImmuneBuilder",
+        "avatar": "https://avatars.githubusercontent.com/u/43843505?v=4",
+        "description": "Predict the structure of immune receptor proteins",
         "topics": []
     },
     {
@@ -74596,6 +74924,34 @@
         ]
     },
     {
+        "uid": "github/brianjimenez/lightdock",
+        "url": "https://github.com/lightdock/lightdock-python2.7",
+        "rel": "/software/repository/github/brianjimenez/lightdock",
+        "avatar": "https://avatars.githubusercontent.com/u/50987666?v=4",
+        "description": "Protein-protein, protein-peptide and protein-DNA docking framework based on the GSO algorithm",
+        "topics": [
+            "gso",
+            "pdb",
+            "swarm-intelligence",
+            "scientific-computing",
+            "protein-protein-docking",
+            "protein-protein",
+            "protein-protein-interaction",
+            "protein-structure",
+            "swarm",
+            "protein",
+            "docking",
+            "simulation",
+            "dna",
+            "peptides",
+            "anm",
+            "proteins",
+            "protein-design",
+            "bioinformatics",
+            "protein-docking-framework"
+        ]
+    },
+    {
         "uid": "github/CGAL/cgal",
         "url": "https://github.com/CGAL/cgal",
         "rel": "/software/repository/github/CGAL/cgal",
@@ -75751,6 +76107,14 @@
         "rel": "/software/repository/github/DirectDM/directdm-py",
         "avatar": "https://avatars.githubusercontent.com/u/30795796?v=4",
         "description": "Python version of the DirectDM package",
+        "topics": []
+    },
+    {
+        "uid": "github/mtakahiro/bbpn",
+        "url": "https://github.com/mtakahiro/bbpn",
+        "rel": "/software/repository/github/mtakahiro/bbpn",
+        "avatar": "https://avatars.githubusercontent.com/u/15098413?v=4",
+        "description": "Bye Bye Pink Noise",
         "topics": []
     },
     {
