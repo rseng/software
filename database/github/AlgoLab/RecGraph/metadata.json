@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/AlgoLab/RecGraph",
+    "url": "https://github.com/AlgoLab/RecGraph",
+    "data": {
+        "doi": "10.1093/bioinformatics/btae292",
+        "name": "RecGraph",
+        "url": "https://github.com/AlgoLab/RecGraph",
+        "full_name": "AlgoLab/RecGraph",
+        "html_url": "https://github.com/AlgoLab/RecGraph",
+        "description": "Optimal sequence-to-graph alignment with recombinations",
+        "created_at": "2022-03-07T08:18:26Z",
+        "updated_at": "2025-12-11T14:04:59Z",
+        "clone_url": "https://github.com/AlgoLab/RecGraph.git",
+        "size": 29935,
+        "stargazers_count": 39,
+        "watchers_count": 39,
+        "language": "Rust",
+        "open_issues_count": 3,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 6,
+        "owner": {
+            "html_url": "https://github.com/AlgoLab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/449800?v=4",
+            "login": "AlgoLab",
+            "type": "Organization"
+        },
+        "topics": [
+            "alignment",
+            "pangenomics",
+            "poa",
+            "rust"
+        ],
+        "timestamp": "2026-02-01 01:16:32.552956",
+        "avatar": "https://avatars.githubusercontent.com/u/449800?v=4"
+    }
+}

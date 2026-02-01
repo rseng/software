@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/R-Computing-Lab/ggpedigree",
+    "url": "https://github.com/R-Computing-Lab/ggpedigree",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18165893",
+        "name": "ggpedigree",
+        "url": "https://github.com/R-Computing-Lab/ggpedigree",
+        "full_name": "R-Computing-Lab/ggpedigree",
+        "html_url": "https://github.com/R-Computing-Lab/ggpedigree",
+        "description": "Graphing pedigrees and family trees with ggplot2",
+        "created_at": "2024-05-30T15:42:38Z",
+        "updated_at": "2026-02-01T00:19:41Z",
+        "clone_url": "https://github.com/R-Computing-Lab/ggpedigree.git",
+        "homepage": "https://r-computing-lab.github.io/ggpedigree/",
+        "size": 80398,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "HTML",
+        "open_issues_count": 13,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/R-Computing-Lab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/70174445?v=4",
+            "login": "R-Computing-Lab",
+            "type": "Organization"
+        },
+        "timestamp": "2026-02-01 01:16:05.989670",
+        "avatar": "https://avatars.githubusercontent.com/u/70174445?v=4"
+    }
+}

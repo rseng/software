@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/BioinfoUNIBA/IsoPrimer",
+    "url": "https://github.com/BioinfoUNIBA/IsoPrimer",
+    "data": {
+        "doi": "10.1093/bioadv/vbaf171",
+        "name": "IsoPrimer",
+        "url": "https://github.com/BioinfoUNIBA/IsoPrimer",
+        "full_name": "BioinfoUNIBA/IsoPrimer",
+        "html_url": "https://github.com/BioinfoUNIBA/IsoPrimer",
+        "description": "A primer-designing pipeline for the amplification of splicing variants",
+        "created_at": "2024-03-18T16:59:36Z",
+        "updated_at": "2025-11-05T11:52:21Z",
+        "clone_url": "https://github.com/BioinfoUNIBA/IsoPrimer.git",
+        "size": 125,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "R",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/BioinfoUNIBA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/50454732?v=4",
+            "login": "BioinfoUNIBA",
+            "type": "User"
+        },
+        "timestamp": "2026-02-01 01:16:32.930586",
+        "avatar": "https://avatars.githubusercontent.com/u/50454732?v=4"
+    }
+}

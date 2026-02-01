@@ -1,0 +1,54 @@
+{
+    "parser": "github",
+    "uid": "github/cds-astro/mocpy",
+    "url": "https://github.com/cds-astro/mocpy",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025ApJ...994L..45F",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft01006B/abstract"
+        ],
+        "title": "MOCPy: Create and manipulate Multi-Order Coverage maps",
+        "url": "https://github.com/cds-astro/mocpy",
+        "name": "mocpy",
+        "full_name": "cds-astro/mocpy",
+        "html_url": "https://github.com/cds-astro/mocpy",
+        "description": "Python library to easily create and manipulate MOCs (Multi-Order Coverage maps)",
+        "created_at": "2014-04-04T14:15:20Z",
+        "updated_at": "2026-01-28T08:37:25Z",
+        "clone_url": "https://github.com/cds-astro/mocpy.git",
+        "homepage": "https://cds-astro.github.io/mocpy/",
+        "size": 254295,
+        "stargazers_count": 70,
+        "watchers_count": 70,
+        "language": "Python",
+        "open_issues_count": 6,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 12,
+        "owner": {
+            "html_url": "https://github.com/cds-astro",
+            "avatar_url": "https://avatars.githubusercontent.com/u/26145382?v=4",
+            "login": "cds-astro",
+            "type": "Organization"
+        },
+        "topics": [
+            "astronomy",
+            "astronomy-astrophysics",
+            "tesselation",
+            "healpix",
+            "moc",
+            "astrophysics",
+            "astropy-affiliated",
+            "gravitational-waves",
+            "open-source",
+            "python"
+        ],
+        "timestamp": "2026-02-01 01:15:49.603095",
+        "avatar": "https://avatars.githubusercontent.com/u/26145382?v=4"
+    }
+}

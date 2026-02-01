@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/mourisl/centrifuger",
+    "url": "https://github.com/mourisl/centrifuger",
+    "data": {
+        "doi": "10.1186/s13059-024-03244-4",
+        "name": "centrifuger",
+        "url": "https://github.com/mourisl/centrifuger",
+        "full_name": "mourisl/centrifuger",
+        "html_url": "https://github.com/mourisl/centrifuger",
+        "description": "Taxonomic classifier for sequencing reads (bulk and single-cell data, short and long read) using FM-index with run-block compressed BWT.",
+        "created_at": "2023-04-12T20:45:49Z",
+        "updated_at": "2026-01-29T00:17:41Z",
+        "clone_url": "https://github.com/mourisl/centrifuger.git",
+        "size": 2424,
+        "stargazers_count": 84,
+        "watchers_count": 84,
+        "language": "C++",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/mourisl",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1904147?v=4",
+            "login": "mourisl",
+            "type": "User"
+        },
+        "timestamp": "2026-02-01 01:16:36.212436",
+        "avatar": "https://avatars.githubusercontent.com/u/1904147?v=4"
+    }
+}
