@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/isglobal-brge/CTDquerier",
+    "url": "https://github.com/isglobal-brge/CTDquerier",
+    "data": {
+        "doi": "10.1093/bioinformatics/bty326",
+        "name": "CTDquerier",
+        "url": "https://github.com/isglobal-brge/CTDquerier",
+        "full_name": "isglobal-brge/CTDquerier",
+        "html_url": "https://github.com/isglobal-brge/CTDquerier",
+        "description": "R package to make queries to Comparative Toxicogenomics Database and download the obtained results.",
+        "created_at": "2017-05-20T08:04:01Z",
+        "updated_at": "2024-04-10T08:18:20Z",
+        "clone_url": "https://github.com/isglobal-brge/CTDquerier.git",
+        "size": 47599,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "R",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/isglobal-brge",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22591681?v=4",
+            "login": "isglobal-brge",
+            "type": "User"
+        },
+        "timestamp": "2026-02-01 01:16:37.868385",
+        "avatar": "https://avatars.githubusercontent.com/u/22591681?v=4"
+    }
+}

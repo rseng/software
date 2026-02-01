@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/alercebroker/ATAT",
+    "url": "https://github.com/alercebroker/ATAT",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2024A%2526A...689A.289C",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft01007C/abstract"
+        ],
+        "title": "ATAT: Astronomical Transformer for time series And Tabular data",
+        "url": "https://github.com/alercebroker/ATAT",
+        "name": "ATAT",
+        "full_name": "alercebroker/ATAT",
+        "html_url": "https://github.com/alercebroker/ATAT",
+        "description": "Astronomical Transformer for time series And Tabular data",
+        "created_at": "2023-01-14T19:01:03Z",
+        "updated_at": "2025-08-26T14:59:56Z",
+        "clone_url": "https://github.com/alercebroker/ATAT.git",
+        "size": 2866,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 1,
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/alercebroker",
+            "avatar_url": "https://avatars.githubusercontent.com/u/46603914?v=4",
+            "login": "alercebroker",
+            "type": "Organization"
+        },
+        "timestamp": "2026-02-01 01:15:49.174263",
+        "avatar": "https://avatars.githubusercontent.com/u/46603914?v=4"
+    }
+}

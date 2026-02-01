@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/inducer/modepy",
+    "url": "https://github.com/inducer/modepy",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18304836",
+        "name": "modepy",
+        "url": "https://github.com/inducer/modepy",
+        "full_name": "inducer/modepy",
+        "html_url": "https://github.com/inducer/modepy",
+        "description": "Modes and nodes for high-order discretizations",
+        "created_at": "2013-05-03T22:38:03Z",
+        "updated_at": "2026-01-27T19:43:52Z",
+        "clone_url": "https://github.com/inducer/modepy.git",
+        "size": 2540,
+        "stargazers_count": 23,
+        "watchers_count": 23,
+        "language": "Python",
+        "open_issues_count": 8,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/inducer",
+            "avatar_url": "https://avatars.githubusercontent.com/u/352067?v=4",
+            "login": "inducer",
+            "type": "User"
+        },
+        "timestamp": "2026-02-01 01:16:08.380415",
+        "avatar": "https://avatars.githubusercontent.com/u/352067?v=4"
+    }
+}
