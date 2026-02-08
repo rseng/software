@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/rikenbit/OnlinePCA.jl",
+    "url": "https://github.com/rikenbit/OnlinePCA.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18415366",
+        "name": "OnlinePCA.jl",
+        "url": "https://github.com/rikenbit/OnlinePCA.jl",
+        "full_name": "rikenbit/OnlinePCA.jl",
+        "html_url": "https://github.com/rikenbit/OnlinePCA.jl",
+        "description": "Online Principal Component Analysis",
+        "created_at": "2018-03-15T10:15:57Z",
+        "updated_at": "2026-02-02T05:40:49Z",
+        "clone_url": "https://github.com/rikenbit/OnlinePCA.jl.git",
+        "homepage": "https://rikenbit.github.io/OnlinePCA.jl/",
+        "size": 9613,
+        "stargazers_count": 25,
+        "watchers_count": 25,
+        "language": "Julia",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 8,
+        "owner": {
+            "html_url": "https://github.com/rikenbit",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7158513?v=4",
+            "login": "rikenbit",
+            "type": "Organization"
+        },
+        "topics": [
+            "bioinformatics",
+            "dimensionality-reduction",
+            "julia",
+            "out-of-core-processing",
+            "pca",
+            "sparse-matrix"
+        ],
+        "timestamp": "2026-02-08 01:26:41.444032",
+        "avatar": "https://avatars.githubusercontent.com/u/7158513?v=4"
+    }
+}

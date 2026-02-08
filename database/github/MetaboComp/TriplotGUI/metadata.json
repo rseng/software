@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/MetaboComp/TriplotGUI",
+    "url": "https://github.com/MetaboComp/TriplotGUI",
+    "data": {
+        "name": "TriplotGUI",
+        "url": "https://github.com/MetaboComp/TriplotGUI",
+        "full_name": "MetaboComp/TriplotGUI",
+        "html_url": "https://github.com/MetaboComp/TriplotGUI",
+        "private": false,
+        "description": null,
+        "created_at": "2025-06-04T12:08:33Z",
+        "updated_at": "2025-06-04T12:09:33Z",
+        "clone_url": "https://github.com/MetaboComp/TriplotGUI.git",
+        "homepage": null,
+        "size": 76259,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/MetaboComp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/110531427?v=4",
+            "login": "MetaboComp",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2026-02-08 01:27:21.656571",
+        "avatar": "https://avatars.githubusercontent.com/u/110531427?v=4"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/computational-metabolomics/msnpy",
+    "url": "https://github.com/computational-metabolomics/msnpy",
+    "data": {
+        "name": "msnpy",
+        "url": "https://github.com/computational-metabolomics/msnpy",
+        "full_name": "computational-metabolomics/msnpy",
+        "html_url": "https://github.com/computational-metabolomics/msnpy",
+        "private": false,
+        "description": "Python package for processing and annotation of MSn fragmentation data",
+        "created_at": "2018-10-08T15:01:02Z",
+        "updated_at": "2019-09-13T15:16:40Z",
+        "clone_url": "https://github.com/computational-metabolomics/msnpy.git",
+        "homepage": "",
+        "size": 10111,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/computational-metabolomics",
+            "avatar_url": "https://avatars.githubusercontent.com/u/20993922?v=4",
+            "login": "computational-metabolomics",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-02-08 01:27:06.399410",
+        "avatar": "https://avatars.githubusercontent.com/u/20993922?v=4"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/peterspackman/occ",
+    "url": "https://github.com/peterspackman/occ",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.10703204",
+        "name": "occ",
+        "url": "https://github.com/peterspackman/occ",
+        "full_name": "peterspackman/occ",
+        "html_url": "https://github.com/peterspackman/occ",
+        "description": "Open Computational Chemistry in C++",
+        "created_at": "2020-09-02T12:26:03Z",
+        "updated_at": "2026-01-28T02:30:18Z",
+        "clone_url": "https://github.com/peterspackman/occ.git",
+        "homepage": "https://peterspackman.github.io/occ/",
+        "size": 56448,
+        "stargazers_count": 21,
+        "watchers_count": 21,
+        "language": "C++",
+        "open_issues_count": 8,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/peterspackman",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7966525?v=4",
+            "login": "peterspackman",
+            "type": "User"
+        },
+        "topics": [
+            "chemistry",
+            "library",
+            "quantum-chemistry",
+            "cpp17"
+        ],
+        "timestamp": "2026-02-08 01:26:45.302787",
+        "avatar": "https://avatars.githubusercontent.com/u/7966525?v=4"
+    }
+}

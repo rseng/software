@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/stefanhiemer/topoptlab",
+    "url": "https://github.com/stefanhiemer/topoptlab",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18231035",
+        "name": "topoptlab",
+        "url": "https://github.com/stefanhiemer/topoptlab",
+        "full_name": "stefanhiemer/topoptlab",
+        "html_url": "https://github.com/stefanhiemer/topoptlab",
+        "description": "The project originates from a simple update of the python topology optimization code by Niels Aage and collaborators, but has since developed into a library for toplogy optimization going well beyond the features of the original code.",
+        "created_at": "2023-10-12T15:04:56Z",
+        "updated_at": "2026-02-07T12:02:53Z",
+        "clone_url": "https://github.com/stefanhiemer/topoptlab.git",
+        "size": 9675,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/stefanhiemer",
+            "avatar_url": "https://avatars.githubusercontent.com/u/57184890?v=4",
+            "login": "stefanhiemer",
+            "type": "User"
+        },
+        "topics": [
+            "finite-elements",
+            "optimization",
+            "topology-optimization"
+        ],
+        "timestamp": "2026-02-08 01:26:39.188209",
+        "avatar": "https://avatars.githubusercontent.com/u/57184890?v=4"
+    }
+}
