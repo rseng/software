@@ -1,0 +1,51 @@
+{
+    "parser": "github",
+    "uid": "github/showteeth/GEfetch2R",
+    "url": "https://github.com/showteeth/GEfetch2R",
+    "data": {
+        "name": "GEfetch2R",
+        "url": "https://github.com/showteeth/GEfetch2R",
+        "full_name": "showteeth/GEfetch2R",
+        "html_url": "https://github.com/showteeth/GEfetch2R",
+        "private": false,
+        "description": "GEfetch2R - Access Single-cell/Bulk RNA-seq Data from Public Repositories and Benchmark the Subsequent Format Conversion Tools",
+        "created_at": "2023-07-12T06:00:56Z",
+        "updated_at": "2026-02-11T13:02:17Z",
+        "clone_url": "https://github.com/showteeth/GEfetch2R.git",
+        "homepage": "https://showteeth.github.io/GEfetch2R/",
+        "size": 41784,
+        "stargazers_count": 39,
+        "watchers_count": 39,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/showteeth",
+            "avatar_url": "https://avatars.githubusercontent.com/u/43517166?v=4",
+            "login": "showteeth",
+            "type": "User"
+        },
+        "topics": [
+            "geo",
+            "single-cell-rna-seq",
+            "zenodo",
+            "panglaodb",
+            "ucsc-cell-browser",
+            "bam",
+            "fastq",
+            "format-conversion-tool",
+            "human-cell-atlas",
+            "sra",
+            "cellxgene"
+        ],
+        "timestamp": "2026-02-15 01:12:46.915423",
+        "avatar": "https://avatars.githubusercontent.com/u/43517166?v=4"
+    }
+}

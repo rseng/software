@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/motu-tool/mOTUs",
+    "url": "https://github.com/motu-tool/mOTUs",
+    "data": {
+        "doi": "10.1093/nar/gkae1004",
+        "name": "mOTUs",
+        "url": "https://github.com/motu-tool/mOTUs",
+        "full_name": "motu-tool/mOTUs",
+        "html_url": "https://github.com/motu-tool/mOTUs",
+        "description": "motus - a tool for marker gene-based OTU (mOTU) profiling",
+        "created_at": "2018-03-23T14:26:35Z",
+        "updated_at": "2026-02-11T12:26:35Z",
+        "clone_url": "https://github.com/motu-tool/mOTUs.git",
+        "size": 1864,
+        "stargazers_count": 169,
+        "watchers_count": 169,
+        "language": "Python",
+        "open_issues_count": 8,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 10,
+        "owner": {
+            "html_url": "https://github.com/motu-tool",
+            "avatar_url": "https://avatars.githubusercontent.com/u/37665514?v=4",
+            "login": "motu-tool",
+            "type": "Organization"
+        },
+        "timestamp": "2026-02-15 01:12:45.579380",
+        "avatar": "https://avatars.githubusercontent.com/u/37665514?v=4"
+    }
+}

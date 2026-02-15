@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/baharmon/r.earthworks",
+    "url": "https://github.com/baharmon/r.earthworks",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18407200",
+        "name": "r.earthworks",
+        "url": "https://github.com/baharmon/r.earthworks",
+        "full_name": "baharmon/r.earthworks",
+        "html_url": "https://github.com/baharmon/r.earthworks",
+        "description": "A terrain modeling tool for the GRASS geocomputation engine",
+        "created_at": "2024-10-07T19:42:52Z",
+        "updated_at": "2026-02-13T17:03:37Z",
+        "clone_url": "https://github.com/baharmon/r.earthworks.git",
+        "homepage": "https://grass.osgeo.org/grass85/manuals/addons/r.earthworks.html",
+        "size": 14692,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 4,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/baharmon",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10392927?v=4",
+            "login": "baharmon",
+            "type": "User"
+        },
+        "topics": [
+            "earthworks",
+            "terrain",
+            "grass-gis"
+        ],
+        "timestamp": "2026-02-15 01:12:24.977748",
+        "avatar": "https://avatars.githubusercontent.com/u/10392927?v=4"
+    }
+}

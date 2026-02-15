@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/karlropkins/AQEval",
+    "url": "https://github.com/karlropkins/AQEval",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18440452",
+        "name": "AQEval",
+        "url": "https://github.com/karlropkins/AQEval",
+        "full_name": "karlropkins/AQEval",
+        "html_url": "https://github.com/karlropkins/AQEval",
+        "description": "R code for Air Quality Evaluation    ",
+        "created_at": "2022-03-18T07:51:55Z",
+        "updated_at": "2026-02-12T11:56:14Z",
+        "clone_url": "https://github.com/karlropkins/AQEval.git",
+        "homepage": "https://karlropkins.github.io/AQEval/",
+        "size": 24463,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "R",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/karlropkins",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22469070?v=4",
+            "login": "karlropkins",
+            "type": "User"
+        },
+        "timestamp": "2026-02-15 01:12:24.637419",
+        "avatar": "https://avatars.githubusercontent.com/u/22469070?v=4"
+    }
+}
