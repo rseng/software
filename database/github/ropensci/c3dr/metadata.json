@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/ropensci/c3dr",
+    "url": "https://github.com/ropensci/c3dr",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.16919595",
+        "name": "c3dr",
+        "url": "https://github.com/ropensci/c3dr",
+        "full_name": "ropensci/c3dr",
+        "html_url": "https://github.com/ropensci/c3dr",
+        "description": "Read and write C3D motion capture data in R",
+        "created_at": "2024-07-12T21:17:33Z",
+        "updated_at": "2025-10-17T20:42:51Z",
+        "clone_url": "https://github.com/ropensci/c3dr.git",
+        "homepage": "https://docs.ropensci.org/c3dr/",
+        "size": 2573,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "C++",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/ropensci",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
+            "login": "ropensci",
+            "type": "Organization"
+        },
+        "topics": [
+            "r",
+            "r-package",
+            "r-stats"
+        ],
+        "timestamp": "2026-02-15 01:12:27.266483",
+        "avatar": "https://avatars.githubusercontent.com/u/1200269?v=4"
+    }
+}
