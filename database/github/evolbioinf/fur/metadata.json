@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/evolbioinf/fur",
+    "url": "https://github.com/EvolBioInf/fur",
+    "data": {
+        "name": "fur",
+        "url": "https://github.com/EvolBioInf/fur",
+        "full_name": "EvolBioInf/fur",
+        "html_url": "https://github.com/EvolBioInf/fur",
+        "private": false,
+        "description": "Find Unique genomic Regions",
+        "created_at": "2020-06-24T06:42:35Z",
+        "updated_at": "2025-11-12T03:26:28Z",
+        "clone_url": "https://github.com/EvolBioInf/fur.git",
+        "homepage": null,
+        "size": 917,
+        "stargazers_count": 32,
+        "watchers_count": 32,
+        "language": "Go",
+        "open_issues_count": 9,
+        "license": null,
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/EvolBioInf",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7930865?v=4",
+            "login": "EvolBioInf",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-02-22 01:09:31.759131",
+        "avatar": "https://avatars.githubusercontent.com/u/7930865?v=4"
+    }
+}
