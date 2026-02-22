@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/JonJala/mama",
+    "url": "https://github.com/JonJala/mama",
+    "data": {
+        "title": "MAMA",
+        "url": "https://github.com/JonJala/mama",
+        "credit": [],
+        "tags": [
+            "gwas-analysis",
+            "genomics"
+        ],
+        "description": "multi-ancestry meta-analysis (MAMA) is a Python-based command line tool that meta-analyzes GWAS summary statistics generated from distinct ancestry groups.",
+        "name": "mama",
+        "full_name": "JonJala/mama",
+        "html_url": "https://github.com/JonJala/mama",
+        "created_at": "2020-09-14T14:27:07Z",
+        "updated_at": "2025-08-25T20:16:36Z",
+        "clone_url": "https://github.com/JonJala/mama.git",
+        "size": 11665,
+        "stargazers_count": 17,
+        "watchers_count": 17,
+        "language": "Python",
+        "open_issues_count": 4,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/JonJala",
+            "avatar_url": "https://avatars.githubusercontent.com/u/64021239?v=4",
+            "login": "JonJala",
+            "type": "User"
+        },
+        "timestamp": "2026-02-22 01:11:23.947106",
+        "avatar": "https://avatars.githubusercontent.com/u/64021239?v=4"
+    }
+}

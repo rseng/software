@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/CCIG-Champalimaud/metadata-classification",
+    "url": "https://github.com/CCIG-Champalimaud/metadata-classification",
+    "data": {
+        "name": "metadata-classification",
+        "url": "https://github.com/CCIG-Champalimaud/metadata-classification",
+        "full_name": "CCIG-Champalimaud/metadata-classification",
+        "html_url": "https://github.com/CCIG-Champalimaud/metadata-classification",
+        "private": false,
+        "description": "DICOM sequence classification for automatic dataset curation using metadata tags.",
+        "created_at": "2024-08-08T16:16:32Z",
+        "updated_at": "2025-12-03T10:16:39Z",
+        "clone_url": "https://github.com/CCIG-Champalimaud/metadata-classification.git",
+        "homepage": null,
+        "size": 20377,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/CCIG-Champalimaud",
+            "avatar_url": "https://avatars.githubusercontent.com/u/134647233?v=4",
+            "login": "CCIG-Champalimaud",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-02-22 01:09:28.487187",
+        "avatar": "https://avatars.githubusercontent.com/u/134647233?v=4"
+    }
+}

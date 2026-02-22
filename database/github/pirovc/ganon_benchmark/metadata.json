@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/pirovc/ganon_benchmark",
+    "url": "https://github.com/pirovc/ganon_benchmark",
+    "data": {
+        "doi": "10.1093/nargab/lqaf094",
+        "name": "ganon_benchmark",
+        "url": "https://github.com/pirovc/ganon_benchmark",
+        "full_name": "pirovc/ganon_benchmark",
+        "html_url": "https://github.com/pirovc/ganon_benchmark",
+        "description": "benchmarking scripts for ganon",
+        "created_at": "2019-07-10T14:35:14Z",
+        "updated_at": "2020-08-08T05:10:11Z",
+        "clone_url": "https://github.com/pirovc/ganon_benchmark.git",
+        "size": 397241,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/pirovc",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4673375?v=4",
+            "login": "pirovc",
+            "type": "User"
+        },
+        "timestamp": "2026-02-22 01:09:34.445533",
+        "avatar": "https://avatars.githubusercontent.com/u/4673375?v=4"
+    }
+}
