@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/opr-group-bnitm/vimop",
+    "url": "https://github.com/opr-group-bnitm/vimop",
+    "data": {
+        "doi": "10.1093/BIOINFORMATICS/BTAF687",
+        "name": "vimop",
+        "url": "https://github.com/opr-group-bnitm/vimop",
+        "full_name": "opr-group-bnitm/vimop",
+        "html_url": "https://github.com/opr-group-bnitm/vimop",
+        "description": "Nanopore field sequencing pipeline for untargeted virus sequencing",
+        "created_at": "2025-05-07T16:51:22Z",
+        "updated_at": "2026-02-03T14:49:52Z",
+        "clone_url": "https://github.com/opr-group-bnitm/vimop.git",
+        "size": 29964,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "Nextflow",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/opr-group-bnitm",
+            "avatar_url": "https://avatars.githubusercontent.com/u/153303422?v=4",
+            "login": "opr-group-bnitm",
+            "type": "Organization"
+        },
+        "timestamp": "2026-03-01 01:16:00.954700",
+        "avatar": "https://avatars.githubusercontent.com/u/153303422?v=4"
+    }
+}
