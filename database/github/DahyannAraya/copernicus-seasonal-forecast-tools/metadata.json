@@ -1,0 +1,54 @@
+{
+    "parser": "github",
+    "uid": "github/DahyannAraya/copernicus-seasonal-forecast-tools",
+    "url": "https://github.com/DahyannAraya/copernicus-seasonal-forecast-tools",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18605471",
+        "name": "copernicus-seasonal-forecast-tools",
+        "url": "https://github.com/DahyannAraya/copernicus-seasonal-forecast-tools",
+        "full_name": "DahyannAraya/copernicus-seasonal-forecast-tools",
+        "html_url": "https://github.com/DahyannAraya/copernicus-seasonal-forecast-tools",
+        "description": "Tools for accessing, processing, and analyzing Copernicus seasonal forecasts \u2014 compute heat-related indices and generate CLIMADA-compatible hazards.",
+        "created_at": "2025-05-06T08:45:23Z",
+        "updated_at": "2026-02-24T18:38:27Z",
+        "clone_url": "https://github.com/DahyannAraya/copernicus-seasonal-forecast-tools.git",
+        "homepage": "https://copernicus-seasonal-forecast-tools.readthedocs.io",
+        "size": 14608,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "owner": {
+            "html_url": "https://github.com/DahyannAraya",
+            "avatar_url": "https://avatars.githubusercontent.com/u/144444954?v=4",
+            "login": "DahyannAraya",
+            "type": "User"
+        },
+        "topics": [
+            "cds",
+            "cds-api",
+            "climada",
+            "climate-adaptation",
+            "copernicus",
+            "copernicus-climate-data-store",
+            "open-source",
+            "python",
+            "seasonal-forecast",
+            "climate-hazard-modeling",
+            "hazard-modeling",
+            "c3s",
+            "copernicus-climate-change-service",
+            "dwd",
+            "copernicus-api",
+            "c3s-seasonal-forecast"
+        ],
+        "timestamp": "2026-03-08 01:07:58.561868",
+        "avatar": "https://avatars.githubusercontent.com/u/144444954?v=4"
+    }
+}

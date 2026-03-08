@@ -1883,6 +1883,19 @@
         ]
     },
     {
+        "uid": "github/tpronk/splithalfr",
+        "url": "https://github.com/tpronk/splithalfr",
+        "rel": "/software/repository/github/tpronk/splithalfr",
+        "avatar": "https://avatars.githubusercontent.com/u/8987504?v=4",
+        "description": "splithalfr: Estimates split-half reliabilities for scoring algorithms of cognitive tasks and questionnaires",
+        "topics": [
+            "cognitive-tasks",
+            "confounding-effects",
+            "non-linear-scoring-algorithms",
+            "split-half-reliability"
+        ]
+    },
+    {
         "uid": "github/rksyouyou/SASOM-analysis",
         "url": "https://github.com/rksyouyou/SASOM-analysis",
         "rel": "/software/repository/github/rksyouyou/SASOM-analysis",
@@ -15535,6 +15548,21 @@
         ]
     },
     {
+        "uid": "github/epiverse-trace/simulist",
+        "url": "https://github.com/epiverse-trace/simulist",
+        "rel": "/software/repository/github/epiverse-trace/simulist",
+        "avatar": "https://avatars.githubusercontent.com/u/101338582?v=4",
+        "description": "An R package for simulating line lists",
+        "topics": [
+            "epidemiology",
+            "epiverse",
+            "linelist",
+            "outbreaks",
+            "r",
+            "r-package"
+        ]
+    },
+    {
         "uid": "github/fulcrumgenomics/fgbio",
         "url": "https://github.com/fulcrumgenomics/fgbio",
         "rel": "/software/repository/github/fulcrumgenomics/fgbio",
@@ -17004,6 +17032,33 @@
         "avatar": "https://avatars.githubusercontent.com/u/10854661?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/mfroeling/QMRITools",
+        "url": "https://github.com/mfroeling/QMRITools",
+        "rel": "/software/repository/github/mfroeling/QMRITools",
+        "avatar": "https://avatars.githubusercontent.com/u/15890391?v=4",
+        "description": "Processing and visualization tools for quantitative MRI data",
+        "topics": [
+            "visualization",
+            "dixon",
+            "extended-phase-graphs",
+            "diffusion",
+            "dti",
+            "nifti",
+            "ivim",
+            "noise-suppression",
+            "denoising",
+            "registration",
+            "relaxometry",
+            "spectroscopy",
+            "tractography",
+            "jcoupling",
+            "muscle",
+            "fasculation",
+            "bids",
+            "simulation"
+        ]
     },
     {
         "uid": "github/sunpy/sunpy",
@@ -21761,6 +21816,14 @@
         "topics": []
     },
     {
+        "uid": "github/mfouesneau/pyphot",
+        "url": "https://github.com/mfouesneau/pyphot",
+        "rel": "/software/repository/github/mfouesneau/pyphot",
+        "avatar": "https://avatars.githubusercontent.com/u/1703988?v=4",
+        "description": "suite to deal with passband photometry",
+        "topics": []
+    },
+    {
         "uid": "github/benallard/galileo",
         "url": "https://github.com/benallard/galileo",
         "rel": "/software/repository/github/benallard/galileo",
@@ -26368,6 +26431,19 @@
         "topics": []
     },
     {
+        "uid": "github/HistoAtlas/HistoAtlas",
+        "url": "https://github.com/HistoAtlas/HistoAtlas",
+        "rel": "/software/repository/github/HistoAtlas/HistoAtlas",
+        "avatar": "https://avatars.githubusercontent.com/u/266101366?v=4",
+        "description": "A pan-cancer morphology atlas linking histological features to molecular and clinical outcomes",
+        "topics": [
+            "atlas",
+            "biomarker-discovery",
+            "multi-omics-data",
+            "tumor-microenvironment"
+        ]
+    },
+    {
         "uid": "github/RasmussenLab/vamb",
         "url": "https://github.com/RasmussenLab/vamb",
         "rel": "/software/repository/github/RasmussenLab/vamb",
@@ -29907,6 +29983,14 @@
         "topics": []
     },
     {
+        "uid": "github/HeloiseS/atlasapiclient",
+        "url": "https://github.com/HeloiseS/atlasapiclient",
+        "rel": "/software/repository/github/HeloiseS/atlasapiclient",
+        "avatar": "https://avatars.githubusercontent.com/u/15654896?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/4pisky/fourpisky-core",
         "url": "https://github.com/4pisky/fourpisky-core",
         "rel": "/software/repository/github/4pisky/fourpisky-core",
@@ -29924,6 +30008,31 @@
         "avatar": "https://avatars.githubusercontent.com/u/79702672?v=4",
         "description": "A fully expanded halo model to calculate the non-linear power spectrum in a mixed dark matter cosmology with ultra-light axions",
         "topics": []
+    },
+    {
+        "uid": "github/DahyannAraya/copernicus-seasonal-forecast-tools",
+        "url": "https://github.com/DahyannAraya/copernicus-seasonal-forecast-tools",
+        "rel": "/software/repository/github/DahyannAraya/copernicus-seasonal-forecast-tools",
+        "avatar": "https://avatars.githubusercontent.com/u/144444954?v=4",
+        "description": "Tools for accessing, processing, and analyzing Copernicus seasonal forecasts \u2014 compute heat-related indices and generate CLIMADA-compatible hazards.",
+        "topics": [
+            "cds",
+            "cds-api",
+            "climada",
+            "climate-adaptation",
+            "copernicus",
+            "copernicus-climate-data-store",
+            "open-source",
+            "python",
+            "seasonal-forecast",
+            "climate-hazard-modeling",
+            "hazard-modeling",
+            "c3s",
+            "copernicus-climate-change-service",
+            "dwd",
+            "copernicus-api",
+            "c3s-seasonal-forecast"
+        ]
     },
     {
         "uid": "github/CompNet/Renard",
@@ -31977,6 +32086,25 @@
             "fermi-surface",
             "fermi-slice",
             "vasp"
+        ]
+    },
+    {
+        "uid": "github/SMByC/ThRasE",
+        "url": "https://github.com/SMByC/ThRasE",
+        "rel": "/software/repository/github/SMByC/ThRasE",
+        "avatar": "https://avatars.githubusercontent.com/u/30393883?v=4",
+        "description": "ThRasE is an open-source QGIS plugin designed for systematic review, manual correction, and quality assurance of thematic rasters.",
+        "topics": [
+            "qgis",
+            "qgis-plugin",
+            "raster",
+            "editing",
+            "pixels",
+            "plugin",
+            "annotation-tool",
+            "recoder",
+            "quality-assurance",
+            "thematic-maps"
         ]
     },
     {
@@ -35121,6 +35249,14 @@
         "rel": "/software/repository/github/Feng-Ji-Lab/FedIRT",
         "avatar": "https://avatars.githubusercontent.com/u/166061424?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/chrissm23/ParallelKDE.jl",
+        "url": "https://github.com/chrissm23/ParallelKDE.jl",
+        "rel": "/software/repository/github/chrissm23/ParallelKDE.jl",
+        "avatar": "https://avatars.githubusercontent.com/u/68068102?v=4",
+        "description": "A Julia package for fast, scalable kernel density estimation with parallel algorithms including our GradePro estimator and other automatic bandwidth selections",
         "topics": []
     },
     {
@@ -44541,6 +44677,14 @@
         "rel": "/software/repository/github/dsavransky/EXOSIMS",
         "avatar": "https://avatars.githubusercontent.com/u/4950841?v=4",
         "description": "Simulator for exoplanet direct imaging space missions",
+        "topics": []
+    },
+    {
+        "uid": "github/AI4SCR/ai4bmr-datasets",
+        "url": "https://github.com/AI4SCR/ai4bmr-datasets",
+        "rel": "/software/repository/github/AI4SCR/ai4bmr-datasets",
+        "avatar": "https://avatars.githubusercontent.com/u/100225689?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -61032,6 +61176,18 @@
         "topics": []
     },
     {
+        "uid": "github/Nimauric/Mapler",
+        "url": "https://github.com/Nimauric/Mapler",
+        "rel": "/software/repository/github/Nimauric/Mapler",
+        "avatar": "https://avatars.githubusercontent.com/u/137050789?v=4",
+        "description": "A metagenome assembly and evaluation pipeline, focused on hi-fi long reads, but with support for lo-fi long reads and hybrid assemblies",
+        "topics": [
+            "metagenomic-pipeline",
+            "bioinformatics",
+            "long-reads"
+        ]
+    },
+    {
         "uid": "github/nickfarrow/GalacticDNSMass",
         "url": "https://github.com/nickfarrow/GalacticDNSMass",
         "rel": "/software/repository/github/nickfarrow/GalacticDNSMass",
@@ -64689,6 +64845,14 @@
         "rel": "/software/repository/github/noatgnu/catapult",
         "avatar": "https://avatars.githubusercontent.com/u/16314099?v=4",
         "description": "automated mass spec data search and analysis tool",
+        "topics": []
+    },
+    {
+        "uid": "github/samleeney/JAX-bandflux",
+        "url": "https://github.com/samleeney/JAX-bandflux",
+        "rel": "/software/repository/github/samleeney/JAX-bandflux",
+        "avatar": "https://avatars.githubusercontent.com/u/91542185?v=4",
+        "description": "Bandflux calculation for Supernovae Light Curve modeling written in JAX",
         "topics": []
     },
     {
@@ -68614,6 +68778,14 @@
         "topics": []
     },
     {
+        "uid": "github/ACSoupir/FastPCA",
+        "url": "https://github.com/ACSoupir/FastPCA",
+        "rel": "/software/repository/github/ACSoupir/FastPCA",
+        "avatar": "https://avatars.githubusercontent.com/u/34483643?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/UUDigitalHumanitieslab/texcavator",
         "url": "https://github.com/UUDigitalHumanitieslab/texcavator",
         "rel": "/software/repository/github/UUDigitalHumanitieslab/texcavator",
@@ -69315,6 +69487,14 @@
         "rel": "/software/repository/github/cuDisc/cuDisc",
         "avatar": "https://avatars.githubusercontent.com/u/158287095?v=4",
         "description": "A CUDA-accelerated 2D code for protoplanetary disc evolution simulations",
+        "topics": []
+    },
+    {
+        "uid": "github/ESMCI/visualCaseGen",
+        "url": "https://github.com/ESMCI/visualCaseGen",
+        "rel": "/software/repository/github/ESMCI/visualCaseGen",
+        "avatar": "https://avatars.githubusercontent.com/u/10676238?v=4",
+        "description": "GUI for configuring CESM cases",
         "topics": []
     },
     {
@@ -73550,6 +73730,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/127967382?v=4",
         "description": "The fff_segmenter algorithm is used to segment an acoustic signal obtained from a first layer 3D print into multiple acoustic blocks related to specific geometrical elements of the printed part, such as contour lines, raster lines, and transition between raster lines.",
         "topics": []
+    },
+    {
+        "uid": "github/AD-SDL/MADSci",
+        "url": "https://github.com/AD-SDL/MADSci",
+        "rel": "/software/repository/github/AD-SDL/MADSci",
+        "avatar": "https://avatars.githubusercontent.com/u/85184949?v=4",
+        "description": "Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework",
+        "topics": [
+            "lab-automation",
+            "robotics",
+            "self-driving-lab",
+            "self-driving-laboratories",
+            "autonomous-discovery"
+        ]
     },
     {
         "uid": "github/angelmons/landlab",
