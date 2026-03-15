@@ -1,0 +1,55 @@
+{
+    "parser": "github",
+    "uid": "github/Stellarium/stellarium",
+    "url": "https://github.com/Stellarium/stellarium",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025AJ....170...17Y",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft03001C/abstract"
+        ],
+        "title": "Stellarium: Planetarium for your computer",
+        "url": "https://github.com/Stellarium/stellarium",
+        "name": "stellarium",
+        "full_name": "Stellarium/stellarium",
+        "html_url": "https://github.com/Stellarium/stellarium",
+        "description": "Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",
+        "created_at": "2014-04-13T02:41:56Z",
+        "updated_at": "2026-03-14T22:35:25Z",
+        "clone_url": "https://github.com/Stellarium/stellarium.git",
+        "homepage": "https://stellarium.org",
+        "size": 5669260,
+        "stargazers_count": 9458,
+        "watchers_count": 9458,
+        "language": "C++",
+        "open_issues_count": 423,
+        "license": {
+            "key": "gpl-2.0",
+            "name": "GNU General Public License v2.0",
+            "spdx_id": "GPL-2.0",
+            "url": "https://api.github.com/licenses/gpl-2.0",
+            "node_id": "MDc6TGljZW5zZTg="
+        },
+        "subscribers_count": 146,
+        "owner": {
+            "html_url": "https://github.com/Stellarium",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7320160?v=4",
+            "login": "Stellarium",
+            "type": "Organization"
+        },
+        "topics": [
+            "c",
+            "c-plus-plus",
+            "astronomy",
+            "science",
+            "stars",
+            "sky",
+            "universe",
+            "planetarium",
+            "stellarium",
+            "qt5",
+            "qt6"
+        ],
+        "timestamp": "2026-03-15 01:16:54.257578",
+        "avatar": "https://avatars.githubusercontent.com/u/7320160?v=4"
+    }
+}

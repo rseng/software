@@ -907,6 +907,14 @@
         "topics": []
     },
     {
+        "uid": "github/Rothamsted/agri-schemas",
+        "url": "https://github.com/Rothamsted/agri-schemas",
+        "rel": "/software/repository/github/Rothamsted/agri-schemas",
+        "avatar": "https://avatars.githubusercontent.com/u/5654589?v=4",
+        "description": "Development of schemas and ontologies for the agrifood, inspired to schema.org and bioschemas.",
+        "topics": []
+    },
+    {
         "uid": "github/thomgrand/fim-python",
         "url": "https://github.com/thomgrand/fim-python",
         "rel": "/software/repository/github/thomgrand/fim-python",
@@ -1666,6 +1674,14 @@
         "rel": "/software/repository/github/adithirgis/pollucheck",
         "avatar": "https://avatars.githubusercontent.com/u/63432077?v=4",
         "description": "This application helps exploring the open source air quality data.",
+        "topics": []
+    },
+    {
+        "uid": "github/pjanul/pymgal",
+        "url": "https://github.com/pjanul/pymgal",
+        "rel": "/software/repository/github/pjanul/pymgal",
+        "avatar": "https://avatars.githubusercontent.com/u/96801116?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -9985,6 +10001,14 @@
         ]
     },
     {
+        "uid": "github/FedericoPozzoli/bahamas",
+        "url": "https://github.com/FedericoPozzoli/bahamas",
+        "rel": "/software/repository/github/FedericoPozzoli/bahamas",
+        "avatar": "https://avatars.githubusercontent.com/u/76066051?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/melobio/Attune",
         "url": "https://github.com/melobio/Attune",
         "rel": "/software/repository/github/melobio/Attune",
@@ -18105,6 +18129,14 @@
         ]
     },
     {
+        "uid": "github/caravangelo/inflation-easy",
+        "url": "https://github.com/caravangelo/inflation-easy",
+        "rel": "/software/repository/github/caravangelo/inflation-easy",
+        "avatar": "https://avatars.githubusercontent.com/u/114597797?v=4",
+        "description": "C++ code to simulate single-field inflation on a cubic lattice",
+        "topics": []
+    },
+    {
         "uid": "github/Dylan-Aliberti/Kepler-Collisions",
         "url": "https://github.com/Dylan-Aliberti/Kepler-Collisions",
         "rel": "/software/repository/github/Dylan-Aliberti/Kepler-Collisions",
@@ -21091,6 +21123,18 @@
         "topics": []
     },
     {
+        "uid": "github/synthesizer-project/synthesizer",
+        "url": "https://github.com/synthesizer-project/synthesizer",
+        "rel": "/software/repository/github/synthesizer-project/synthesizer",
+        "avatar": "https://avatars.githubusercontent.com/u/182127563?v=4",
+        "description": "Synthesizer - a code for creating synthetic astrophysical observables",
+        "topics": [
+            "astrophysics",
+            "numerical-simulations",
+            "synthetic-data"
+        ]
+    },
+    {
         "uid": "github/DLTK/DLTK",
         "url": "https://github.com/DLTK/DLTK",
         "rel": "/software/repository/github/DLTK/DLTK",
@@ -23586,6 +23630,14 @@
         ]
     },
     {
+        "uid": "github/xczhou-astro/galaxyGenius",
+        "url": "https://github.com/xczhou-astro/galaxyGenius",
+        "rel": "/software/repository/github/xczhou-astro/galaxyGenius",
+        "avatar": "https://avatars.githubusercontent.com/u/76081166?v=4",
+        "description": "A Mock galaxy generator for various telescopes from hydrodynamical simulations",
+        "topics": []
+    },
+    {
         "uid": "github/JamesPaynter/PyGRB",
         "url": "https://github.com/JamesPaynter/PyGRB",
         "rel": "/software/repository/github/JamesPaynter/PyGRB",
@@ -23817,6 +23869,18 @@
         "avatar": "https://avatars.githubusercontent.com/u/318108?v=4",
         "description": "A tool to call somatic single nucleotide variants.",
         "topics": []
+    },
+    {
+        "uid": "github/Abhaypru/SpiralMap",
+        "url": "https://github.com/Abhaypru/SpiralMap",
+        "rel": "/software/repository/github/Abhaypru/SpiralMap",
+        "avatar": "https://avatars.githubusercontent.com/u/121558959?v=4",
+        "description": "Code for Prusty & Khanna 2025 (SpiralMap)",
+        "topics": [
+            "astrophysics",
+            "milky-way",
+            "spiralmap"
+        ]
     },
     {
         "uid": "github/jtschindler/sculptor",
@@ -24631,6 +24695,14 @@
         "rel": "/software/repository/github/fbartolic/volcano",
         "avatar": "https://avatars.githubusercontent.com/u/18243408?v=4",
         "description": "Mapping the surface of Jupiter's moon Io from one-dimensional time-series data.",
+        "topics": []
+    },
+    {
+        "uid": "github/AntunesLab/rmsx",
+        "url": "https://github.com/AntunesLab/rmsx",
+        "rel": "/software/repository/github/AntunesLab/rmsx",
+        "avatar": "https://avatars.githubusercontent.com/u/92107137?v=4",
+        "description": "RMSX and Flipbook Package: Time series RMSF combing the features of RMSD and RMSF",
         "topics": []
     },
     {
@@ -34357,6 +34429,17 @@
         "topics": []
     },
     {
+        "uid": "github/rennmeng/SERtool",
+        "url": "https://github.com/rennmeng/SERtool",
+        "rel": "/software/repository/github/rennmeng/SERtool",
+        "avatar": "https://avatars.githubusercontent.com/u/46642088?v=4",
+        "description": "The tool is used to search for proteins with repetitive sequence amino acids and can also be applied to the search of nucleic acid sequences.",
+        "topics": [
+            "enrichment-analysis",
+            "hgvs-sequence"
+        ]
+    },
+    {
         "uid": "github/silburt/DeepMoon",
         "url": "https://github.com/silburt/DeepMoon",
         "rel": "/software/repository/github/silburt/DeepMoon",
@@ -34810,6 +34893,14 @@
         "rel": "/software/repository/github/OrlandoLam/SAMT",
         "avatar": "https://avatars.githubusercontent.com/u/67990560?v=4",
         "description": "South Australian Macrobenthic Traits database ",
+        "topics": []
+    },
+    {
+        "uid": "github/yxlinaqua/BaSIL",
+        "url": "https://github.com/yxlinaqua/BaSIL",
+        "rel": "/software/repository/github/yxlinaqua/BaSIL",
+        "avatar": "https://avatars.githubusercontent.com/u/13389968?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -35312,6 +35403,14 @@
             "chro-seq",
             "transcription-regulatory-elements"
         ]
+    },
+    {
+        "uid": "github/smwu/baysc",
+        "url": "https://github.com/smwu/baysc",
+        "rel": "/software/repository/github/smwu/baysc",
+        "avatar": "https://avatars.githubusercontent.com/u/33609713?v=4",
+        "description": "BAYesian Survey Clustering is an R package for running Bayesian clustering methods on survey data.",
+        "topics": []
     },
     {
         "uid": "github/mrc-ide/sircovid",
@@ -38870,6 +38969,14 @@
             "medical-imaging",
             "fine-tuning"
         ]
+    },
+    {
+        "uid": "github/zkbt/exoatlas",
+        "url": "https://github.com/zkbt/exoatlas",
+        "rel": "/software/repository/github/zkbt/exoatlas",
+        "avatar": "https://avatars.githubusercontent.com/u/4691081?v=4",
+        "description": "Tools for compiling and plotting populations of transiting exoplanets.",
+        "topics": []
     },
     {
         "uid": "github/arangrhie/merfin",
@@ -43113,6 +43220,18 @@
         "topics": []
     },
     {
+        "uid": "github/brentp/duphold",
+        "url": "https://github.com/brentp/duphold",
+        "rel": "/software/repository/github/brentp/duphold",
+        "avatar": "https://avatars.githubusercontent.com/u/1739?v=4",
+        "description": "don't get DUP'ed or DEL'ed by your putative SVs.",
+        "topics": [
+            "genomics",
+            "structural-variation",
+            "insanity"
+        ]
+    },
+    {
         "uid": "github/brentp/hts-nim-tools",
         "url": "https://github.com/brentp/hts-nim-tools",
         "rel": "/software/repository/github/brentp/hts-nim-tools",
@@ -43576,6 +43695,14 @@
         "rel": "/software/repository/github/uclchem/Chemulator",
         "avatar": "https://avatars.githubusercontent.com/u/14346619?v=4",
         "description": "The thermochemical emulator for hydrodynamical modelling",
+        "topics": []
+    },
+    {
+        "uid": "github/uclchem/neuralpdr",
+        "url": "https://github.com/uclchem/neuralpdr",
+        "rel": "/software/repository/github/uclchem/neuralpdr",
+        "avatar": "https://avatars.githubusercontent.com/u/14346619?v=4",
+        "description": null,
         "topics": []
     },
     {
@@ -44878,6 +45005,26 @@
         ]
     },
     {
+        "uid": "github/Stellarium/stellarium",
+        "url": "https://github.com/Stellarium/stellarium",
+        "rel": "/software/repository/github/Stellarium/stellarium",
+        "avatar": "https://avatars.githubusercontent.com/u/7320160?v=4",
+        "description": "Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",
+        "topics": [
+            "c",
+            "c-plus-plus",
+            "astronomy",
+            "science",
+            "stars",
+            "sky",
+            "universe",
+            "planetarium",
+            "stellarium",
+            "qt5",
+            "qt6"
+        ]
+    },
+    {
         "uid": "github/PapenfussLab/gridss",
         "url": "https://github.com/PapenfussLab/gridss",
         "rel": "/software/repository/github/PapenfussLab/gridss",
@@ -45293,6 +45440,14 @@
         "rel": "/software/repository/github/Kaszanas/SC2Tools",
         "avatar": "https://avatars.githubusercontent.com/u/34846245?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/jluby127/AstroQ",
+        "url": "https://github.com/jluby127/AstroQ",
+        "rel": "/software/repository/github/jluby127/AstroQ",
+        "avatar": "https://avatars.githubusercontent.com/u/50976985?v=4",
+        "description": "software for determining the best distribution of nights for KPF-CC in a semester, given target request info",
         "topics": []
     },
     {
@@ -50319,6 +50474,14 @@
         "rel": "/software/repository/github/zhongqiu1245/CCS-Net",
         "avatar": "https://avatars.githubusercontent.com/u/48090608?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/trivizakis/DLNR",
+        "url": "https://github.com/trivizakis/DLNR",
+        "rel": "/software/repository/github/trivizakis/DLNR",
+        "avatar": "https://avatars.githubusercontent.com/u/30552570?v=4",
+        "description": "Deep learning based denoising for prostate T2WI",
         "topics": []
     },
     {
@@ -63753,6 +63916,14 @@
         ]
     },
     {
+        "uid": "github/ksbarrow/Haskap_Pie",
+        "url": "https://github.com/ksbarrow/Haskap_Pie",
+        "rel": "/software/repository/github/ksbarrow/Haskap_Pie",
+        "avatar": "https://avatars.githubusercontent.com/u/57232935?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/keurfonluu/toughio",
         "url": "https://github.com/keurfonluu/toughio",
         "rel": "/software/repository/github/keurfonluu/toughio",
@@ -63860,6 +64031,14 @@
         "rel": "/software/repository/github/wdpozzo/raynest",
         "avatar": "https://avatars.githubusercontent.com/u/11406030?v=4",
         "description": "Nested sampling algorithm parallelised through ray",
+        "topics": []
+    },
+    {
+        "uid": "github/henryzimme/asteroid-scheduler",
+        "url": "https://github.com/HenryZimme/asteroid-scheduler",
+        "rel": "/software/repository/github/henryzimme/asteroid-scheduler",
+        "avatar": "https://avatars.githubusercontent.com/u/225281779?v=4",
+        "description": "This tool finds the optimal observing windows for rotational photometry of asteroids. It accounts for various factors such as your current period solution/phase gap, altitude, twilight,  and skyglow. ",
         "topics": []
     },
     {
@@ -68230,6 +68409,20 @@
         ]
     },
     {
+        "uid": "github/ascii-supply-networks/ascii-hydra",
+        "url": "https://github.com/ascii-supply-networks/ascii-hydra",
+        "rel": "/software/repository/github/ascii-supply-networks/ascii-hydra",
+        "avatar": "https://avatars.githubusercontent.com/u/138870099?v=4",
+        "description": null,
+        "topics": [
+            "aws",
+            "dagster",
+            "databricks",
+            "emr",
+            "spark"
+        ]
+    },
+    {
         "uid": "github/seung-lab/FlyWirePaper",
         "url": "https://github.com/seung-lab/FlyWirePaper",
         "rel": "/software/repository/github/seung-lab/FlyWirePaper",
@@ -68799,6 +68992,14 @@
         ]
     },
     {
+        "uid": "github/reuter-group/webnma3",
+        "url": "https://github.com/reuter-group/webnma3",
+        "rel": "/software/repository/github/reuter-group/webnma3",
+        "avatar": "https://avatars.githubusercontent.com/u/84574367?v=4",
+        "description": "  Fast normal mode calculation and analyses for protein structures",
+        "topics": []
+    },
+    {
         "uid": "github/BenitoFar/NestedComBat",
         "url": "https://github.com/BenitoFar/NestedComBat",
         "rel": "/software/repository/github/BenitoFar/NestedComBat",
@@ -69017,6 +69218,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/89660624?v=4",
         "description": "A numpyro implementation of BayeSN, the optical-NIR SED model for type Ia supernovae",
         "topics": []
+    },
+    {
+        "uid": "github/AstroAI-Lab/CODES-Benchmark",
+        "url": "https://github.com/AstroAI-Lab/CODES-Benchmark",
+        "rel": "/software/repository/github/AstroAI-Lab/CODES-Benchmark",
+        "avatar": "https://avatars.githubusercontent.com/u/111747777?v=4",
+        "description": "Benchmarking Surrogates for coupled ODE systems.",
+        "topics": [
+            "chemical-reaction-networks",
+            "deeponet",
+            "neuralode",
+            "ode",
+            "operator-learning",
+            "surrogate-models"
+        ]
     },
     {
         "uid": "github/greendw/AntabGMVA",
@@ -70476,6 +70692,17 @@
         "avatar": "https://avatars.githubusercontent.com/u/20342652?v=4",
         "description": "Code for performing RING-MaP and PAIR-MaP analysis",
         "topics": []
+    },
+    {
+        "uid": "github/cbml-forth/lethe_anon_pipeline",
+        "url": "https://github.com/cbml-forth/lethe_anon_pipeline",
+        "rel": "/software/repository/github/cbml-forth/lethe_anon_pipeline",
+        "avatar": "https://avatars.githubusercontent.com/u/24669067?v=4",
+        "description": "DICOM anonymization pipeline",
+        "topics": [
+            "anonymization",
+            "dicom"
+        ]
     },
     {
         "uid": "github/cbml-forth/eucaim_wizard_tool",
@@ -72166,6 +72393,14 @@
             "python",
             "python3"
         ]
+    },
+    {
+        "uid": "github/0neyun/RapidGBM",
+        "url": "https://github.com/0neyun/RapidGBM",
+        "rel": "/software/repository/github/0neyun/RapidGBM",
+        "avatar": "https://avatars.githubusercontent.com/u/54759649?v=4",
+        "description": "RapidGBM is a lightweight interactive web application designed for rapid preview of Fermi/GBM data.",
+        "topics": []
     },
     {
         "uid": "github/JesusTorrado/extrapops",
