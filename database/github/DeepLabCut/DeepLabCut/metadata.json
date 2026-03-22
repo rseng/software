@@ -1,0 +1,55 @@
+{
+    "parser": "github",
+    "uid": "github/DeepLabCut/DeepLabCut",
+    "url": "https://github.com/DeepLabCut/DeepLabCut",
+    "data": {
+        "title": "DeepLabCut",
+        "url": "https://github.com/DeepLabCut/DeepLabCut",
+        "credit": [],
+        "tags": [
+            "visualization",
+            "visualization"
+        ],
+        "description": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+        "name": "DeepLabCut",
+        "full_name": "DeepLabCut/DeepLabCut",
+        "html_url": "https://github.com/DeepLabCut/DeepLabCut",
+        "created_at": "2018-03-26T22:29:12Z",
+        "updated_at": "2026-03-21T21:05:41Z",
+        "clone_url": "https://github.com/DeepLabCut/DeepLabCut.git",
+        "homepage": "http://deeplabcut.org",
+        "size": 208500,
+        "stargazers_count": 5556,
+        "watchers_count": 5556,
+        "language": "Python",
+        "open_issues_count": 28,
+        "license": {
+            "key": "lgpl-3.0",
+            "name": "GNU Lesser General Public License v3.0",
+            "spdx_id": "LGPL-3.0",
+            "url": "https://api.github.com/licenses/lgpl-3.0",
+            "node_id": "MDc6TGljZW5zZTEy"
+        },
+        "subscribers_count": 121,
+        "owner": {
+            "html_url": "https://github.com/DeepLabCut",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59848143?v=4",
+            "login": "DeepLabCut",
+            "type": "Organization"
+        },
+        "topics": [
+            "behavior-analysis",
+            "deep-learning",
+            "pose-estimation",
+            "feature-detectors",
+            "toolbox",
+            "deeplabcut",
+            "animal-pose-estimation",
+            "labeling-tool",
+            "keypoint-tracking",
+            "keypoint-detection"
+        ],
+        "timestamp": "2026-03-22 01:14:28.869761",
+        "avatar": "https://avatars.githubusercontent.com/u/59848143?v=4"
+    }
+}

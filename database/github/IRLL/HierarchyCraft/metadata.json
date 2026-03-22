@@ -1,0 +1,47 @@
+{
+    "parser": "github",
+    "uid": "github/IRLL/HierarchyCraft",
+    "url": "https://github.com/IRLL/HierarchyCraft",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18929144",
+        "name": "HierarchyCraft",
+        "url": "https://github.com/IRLL/HierarchyCraft",
+        "full_name": "IRLL/HierarchyCraft",
+        "html_url": "https://github.com/IRLL/HierarchyCraft",
+        "description": "An environement builder for hierarchical reasoning research",
+        "created_at": "2021-02-12T15:38:08Z",
+        "updated_at": "2026-03-19T19:08:18Z",
+        "clone_url": "https://github.com/IRLL/HierarchyCraft.git",
+        "size": 29852,
+        "stargazers_count": 24,
+        "watchers_count": 24,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/IRLL",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10886758?v=4",
+            "login": "IRLL",
+            "type": "Organization"
+        },
+        "topics": [
+            "minecraft",
+            "hierarchical-planning",
+            "hierarchical-reinforcement-learning",
+            "hierarchy",
+            "minigrid",
+            "python",
+            "reinforcement-learning-environment",
+            "hierarchical-reasoning"
+        ],
+        "timestamp": "2026-03-22 01:12:54.922065",
+        "avatar": "https://avatars.githubusercontent.com/u/10886758?v=4"
+    }
+}
