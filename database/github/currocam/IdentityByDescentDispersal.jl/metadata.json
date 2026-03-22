@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/currocam/IdentityByDescentDispersal.jl",
+    "url": "https://github.com/currocam/IdentityByDescentDispersal.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18630569",
+        "name": "IdentityByDescentDispersal.jl",
+        "url": "https://github.com/currocam/IdentityByDescentDispersal.jl",
+        "full_name": "currocam/IdentityByDescentDispersal.jl",
+        "html_url": "https://github.com/currocam/IdentityByDescentDispersal.jl",
+        "description": "Efficient estimation of effective densities and dispersal rates using identity-by-descent blocks",
+        "created_at": "2025-06-20T13:05:53Z",
+        "updated_at": "2026-03-10T09:49:48Z",
+        "clone_url": "https://github.com/currocam/IdentityByDescentDispersal.jl.git",
+        "homepage": "https://currocam.github.io/IdentityByDescentDispersal.jl/",
+        "size": 13804,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Julia",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/currocam",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69399781?v=4",
+            "login": "currocam",
+            "type": "User"
+        },
+        "timestamp": "2026-03-22 01:13:02.721613",
+        "avatar": "https://avatars.githubusercontent.com/u/69399781?v=4"
+    }
+}

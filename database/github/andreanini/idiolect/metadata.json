@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/andreanini/idiolect",
+    "url": "https://github.com/andreanini/idiolect",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18818044",
+        "name": "idiolect",
+        "url": "https://github.com/andreanini/idiolect",
+        "full_name": "andreanini/idiolect",
+        "html_url": "https://github.com/andreanini/idiolect",
+        "description": "idiolect: An R package for forensic authorship analysis",
+        "created_at": "2023-09-09T17:43:50Z",
+        "updated_at": "2026-03-20T18:03:37Z",
+        "clone_url": "https://github.com/andreanini/idiolect.git",
+        "homepage": "https://andreanini.github.io/idiolect/",
+        "size": 3251,
+        "stargazers_count": 17,
+        "watchers_count": 17,
+        "language": "R",
+        "open_issues_count": 8,
+        "license": {
+            "key": "gpl-2.0",
+            "name": "GNU General Public License v2.0",
+            "spdx_id": "GPL-2.0",
+            "url": "https://api.github.com/licenses/gpl-2.0",
+            "node_id": "MDc6TGljZW5zZTg="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/andreanini",
+            "avatar_url": "https://avatars.githubusercontent.com/u/6013401?v=4",
+            "login": "andreanini",
+            "type": "User"
+        },
+        "timestamp": "2026-03-22 01:13:01.543059",
+        "avatar": "https://avatars.githubusercontent.com/u/6013401?v=4"
+    }
+}
