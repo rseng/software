@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/gillescourtand/Freezing-Point",
+    "url": "https://github.com/gillescourtand/Freezing-Point",
+    "data": {
+        "name": "Freezing-Point",
+        "url": "https://github.com/gillescourtand/Freezing-Point",
+        "full_name": "gillescourtand/Freezing-Point",
+        "html_url": "https://github.com/gillescourtand/Freezing-Point",
+        "private": false,
+        "description": "Freezing-Point : a friendly software for detecting and analysing freezing behaviour ",
+        "created_at": "2025-08-31T16:55:33Z",
+        "updated_at": "2026-03-10T16:07:03Z",
+        "clone_url": "https://github.com/gillescourtand/Freezing-Point.git",
+        "homepage": "",
+        "size": 707,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 2,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/gillescourtand",
+            "avatar_url": "https://avatars.githubusercontent.com/u/45424082?v=4",
+            "login": "gillescourtand",
+            "type": "User"
+        },
+        "topics": [
+            "behavior",
+            "freezing",
+            "memory",
+            "neurosciences",
+            "rodent"
+        ],
+        "timestamp": "2026-03-29 01:19:27.407761",
+        "avatar": "https://avatars.githubusercontent.com/u/45424082?v=4"
+    }
+}

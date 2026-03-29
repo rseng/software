@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/talksilviojr/fdm-quintessence-class",
+    "url": "https://github.com/talksilviojr/fdm-quintessence-class",
+    "data": {
+        "doi": [],
+        "title": "RunClass: A Web-Based Numerical Solver for Fuzzy Dark Matter and Quintessence Background Evolution",
+        "url": "https://github.com/talksilviojr/fdm-quintessence-class",
+        "name": "fdm-quintessence-class",
+        "full_name": "talksilviojr/fdm-quintessence-class",
+        "html_url": "https://github.com/talksilviojr/fdm-quintessence-class",
+        "description": "Modified CLASS code for FDM + Quintessence ",
+        "created_at": "2025-10-28T17:50:57Z",
+        "updated_at": "2026-01-19T16:31:53Z",
+        "clone_url": "https://github.com/talksilviojr/fdm-quintessence-class.git",
+        "size": 127,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "HTML",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/talksilviojr",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22827467?v=4",
+            "login": "talksilviojr",
+            "type": "User"
+        },
+        "timestamp": "2026-03-29 01:18:40.378709",
+        "avatar": "https://avatars.githubusercontent.com/u/22827467?v=4"
+    }
+}
