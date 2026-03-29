@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/TACC/tissue-data-explorer",
+    "url": "https://github.com/TACC/tissue-data-explorer",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18567723",
+        "name": "tissue-data-explorer",
+        "url": "https://github.com/TACC/tissue-data-explorer",
+        "full_name": "TACC/tissue-data-explorer",
+        "html_url": "https://github.com/TACC/tissue-data-explorer",
+        "created_at": "2025-03-05T15:02:29Z",
+        "updated_at": "2026-02-09T22:01:30Z",
+        "clone_url": "https://github.com/TACC/tissue-data-explorer.git",
+        "size": 4390,
+        "language": "Python",
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/TACC",
+            "avatar_url": "https://avatars.githubusercontent.com/u/840408?v=4",
+            "login": "TACC",
+            "type": "Organization"
+        },
+        "timestamp": "2026-03-29 01:19:10.458660",
+        "avatar": "https://avatars.githubusercontent.com/u/840408?v=4"
+    }
+}
