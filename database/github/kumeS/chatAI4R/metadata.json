@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/kumeS/chatAI4R",
+    "url": "https://github.com/kumeS/chatAI4R",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18438864",
+        "name": "chatAI4R",
+        "url": "https://github.com/kumeS/chatAI4R",
+        "full_name": "kumeS/chatAI4R",
+        "html_url": "https://github.com/kumeS/chatAI4R",
+        "description": "chatAI4R: Chat-Based Interactive Artificial Intelligence for R",
+        "created_at": "2023-04-29T10:37:31Z",
+        "updated_at": "2026-01-31T06:22:44Z",
+        "clone_url": "https://github.com/kumeS/chatAI4R.git",
+        "homepage": "https://kumes.github.io/chatAI4R/",
+        "size": 7990,
+        "stargazers_count": 20,
+        "watchers_count": 20,
+        "language": "HTML",
+        "license": {
+            "key": "artistic-2.0",
+            "name": "Artistic License 2.0",
+            "spdx_id": "Artistic-2.0",
+            "url": "https://api.github.com/licenses/artistic-2.0",
+            "node_id": "MDc6TGljZW5zZTM="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/kumeS",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10130812?v=4",
+            "login": "kumeS",
+            "type": "User"
+        },
+        "topics": [
+            "ai",
+            "bioinformatics",
+            "chatgpt",
+            "gpt",
+            "r",
+            "image",
+            "image-generation"
+        ],
+        "timestamp": "2026-04-05 01:20:24.143826",
+        "avatar": "https://avatars.githubusercontent.com/u/10130812?v=4"
+    }
+}

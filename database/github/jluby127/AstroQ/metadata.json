@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/jluby127/AstroQ",
+    "url": "https://github.com/jluby127/AstroQ",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025PASP..137g4401G",
+            "https://scixplorer.org/abs/2026AJ....171...85L",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft03006L/abstract"
+        ],
+        "title": "AstroQ: Optimization-based scheduler for astronomical observations",
+        "url": "https://github.com/jluby127/AstroQ",
+        "name": "AstroQ",
+        "full_name": "jluby127/AstroQ",
+        "html_url": "https://github.com/jluby127/AstroQ",
+        "description": "software for determining the best distribution of nights for KPF-CC in a semester, given target request info",
+        "created_at": "2024-04-02T18:17:34Z",
+        "updated_at": "2026-04-01T23:45:20Z",
+        "clone_url": "https://github.com/jluby127/AstroQ.git",
+        "homepage": "https://astroq.readthedocs.io/en/latest/index.html",
+        "size": 18118,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 6,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/jluby127",
+            "avatar_url": "https://avatars.githubusercontent.com/u/50976985?v=4",
+            "login": "jluby127",
+            "type": "User"
+        },
+        "timestamp": "2026-04-05 01:19:57.787817",
+        "avatar": "https://avatars.githubusercontent.com/u/50976985?v=4"
+    }
+}
