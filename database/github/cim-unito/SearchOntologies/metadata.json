@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/cim-unito/SearchOntologies",
+    "url": "https://github.com/cim-unito/SearchOntologies",
+    "data": {
+        "name": "SearchOntologies",
+        "url": "https://github.com/cim-unito/SearchOntologies",
+        "full_name": "cim-unito/SearchOntologies",
+        "html_url": "https://github.com/cim-unito/SearchOntologies",
+        "private": false,
+        "description": null,
+        "created_at": "2026-03-11T10:16:07Z",
+        "updated_at": "2026-03-11T10:38:56Z",
+        "clone_url": "https://github.com/cim-unito/SearchOntologies.git",
+        "homepage": null,
+        "size": 260,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/cim-unito",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1007570?v=4",
+            "login": "cim-unito",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-04-05 01:20:34.106283",
+        "avatar": "https://avatars.githubusercontent.com/u/1007570?v=4"
+    }
+}
