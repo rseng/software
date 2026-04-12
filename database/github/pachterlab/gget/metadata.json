@@ -1,0 +1,62 @@
+{
+    "parser": "github",
+    "uid": "github/pachterlab/gget",
+    "url": "https://github.com/pachterlab/gget",
+    "data": {
+        "title": "gget",
+        "url": "https://github.com/pachterlab/gget",
+        "credit": [],
+        "tags": [
+            "genomics",
+            "high-throughput-sequencing",
+            "genomics"
+        ],
+        "description": "\ud83e\uddec gget enables efficient querying of genomic reference databases",
+        "name": "gget",
+        "full_name": "pachterlab/gget",
+        "html_url": "https://github.com/pachterlab/gget",
+        "created_at": "2022-05-04T17:31:31Z",
+        "updated_at": "2026-04-10T04:41:56Z",
+        "clone_url": "https://github.com/pachterlab/gget.git",
+        "homepage": "https://gget.bio",
+        "size": 314326,
+        "stargazers_count": 1117,
+        "watchers_count": 1117,
+        "language": "Python",
+        "open_issues_count": 23,
+        "license": {
+            "key": "bsd-2-clause",
+            "name": "BSD 2-Clause \"Simplified\" License",
+            "spdx_id": "BSD-2-Clause",
+            "url": "https://api.github.com/licenses/bsd-2-clause",
+            "node_id": "MDc6TGljZW5zZTQ="
+        },
+        "subscribers_count": 8,
+        "owner": {
+            "html_url": "https://github.com/pachterlab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10359946?v=4",
+            "login": "pachterlab",
+            "type": "Organization"
+        },
+        "topics": [
+            "alphafold2",
+            "databases",
+            "enrichment-analysis",
+            "ensembl",
+            "gget",
+            "ncbi",
+            "reference",
+            "uniprot",
+            "alphafold",
+            "archs4",
+            "blast",
+            "enrichr",
+            "genomics",
+            "proteomics",
+            "rna-seq",
+            "transcriptomics"
+        ],
+        "timestamp": "2026-04-12 01:26:13.094632",
+        "avatar": "https://avatars.githubusercontent.com/u/10359946?v=4"
+    }
+}
