@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/francois-a/fastqtl",
+    "url": "https://github.com/francois-a/fastqtl",
+    "data": {
+        "title": "FastQTL",
+        "url": "https://github.com/francois-a/fastqtl",
+        "credit": [],
+        "tags": [
+            "genomics",
+            "quantitative-trait-loci-(qtls)-mapping/discovery",
+            "high-throughput-sequencing"
+        ],
+        "description": "Enhanced version of the FastQTL QTL mapper",
+        "name": "fastqtl",
+        "full_name": "francois-a/fastqtl",
+        "html_url": "https://github.com/francois-a/fastqtl",
+        "created_at": "2016-03-21T00:47:54Z",
+        "updated_at": "2026-04-06T15:37:24Z",
+        "clone_url": "https://github.com/francois-a/fastqtl.git",
+        "size": 21278,
+        "stargazers_count": 72,
+        "watchers_count": 72,
+        "language": "C++",
+        "open_issues_count": 10,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/francois-a",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9382463?v=4",
+            "login": "francois-a",
+            "type": "User"
+        },
+        "timestamp": "2026-04-19 01:29:59.587853",
+        "avatar": "https://avatars.githubusercontent.com/u/9382463?v=4"
+    }
+}

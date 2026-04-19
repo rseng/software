@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/sambo-optimization/sambo",
+    "url": "https://github.com/sambo-optimization/sambo",
+    "data": {
+        "doi": "10.5281/zenodo.14461363",
+        "name": "sambo",
+        "url": "https://github.com/sambo-optimization/sambo",
+        "full_name": "sambo-optimization/sambo",
+        "html_url": "https://github.com/sambo-optimization/sambo",
+        "description": "\ud83c\udfaf \ud83d\udcc8 Sequential and Model-Based Optimization in Python, featuring SCE-UA, SMBO, and SHGO algorithms. SOTA perfomance; 0 deps.",
+        "created_at": "2024-11-26T03:19:11Z",
+        "updated_at": "2026-03-20T14:39:00Z",
+        "clone_url": "https://github.com/sambo-optimization/sambo.git",
+        "homepage": "https://sambo-optimization.github.io",
+        "size": 147,
+        "stargazers_count": 31,
+        "watchers_count": 31,
+        "language": "Python",
+        "open_issues_count": 2,
+        "license": {
+            "key": "agpl-3.0",
+            "name": "GNU Affero General Public License v3.0",
+            "spdx_id": "AGPL-3.0",
+            "url": "https://api.github.com/licenses/agpl-3.0",
+            "node_id": "MDc6TGljZW5zZTE="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/sambo-optimization",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189691326?v=4",
+            "login": "sambo-optimization",
+            "type": "Organization"
+        },
+        "topics": [
+            "bayesian-optimization",
+            "blackbox-optimization",
+            "global-optimization",
+            "global-optimization-algorithms",
+            "sce-ua",
+            "scikit-optimize",
+            "scipy-optimize",
+            "surrogate-based-optimization",
+            "bayesopt",
+            "hyperparameter-optimization",
+            "hyperparameter-tuning",
+            "partial-dependence-plot",
+            "scientific-computing",
+            "hyperparameter-search",
+            "optimize",
+            "optimization-tools",
+            "hydrological-modelling",
+            "optimization-algorithms",
+            "hydrology",
+            "optimization"
+        ],
+        "timestamp": "2026-04-19 01:28:20.919072",
+        "avatar": "https://avatars.githubusercontent.com/u/189691326?v=4"
+    }
+}
