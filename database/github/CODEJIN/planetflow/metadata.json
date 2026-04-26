@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/CODEJIN/planetflow",
+    "url": "https://github.com/CODEJIN/planetflow",
+    "data": {
+        "doi": [],
+        "title": "PlanetFlow",
+        "url": "https://github.com/CODEJIN/planetflow",
+        "name": "planetflow",
+        "full_name": "CODEJIN/planetflow",
+        "html_url": "https://github.com/CODEJIN/planetflow",
+        "created_at": "2026-04-09T08:41:56Z",
+        "updated_at": "2026-04-19T09:00:59Z",
+        "clone_url": "https://github.com/CODEJIN/planetflow.git",
+        "size": 9367,
+        "language": "Python",
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "owner": {
+            "html_url": "https://github.com/CODEJIN",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17133841?v=4",
+            "login": "CODEJIN",
+            "type": "User"
+        },
+        "timestamp": "2026-04-26 01:28:57.995931",
+        "avatar": "https://avatars.githubusercontent.com/u/17133841?v=4"
+    }
+}
