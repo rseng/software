@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/matc-thaher/PHANTOM",
+    "url": "https://github.com/matc-thaher/PHANTOM",
+    "data": {
+        "doi": [],
+        "title": "PHANTOM",
+        "url": "https://github.com/matc-thaher/PHANTOM",
+        "name": "PHANTOM",
+        "full_name": "matc-thaher/PHANTOM",
+        "html_url": "https://github.com/matc-thaher/PHANTOM",
+        "description": "Profile & Halo Analysis for Nonstandard/Theoretical Dark Matter",
+        "created_at": "2026-04-18T12:31:21Z",
+        "updated_at": "2026-04-25T03:34:41Z",
+        "clone_url": "https://github.com/matc-thaher/PHANTOM.git",
+        "size": 122,
+        "language": "MATLAB",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/matc-thaher",
+            "avatar_url": "https://avatars.githubusercontent.com/u/67771813?v=4",
+            "login": "matc-thaher",
+            "type": "User"
+        },
+        "timestamp": "2026-04-26 01:28:57.575897",
+        "avatar": "https://avatars.githubusercontent.com/u/67771813?v=4"
+    }
+}
