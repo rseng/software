@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/pmelchior/scarlet2",
+    "url": "https://github.com/pmelchior/scarlet2",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.19410794",
+        "name": "scarlet2",
+        "url": "https://github.com/pmelchior/scarlet2",
+        "full_name": "pmelchior/scarlet2",
+        "html_url": "https://github.com/pmelchior/scarlet2",
+        "description": "Astronomical source modeling in jax",
+        "created_at": "2023-01-05T15:57:11Z",
+        "updated_at": "2026-05-02T17:13:27Z",
+        "clone_url": "https://github.com/pmelchior/scarlet2.git",
+        "homepage": "https://scarlet2.readthedocs.io",
+        "size": 15615,
+        "stargazers_count": 30,
+        "watchers_count": 30,
+        "language": "Python",
+        "open_issues_count": 39,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/pmelchior",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1463403?v=4",
+            "login": "pmelchior",
+            "type": "User"
+        },
+        "topics": [
+            "astronomy",
+            "image-analysis",
+            "source-separation"
+        ],
+        "timestamp": "2026-05-03 01:47:51.266619",
+        "avatar": "https://avatars.githubusercontent.com/u/1463403?v=4"
+    }
+}

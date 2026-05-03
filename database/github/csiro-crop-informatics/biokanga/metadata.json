@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/csiro-crop-informatics/biokanga",
+    "url": "https://github.com/csiro-crop-informatics/biokanga",
+    "data": {
+        "name": "biokanga",
+        "url": "https://github.com/csiro-crop-informatics/biokanga",
+        "full_name": "csiro-crop-informatics/biokanga",
+        "html_url": "https://github.com/csiro-crop-informatics/biokanga",
+        "private": false,
+        "description": "An integrated high performance bioinformatics toolkit",
+        "created_at": "2017-03-27T13:16:10Z",
+        "updated_at": "2023-12-06T04:07:12Z",
+        "clone_url": "https://github.com/csiro-crop-informatics/biokanga.git",
+        "homepage": "",
+        "size": 25921,
+        "stargazers_count": 23,
+        "watchers_count": 23,
+        "language": "C++",
+        "open_issues_count": 3,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/csiro-crop-informatics",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22671035?v=4",
+            "login": "csiro-crop-informatics",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-05-03 01:48:16.027897",
+        "avatar": "https://avatars.githubusercontent.com/u/22671035?v=4"
+    }
+}

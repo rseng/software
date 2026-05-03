@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/mschmittfull/iterrec",
+    "url": "https://github.com/mschmittfull/iterrec",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025PhRvD.112h3503G",
+            "https://scixplorer.org/abs/2017PhRvD..96b3505S",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04012S/abstract"
+        ],
+        "title": "iterrec: Iterative reconstruction of linear BAO and initial conditions",
+        "url": "https://github.com/mschmittfull/iterrec",
+        "name": "iterrec",
+        "full_name": "mschmittfull/iterrec",
+        "html_url": "https://github.com/mschmittfull/iterrec",
+        "description": "Iterative reconstruction of linear BAO and initial conditions",
+        "created_at": "2020-05-06T17:22:29Z",
+        "updated_at": "2024-06-22T22:01:01Z",
+        "clone_url": "https://github.com/mschmittfull/iterrec.git",
+        "size": 38195,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/mschmittfull",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10052471?v=4",
+            "login": "mschmittfull",
+            "type": "User"
+        },
+        "timestamp": "2026-05-03 01:47:21.608072",
+        "avatar": "https://avatars.githubusercontent.com/u/10052471?v=4"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "parser": "github",
+    "uid": "github/mschmittfull/skewspec",
+    "url": "https://github.com/mschmittfull/skewspec",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2021JCAP...03..020S",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04013S/abstract"
+        ],
+        "title": "skewspec: Skew spectra of galaxy surveys",
+        "url": "https://github.com/mschmittfull/skewspec",
+        "name": "skewspec",
+        "full_name": "mschmittfull/skewspec",
+        "html_url": "https://github.com/mschmittfull/skewspec",
+        "description": "Skew spectra of galaxy surveys",
+        "created_at": "2020-09-08T18:36:26Z",
+        "updated_at": "2020-12-14T02:20:28Z",
+        "clone_url": "https://github.com/mschmittfull/skewspec.git",
+        "size": 68129,
+        "language": "Jupyter Notebook",
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/mschmittfull",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10052471?v=4",
+            "login": "mschmittfull",
+            "type": "User"
+        },
+        "timestamp": "2026-05-03 01:47:21.204334",
+        "avatar": "https://avatars.githubusercontent.com/u/10052471?v=4"
+    }
+}
