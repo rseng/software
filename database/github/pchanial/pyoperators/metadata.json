@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/pchanial/pyoperators",
+    "url": "https://github.com/pchanial/pyoperators",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2015MNRAS.454.3240B",
+            "https://scixplorer.org/abs/2012sf2a.conf..513C",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04016C/abstract"
+        ],
+        "title": "PyOperators: Operators and solvers for high-performance computing",
+        "url": "https://github.com/pchanial/pyoperators",
+        "name": "pyoperators",
+        "full_name": "pchanial/pyoperators",
+        "html_url": "https://github.com/pchanial/pyoperators",
+        "description": "Operators and solvers for high-performance computing.",
+        "created_at": "2011-09-05T12:06:50Z",
+        "updated_at": "2025-12-07T22:06:47Z",
+        "clone_url": "https://github.com/pchanial/pyoperators.git",
+        "homepage": "http://pchanial.github.com/pyoperators",
+        "size": 11937,
+        "stargazers_count": 14,
+        "watchers_count": 14,
+        "language": "Python",
+        "open_issues_count": 14,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/pchanial",
+            "avatar_url": "https://avatars.githubusercontent.com/u/687271?v=4",
+            "login": "pchanial",
+            "type": "User"
+        },
+        "timestamp": "2026-05-03 01:47:20.011004",
+        "avatar": "https://avatars.githubusercontent.com/u/687271?v=4"
+    }
+}

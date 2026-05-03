@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/KoslickiLab/YACHT",
+    "url": "https://github.com/KoslickiLab/YACHT",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.19597912",
+        "name": "YACHT",
+        "url": "https://github.com/KoslickiLab/YACHT",
+        "full_name": "KoslickiLab/YACHT",
+        "html_url": "https://github.com/KoslickiLab/YACHT",
+        "description": "A mathematically characterized hypothesis test for organism presence/absence in a metagenome",
+        "created_at": "2023-04-27T19:11:45Z",
+        "updated_at": "2026-04-26T18:58:59Z",
+        "clone_url": "https://github.com/KoslickiLab/YACHT.git",
+        "size": 396869,
+        "stargazers_count": 34,
+        "watchers_count": 34,
+        "language": "C++",
+        "open_issues_count": 19,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/KoslickiLab",
+            "avatar_url": "https://avatars.githubusercontent.com/u/61796286?v=4",
+            "login": "KoslickiLab",
+            "type": "Organization"
+        },
+        "timestamp": "2026-05-03 01:47:48.347508",
+        "avatar": "https://avatars.githubusercontent.com/u/61796286?v=4"
+    }
+}

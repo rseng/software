@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/TuringLang/AdvancedHMC.jl",
+    "url": "https://github.com/TuringLang/AdvancedHMC.jl",
+    "data": {
+        "doi": [
+            "https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..106L",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04009X/abstract"
+        ],
+        "title": "AdvancedHMC.jl: Hamiltonian Monte Carlo algorithms",
+        "url": "https://github.com/TuringLang/AdvancedHMC.jl",
+        "name": "AdvancedHMC.jl",
+        "full_name": "TuringLang/AdvancedHMC.jl",
+        "html_url": "https://github.com/TuringLang/AdvancedHMC.jl",
+        "description": "Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms",
+        "created_at": "2016-11-02T16:13:37Z",
+        "updated_at": "2026-04-29T19:41:47Z",
+        "clone_url": "https://github.com/TuringLang/AdvancedHMC.jl.git",
+        "homepage": "https://turinglang.org/AdvancedHMC.jl/",
+        "size": 7709,
+        "stargazers_count": 330,
+        "watchers_count": 330,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 64,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 11,
+        "owner": {
+            "html_url": "https://github.com/TuringLang",
+            "avatar_url": "https://avatars.githubusercontent.com/u/26261527?v=4",
+            "login": "TuringLang",
+            "type": "Organization"
+        },
+        "topics": [
+            "hmc",
+            "nuts",
+            "hamiltonian-monte-carlo",
+            "mcmc"
+        ],
+        "timestamp": "2026-05-03 01:47:23.470107",
+        "avatar": "https://avatars.githubusercontent.com/u/26261527?v=4"
+    }
+}

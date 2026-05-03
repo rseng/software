@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/pchanial/pysimulators",
+    "url": "https://github.com/pchanial/pysimulators",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2015MNRAS.454.3240B",
+            "https://scixplorer.org/abs/2012sf2a.conf..513C",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft04015C/abstract"
+        ],
+        "title": "PySimulators: Instrument acquisition modeling and inversion tools",
+        "url": "https://github.com/pchanial/pysimulators",
+        "name": "pysimulators",
+        "full_name": "pchanial/pysimulators",
+        "html_url": "https://github.com/pchanial/pysimulators",
+        "description": "Tools to build an instrument model and manipulate maps and timelines.",
+        "created_at": "2012-09-18T08:36:22Z",
+        "updated_at": "2026-01-21T11:57:31Z",
+        "clone_url": "https://github.com/pchanial/pysimulators.git",
+        "size": 6841,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Python",
+        "open_issues_count": 3,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/pchanial",
+            "avatar_url": "https://avatars.githubusercontent.com/u/687271?v=4",
+            "login": "pchanial",
+            "type": "User"
+        },
+        "timestamp": "2026-05-03 01:47:20.407479",
+        "avatar": "https://avatars.githubusercontent.com/u/687271?v=4"
+    }
+}

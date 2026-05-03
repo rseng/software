@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/Taylor-CCB-Group/MDV",
+    "url": "https://github.com/Taylor-CCB-Group/MDV",
+    "data": {
+        "name": "MDV",
+        "url": "https://github.com/Taylor-CCB-Group/MDV",
+        "full_name": "Taylor-CCB-Group/MDV",
+        "html_url": "https://github.com/Taylor-CCB-Group/MDV",
+        "private": false,
+        "description": "Multi-Dimensional Visualization (MDV) is an open-source toolkit for analyzing and visualizing spatial and molecular datasets. Code licensed under GPL-3.0; example spatial data under CC0 1.0.",
+        "created_at": "2021-07-21T15:00:50Z",
+        "updated_at": "2026-04-30T14:41:19Z",
+        "clone_url": "https://github.com/Taylor-CCB-Group/MDV.git",
+        "homepage": "http://mdv.ndm.ox.ac.uk",
+        "size": 410992,
+        "stargazers_count": 33,
+        "watchers_count": 33,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 44,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/Taylor-CCB-Group",
+            "avatar_url": "https://avatars.githubusercontent.com/u/58420042?v=4",
+            "login": "Taylor-CCB-Group",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-05-03 01:48:13.845213",
+        "avatar": "https://avatars.githubusercontent.com/u/58420042?v=4"
+    }
+}
