@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/DanielChou0916/felino",
+    "url": "https://github.com/DanielChou0916/felino",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.19227994",
+        "name": "felino",
+        "url": "https://github.com/DanielChou0916/felino",
+        "full_name": "DanielChou0916/felino",
+        "html_url": "https://github.com/DanielChou0916/felino",
+        "description": "MOOSE-based phase-field fracture application for fatigue analysis and geomaterials with tension\u2013compression asymmetry and reproducible benchmarks.",
+        "created_at": "2025-04-26T11:08:41Z",
+        "updated_at": "2026-05-07T01:16:17Z",
+        "clone_url": "https://github.com/DanielChou0916/felino.git",
+        "homepage": "https://danielchou0916.github.io/felino.github.io/#",
+        "size": 29475,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "SWIG",
+        "open_issues_count": 1,
+        "license": {
+            "key": "lgpl-2.1",
+            "name": "GNU Lesser General Public License v2.1",
+            "spdx_id": "LGPL-2.1",
+            "url": "https://api.github.com/licenses/lgpl-2.1",
+            "node_id": "MDc6TGljZW5zZTEx"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/DanielChou0916",
+            "avatar_url": "https://avatars.githubusercontent.com/u/142940612?v=4",
+            "login": "DanielChou0916",
+            "type": "User"
+        },
+        "timestamp": "2026-05-10 01:51:18.017357",
+        "avatar": "https://avatars.githubusercontent.com/u/142940612?v=4"
+    }
+}
