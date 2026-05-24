@@ -4598,6 +4598,20 @@
         ]
     },
     {
+        "uid": "github/lh3/minigraph",
+        "url": "https://github.com/lh3/minigraph",
+        "rel": "/software/repository/github/lh3/minigraph",
+        "avatar": "https://avatars.githubusercontent.com/u/480346?v=4",
+        "description": "Sequence-to-graph mapper and graph generator",
+        "topics": [
+            "bioinformatics",
+            "genomics",
+            "sequence-alignment",
+            "genome-graph",
+            "pan-genome"
+        ]
+    },
+    {
         "uid": "github/lh3/fermi-lite",
         "url": "https://github.com/lh3/fermi-lite",
         "rel": "/software/repository/github/lh3/fermi-lite",
@@ -7591,6 +7605,26 @@
         "topics": []
     },
     {
+        "uid": "github/tanghaibao/jcvi",
+        "url": "https://github.com/tanghaibao/jcvi",
+        "rel": "/software/repository/github/tanghaibao/jcvi",
+        "avatar": "https://avatars.githubusercontent.com/u/106987?v=4",
+        "description": "Python library to facilitate genome assembly, annotation, and comparative genomics",
+        "topics": [
+            "genomics",
+            "genome-sequencing",
+            "comparative-genomics",
+            "variant-calling",
+            "genetic-maps",
+            "sequence-alignments",
+            "bioinformatics",
+            "synteny",
+            "allmaps",
+            "assembly",
+            "blast"
+        ]
+    },
+    {
         "uid": "github/BradhamLab/icat",
         "url": "https://github.com/BradhamLab/icat",
         "rel": "/software/repository/github/BradhamLab/icat",
@@ -8325,6 +8359,14 @@
         ]
     },
     {
+        "uid": "github/RECETOX/gc-meox-tms",
+        "url": "https://github.com/RECETOX/gc-meox-tms",
+        "rel": "/software/repository/github/RECETOX/gc-meox-tms",
+        "avatar": "https://avatars.githubusercontent.com/u/69039108?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/RECETOX/recetox-aplcms",
         "url": "https://github.com/RECETOX/recetox-aplcms",
         "rel": "/software/repository/github/RECETOX/recetox-aplcms",
@@ -8631,6 +8673,14 @@
         "rel": "/software/repository/github/selkamand/ggoncoplot",
         "avatar": "https://avatars.githubusercontent.com/u/73202525?v=4",
         "description": "Easily Create Interactive Oncoplots",
+        "topics": []
+    },
+    {
+        "uid": "github/selkamand/seqlib",
+        "url": "https://github.com/selkamand/seqlib",
+        "rel": "/software/repository/github/selkamand/seqlib",
+        "avatar": "https://avatars.githubusercontent.com/u/73202525?v=4",
+        "description": "A rust library for working with DNA and RNA sequences",
         "topics": []
     },
     {
@@ -11383,6 +11433,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/23654185?v=4",
         "description": "Motif-Informed Network Inference of cell type-specific gene regulatory networks in plants",
         "topics": []
+    },
+    {
+        "uid": "github/BritRobin/ParseSNP",
+        "url": "https://github.com/BritRobin/ParseSNP",
+        "rel": "/software/repository/github/BritRobin/ParseSNP",
+        "avatar": "https://avatars.githubusercontent.com/u/40215442?v=4",
+        "description": "Published Release Packages 1.1.1 64-bit anf 32-bit installer packages with PDF Manual",
+        "topics": [
+            "dna",
+            "ancestory",
+            "rsid",
+            "desease",
+            "genetics",
+            "prediction"
+        ]
     },
     {
         "uid": "github/fkoehlin/montepython_2cosmos_public",
@@ -15295,6 +15360,14 @@
             "linear-regression",
             "python3"
         ]
+    },
+    {
+        "uid": "github/JanaSperschneider/NuclearPhaser",
+        "url": "https://github.com/JanaSperschneider/NuclearPhaser",
+        "rel": "/software/repository/github/JanaSperschneider/NuclearPhaser",
+        "avatar": "https://avatars.githubusercontent.com/u/26158044?v=4",
+        "description": "Phasing of dikaryotic fungal genome assemblies",
+        "topics": []
     },
     {
         "uid": "github/csb-toolbox/CSB",
@@ -21831,6 +21904,14 @@
         "topics": []
     },
     {
+        "uid": "github/HMS-IDAC/S3segmenter",
+        "url": "https://github.com/HMS-IDAC/S3segmenter",
+        "rel": "/software/repository/github/HMS-IDAC/S3segmenter",
+        "avatar": "https://avatars.githubusercontent.com/u/15056834?v=4",
+        "description": null,
+        "topics": []
+    },
+    {
         "uid": "github/schulze61/RhoPop",
         "url": "https://github.com/schulze61/RhoPop",
         "rel": "/software/repository/github/schulze61/RhoPop",
@@ -22020,6 +22101,14 @@
         "rel": "/software/repository/github/918particle/AskaryanModule",
         "avatar": "https://avatars.githubusercontent.com/u/15349365?v=4",
         "description": null,
+        "topics": []
+    },
+    {
+        "uid": "github/jessicachung/generate_count_matrix",
+        "url": "https://github.com/jessicachung/generate_count_matrix",
+        "rel": "/software/repository/github/jessicachung/generate_count_matrix",
+        "avatar": "https://avatars.githubusercontent.com/u/4455672?v=4",
+        "description": "Tool to generate a count matrix for expression data in Galaxy",
         "topics": []
     },
     {
@@ -23949,6 +24038,23 @@
         "avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
         "description": "Code for Fold2Seq paper from ICML 2021",
         "topics": []
+    },
+    {
+        "uid": "github/IBM/ado",
+        "url": "https://github.com/IBM/ado",
+        "rel": "/software/repository/github/IBM/ado",
+        "avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
+        "description": "A framework for designing, executing  and analysing experiment campaigns ",
+        "topics": [
+            "discovery",
+            "exploration",
+            "optimization",
+            "orchestration",
+            "ray",
+            "performance-optimization",
+            "foundation-models",
+            "experimentation"
+        ]
     },
     {
         "uid": "github/IBM/topography-searcher",
@@ -29596,6 +29702,26 @@
             "python",
             "astronomy",
             "data-analysis"
+        ]
+    },
+    {
+        "uid": "github/boostorg/geometry",
+        "url": "https://github.com/boostorg/geometry",
+        "rel": "/software/repository/github/boostorg/geometry",
+        "avatar": "https://avatars.githubusercontent.com/u/3170529?v=4",
+        "description": "Boost.Geometry - Generic Geometry Library | Requires C++14 since Boost 1.75",
+        "topics": [
+            "boost",
+            "generic-geometry-library",
+            "geometry",
+            "computational-geometry",
+            "geometric-algorithms",
+            "cplusplus",
+            "ogc",
+            "spatial-analysis",
+            "spatial-index",
+            "cxx14",
+            "cplusplus-14"
         ]
     },
     {
@@ -35749,6 +35875,14 @@
         "topics": []
     },
     {
+        "uid": "github/chrissoria/cat-llm",
+        "url": "https://github.com/chrissoria/cat-llm",
+        "rel": "/software/repository/github/chrissoria/cat-llm",
+        "avatar": "https://avatars.githubusercontent.com/u/15951118?v=4",
+        "description": "placeholder",
+        "topics": []
+    },
+    {
         "uid": "github/matta-research-group/SwiftPol",
         "url": "https://github.com/matta-research-group/SwiftPol",
         "rel": "/software/repository/github/matta-research-group/SwiftPol",
@@ -37595,6 +37729,14 @@
         "rel": "/software/repository/github/myinxd/mcrgnet",
         "avatar": "https://avatars.githubusercontent.com/u/11346940?v=4",
         "description": "Morphological Classification of Radio Galaxy Network",
+        "topics": []
+    },
+    {
+        "uid": "github/vcnainala/NP-Likeness",
+        "url": "https://github.com/vcnainala/NP-Likeness",
+        "rel": "/software/repository/github/vcnainala/NP-Likeness",
+        "avatar": "https://avatars.githubusercontent.com/u/4065285?v=4",
+        "description": "Natural Product-likeness calculator v-2.1 : calculates natural product-likeness of small molecules based on open-data of natural products.",
         "topics": []
     },
     {
@@ -44105,6 +44247,14 @@
         "topics": []
     },
     {
+        "uid": "github/LeoTorreblanca/GEO-hidden-geometry-framework",
+        "url": "https://github.com/LeoTorreblanca/GEO-hidden-geometry-framework",
+        "rel": "/software/repository/github/LeoTorreblanca/GEO-hidden-geometry-framework",
+        "avatar": "https://avatars.githubusercontent.com/u/164967738?v=4",
+        "description": "Geometr\u00eda Oculta (GEO): a hidden geometric framework detectable through cosmological observational effects.",
+        "topics": []
+    },
+    {
         "uid": "github/alicia-ziying-yang/conTEXT-explorer",
         "url": "https://github.com/alicia-ziying-yang/conTEXT-explorer",
         "rel": "/software/repository/github/alicia-ziying-yang/conTEXT-explorer",
@@ -47372,6 +47522,18 @@
         ]
     },
     {
+        "uid": "github/Ebedthan/xgt",
+        "url": "https://github.com/Ebedthan/xgt",
+        "rel": "/software/repository/github/Ebedthan/xgt",
+        "avatar": "https://avatars.githubusercontent.com/u/17315349?v=4",
+        "description": "Efficient and fast querying and parsing of GTDB's data",
+        "topics": [
+            "bioinformatics",
+            "database",
+            "rust"
+        ]
+    },
+    {
         "uid": "github/AlexanderJuestel/pyheatdemand",
         "url": "https://github.com/AlexanderJuestel/pyheatdemand",
         "rel": "/software/repository/github/AlexanderJuestel/pyheatdemand",
@@ -49811,6 +49973,14 @@
             "api",
             "docker-compose"
         ]
+    },
+    {
+        "uid": "github/anvaldes/sklearn-migrator",
+        "url": "https://github.com/anvaldes/sklearn-migrator",
+        "rel": "/software/repository/github/anvaldes/sklearn-migrator",
+        "avatar": "https://avatars.githubusercontent.com/u/53879188?v=4",
+        "description": null,
+        "topics": []
     },
     {
         "uid": "github/hauselin/ollama-r",
@@ -69401,6 +69571,14 @@
         "topics": []
     },
     {
+        "uid": "github/aglucaci/Analysis-of-Orthologous-Collections",
+        "url": "https://github.com/aglucaci/AOC",
+        "rel": "/software/repository/github/aglucaci/Analysis-of-Orthologous-Collections",
+        "avatar": "https://avatars.githubusercontent.com/u/43097993?v=4",
+        "description": "Automated investigation of evolutionary patterns in protein-coding genes",
+        "topics": []
+    },
+    {
         "uid": "github/HuangLabAtUAB/ProTransDeconv",
         "url": "https://github.com/HuangLabAtUAB/ProTransDeconv",
         "rel": "/software/repository/github/HuangLabAtUAB/ProTransDeconv",
@@ -72243,6 +72421,26 @@
         "topics": []
     },
     {
+        "uid": "github/JonasMarx3007/GONetView",
+        "url": "https://github.com/JonasMarx3007/GONetView",
+        "rel": "/software/repository/github/JonasMarx3007/GONetView",
+        "avatar": "https://avatars.githubusercontent.com/u/140630643?v=4",
+        "description": "Standalone browser-based Gene Ontology network viewer with local GO/GAF preprocessing, gene annotation mapping, graph search, and figure export.",
+        "topics": [
+            "bioinformatics",
+            "data-visualization",
+            "gaf",
+            "gene-ontology",
+            "go-annotation",
+            "network-visualization",
+            "obo",
+            "python",
+            "react",
+            "typescript",
+            "research-software"
+        ]
+    },
+    {
         "uid": "github/DESI-UR/VAST",
         "url": "https://github.com/DESI-UR/VAST",
         "rel": "/software/repository/github/DESI-UR/VAST",
@@ -72755,6 +72953,14 @@
             "power-electronics",
             "field-simulation"
         ]
+    },
+    {
+        "uid": "github/patrickbryant1/EvoBind",
+        "url": "https://github.com/patrickbryant1/EvoBind",
+        "rel": "/software/repository/github/patrickbryant1/EvoBind",
+        "avatar": "https://avatars.githubusercontent.com/u/12907385?v=4",
+        "description": "In silico directed evolution of peptide binders with AlphaFold",
+        "topics": []
     },
     {
         "uid": "github/JASHunt/Snapdragons",
@@ -73551,6 +73757,14 @@
         "rel": "/software/repository/github/crs4/rocrate-validator",
         "avatar": "https://avatars.githubusercontent.com/u/4609555?v=4",
         "description": "A Python package to validate RO-Crates",
+        "topics": []
+    },
+    {
+        "uid": "github/jsakaluk/dySEM",
+        "url": "https://github.com/jsakaluk/dySEM",
+        "rel": "/software/repository/github/jsakaluk/dySEM",
+        "avatar": "https://avatars.githubusercontent.com/u/19962345?v=4",
+        "description": "dySEM",
         "topics": []
     },
     {
@@ -79061,6 +79275,22 @@
         "avatar": "https://avatars.githubusercontent.com/u/166061424?v=4",
         "description": null,
         "topics": []
+    },
+    {
+        "uid": "github/brodie-neuro/WAND-practice-and-fatigue-induction",
+        "url": "https://github.com/brodie-neuro/WAND-practice-and-fatigue-induction",
+        "rel": "/software/repository/github/brodie-neuro/WAND-practice-and-fatigue-induction",
+        "avatar": "https://avatars.githubusercontent.com/u/167781298?v=4",
+        "description": "PsychoPy Sequential, Dual, and Spatial N-back practice and fatigue induction sessions for cognitive fatigue research using the WAND model.",
+        "topics": [
+            "cognitive",
+            "fatigue",
+            "induction",
+            "n-back",
+            "cognitive-control",
+            "cognitive-fatigue",
+            "working-memory"
+        ]
     },
     {
         "uid": "github/Shyentist/fish-r-man",

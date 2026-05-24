@@ -1,0 +1,30 @@
+{
+    "parser": "github",
+    "uid": "github/vcnainala/NP-Likeness",
+    "url": "https://github.com/vcnainala/NP-Likeness",
+    "data": {
+        "doi": "10.1021/ci700286x",
+        "name": "NP-Likeness",
+        "url": "https://github.com/vcnainala/NP-Likeness",
+        "full_name": "vcnainala/NP-Likeness",
+        "html_url": "https://github.com/vcnainala/NP-Likeness",
+        "description": "Natural Product-likeness calculator v-2.1 : calculates natural product-likeness of small molecules based on open-data of natural products.",
+        "created_at": "2016-02-16T11:06:11Z",
+        "updated_at": "2025-01-03T23:11:43Z",
+        "clone_url": "https://github.com/vcnainala/NP-Likeness.git",
+        "size": 7389,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Java",
+        "open_issues_count": 1,
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/vcnainala",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4065285?v=4",
+            "login": "vcnainala",
+            "type": "User"
+        },
+        "timestamp": "2026-05-24 02:05:00.260439",
+        "avatar": "https://avatars.githubusercontent.com/u/4065285?v=4"
+    }
+}
