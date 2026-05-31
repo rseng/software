@@ -1,0 +1,51 @@
+{
+    "parser": "github",
+    "uid": "github/boostorg/geometry",
+    "url": "https://github.com/boostorg/geometry",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20281747",
+        "name": "geometry",
+        "url": "https://github.com/boostorg/geometry",
+        "full_name": "boostorg/geometry",
+        "html_url": "https://github.com/boostorg/geometry",
+        "description": "Boost.Geometry - Generic Geometry Library | Requires C++14 since Boost 1.75",
+        "created_at": "2013-01-13T15:59:29Z",
+        "updated_at": "2026-05-28T00:17:38Z",
+        "clone_url": "https://github.com/boostorg/geometry.git",
+        "homepage": "http://boost.org/libs/geometry",
+        "size": 51290,
+        "stargazers_count": 510,
+        "watchers_count": 510,
+        "language": "C++",
+        "open_issues_count": 157,
+        "license": {
+            "key": "bsl-1.0",
+            "name": "Boost Software License 1.0",
+            "spdx_id": "BSL-1.0",
+            "url": "https://api.github.com/licenses/bsl-1.0",
+            "node_id": "MDc6TGljZW5zZTI4"
+        },
+        "subscribers_count": 35,
+        "owner": {
+            "html_url": "https://github.com/boostorg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3170529?v=4",
+            "login": "boostorg",
+            "type": "Organization"
+        },
+        "topics": [
+            "boost",
+            "generic-geometry-library",
+            "geometry",
+            "computational-geometry",
+            "geometric-algorithms",
+            "cplusplus",
+            "ogc",
+            "spatial-analysis",
+            "spatial-index",
+            "cxx14",
+            "cplusplus-14"
+        ],
+        "timestamp": "2026-05-31 02:13:16.347568",
+        "avatar": "https://avatars.githubusercontent.com/u/3170529?v=4"
+    }
+}

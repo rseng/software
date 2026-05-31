@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/GESS-research-group/pyshbundle",
+    "url": "https://github.com/GESS-research-group/pyshbundle",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.19682215",
+        "name": "pyshbundle",
+        "url": "https://github.com/GESS-research-group/pyshbundle",
+        "full_name": "GESS-research-group/pyshbundle",
+        "html_url": "https://github.com/GESS-research-group/pyshbundle",
+        "description": "A Python implementation of GRACE Spherical Harmonics Synthesis",
+        "created_at": "2022-09-21T06:11:42Z",
+        "updated_at": "2026-05-30T15:53:04Z",
+        "clone_url": "https://github.com/GESS-research-group/pyshbundle.git",
+        "homepage": "https://gess-research-group.github.io/pyshbundle/",
+        "size": 747799,
+        "stargazers_count": 17,
+        "watchers_count": 17,
+        "language": "Python",
+        "open_issues_count": 4,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/GESS-research-group",
+            "avatar_url": "https://avatars.githubusercontent.com/u/180320619?v=4",
+            "login": "GESS-research-group",
+            "type": "Organization"
+        },
+        "topics": [
+            "geodesy",
+            "hydrology",
+            "water",
+            "terrestrial-water-storage",
+            "gravimetry",
+            "spherical-harmonics"
+        ],
+        "timestamp": "2026-05-31 02:13:15.017810",
+        "avatar": "https://avatars.githubusercontent.com/u/180320619?v=4"
+    }
+}

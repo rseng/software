@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/dmitryduev/DeepStreaks",
+    "url": "https://github.com/dmitryduev/DeepStreaks",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2019MNRAS.486.4158D",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft05016D/abstract"
+        ],
+        "title": "DeepStreaks: Identifying near-Earth asteroids",
+        "url": "https://github.com/dmitryduev/DeepStreaks",
+        "name": "DeepStreaks",
+        "full_name": "dmitryduev/DeepStreaks",
+        "html_url": "https://github.com/dmitryduev/DeepStreaks",
+        "description": "Identifying Near-Earth Asteroids (NEAs) in the Zwicky Transient Facility (ZTF) data with deep learning",
+        "created_at": "2018-08-21T21:59:08Z",
+        "updated_at": "2026-04-03T09:51:52Z",
+        "clone_url": "https://github.com/dmitryduev/DeepStreaks.git",
+        "size": 296900,
+        "stargazers_count": 19,
+        "watchers_count": 19,
+        "language": "JavaScript",
+        "open_issues_count": 7,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/dmitryduev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7557205?v=4",
+            "login": "dmitryduev",
+            "type": "User"
+        },
+        "timestamp": "2026-05-31 02:12:43.131608",
+        "avatar": "https://avatars.githubusercontent.com/u/7557205?v=4"
+    }
+}
