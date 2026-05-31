@@ -1,0 +1,46 @@
+{
+    "parser": "github",
+    "uid": "github/mapme-initiative/mapme.biodiversity",
+    "url": "https://github.com/mapme-initiative/mapme.biodiversity",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.19908654",
+        "name": "mapme.biodiversity",
+        "url": "https://github.com/mapme-initiative/mapme.biodiversity",
+        "full_name": "mapme-initiative/mapme.biodiversity",
+        "html_url": "https://github.com/mapme-initiative/mapme.biodiversity",
+        "description": "Efficient analysis of spatial biodiversity datasets for global portfolios",
+        "created_at": "2022-02-09T09:14:58Z",
+        "updated_at": "2026-05-13T08:10:41Z",
+        "clone_url": "https://github.com/mapme-initiative/mapme.biodiversity.git",
+        "homepage": "https://mapme-initiative.github.io/mapme.biodiversity",
+        "size": 49964,
+        "stargazers_count": 48,
+        "watchers_count": 48,
+        "language": "R",
+        "open_issues_count": 19,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/mapme-initiative",
+            "avatar_url": "https://avatars.githubusercontent.com/u/76036920?v=4",
+            "login": "mapme-initiative",
+            "type": "Organization"
+        },
+        "topics": [
+            "environment",
+            "eo",
+            "gis",
+            "mapme",
+            "spatial",
+            "sustainability"
+        ],
+        "timestamp": "2026-05-31 02:13:13.653741",
+        "avatar": "https://avatars.githubusercontent.com/u/76036920?v=4"
+    }
+}
