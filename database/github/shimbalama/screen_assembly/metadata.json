@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/shimbalama/screen_assembly",
+    "url": "https://github.com/shimbalama/screen_assembly",
+    "data": {
+        "doi": "10.1038/s41588-019-0417-8",
+        "name": "screen_assembly",
+        "url": "https://github.com/shimbalama/screen_assembly",
+        "full_name": "shimbalama/screen_assembly",
+        "html_url": "https://github.com/shimbalama/screen_assembly",
+        "description": "Screen a bacterial assembly (contigs/CDS or proteins) for nucleotide or protein sequences",
+        "created_at": "2017-01-13T01:00:25Z",
+        "updated_at": "2023-09-02T20:16:23Z",
+        "clone_url": "https://github.com/shimbalama/screen_assembly.git",
+        "size": 14586,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "Python",
+        "open_issues_count": 3,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/shimbalama",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17915057?v=4",
+            "login": "shimbalama",
+            "type": "User"
+        },
+        "timestamp": "2026-06-07 02:18:55.580034",
+        "avatar": "https://avatars.githubusercontent.com/u/17915057?v=4"
+    }
+}

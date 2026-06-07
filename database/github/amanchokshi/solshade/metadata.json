@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/amanchokshi/solshade",
+    "url": "https://github.com/amanchokshi/solshade",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20405097",
+        "name": "solshade",
+        "url": "https://github.com/amanchokshi/solshade",
+        "full_name": "amanchokshi/solshade",
+        "html_url": "https://github.com/amanchokshi/solshade",
+        "description": "Terrain-aware solar illumination modeling using DEMs and orbital sun geometry",
+        "created_at": "2025-08-03T21:36:32Z",
+        "updated_at": "2026-06-05T08:58:30Z",
+        "clone_url": "https://github.com/amanchokshi/solshade.git",
+        "homepage": "https://solshade.readthedocs.io",
+        "size": 29671,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/amanchokshi",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40157844?v=4",
+            "login": "amanchokshi",
+            "type": "User"
+        },
+        "timestamp": "2026-06-07 02:18:24.325853",
+        "avatar": "https://avatars.githubusercontent.com/u/40157844?v=4"
+    }
+}
