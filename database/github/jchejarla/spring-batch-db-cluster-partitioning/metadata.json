@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/jchejarla/spring-batch-db-cluster-partitioning",
+    "url": "https://github.com/jchejarla/spring-batch-db-cluster-partitioning",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20026202",
+        "name": "spring-batch-db-cluster-partitioning",
+        "url": "https://github.com/jchejarla/spring-batch-db-cluster-partitioning",
+        "full_name": "jchejarla/spring-batch-db-cluster-partitioning",
+        "html_url": "https://github.com/jchejarla/spring-batch-db-cluster-partitioning",
+        "description": "Spring Batch distributed partitioning using a shared database for coordination and failover",
+        "created_at": "2025-05-11T19:11:27Z",
+        "updated_at": "2026-06-13T19:04:13Z",
+        "clone_url": "https://github.com/jchejarla/spring-batch-db-cluster-partitioning.git",
+        "homepage": "https://jchejarla.github.io/spring-batch-db-cluster-partitioning/",
+        "size": 621,
+        "stargazers_count": 11,
+        "watchers_count": 11,
+        "language": "Java",
+        "open_issues_count": 2,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/jchejarla",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3014112?v=4",
+            "login": "jchejarla",
+            "type": "User"
+        },
+        "timestamp": "2026-06-14 02:32:29.752637",
+        "avatar": "https://avatars.githubusercontent.com/u/3014112?v=4"
+    }
+}

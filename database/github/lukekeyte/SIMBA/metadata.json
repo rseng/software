@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/lukekeyte/SIMBA",
+    "url": "https://github.com/lukekeyte/SIMBA",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025MNRAS.543.2599K",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft05021K/abstract"
+        ],
+        "title": "SIMBA: Solver for Inferring Molecular aBundances in Astrophysical environments",
+        "url": "https://github.com/lukekeyte/SIMBA",
+        "name": "SIMBA",
+        "full_name": "lukekeyte/SIMBA",
+        "html_url": "https://github.com/lukekeyte/SIMBA",
+        "description": "SIMBA: Solver for Inferring Molecular aBundances in Astrophysical environments",
+        "created_at": "2025-07-02T10:08:56Z",
+        "updated_at": "2025-12-09T12:09:07Z",
+        "clone_url": "https://github.com/lukekeyte/SIMBA.git",
+        "size": 833,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/lukekeyte",
+            "avatar_url": "https://avatars.githubusercontent.com/u/45007726?v=4",
+            "login": "lukekeyte",
+            "type": "User"
+        },
+        "timestamp": "2026-06-14 02:31:59.491376",
+        "avatar": "https://avatars.githubusercontent.com/u/45007726?v=4"
+    }
+}
