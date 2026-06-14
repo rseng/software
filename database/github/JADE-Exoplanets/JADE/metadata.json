@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/JADE-Exoplanets/JADE",
+    "url": "https://github.com/JADE-Exoplanets/JADE",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025A%26A...700A..35A",
+            "https://scixplorer.org/abs/2021A%26A...647A..40A",
+            "https://emac.gsfc.nasa.gov?cid=2604-006",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft05014A/abstract"
+        ],
+        "title": "JADE: Joining Atmosphere and Dynamics for Exoplanets",
+        "url": "https://github.com/JADE-Exoplanets/JADE",
+        "name": "JADE",
+        "full_name": "JADE-Exoplanets/JADE",
+        "html_url": "https://github.com/JADE-Exoplanets/JADE",
+        "description": "Core implementation of the JADE (Joining Atmosphere and Dynamics for Exoplanets) model.",
+        "created_at": "2025-02-26T12:20:21Z",
+        "updated_at": "2025-09-18T20:21:00Z",
+        "clone_url": "https://github.com/JADE-Exoplanets/JADE.git",
+        "size": 4177,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/JADE-Exoplanets",
+            "avatar_url": "https://avatars.githubusercontent.com/u/200929376?v=4",
+            "login": "JADE-Exoplanets",
+            "type": "Organization"
+        },
+        "timestamp": "2026-06-14 02:32:03.368364",
+        "avatar": "https://avatars.githubusercontent.com/u/200929376?v=4"
+    }
+}

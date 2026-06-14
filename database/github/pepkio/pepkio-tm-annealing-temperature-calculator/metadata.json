@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/pepkio/pepkio-tm-annealing-temperature-calculator",
+    "url": "https://github.com/pepkio/pepkio-tm-annealing-temperature-calculator",
+    "data": {
+        "name": "pepkio-tm-annealing-temperature-calculator",
+        "url": "https://github.com/pepkio/pepkio-tm-annealing-temperature-calculator",
+        "full_name": "pepkio/pepkio-tm-annealing-temperature-calculator",
+        "html_url": "https://github.com/pepkio/pepkio-tm-annealing-temperature-calculator",
+        "private": false,
+        "description": "Python client for Pepkio tm-annealing-temperature-calculator tool",
+        "created_at": "2026-06-04T12:41:19Z",
+        "updated_at": "2026-06-07T01:13:57Z",
+        "clone_url": "https://github.com/pepkio/pepkio-tm-annealing-temperature-calculator.git",
+        "homepage": null,
+        "size": 39,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/pepkio",
+            "avatar_url": "https://avatars.githubusercontent.com/u/290573074?v=4",
+            "login": "pepkio",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2026-06-14 02:33:04.485983",
+        "avatar": "https://avatars.githubusercontent.com/u/290573074?v=4"
+    }
+}
