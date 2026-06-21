@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/naonori/ulptkit",
+    "url": "https://github.com/naonori/ulptkit",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025PhRvD.112l3504S",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft05020S/abstract"
+        ],
+        "title": "ulptkit: Unified Lagrangian Perturbation Theory Toolkit",
+        "url": "https://github.com/naonori/ulptkit",
+        "name": "ulptkit",
+        "full_name": "naonori/ulptkit",
+        "html_url": "https://github.com/naonori/ulptkit",
+        "description": "Unified Lagrangian Perturbation Theory (ULPT) toolkit for cosmological power spectra. Provides fast and consistent calculations of nonlinear matter, halo\u2013halo, and halo\u2013matter power spectra.",
+        "created_at": "2025-08-19T01:00:44Z",
+        "updated_at": "2025-09-05T06:28:01Z",
+        "clone_url": "https://github.com/naonori/ulptkit.git",
+        "size": 671,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/naonori",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9441428?v=4",
+            "login": "naonori",
+            "type": "User"
+        },
+        "timestamp": "2026-06-21 02:34:02.477741",
+        "avatar": "https://avatars.githubusercontent.com/u/9441428?v=4"
+    }
+}

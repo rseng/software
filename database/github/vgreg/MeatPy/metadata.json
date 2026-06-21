@@ -1,0 +1,47 @@
+{
+    "parser": "github",
+    "uid": "github/vgreg/MeatPy",
+    "url": "https://github.com/vgreg/MeatPy",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20470467",
+        "name": "MeatPy",
+        "url": "https://github.com/vgreg/MeatPy",
+        "full_name": "vgreg/MeatPy",
+        "html_url": "https://github.com/vgreg/MeatPy",
+        "description": "MeatPy",
+        "created_at": "2020-02-03T20:12:35Z",
+        "updated_at": "2026-06-15T10:53:31Z",
+        "clone_url": "https://github.com/vgreg/MeatPy.git",
+        "homepage": "http://www.vincentgregoire.com/MeatPy/",
+        "size": 6859,
+        "stargazers_count": 33,
+        "watchers_count": 33,
+        "language": "Python",
+        "open_issues_count": 11,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/vgreg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/16867586?v=4",
+            "login": "vgreg",
+            "type": "User"
+        },
+        "topics": [
+            "finance",
+            "financial-markets",
+            "high-frequency-trading",
+            "limit-order-book",
+            "itch",
+            "nasdaq-itch",
+            "order-book"
+        ],
+        "timestamp": "2026-06-21 02:34:33.673134",
+        "avatar": "https://avatars.githubusercontent.com/u/16867586?v=4"
+    }
+}
