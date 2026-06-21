@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/galaxyproteomics/tools-galaxyp",
+    "url": "https://github.com/galaxyproteomics/tools-galaxyp",
+    "data": {
+        "name": "tools-galaxyp",
+        "url": "https://github.com/galaxyproteomics/tools-galaxyp",
+        "full_name": "galaxyproteomics/tools-galaxyp",
+        "html_url": "https://github.com/galaxyproteomics/tools-galaxyp",
+        "private": false,
+        "description": "Galaxy Tool Shed repositories maintained and developed by the GalaxyP community",
+        "created_at": "2015-01-23T22:46:20Z",
+        "updated_at": "2026-06-05T10:06:55Z",
+        "clone_url": "https://github.com/galaxyproteomics/tools-galaxyp.git",
+        "homepage": null,
+        "size": 398328,
+        "stargazers_count": 36,
+        "watchers_count": 36,
+        "language": "JavaScript",
+        "open_issues_count": 111,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 14,
+        "owner": {
+            "html_url": "https://github.com/galaxyproteomics",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10677424?v=4",
+            "login": "galaxyproteomics",
+            "type": "Organization"
+        },
+        "topics": [],
+        "timestamp": "2026-06-21 02:35:03.193020",
+        "avatar": "https://avatars.githubusercontent.com/u/10677424?v=4"
+    }
+}

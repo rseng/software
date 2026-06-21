@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/darnstrom/LinearMPC.jl",
+    "url": "https://github.com/darnstrom/LinearMPC.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20693201",
+        "name": "LinearMPC.jl",
+        "url": "https://github.com/darnstrom/LinearMPC.jl",
+        "full_name": "darnstrom/LinearMPC.jl",
+        "html_url": "https://github.com/darnstrom/LinearMPC.jl",
+        "description": "Julia package for Model Predictive Control (MPC) of linear systems",
+        "created_at": "2022-04-17T19:17:13Z",
+        "updated_at": "2026-05-23T19:14:06Z",
+        "clone_url": "https://github.com/darnstrom/LinearMPC.jl.git",
+        "homepage": "https://darnstrom.github.io/LinearMPC.jl",
+        "size": 6196,
+        "stargazers_count": 20,
+        "watchers_count": 20,
+        "language": "Julia",
+        "open_issues_count": 6,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/darnstrom",
+            "avatar_url": "https://avatars.githubusercontent.com/u/55484604?v=4",
+            "login": "darnstrom",
+            "type": "User"
+        },
+        "timestamp": "2026-06-21 02:34:33.169963",
+        "avatar": "https://avatars.githubusercontent.com/u/55484604?v=4"
+    }
+}

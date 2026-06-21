@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/mcfit/slmpi_emcee",
+    "url": "https://github.com/mcfit/slmpi_emcee",
+    "data": {
+        "doi": [],
+        "title": "slmpi_emcee: MPI-parallelized S-Lang MCMC Hammer",
+        "url": "https://github.com/mcfit/slmpi_emcee",
+        "name": "slmpi_emcee",
+        "full_name": "mcfit/slmpi_emcee",
+        "html_url": "https://github.com/mcfit/slmpi_emcee",
+        "description": "slmpi_emcee - MPI-based Parallelization of the S-Lang MCMC Hammer",
+        "created_at": "2017-04-14T05:53:43Z",
+        "updated_at": "2026-06-04T18:13:51Z",
+        "clone_url": "https://github.com/mcfit/slmpi_emcee.git",
+        "homepage": "https://mcfit.github.io/slmpi_emcee/",
+        "size": 472,
+        "language": "Slash",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/mcfit",
+            "avatar_url": "https://avatars.githubusercontent.com/u/21207104?v=4",
+            "login": "mcfit",
+            "type": "Organization"
+        },
+        "topics": [
+            "mcmc",
+            "emcee",
+            "s-lang",
+            "isis",
+            "hammer",
+            "mpi",
+            "slmpi-emcee",
+            "heasoft"
+        ],
+        "timestamp": "2026-06-21 02:33:56.406377",
+        "avatar": "https://avatars.githubusercontent.com/u/21207104?v=4"
+    }
+}
