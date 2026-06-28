@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/stan-dev/posterior",
+    "url": "https://github.com/stan-dev/posterior",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20624569",
+        "name": "posterior",
+        "url": "https://github.com/stan-dev/posterior",
+        "full_name": "stan-dev/posterior",
+        "html_url": "https://github.com/stan-dev/posterior",
+        "description": "The posterior R package",
+        "created_at": "2019-10-01T16:30:28Z",
+        "updated_at": "2026-06-25T14:40:27Z",
+        "clone_url": "https://github.com/stan-dev/posterior.git",
+        "homepage": "https://mc-stan.org/posterior/",
+        "size": 7585,
+        "stargazers_count": 171,
+        "watchers_count": 171,
+        "language": "R",
+        "open_issues_count": 74,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 13,
+        "owner": {
+            "html_url": "https://github.com/stan-dev",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3374820?v=4",
+            "login": "stan-dev",
+            "type": "Organization"
+        },
+        "topics": [
+            "r-package",
+            "bayesian",
+            "mcmc",
+            "bayes"
+        ],
+        "timestamp": "2026-06-28 02:15:38.523785",
+        "avatar": "https://avatars.githubusercontent.com/u/3374820?v=4"
+    }
+}

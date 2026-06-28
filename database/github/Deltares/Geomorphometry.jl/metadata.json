@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/Deltares/Geomorphometry.jl",
+    "url": "https://github.com/Deltares/Geomorphometry.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.18904774",
+        "name": "Geomorphometry.jl",
+        "url": "https://github.com/Deltares/Geomorphometry.jl",
+        "full_name": "Deltares/Geomorphometry.jl",
+        "html_url": "https://github.com/Deltares/Geomorphometry.jl",
+        "description": "Analyzing and visualizing the shape of the Earth",
+        "created_at": "2019-05-11T11:54:44Z",
+        "updated_at": "2026-06-24T08:47:16Z",
+        "clone_url": "https://github.com/Deltares/Geomorphometry.jl.git",
+        "homepage": "https://deltares.github.io/Geomorphometry.jl/dev",
+        "size": 132531,
+        "stargazers_count": 20,
+        "watchers_count": 20,
+        "language": "Julia",
+        "open_issues_count": 15,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 6,
+        "owner": {
+            "html_url": "https://github.com/Deltares",
+            "avatar_url": "https://avatars.githubusercontent.com/u/6613768?v=4",
+            "login": "Deltares",
+            "type": "Organization"
+        },
+        "topics": [
+            "filter",
+            "terrain",
+            "dtm",
+            "julia",
+            "hacktoberfest",
+            "cost",
+            "friction",
+            "pcraster"
+        ],
+        "timestamp": "2026-06-28 02:15:43.355170",
+        "avatar": "https://avatars.githubusercontent.com/u/6613768?v=4"
+    }
+}
