@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/tao-bioinfo/gff3sort",
+    "url": "https://github.com/tao-bioinfo/gff3sort",
+    "data": {
+        "doi": "10.1186/s12859-017-1930-3",
+        "name": "gff3sort",
+        "url": "https://github.com/tao-bioinfo/gff3sort",
+        "full_name": "tao-bioinfo/gff3sort",
+        "html_url": "https://github.com/tao-bioinfo/gff3sort",
+        "description": "GFF3sort: A Perl Script to sort gff3 files and produce suitable results for tabix tools",
+        "created_at": "2017-05-09T02:40:37Z",
+        "updated_at": "2026-01-31T11:39:19Z",
+        "clone_url": "https://github.com/tao-bioinfo/gff3sort.git",
+        "size": 45,
+        "stargazers_count": 50,
+        "watchers_count": 50,
+        "language": "Perl",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/tao-bioinfo",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1146090?v=4",
+            "login": "tao-bioinfo",
+            "type": "User"
+        },
+        "topics": [
+            "gff3",
+            "tabix",
+            "bgzip"
+        ],
+        "timestamp": "2026-06-28 02:16:33.439812",
+        "avatar": "https://avatars.githubusercontent.com/u/1146090?v=4"
+    }
+}
