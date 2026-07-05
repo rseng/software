@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/KylleV/SMILES-Mapper",
+    "url": "https://github.com/KylleV/SMILES-Mapper",
+    "data": {
+        "name": "SMILES-Mapper",
+        "url": "https://github.com/KylleV/SMILES-Mapper",
+        "full_name": "KylleV/SMILES-Mapper",
+        "html_url": "https://github.com/KylleV/SMILES-Mapper",
+        "private": false,
+        "description": "Small web-app allowing interactive vizualization of how chemical string and files like SMILES, InChi and .mol/.sdf are created ",
+        "created_at": "2023-06-15T11:29:54Z",
+        "updated_at": "2025-05-05T14:56:09Z",
+        "clone_url": "https://github.com/KylleV/SMILES-Mapper.git",
+        "homepage": "https://kyll.dk/SMILES-Mapper/",
+        "size": 371,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "JavaScript",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/KylleV",
+            "avatar_url": "https://avatars.githubusercontent.com/u/117160194?v=4",
+            "login": "KylleV",
+            "type": "User"
+        },
+        "topics": [
+            "chemistry",
+            "chemoinformatics",
+            "inchi",
+            "inchi-string",
+            "molecule",
+            "smiles",
+            "smiles-strings",
+            "visualization"
+        ],
+        "timestamp": "2026-07-05 01:56:39.065379",
+        "avatar": "https://avatars.githubusercontent.com/u/117160194?v=4"
+    }
+}
