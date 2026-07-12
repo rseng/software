@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/EayonYang/GONet",
+    "url": "https://github.com/EayonYang/GONet",
+    "data": {
+        "name": "GONet",
+        "url": "https://github.com/EayonYang/GONet",
+        "full_name": "EayonYang/GONet",
+        "html_url": "https://github.com/EayonYang/GONet",
+        "private": false,
+        "description": "GONet: Graph Neural Network-Oriented Multi-Omics Integration Network for Cancer Classification",
+        "created_at": "2025-03-05T01:48:25Z",
+        "updated_at": "2026-06-22T04:23:07Z",
+        "clone_url": "https://github.com/EayonYang/GONet.git",
+        "homepage": "",
+        "size": 211396,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/EayonYang",
+            "avatar_url": "https://avatars.githubusercontent.com/u/95112283?v=4",
+            "login": "EayonYang",
+            "type": "User"
+        },
+        "topics": [
+            "cancer-classification",
+            "gnn",
+            "multi-omics-integration",
+            "proteomics"
+        ],
+        "timestamp": "2026-07-12 01:29:31.641619",
+        "avatar": "https://avatars.githubusercontent.com/u/95112283?v=4"
+    }
+}
