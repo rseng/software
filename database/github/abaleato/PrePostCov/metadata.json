@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/abaleato/PrePostCov",
+    "url": "https://github.com/abaleato/PrePostCov",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026JCAP...05..078M",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft06018M/abstract"
+        ],
+        "title": "PrePostConv: Analytic covariance for Pk and post-reconstruction correlation function",
+        "url": "https://github.com/abaleato/PrePostCov",
+        "name": "PrePostCov",
+        "full_name": "abaleato/PrePostCov",
+        "html_url": "https://github.com/abaleato/PrePostCov",
+        "description": "Analytic covariance for Pk and post-reconstruction correlation function",
+        "created_at": "2025-10-16T22:46:09Z",
+        "updated_at": "2026-03-25T05:12:28Z",
+        "clone_url": "https://github.com/abaleato/PrePostCov.git",
+        "size": 9950,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/abaleato",
+            "avatar_url": "https://avatars.githubusercontent.com/u/48951377?v=4",
+            "login": "abaleato",
+            "type": "User"
+        },
+        "timestamp": "2026-07-12 01:28:46.246946",
+        "avatar": "https://avatars.githubusercontent.com/u/48951377?v=4"
+    }
+}
