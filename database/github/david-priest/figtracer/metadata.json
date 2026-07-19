@@ -1,0 +1,55 @@
+{
+    "parser": "github",
+    "uid": "github/david-priest/figtracer",
+    "url": "https://github.com/david-priest/figtracer",
+    "data": {
+        "doi": "10.5281/zenodo.21288980",
+        "name": "figtracer",
+        "url": "https://github.com/david-priest/figtracer",
+        "full_name": "david-priest/figtracer",
+        "html_url": "https://github.com/david-priest/figtracer",
+        "description": "Plain-text, git-tracked electronic lab notebook (ELN) for reproducible bioinformatics \u2014 threads your R & Python figures into living lab notes with full provenance. Built for single-cell / CyTOF / flow cytometry; works with Obsidian, Quarto & Jupyter.",
+        "created_at": "2026-07-10T05:07:22Z",
+        "updated_at": "2026-07-16T08:30:51Z",
+        "clone_url": "https://github.com/david-priest/figtracer.git",
+        "size": 2229,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/david-priest",
+            "avatar_url": "https://avatars.githubusercontent.com/u/102946781?v=4",
+            "login": "david-priest",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "cytometry",
+            "electronic-lab-notebook",
+            "provenance",
+            "python",
+            "r",
+            "reproducibility",
+            "single-cell",
+            "cytof",
+            "data-provenance",
+            "eln",
+            "flow-cytometry",
+            "jupyter",
+            "lab-notebook",
+            "mass-cytometry",
+            "obsidian",
+            "open-science",
+            "quarto",
+            "reproducible-research",
+            "research-software"
+        ],
+        "timestamp": "2026-07-19 01:27:20.580810",
+        "avatar": "https://avatars.githubusercontent.com/u/102946781?v=4"
+    }
+}
