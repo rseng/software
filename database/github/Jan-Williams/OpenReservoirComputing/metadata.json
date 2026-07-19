@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/Jan-Williams/OpenReservoirComputing",
+    "url": "https://github.com/Jan-Williams/OpenReservoirComputing",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.20332334",
+        "name": "OpenReservoirComputing",
+        "url": "https://github.com/Jan-Williams/OpenReservoirComputing",
+        "full_name": "Jan-Williams/OpenReservoirComputing",
+        "html_url": "https://github.com/Jan-Williams/OpenReservoirComputing",
+        "description": "Differentiable, efficient, and extensible reservoir computing models for forecasting, control, and classification, all in JAX",
+        "created_at": "2025-03-04T19:05:25Z",
+        "updated_at": "2026-07-15T05:57:35Z",
+        "clone_url": "https://github.com/Jan-Williams/OpenReservoirComputing.git",
+        "homepage": "https://jan-williams.github.io/OpenReservoirComputing/",
+        "size": 185629,
+        "stargazers_count": 13,
+        "watchers_count": 13,
+        "language": "Python",
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/Jan-Williams",
+            "avatar_url": "https://avatars.githubusercontent.com/u/111311866?v=4",
+            "login": "Jan-Williams",
+            "type": "User"
+        },
+        "timestamp": "2026-07-19 01:26:56.974023",
+        "avatar": "https://avatars.githubusercontent.com/u/111311866?v=4"
+    }
+}
