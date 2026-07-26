@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/bregaldo/pywph",
+    "url": "https://github.com/bregaldo/pywph",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2021A%26A...649L..18R",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft06014R/abstract"
+        ],
+        "title": "PyWPH: Wavelet Phase Harmonics in Python",
+        "url": "https://github.com/bregaldo/pywph",
+        "name": "pywph",
+        "full_name": "bregaldo/pywph",
+        "html_url": "https://github.com/bregaldo/pywph",
+        "description": "Wavelet Phase Harmonics in PyTorch for Images",
+        "created_at": "2021-03-08T10:37:18Z",
+        "updated_at": "2026-03-20T02:55:27Z",
+        "clone_url": "https://github.com/bregaldo/pywph.git",
+        "size": 12956,
+        "stargazers_count": 20,
+        "watchers_count": 20,
+        "language": "Python",
+        "open_issues_count": 2,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/bregaldo",
+            "avatar_url": "https://avatars.githubusercontent.com/u/30353945?v=4",
+            "login": "bregaldo",
+            "type": "User"
+        },
+        "timestamp": "2026-07-26 01:32:21.473264",
+        "avatar": "https://avatars.githubusercontent.com/u/30353945?v=4"
+    }
+}

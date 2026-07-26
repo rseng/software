@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/connerlambden/refute-inspect",
+    "url": "https://github.com/connerlambden/refute-inspect",
+    "data": {
+        "doi": [],
+        "title": "REFUTE: Scientific Critique and Calibration Benchmark for LLMs",
+        "url": "https://github.com/connerlambden/refute-inspect",
+        "name": "refute-inspect",
+        "full_name": "connerlambden/refute-inspect",
+        "html_url": "https://github.com/connerlambden/refute-inspect",
+        "description": "REFUTE: scientific critique + calibration benchmark for LLMs (Inspect AI task). Paper-grounded claims \u2192 predictions \u2192 judge scores \u2192 Brier/ECE.",
+        "created_at": "2026-06-05T04:23:12Z",
+        "updated_at": "2026-07-25T00:21:27Z",
+        "clone_url": "https://github.com/connerlambden/refute-inspect.git",
+        "homepage": "https://bgpt.pro/refute",
+        "size": 17,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 2,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/connerlambden",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9061871?v=4",
+            "login": "connerlambden",
+            "type": "User"
+        },
+        "topics": [
+            "benchmark",
+            "brier-score",
+            "calibration",
+            "epistemic-calibration",
+            "inspect-ai",
+            "llm-evaluation",
+            "scientific-ai",
+            "science-nlp"
+        ],
+        "timestamp": "2026-07-26 01:32:14.620274",
+        "avatar": "https://avatars.githubusercontent.com/u/9061871?v=4"
+    }
+}

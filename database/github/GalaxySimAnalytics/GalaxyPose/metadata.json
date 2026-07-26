@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/GalaxySimAnalytics/GalaxyPose",
+    "url": "https://github.com/GalaxySimAnalytics/GalaxyPose",
+    "data": {
+        "doi": [],
+        "title": "GalaxyPose: Galaxy Trajectory and Orientation Modeling from Cosmological Simulations",
+        "url": "https://github.com/GalaxySimAnalytics/GalaxyPose",
+        "name": "GalaxyPose",
+        "full_name": "GalaxySimAnalytics/GalaxyPose",
+        "html_url": "https://github.com/GalaxySimAnalytics/GalaxyPose",
+        "description": "Track and model galaxy positions and trajectories in cosmological simulations",
+        "created_at": "2025-09-08T05:54:17Z",
+        "updated_at": "2026-05-08T07:19:49Z",
+        "clone_url": "https://github.com/GalaxySimAnalytics/GalaxyPose.git",
+        "size": 17162,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/GalaxySimAnalytics",
+            "avatar_url": "https://avatars.githubusercontent.com/u/217324922?v=4",
+            "login": "GalaxySimAnalytics",
+            "type": "Organization"
+        },
+        "timestamp": "2026-07-26 01:32:15.614184",
+        "avatar": "https://avatars.githubusercontent.com/u/217324922?v=4"
+    }
+}
