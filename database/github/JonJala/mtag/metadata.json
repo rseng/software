@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/JonJala/mtag",
+    "url": "https://github.com/JonJala/mtag",
+    "data": {
+        "doi": "10.1038/s41588-017-0009-4",
+        "name": "mtag",
+        "url": "https://github.com/JonJala/mtag",
+        "full_name": "JonJala/mtag",
+        "html_url": "https://github.com/JonJala/mtag",
+        "description": "Python command line tool for Multi-Trait Analysis of GWAS (MTAG)",
+        "created_at": "2017-03-16T21:20:01Z",
+        "updated_at": "2026-07-17T02:25:46Z",
+        "clone_url": "https://github.com/JonJala/mtag.git",
+        "size": 44180,
+        "stargazers_count": 213,
+        "watchers_count": 213,
+        "language": "Python",
+        "open_issues_count": 168,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 15,
+        "owner": {
+            "html_url": "https://github.com/JonJala",
+            "avatar_url": "https://avatars.githubusercontent.com/u/64021239?v=4",
+            "login": "JonJala",
+            "type": "User"
+        },
+        "topics": [
+            "statistical-genetics",
+            "gwas",
+            "multi-trait-analysis",
+            "mtag"
+        ],
+        "timestamp": "2026-07-26 01:33:11.086768",
+        "avatar": "https://avatars.githubusercontent.com/u/64021239?v=4"
+    }
+}

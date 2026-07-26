@@ -1,0 +1,47 @@
+{
+    "parser": "github",
+    "uid": "github/mparmol/gcscreen",
+    "url": "https://github.com/mparmol/gcscreen",
+    "data": {
+        "name": "gcscreen",
+        "url": "https://github.com/mparmol/gcscreen",
+        "full_name": "mparmol/gcscreen",
+        "html_url": "https://github.com/mparmol/gcscreen",
+        "private": false,
+        "description": "Kinetic growth-curve analysis pipeline for 96-well phenotypic screens (R package)",
+        "created_at": "2026-06-15T08:21:47Z",
+        "updated_at": "2026-07-23T09:04:00Z",
+        "clone_url": "https://github.com/mparmol/gcscreen.git",
+        "homepage": "",
+        "size": 169,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/mparmol",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2676204?v=4",
+            "login": "mparmol",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "growth-curves",
+            "high-throughput-screening",
+            "linear-mixed-models",
+            "r-package",
+            "yeast",
+            "b-score"
+        ],
+        "timestamp": "2026-07-26 01:33:07.485248",
+        "avatar": "https://avatars.githubusercontent.com/u/2676204?v=4"
+    }
+}
