@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/cralibe/MetaCommunityMetrics.jl",
+    "url": "https://github.com/cralibe/MetaCommunityMetrics.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21420274",
+        "name": "MetaCommunityMetrics.jl",
+        "url": "https://github.com/cralibe/MetaCommunityMetrics.jl",
+        "full_name": "cralibe/MetaCommunityMetrics.jl",
+        "html_url": "https://github.com/cralibe/MetaCommunityMetrics.jl",
+        "description": "MetaCommunityMetrics is a collection of tools and utilities for analyzing meta-communities in Julia. The current version is compatible with Julia 1.10 and above.",
+        "created_at": "2024-05-04T21:05:02Z",
+        "updated_at": "2026-07-24T00:41:49Z",
+        "clone_url": "https://github.com/cralibe/MetaCommunityMetrics.jl.git",
+        "homepage": "https://cralibe.github.io/MetaCommunityMetrics.jl/",
+        "size": 32520,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Julia",
+        "open_issues_count": 11,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/cralibe",
+            "avatar_url": "https://avatars.githubusercontent.com/u/89675190?v=4",
+            "login": "cralibe",
+            "type": "User"
+        },
+        "timestamp": "2026-08-02 01:32:03.342416",
+        "avatar": "https://avatars.githubusercontent.com/u/89675190?v=4"
+    }
+}

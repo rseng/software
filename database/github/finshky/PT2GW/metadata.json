@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/finshky/PT2GW",
+    "url": "https://github.com/finshky/PT2GW",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026CoPhC.32310119B",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07009B/abstract"
+        ],
+        "title": "PT2GWFinder: Cosmological first-order phase transitions and gravitational-wave spectra",
+        "url": "https://github.com/finshky/PT2GW",
+        "name": "PT2GW",
+        "full_name": "finshky/PT2GW",
+        "html_url": "https://github.com/finshky/PT2GW",
+        "description": "Search for 1^st-order phase transitions and compute gravitational wave spectra.",
+        "created_at": "2025-04-08T14:55:42Z",
+        "updated_at": "2026-06-17T14:08:53Z",
+        "clone_url": "https://github.com/finshky/PT2GW.git",
+        "size": 39333,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "Limbo",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/finshky",
+            "avatar_url": "https://avatars.githubusercontent.com/u/106095971?v=4",
+            "login": "finshky",
+            "type": "User"
+        },
+        "timestamp": "2026-08-02 01:31:32.475927",
+        "avatar": "https://avatars.githubusercontent.com/u/106095971?v=4"
+    }
+}

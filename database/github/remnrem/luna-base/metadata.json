@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/remnrem/luna-base",
+    "url": "https://github.com/remnrem/luna-base",
+    "data": {
+        "title": "Luna",
+        "url": "https://github.com/remnrem/luna-base",
+        "credit": [],
+        "tags": [
+            "image-analysis-libraries"
+        ],
+        "description": "Luna software for sleep EEG analysis (base)",
+        "name": "luna-base",
+        "full_name": "remnrem/luna-base",
+        "html_url": "https://github.com/remnrem/luna-base",
+        "created_at": "2020-08-12T14:49:35Z",
+        "updated_at": "2026-07-24T14:14:07Z",
+        "clone_url": "https://github.com/remnrem/luna-base.git",
+        "homepage": "http://zzz.bwh.harvard.edu/luna/",
+        "size": 22057,
+        "stargazers_count": 33,
+        "watchers_count": 33,
+        "language": "C",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/remnrem",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1075303?v=4",
+            "login": "remnrem",
+            "type": "User"
+        },
+        "topics": [
+            "sleep",
+            "eeg",
+            "eeg-analysis",
+            "sleep-research",
+            "sleep-analysis"
+        ],
+        "timestamp": "2026-08-02 01:33:56.339417",
+        "avatar": "https://avatars.githubusercontent.com/u/1075303?v=4"
+    }
+}

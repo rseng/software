@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/egafton/visplot",
+    "url": "https://github.com/egafton/visplot",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2016ExA....42..319L",
+            "https://scixplorer.org/abs/2026arXiv260414151G",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07020G/abstract"
+        ],
+        "title": "Visplot: Hardware-aware visibility and scheduling for telescopes",
+        "url": "https://github.com/egafton/visplot",
+        "name": "visplot",
+        "full_name": "egafton/visplot",
+        "html_url": "https://github.com/egafton/visplot",
+        "description": "Visibility plot and observation scheduling tool for telescopes. It allows automatic, nearly-optimal scheduling of an entire observing night.",
+        "created_at": "2018-10-05T08:09:50Z",
+        "updated_at": "2026-07-29T04:39:50Z",
+        "clone_url": "https://github.com/egafton/visplot.git",
+        "size": 13930,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "JavaScript",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/egafton",
+            "avatar_url": "https://avatars.githubusercontent.com/u/43875696?v=4",
+            "login": "egafton",
+            "type": "User"
+        },
+        "timestamp": "2026-08-02 01:31:27.697697",
+        "avatar": "https://avatars.githubusercontent.com/u/43875696?v=4"
+    }
+}

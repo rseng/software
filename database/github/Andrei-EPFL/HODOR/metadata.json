@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/Andrei-EPFL/HODOR",
+    "url": "https://github.com/Andrei-EPFL/HODOR",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2024MNRAS.52711539V",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft06016V/abstract"
+        ],
+        "title": "HODOR: Halo Occupation Distribution Optimization Routine",
+        "url": "https://github.com/Andrei-EPFL/HODOR",
+        "name": "HODOR",
+        "full_name": "Andrei-EPFL/HODOR",
+        "html_url": "https://github.com/Andrei-EPFL/HODOR",
+        "description": "HOD Optimization Routine",
+        "created_at": "2022-12-09T14:17:53Z",
+        "updated_at": "2025-08-14T14:47:25Z",
+        "clone_url": "https://github.com/Andrei-EPFL/HODOR.git",
+        "size": 370,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "open_issues_count": 3,
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/Andrei-EPFL",
+            "avatar_url": "https://avatars.githubusercontent.com/u/55141699?v=4",
+            "login": "Andrei-EPFL",
+            "type": "User"
+        },
+        "timestamp": "2026-08-02 01:31:40.235528",
+        "avatar": "https://avatars.githubusercontent.com/u/55141699?v=4"
+    }
+}
