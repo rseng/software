@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/automl/Mighty",
+    "url": "https://github.com/automl/Mighty",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21329992",
+        "name": "Mighty",
+        "url": "https://github.com/automl/Mighty",
+        "full_name": "automl/Mighty",
+        "html_url": "https://github.com/automl/Mighty",
+        "description": "The Mighty cRL library you've been looking for! :muscle:",
+        "created_at": "2021-05-27T14:55:26Z",
+        "updated_at": "2026-08-01T13:44:49Z",
+        "clone_url": "https://github.com/automl/Mighty.git",
+        "homepage": "https://automl.github.io/Mighty/",
+        "size": 335655,
+        "stargazers_count": 60,
+        "watchers_count": 60,
+        "language": "Python",
+        "open_issues_count": 19,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 8,
+        "owner": {
+            "html_url": "https://github.com/automl",
+            "avatar_url": "https://avatars.githubusercontent.com/u/6469053?v=4",
+            "login": "automl",
+            "type": "Organization"
+        },
+        "topics": [
+            "reinforcement-learning",
+            "contextual-reinforcement-learning",
+            "dynamic-algorithm-configuration",
+            "carl",
+            "dacbench"
+        ],
+        "timestamp": "2026-08-02 01:32:04.989073",
+        "avatar": "https://avatars.githubusercontent.com/u/6469053?v=4"
+    }
+}

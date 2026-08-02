@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/stfc/dl_py2f",
+    "url": "https://github.com/stfc/dl_py2f",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21479185",
+        "name": "dl_py2f",
+        "url": "https://github.com/stfc/dl_py2f",
+        "full_name": "stfc/dl_py2f",
+        "html_url": "https://github.com/stfc/dl_py2f",
+        "description": "DL_PY2F: A library for Python-Fortran interoperability",
+        "created_at": "2025-03-13T23:29:41Z",
+        "updated_at": "2026-07-28T19:27:34Z",
+        "clone_url": "https://github.com/stfc/dl_py2f.git",
+        "size": 870,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "lgpl-3.0",
+            "name": "GNU Lesser General Public License v3.0",
+            "spdx_id": "LGPL-3.0",
+            "url": "https://api.github.com/licenses/lgpl-3.0",
+            "node_id": "MDc6TGljZW5zZTEy"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/stfc",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3727936?v=4",
+            "login": "stfc",
+            "type": "Organization"
+        },
+        "topics": [
+            "fortran",
+            "python"
+        ],
+        "timestamp": "2026-08-02 01:32:07.502636",
+        "avatar": "https://avatars.githubusercontent.com/u/3727936?v=4"
+    }
+}

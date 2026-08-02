@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/jeraud/TESS-Transformer",
+    "url": "https://github.com/jeraud/TESS-Transformer",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026arXiv260407437G",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07015G/abstract"
+        ],
+        "title": "ASTRAFier: Transformer-based variability classifier for TESS light curves",
+        "url": "https://github.com/jeraud/TESS-Transformer",
+        "name": "TESS-Transformer",
+        "full_name": "jeraud/TESS-Transformer",
+        "html_url": "https://github.com/jeraud/TESS-Transformer",
+        "description": "ASTRAFier: a transformer-based variability classifier for TESS light curves",
+        "created_at": "2024-05-13T20:28:06Z",
+        "updated_at": "2026-06-09T11:53:58Z",
+        "clone_url": "https://github.com/jeraud/TESS-Transformer.git",
+        "size": 326490,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/jeraud",
+            "avatar_url": "https://avatars.githubusercontent.com/u/41162303?v=4",
+            "login": "jeraud",
+            "type": "User"
+        },
+        "timestamp": "2026-08-02 01:31:29.767388",
+        "avatar": "https://avatars.githubusercontent.com/u/41162303?v=4"
+    }
+}
