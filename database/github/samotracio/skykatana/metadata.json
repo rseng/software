@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/samotracio/skykatana",
+    "url": "https://github.com/samotracio/skykatana",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026A%26C....5501083L",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08007D/abstract"
+        ],
+        "title": "Skykatana: Create pixelized spatial masks for large astronomical surveys",
+        "url": "https://github.com/samotracio/skykatana",
+        "name": "skykatana",
+        "full_name": "samotracio/skykatana",
+        "html_url": "https://github.com/samotracio/skykatana",
+        "description": "A package to create pixelized spatial masks for large astronomical surveys",
+        "created_at": "2024-09-13T04:57:50Z",
+        "updated_at": "2026-04-22T06:54:16Z",
+        "clone_url": "https://github.com/samotracio/skykatana.git",
+        "homepage": "https://skykatana.readthedocs.io/en/latest/",
+        "size": 119720,
+        "stargazers_count": 11,
+        "watchers_count": 11,
+        "language": "Jupyter Notebook",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/samotracio",
+            "avatar_url": "https://avatars.githubusercontent.com/u/11754477?v=4",
+            "login": "samotracio",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:39.108654",
+        "avatar": "https://avatars.githubusercontent.com/u/11754477?v=4"
+    }
+}

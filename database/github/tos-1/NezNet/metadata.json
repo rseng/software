@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/tos-1/NezNet",
+    "url": "https://github.com/tos-1/NezNet",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2023A%26A...672A.150T",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07027T/abstract"
+        ],
+        "title": "NezNet: Graph-based classifier for cleaning photometric catalogs with spectroscopic neighbors",
+        "url": "https://github.com/tos-1/NezNet",
+        "name": "NezNet",
+        "full_name": "tos-1/NezNet",
+        "html_url": "https://github.com/tos-1/NezNet",
+        "description": "NezNet: GNN model to detect outliers in a catalogue with spectroscopic samples",
+        "created_at": "2022-11-03T10:05:23Z",
+        "updated_at": "2024-04-15T06:51:14Z",
+        "clone_url": "https://github.com/tos-1/NezNet.git",
+        "size": 10421,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/tos-1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49656847?v=4",
+            "login": "tos-1",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:45.296541",
+        "avatar": "https://avatars.githubusercontent.com/u/49656847?v=4"
+    }
+}

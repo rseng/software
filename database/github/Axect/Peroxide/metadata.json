@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/Axect/Peroxide",
+    "url": "https://github.com/Axect/Peroxide",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21754256",
+        "name": "Peroxide",
+        "url": "https://github.com/Axect/Peroxide",
+        "full_name": "Axect/Peroxide",
+        "html_url": "https://github.com/Axect/Peroxide",
+        "description": "Rust numeric library with high performance and friendly syntax",
+        "created_at": "2018-04-20T18:38:06Z",
+        "updated_at": "2026-08-15T18:18:15Z",
+        "clone_url": "https://github.com/Axect/Peroxide.git",
+        "homepage": "https://crates.io/crates/peroxide",
+        "size": 14580,
+        "stargazers_count": 724,
+        "watchers_count": 724,
+        "language": "Rust",
+        "open_issues_count": 11,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 15,
+        "owner": {
+            "html_url": "https://github.com/Axect",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17744450?v=4",
+            "login": "Axect",
+            "type": "User"
+        },
+        "topics": [
+            "rust",
+            "scientific-computing",
+            "linear-algebra",
+            "matrix",
+            "statistics",
+            "matlab",
+            "interpolation",
+            "spline",
+            "determinant",
+            "r",
+            "peroxide",
+            "jacobian",
+            "simd-openblas",
+            "rust-numeric-library",
+            "regression",
+            "optimization",
+            "numerical-analysis",
+            "dataframe",
+            "numerical-integration",
+            "ordinary-differential-equations"
+        ],
+        "timestamp": "2026-08-16 00:38:43.582674",
+        "avatar": "https://avatars.githubusercontent.com/u/17744450?v=4"
+    }
+}

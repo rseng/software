@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/LSSTDESC/hpgeom",
+    "url": "https://github.com/LSSTDESC/hpgeom",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2025MNRAS.543.4156Y",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08005R/abstract"
+        ],
+        "title": "HPGeom: NumPy interface for HEALPix geometry",
+        "url": "https://github.com/LSSTDESC/hpgeom",
+        "name": "hpgeom",
+        "full_name": "LSSTDESC/hpgeom",
+        "html_url": "https://github.com/LSSTDESC/hpgeom",
+        "description": "Lightweight implementation of HEALPix geometry functions, wrapped in a numpy interface",
+        "created_at": "2022-06-09T16:17:44Z",
+        "updated_at": "2026-02-24T18:34:53Z",
+        "clone_url": "https://github.com/LSSTDESC/hpgeom.git",
+        "size": 623,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "C",
+        "open_issues_count": 2,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/LSSTDESC",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2731443?v=4",
+            "login": "LSSTDESC",
+            "type": "Organization"
+        },
+        "timestamp": "2026-08-16 00:37:40.497383",
+        "avatar": "https://avatars.githubusercontent.com/u/2731443?v=4"
+    }
+}

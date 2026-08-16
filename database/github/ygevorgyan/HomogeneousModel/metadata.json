@@ -1,0 +1,29 @@
+{
+    "parser": "github",
+    "uid": "github/ygevorgyan/HomogeneousModel",
+    "url": "https://github.com/ygevorgyan/HomogeneousModel",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026A%26A...710A..93G",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08021G/abstract"
+        ],
+        "title": "HEB: Generalized Voigt rheologies for layered tidal bodies",
+        "url": "https://github.com/ygevorgyan/HomogeneousModel",
+        "name": "HomogeneousModel",
+        "full_name": "ygevorgyan/HomogeneousModel",
+        "html_url": "https://github.com/ygevorgyan/HomogeneousModel",
+        "created_at": "2026-03-13T13:45:31Z",
+        "updated_at": "2026-05-10T11:47:12Z",
+        "clone_url": "https://github.com/ygevorgyan/HomogeneousModel.git",
+        "size": 1132,
+        "language": "Wolfram Language",
+        "owner": {
+            "html_url": "https://github.com/ygevorgyan",
+            "avatar_url": "https://avatars.githubusercontent.com/u/245894405?v=4",
+            "login": "ygevorgyan",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:29.734547",
+        "avatar": "https://avatars.githubusercontent.com/u/245894405?v=4"
+    }
+}

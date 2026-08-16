@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/polyquantique/haarpy",
+    "url": "https://github.com/polyquantique/haarpy",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21909566",
+        "name": "haarpy",
+        "url": "https://github.com/polyquantique/haarpy",
+        "full_name": "polyquantique/haarpy",
+        "html_url": "https://github.com/polyquantique/haarpy",
+        "description": "Haarpy: a Python library for symbolic Weingarten calculus",
+        "created_at": "2024-05-30T20:30:02Z",
+        "updated_at": "2026-08-13T14:14:29Z",
+        "clone_url": "https://github.com/polyquantique/haarpy.git",
+        "homepage": "https://github.com/polyquantique/haarpy",
+        "size": 853,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Python",
+        "open_issues_count": 9,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "owner": {
+            "html_url": "https://github.com/polyquantique",
+            "avatar_url": "https://avatars.githubusercontent.com/u/89110844?v=4",
+            "login": "polyquantique",
+            "type": "Organization"
+        },
+        "topics": [
+            "group-theory",
+            "quantum-information",
+            "haar-measure",
+            "random-matrix-theory"
+        ],
+        "timestamp": "2026-08-16 00:38:39.318481",
+        "avatar": "https://avatars.githubusercontent.com/u/89110844?v=4"
+    }
+}

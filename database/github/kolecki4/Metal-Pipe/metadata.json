@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/kolecki4/Metal-Pipe",
+    "url": "https://github.com/kolecki4/Metal-Pipe",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026ApJ...998..342K",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft06007K/abstract"
+        ],
+        "title": "Metal Pipe: Line-by-line stellar spectrum fitting for abundance analysis",
+        "url": "https://github.com/kolecki4/Metal-Pipe",
+        "name": "Metal-Pipe",
+        "full_name": "kolecki4/Metal-Pipe",
+        "html_url": "https://github.com/kolecki4/Metal-Pipe",
+        "created_at": "2024-08-06T19:42:19Z",
+        "updated_at": "2026-08-05T18:07:34Z",
+        "clone_url": "https://github.com/kolecki4/Metal-Pipe.git",
+        "size": 97446,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Fortran",
+        "open_issues_count": 2,
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/kolecki4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/55369795?v=4",
+            "login": "kolecki4",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:38:13.589780",
+        "avatar": "https://avatars.githubusercontent.com/u/55369795?v=4"
+    }
+}

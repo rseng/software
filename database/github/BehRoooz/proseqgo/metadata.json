@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/BehRoooz/proseqgo",
+    "url": "https://github.com/BehRoooz/proseqgo",
+    "data": {
+        "name": "proseqgo",
+        "url": "https://github.com/BehRoooz/proseqgo",
+        "full_name": "BehRoooz/proseqgo",
+        "html_url": "https://github.com/BehRoooz/proseqgo",
+        "private": false,
+        "description": "End-to-end MLOps platform for protein function prediction (sequence -> embedding -> 1D CNN -> GO terms), with model lifecycle management, secured gateway routing, and production-oriented monitoring.",
+        "created_at": "2026-03-24T13:21:49Z",
+        "updated_at": "2026-08-09T15:41:40Z",
+        "clone_url": "https://github.com/BehRoooz/proseqgo.git",
+        "homepage": "proseqgo.com",
+        "size": 29049,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": null,
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/BehRoooz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32821144?v=4",
+            "login": "BehRoooz",
+            "type": "User"
+        },
+        "topics": [
+            "1d-cnn",
+            "embedding-models",
+            "bioinformatics",
+            "data-science",
+            "fastapi",
+            "grafana",
+            "mlflow",
+            "mlops",
+            "monitoring",
+            "nginx",
+            "prometheus",
+            "streamlit",
+            "protein-function-predictor",
+            "protein"
+        ],
+        "timestamp": "2026-08-16 00:39:18.541956",
+        "avatar": "https://avatars.githubusercontent.com/u/32821144?v=4"
+    }
+}

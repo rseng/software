@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/LouisDesdoigts/zodiax",
+    "url": "https://github.com/LouisDesdoigts/zodiax",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026PASA...43...75D",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08028D/abstract"
+        ],
+        "title": "Zodiax: Differentiable object-oriented modeling and inference with JAX",
+        "url": "https://github.com/LouisDesdoigts/zodiax",
+        "name": "zodiax",
+        "full_name": "LouisDesdoigts/zodiax",
+        "html_url": "https://github.com/LouisDesdoigts/zodiax",
+        "description": "Object-oriented Jax framework extending Equinox for scientific programming",
+        "created_at": "2022-11-14T06:11:20Z",
+        "updated_at": "2026-07-08T12:59:50Z",
+        "clone_url": "https://github.com/LouisDesdoigts/zodiax.git",
+        "homepage": "https://louisdesdoigts.github.io/zodiax/",
+        "size": 16748,
+        "stargazers_count": 27,
+        "watchers_count": 27,
+        "language": "Python",
+        "open_issues_count": 8,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/LouisDesdoigts",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42196907?v=4",
+            "login": "LouisDesdoigts",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:24.522593",
+        "avatar": "https://avatars.githubusercontent.com/u/42196907?v=4"
+    }
+}
