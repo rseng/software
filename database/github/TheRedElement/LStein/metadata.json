@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/TheRedElement/LStein",
+    "url": "https://github.com/TheRedElement/LStein",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026arXiv260424034S",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07001S/abstract"
+        ],
+        "title": "LStein: Visualizing sparse 2.5-dimensional data",
+        "url": "https://github.com/TheRedElement/LStein",
+        "name": "LStein",
+        "full_name": "TheRedElement/LStein",
+        "html_url": "https://github.com/TheRedElement/LStein",
+        "created_at": "2025-05-02T05:11:28Z",
+        "updated_at": "2026-07-14T00:20:30Z",
+        "clone_url": "https://github.com/TheRedElement/LStein.git",
+        "size": 47218,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/TheRedElement",
+            "avatar_url": "https://avatars.githubusercontent.com/u/82433625?v=4",
+            "login": "TheRedElement",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:38:01.762988",
+        "avatar": "https://avatars.githubusercontent.com/u/82433625?v=4"
+    }
+}

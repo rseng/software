@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/Manaffel/SIMTERFERE",
+    "url": "https://github.com/Manaffel/SIMTERFERE",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026A%26A...708A.367S",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07029S/abstract"
+        ],
+        "title": "SIMTERFERE: Assessing interferometric stability and optimizing the characterization of directly imaged exoplanets",
+        "url": "https://github.com/Manaffel/SIMTERFERE",
+        "name": "SIMTERFERE",
+        "full_name": "Manaffel/SIMTERFERE",
+        "html_url": "https://github.com/Manaffel/SIMTERFERE",
+        "created_at": "2025-11-14T17:14:29Z",
+        "updated_at": "2026-03-19T16:12:22Z",
+        "clone_url": "https://github.com/Manaffel/SIMTERFERE.git",
+        "size": 21368,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/Manaffel",
+            "avatar_url": "https://avatars.githubusercontent.com/u/67500074?v=4",
+            "login": "Manaffel",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:44.044266",
+        "avatar": "https://avatars.githubusercontent.com/u/67500074?v=4"
+    }
+}

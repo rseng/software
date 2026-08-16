@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/zhoutz/gpu_ppm",
+    "url": "https://github.com/zhoutz/gpu_ppm",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026A%26A...709A.111Z",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08013Z/abstract"
+        ],
+        "title": "gpu_ppm: GPU-accelerated neutron-star pulse-profile modeling",
+        "url": "https://github.com/zhoutz/gpu_ppm",
+        "name": "gpu_ppm",
+        "full_name": "zhoutz/gpu_ppm",
+        "html_url": "https://github.com/zhoutz/gpu_ppm",
+        "created_at": "2025-10-01T21:56:41Z",
+        "updated_at": "2026-06-17T03:38:00Z",
+        "clone_url": "https://github.com/zhoutz/gpu_ppm.git",
+        "size": 26652,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "C++",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/zhoutz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/54331049?v=4",
+            "login": "zhoutz",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:34.988329",
+        "avatar": "https://avatars.githubusercontent.com/u/54331049?v=4"
+    }
+}

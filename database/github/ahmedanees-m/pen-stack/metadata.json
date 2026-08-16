@@ -1,0 +1,57 @@
+{
+    "parser": "github",
+    "uid": "github/ahmedanees-m/pen-stack",
+    "url": "https://github.com/ahmedanees-m/pen-stack",
+    "data": {
+        "name": "pen-stack",
+        "url": "https://github.com/ahmedanees-m/pen-stack",
+        "full_name": "ahmedanees-m/pen-stack",
+        "html_url": "https://github.com/ahmedanees-m/pen-stack",
+        "private": false,
+        "description": "A verification and grounding layer for AI-driven genome writing. Foundation models and a grounded co-scientist agent propose edits; PEN-STACK checks each against validated tools, never a language model: where a write is safe and durable, which enzyme makes it, and where it goes off-target. Calibrated, provenance-tracked, pre-registered.",
+        "created_at": "2026-06-29T08:48:59Z",
+        "updated_at": "2026-08-04T10:42:26Z",
+        "clone_url": "https://github.com/ahmedanees-m/pen-stack.git",
+        "homepage": "https://github.com/ahmedanees-m/pen-stack#readme",
+        "size": 9557,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/ahmedanees-m",
+            "avatar_url": "https://avatars.githubusercontent.com/u/248038232?v=4",
+            "login": "ahmedanees-m",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "bridge-recombinase",
+            "computational-biology",
+            "crispr",
+            "gene-therapy",
+            "genome-engineering",
+            "genome-writing",
+            "inverse-design",
+            "machine-learning",
+            "open-science",
+            "python",
+            "recombinase",
+            "reproducible-research",
+            "safe-harbor",
+            "agentic-ai",
+            "artficial-intelligence",
+            "genetic-engineering"
+        ],
+        "timestamp": "2026-08-16 00:39:21.077892",
+        "avatar": "https://avatars.githubusercontent.com/u/248038232?v=4"
+    }
+}

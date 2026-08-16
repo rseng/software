@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/YuankangLiu/HyLight",
+    "url": "https://github.com/YuankangLiu/HyLight",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026MNRAS.546ag004C",
+            "https://scixplorer.org/abs/2026MNRAS.547ag429L",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08003L/abstract"
+        ],
+        "title": "HyLight: Hydrogen recombination-line emissivity calculator",
+        "url": "https://github.com/YuankangLiu/HyLight",
+        "name": "HyLight",
+        "full_name": "YuankangLiu/HyLight",
+        "html_url": "https://github.com/YuankangLiu/HyLight",
+        "description": "Hydrogen recombination line modelling. ",
+        "created_at": "2024-07-18T14:44:44Z",
+        "updated_at": "2025-10-02T12:59:31Z",
+        "clone_url": "https://github.com/YuankangLiu/HyLight.git",
+        "size": 11851,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/YuankangLiu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/23085218?v=4",
+            "login": "YuankangLiu",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:41.180127",
+        "avatar": "https://avatars.githubusercontent.com/u/23085218?v=4"
+    }
+}

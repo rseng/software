@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/EFTCAMB/EFTCAMB",
+    "url": "https://github.com/EFTCAMB/EFTCAMB",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026JCAP...07..041Y",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08011Y/abstract"
+        ],
+        "title": "\u210b-EFTCAMB: Extension of EFTCAMB for covariant Horndeski gravity",
+        "url": "https://github.com/EFTCAMB/EFTCAMB",
+        "name": "EFTCAMB",
+        "full_name": "EFTCAMB/EFTCAMB",
+        "html_url": "https://github.com/EFTCAMB/EFTCAMB",
+        "description": "This is the official EFTCAMB developers git repository",
+        "created_at": "2016-08-06T10:21:20Z",
+        "updated_at": "2026-07-17T08:04:52Z",
+        "clone_url": "https://github.com/EFTCAMB/EFTCAMB.git",
+        "homepage": "http://eftcamb.org",
+        "size": 287590,
+        "stargazers_count": 27,
+        "watchers_count": 27,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 8,
+        "owner": {
+            "html_url": "https://github.com/EFTCAMB",
+            "avatar_url": "https://avatars.githubusercontent.com/u/15314937?v=4",
+            "login": "EFTCAMB",
+            "type": "Organization"
+        },
+        "timestamp": "2026-08-16 00:37:36.402977",
+        "avatar": "https://avatars.githubusercontent.com/u/15314937?v=4"
+    }
+}

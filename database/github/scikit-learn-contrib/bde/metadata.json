@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/scikit-learn-contrib/bde",
+    "url": "https://github.com/scikit-learn-contrib/bde",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21452056",
+        "name": "bde",
+        "url": "https://github.com/scikit-learn-contrib/bde",
+        "full_name": "scikit-learn-contrib/bde",
+        "html_url": "https://github.com/scikit-learn-contrib/bde",
+        "description": "Bayesian Deep Ensembles via MILE: easy to use, scikit-learn compatible and fast (JAX powered)",
+        "created_at": "2025-08-20T13:46:01Z",
+        "updated_at": "2026-08-03T13:36:28Z",
+        "clone_url": "https://github.com/scikit-learn-contrib/bde.git",
+        "homepage": "https://contrib.scikit-learn.org/bde/",
+        "size": 18963,
+        "stargazers_count": 46,
+        "watchers_count": 46,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "owner": {
+            "html_url": "https://github.com/scikit-learn-contrib",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17349883?v=4",
+            "login": "scikit-learn-contrib",
+            "type": "Organization"
+        },
+        "topics": [
+            "jax",
+            "machine-learning",
+            "scikit-learn",
+            "mcmc",
+            "sampling-methods",
+            "uncertainty-quantification"
+        ],
+        "timestamp": "2026-08-16 00:38:47.853327",
+        "avatar": "https://avatars.githubusercontent.com/u/17349883?v=4"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/roliveira/nilt",
+    "url": "https://github.com/roliveira/nilt",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21479983",
+        "name": "nilt",
+        "url": "https://github.com/roliveira/nilt",
+        "full_name": "roliveira/nilt",
+        "html_url": "https://github.com/roliveira/nilt",
+        "description": "A numerical inversion of Laplace transforms library implemented in C++ library with Python bindings.",
+        "created_at": "2021-09-10T19:24:17Z",
+        "updated_at": "2026-08-11T07:46:42Z",
+        "clone_url": "https://github.com/roliveira/nilt.git",
+        "size": 2355,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "C++",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/roliveira",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5302216?v=4",
+            "login": "roliveira",
+            "type": "User"
+        },
+        "topics": [
+            "laplace-transform",
+            "numerical-methods",
+            "benchmarks",
+            "algorithm",
+            "cpp",
+            "python",
+            "joss"
+        ],
+        "timestamp": "2026-08-16 00:38:42.915090",
+        "avatar": "https://avatars.githubusercontent.com/u/5302216?v=4"
+    }
+}

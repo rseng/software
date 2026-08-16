@@ -1,0 +1,52 @@
+{
+    "parser": "github",
+    "uid": "github/thirtysix/TFBS_footprinting3",
+    "url": "https://github.com/thirtysix/TFBS_footprinting3",
+    "data": {
+        "doi": "10.1080/21541264.2025.2521764",
+        "name": "TFBS_footprinting3",
+        "url": "https://github.com/thirtysix/TFBS_footprinting3",
+        "full_name": "thirtysix/TFBS_footprinting3",
+        "html_url": "https://github.com/thirtysix/TFBS_footprinting3",
+        "description": "Pipeline: Identification of cis-regulatory elements by matrix scoring and analysis of supporting empirical biological data.",
+        "created_at": "2022-01-26T14:12:49Z",
+        "updated_at": "2026-07-30T12:22:53Z",
+        "clone_url": "https://github.com/thirtysix/TFBS_footprinting3.git",
+        "size": 15683,
+        "stargazers_count": 5,
+        "watchers_count": 5,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/thirtysix",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9118487?v=4",
+            "login": "thirtysix",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "chip-seq",
+            "cis-regulatory-elements",
+            "evolutionary-conservation",
+            "gene-regulation",
+            "genomics",
+            "gtex",
+            "jaspar",
+            "motif-scanning",
+            "pipeline",
+            "python",
+            "regulatory-genomics",
+            "tfbs",
+            "transcription-factor"
+        ],
+        "timestamp": "2026-08-16 00:39:24.431931",
+        "avatar": "https://avatars.githubusercontent.com/u/9118487?v=4"
+    }
+}

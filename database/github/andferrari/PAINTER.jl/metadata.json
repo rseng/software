@@ -1,0 +1,40 @@
+{
+    "parser": "github",
+    "uid": "github/andferrari/PAINTER.jl",
+    "url": "https://github.com/andferrari/PAINTER.jl",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2014JOSAA..31.2334S",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08024S/abstract"
+        ],
+        "title": "PAINTER: Polychromatic opticAl INTErferometric Reconstruction",
+        "url": "https://github.com/andferrari/PAINTER.jl",
+        "name": "PAINTER.jl",
+        "full_name": "andferrari/PAINTER.jl",
+        "html_url": "https://github.com/andferrari/PAINTER.jl",
+        "created_at": "2015-03-10T11:45:42Z",
+        "updated_at": "2019-09-19T19:49:25Z",
+        "clone_url": "https://github.com/andferrari/PAINTER.jl.git",
+        "size": 1754,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "Julia",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/andferrari",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8927904?v=4",
+            "login": "andferrari",
+            "type": "User"
+        },
+        "timestamp": "2026-08-16 00:37:27.222043",
+        "avatar": "https://avatars.githubusercontent.com/u/8927904?v=4"
+    }
+}

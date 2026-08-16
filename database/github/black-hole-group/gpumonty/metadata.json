@@ -1,0 +1,47 @@
+{
+    "parser": "github",
+    "uid": "github/black-hole-group/gpumonty",
+    "url": "https://github.com/black-hole-group/gpumonty",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026ApJ..1001..148N",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft07018N/abstract"
+        ],
+        "title": "GPUmonty: GPU-accelerated spectra from accreting black holes",
+        "url": "https://github.com/black-hole-group/gpumonty",
+        "name": "gpumonty",
+        "full_name": "black-hole-group/gpumonty",
+        "html_url": "https://github.com/black-hole-group/gpumonty",
+        "description": "A public, CUDA/C-based relativistic Monte Carlo radiative transfer code accelerated via GPUs. Designed for high-performance spectral modeling of accreting black holes, GPUmonty offloads photon tracking and scattering to achieve a considerable speedup over traditional CPU-based implementations like grmonty.",
+        "created_at": "2026-01-14T04:56:19Z",
+        "updated_at": "2026-06-08T12:42:27Z",
+        "clone_url": "https://github.com/black-hole-group/gpumonty.git",
+        "homepage": "https://black-hole-group.github.io/gpumonty/",
+        "size": 61168,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "Cuda",
+        "open_issues_count": 1,
+        "license": {
+            "key": "gpl-2.0",
+            "name": "GNU General Public License v2.0",
+            "spdx_id": "GPL-2.0",
+            "url": "https://api.github.com/licenses/gpl-2.0",
+            "node_id": "MDc6TGljZW5zZTg="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/black-hole-group",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22716924?v=4",
+            "login": "black-hole-group",
+            "type": "Organization"
+        },
+        "topics": [
+            "general-relativity",
+            "grmhd",
+            "ray-tracing"
+        ],
+        "timestamp": "2026-08-16 00:37:51.706053",
+        "avatar": "https://avatars.githubusercontent.com/u/22716924?v=4"
+    }
+}
