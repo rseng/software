@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/Cristianetaniguti/Qploidy",
+    "url": "https://github.com/Cristianetaniguti/Qploidy",
+    "data": {
+        "name": "Qploidy",
+        "url": "https://github.com/Cristianetaniguti/Qploidy",
+        "full_name": "Cristianetaniguti/Qploidy",
+        "html_url": "https://github.com/Cristianetaniguti/Qploidy",
+        "private": false,
+        "description": "Estimates individuals ploidy, aneuploidy and large-scale CNV based on genetic markers",
+        "created_at": "2023-07-03T17:35:02Z",
+        "updated_at": "2026-08-15T18:08:31Z",
+        "clone_url": "https://github.com/Cristianetaniguti/Qploidy.git",
+        "homepage": "",
+        "size": 93615,
+        "stargazers_count": 7,
+        "watchers_count": 7,
+        "language": "R",
+        "open_issues_count": 0,
+        "license": {
+            "key": "agpl-3.0",
+            "name": "GNU Affero General Public License v3.0",
+            "spdx_id": "AGPL-3.0",
+            "url": "https://api.github.com/licenses/agpl-3.0",
+            "node_id": "MDc6TGljZW5zZTE="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/Cristianetaniguti",
+            "avatar_url": "https://avatars.githubusercontent.com/u/7572527?v=4",
+            "login": "Cristianetaniguti",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2026-08-23 00:37:15.802768",
+        "avatar": "https://avatars.githubusercontent.com/u/7572527?v=4"
+    }
+}

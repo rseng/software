@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/mickwh2764/par2discovery",
+    "url": "https://github.com/mickwh2764/par2discovery",
+    "data": {
+        "doi": "10.5281/zenodo.21963192",
+        "name": "par2discovery",
+        "url": "https://github.com/mickwh2764/par2discovery",
+        "full_name": "mickwh2764/par2discovery",
+        "html_url": "https://github.com/mickwh2764/par2discovery",
+        "description": "AR(2) eigenvalue analysis for gene expression time series \u2014 computes the eigenvalue modulus |\u03bb| as a measure of temporal persistence and discovers the Clock > Target > Background hierarchy. Noncommercial license.",
+        "created_at": "2026-07-12T17:14:18Z",
+        "updated_at": "2026-08-19T12:30:10Z",
+        "clone_url": "https://github.com/mickwh2764/par2discovery.git",
+        "size": 87,
+        "language": "Python",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/mickwh2764",
+            "avatar_url": "https://avatars.githubusercontent.com/u/219911474?v=4",
+            "login": "mickwh2764",
+            "type": "User"
+        },
+        "timestamp": "2026-08-23 00:37:11.425287",
+        "avatar": "https://avatars.githubusercontent.com/u/219911474?v=4"
+    }
+}

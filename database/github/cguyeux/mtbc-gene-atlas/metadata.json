@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/cguyeux/mtbc-gene-atlas",
+    "url": "https://github.com/cguyeux/mtbc-gene-atlas",
+    "data": {
+        "doi": "10.5281/zenodo.20815246",
+        "name": "mtbc-gene-atlas",
+        "url": "https://github.com/cguyeux/mtbc-gene-atlas",
+        "full_name": "cguyeux/mtbc-gene-atlas",
+        "html_url": "https://github.com/cguyeux/mtbc-gene-atlas",
+        "description": "Companion code, pipeline and derived per-gene records for the MTBC Gene Atlas (mtbc.gclab.fr): a continuously updated, structure- and population-scale re-annotation of the Mycobacterium tuberculosis complex proteome, anchored on the MTBC0 ancestral genome.",
+        "created_at": "2026-07-30T13:38:29Z",
+        "updated_at": "2026-08-12T10:49:18Z",
+        "clone_url": "https://github.com/cguyeux/mtbc-gene-atlas.git",
+        "size": 16314,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/cguyeux",
+            "avatar_url": "https://avatars.githubusercontent.com/u/11092201?v=4",
+            "login": "cguyeux",
+            "type": "User"
+        },
+        "timestamp": "2026-08-23 00:37:14.011746",
+        "avatar": "https://avatars.githubusercontent.com/u/11092201?v=4"
+    }
+}
