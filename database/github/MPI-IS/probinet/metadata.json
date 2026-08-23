@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/MPI-IS/probinet",
+    "url": "https://github.com/MPI-IS/probinet",
+    "data": {
+        "doi": "https://doi.org/10.17617/3.AYGXPP",
+        "name": "probinet",
+        "url": "https://github.com/MPI-IS/probinet",
+        "full_name": "MPI-IS/probinet",
+        "html_url": "https://github.com/MPI-IS/probinet",
+        "description": "Probabilistic Generative Modeling for Inference on Networks. ",
+        "created_at": "2024-10-07T08:23:06Z",
+        "updated_at": "2026-08-22T16:01:21Z",
+        "clone_url": "https://github.com/MPI-IS/probinet.git",
+        "homepage": "https://mpi-is.github.io/probinet/",
+        "size": 14346,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Python",
+        "open_issues_count": 7,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/MPI-IS",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10072690?v=4",
+            "login": "MPI-IS",
+            "type": "Organization"
+        },
+        "timestamp": "2026-08-23 00:36:49.709779",
+        "avatar": "https://avatars.githubusercontent.com/u/10072690?v=4"
+    }
+}

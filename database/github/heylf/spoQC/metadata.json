@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/heylf/spoQC",
+    "url": "https://github.com/heylf/spoQC",
+    "data": {
+        "name": "spoQC",
+        "url": "https://github.com/heylf/spoQC",
+        "full_name": "heylf/spoQC",
+        "html_url": "https://github.com/heylf/spoQC",
+        "private": false,
+        "description": "A modular framework for multimodal quality control (QC) of imaging-based spatially resolved transcriptomics (SRT).",
+        "created_at": "2026-03-18T17:13:17Z",
+        "updated_at": "2026-08-19T08:45:53Z",
+        "clone_url": "https://github.com/heylf/spoQC.git",
+        "homepage": "",
+        "size": 389856,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Python",
+        "open_issues_count": 12,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/heylf",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8162688?v=4",
+            "login": "heylf",
+            "type": "User"
+        },
+        "topics": [
+            "quality-control",
+            "spatial-omics",
+            "spatial-transcriptomics"
+        ],
+        "timestamp": "2026-08-23 00:37:10.990425",
+        "avatar": "https://avatars.githubusercontent.com/u/8162688?v=4"
+    }
+}
