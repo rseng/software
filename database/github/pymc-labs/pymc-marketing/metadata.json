@@ -1,0 +1,50 @@
+{
+    "parser": "github",
+    "uid": "github/pymc-labs/pymc-marketing",
+    "url": "https://github.com/pymc-labs/pymc-marketing",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22125692",
+        "name": "pymc-marketing",
+        "url": "https://github.com/pymc-labs/pymc-marketing",
+        "full_name": "pymc-labs/pymc-marketing",
+        "html_url": "https://github.com/pymc-labs/pymc-marketing",
+        "description": "Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more.",
+        "created_at": "2022-03-07T15:11:28Z",
+        "updated_at": "2026-08-29T12:06:08Z",
+        "clone_url": "https://github.com/pymc-labs/pymc-marketing.git",
+        "homepage": "https://www.pymc-marketing.io/",
+        "size": 2483764,
+        "stargazers_count": 1249,
+        "watchers_count": 1249,
+        "language": "Python",
+        "open_issues_count": 428,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 34,
+        "owner": {
+            "html_url": "https://github.com/pymc-labs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69535651?v=4",
+            "login": "pymc-labs",
+            "type": "Organization"
+        },
+        "topics": [
+            "clv",
+            "data-science",
+            "marketing",
+            "mmm",
+            "python",
+            "btyd",
+            "customer-lifetime-value",
+            "media-mix-modeling",
+            "buy-till-you-die",
+            "marketing-mix-modeling"
+        ],
+        "timestamp": "2026-08-30 02:09:14.432239",
+        "avatar": "https://avatars.githubusercontent.com/u/69535651?v=4"
+    }
+}

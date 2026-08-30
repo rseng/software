@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/ucd-cepb/textNet",
+    "url": "https://github.com/ucd-cepb/textNet",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22100705",
+        "name": "textNet",
+        "url": "https://github.com/ucd-cepb/textNet",
+        "full_name": "ucd-cepb/textNet",
+        "html_url": "https://github.com/ucd-cepb/textNet",
+        "description": "textNet is a set of tools in the R language that uses part-of-speech tagging and dependency parsing to generate semantic networks from text data. It is compatible with Universal Dependencies and has been tested on English-language text data.",
+        "created_at": "2023-01-27T20:34:06Z",
+        "updated_at": "2026-08-26T16:48:35Z",
+        "clone_url": "https://github.com/ucd-cepb/textNet.git",
+        "size": 312720,
+        "stargazers_count": 4,
+        "watchers_count": 4,
+        "language": "R",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ucd-cepb",
+            "avatar_url": "https://avatars.githubusercontent.com/u/118925523?v=4",
+            "login": "ucd-cepb",
+            "type": "Organization"
+        },
+        "timestamp": "2026-08-30 02:09:16.369074",
+        "avatar": "https://avatars.githubusercontent.com/u/118925523?v=4"
+    }
+}
