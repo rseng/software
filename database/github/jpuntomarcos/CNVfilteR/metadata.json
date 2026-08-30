@@ -1,0 +1,30 @@
+{
+    "parser": "github",
+    "uid": "github/jpuntomarcos/CNVfilteR",
+    "url": "https://github.com/jpuntomarcos/CNVfilteR",
+    "data": {
+        "doi": "10.1093/bioinformatics/btab356",
+        "name": "CNVfilteR",
+        "url": "https://github.com/jpuntomarcos/CNVfilteR",
+        "full_name": "jpuntomarcos/CNVfilteR",
+        "html_url": "https://github.com/jpuntomarcos/CNVfilteR",
+        "description": "R package to remove false positives of CNV calling tools by using SNV calls",
+        "created_at": "2019-10-01T14:41:28Z",
+        "updated_at": "2025-07-03T06:56:16Z",
+        "clone_url": "https://github.com/jpuntomarcos/CNVfilteR.git",
+        "size": 1122,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "R",
+        "open_issues_count": 2,
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/jpuntomarcos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1809574?v=4",
+            "login": "jpuntomarcos",
+            "type": "User"
+        },
+        "timestamp": "2026-08-30 02:09:25.969524",
+        "avatar": "https://avatars.githubusercontent.com/u/1809574?v=4"
+    }
+}

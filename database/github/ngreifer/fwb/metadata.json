@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/ngreifer/fwb",
+    "url": "https://github.com/ngreifer/fwb",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22117247",
+        "name": "fwb",
+        "url": "https://github.com/ngreifer/fwb",
+        "full_name": "ngreifer/fwb",
+        "html_url": "https://github.com/ngreifer/fwb",
+        "description": "fwb: Fractional Weighted Bootstrap",
+        "created_at": "2022-08-10T04:55:32Z",
+        "updated_at": "2026-08-28T14:31:10Z",
+        "clone_url": "https://github.com/ngreifer/fwb.git",
+        "homepage": "https://ngreifer.github.io/fwb/",
+        "size": 8157,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "R",
+        "license": {
+            "key": "gpl-2.0",
+            "name": "GNU General Public License v2.0",
+            "spdx_id": "GPL-2.0",
+            "url": "https://api.github.com/licenses/gpl-2.0",
+            "node_id": "MDc6TGljZW5zZTg="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/ngreifer",
+            "avatar_url": "https://avatars.githubusercontent.com/u/20465600?v=4",
+            "login": "ngreifer",
+            "type": "User"
+        },
+        "timestamp": "2026-08-30 02:09:13.931403",
+        "avatar": "https://avatars.githubusercontent.com/u/20465600?v=4"
+    }
+}

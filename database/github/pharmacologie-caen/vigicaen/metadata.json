@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/pharmacologie-caen/vigicaen",
+    "url": "https://github.com/pharmacologie-caen/vigicaen",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.21840168",
+        "name": "vigicaen",
+        "url": "https://github.com/pharmacologie-caen/vigicaen",
+        "full_name": "pharmacologie-caen/vigicaen",
+        "html_url": "https://github.com/pharmacologie-caen/vigicaen",
+        "description": "Disproportionality analysis",
+        "created_at": "2022-11-07T14:23:59Z",
+        "updated_at": "2026-08-07T12:29:38Z",
+        "clone_url": "https://github.com/pharmacologie-caen/vigicaen.git",
+        "homepage": "https://pharmacologie-caen.github.io/vigicaen/",
+        "size": 45641,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "R",
+        "open_issues_count": 20,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/pharmacologie-caen",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150672709?v=4",
+            "login": "pharmacologie-caen",
+            "type": "Organization"
+        },
+        "topics": [
+            "datamanagement",
+            "pharmacovigilance",
+            "r"
+        ],
+        "timestamp": "2026-08-30 02:09:12.982940",
+        "avatar": "https://avatars.githubusercontent.com/u/150672709?v=4"
+    }
+}
