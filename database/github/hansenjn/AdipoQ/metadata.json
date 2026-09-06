@@ -1,0 +1,49 @@
+{
+    "parser": "github",
+    "uid": "github/hansenjn/AdipoQ",
+    "url": "https://github.com/hansenjn/AdipoQ",
+    "data": {
+        "doi": "10.1091/mbc.E21-11-0592",
+        "name": "AdipoQ",
+        "url": "https://github.com/hansenjn/AdipoQ",
+        "full_name": "hansenjn/AdipoQ",
+        "html_url": "https://github.com/hansenjn/AdipoQ",
+        "description": "A simple toolbox of ImageJ plugins for quantifying adipocyte morphology and function in tissues and in vitro.",
+        "created_at": "2021-11-28T16:21:13Z",
+        "updated_at": "2025-08-16T04:53:41Z",
+        "clone_url": "https://github.com/hansenjn/AdipoQ.git",
+        "size": 100583,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/hansenjn",
+            "avatar_url": "https://avatars.githubusercontent.com/u/27991883?v=4",
+            "login": "hansenjn",
+            "type": "User"
+        },
+        "topics": [
+            "adipocyte-differentiation",
+            "adipocytes",
+            "adipose-tissue",
+            "adipose-tissue-segmentation",
+            "cell-biology",
+            "fluorescence-microscopy-imaging",
+            "image-analysis",
+            "imagej-plugin",
+            "immunohistochemical-images",
+            "droplet-analysis",
+            "droplets-detection",
+            "lipid-droplets"
+        ],
+        "timestamp": "2026-09-06 01:42:20.846717",
+        "avatar": "https://avatars.githubusercontent.com/u/27991883?v=4"
+    }
+}
