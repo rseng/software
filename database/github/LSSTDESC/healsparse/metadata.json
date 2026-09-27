@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/LSSTDESC/healsparse",
+    "url": "https://github.com/LSSTDESC/healsparse",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026A%2526C....5501083L",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08006R/abstract"
+        ],
+        "title": "HealSparse: Sparse representation of HEALPix maps in Python",
+        "url": "https://github.com/LSSTDESC/healsparse",
+        "name": "healsparse",
+        "full_name": "LSSTDESC/healsparse",
+        "html_url": "https://github.com/LSSTDESC/healsparse",
+        "description": "Sparse representation of HEALPix maps in Python",
+        "created_at": "2019-03-04T18:19:08Z",
+        "updated_at": "2026-09-11T15:02:37Z",
+        "clone_url": "https://github.com/LSSTDESC/healsparse.git",
+        "size": 1486,
+        "stargazers_count": 15,
+        "watchers_count": 15,
+        "language": "Python",
+        "open_issues_count": 16,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 6,
+        "owner": {
+            "html_url": "https://github.com/LSSTDESC",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2731443?v=4",
+            "login": "LSSTDESC",
+            "type": "Organization"
+        },
+        "timestamp": "2026-09-27 02:18:55.779690",
+        "avatar": "https://avatars.githubusercontent.com/u/2731443?v=4"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/pysal/segregation",
+    "url": "https://github.com/pysal/segregation",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22736963",
+        "name": "segregation",
+        "url": "https://github.com/pysal/segregation",
+        "full_name": "pysal/segregation",
+        "html_url": "https://github.com/pysal/segregation",
+        "description": "Segregation Measurement, Inferential Statistics, and Decomposition Analysis",
+        "created_at": "2018-12-19T23:59:59Z",
+        "updated_at": "2026-09-17T14:08:07Z",
+        "clone_url": "https://github.com/pysal/segregation.git",
+        "homepage": "https://pysal.org/segregation/",
+        "size": 165545,
+        "stargazers_count": 122,
+        "watchers_count": 122,
+        "language": "Python",
+        "open_issues_count": 16,
+        "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+        },
+        "subscribers_count": 21,
+        "owner": {
+            "html_url": "https://github.com/pysal",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3769919?v=4",
+            "login": "pysal",
+            "type": "Organization"
+        },
+        "topics": [
+            "python",
+            "spatial-analysis",
+            "statistics",
+            "segregation",
+            "geospatial"
+        ],
+        "timestamp": "2026-09-27 02:19:52.033477",
+        "avatar": "https://avatars.githubusercontent.com/u/3769919?v=4"
+    }
+}

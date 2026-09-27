@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/boostorg/int128",
+    "url": "https://github.com/boostorg/int128",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22901349",
+        "name": "int128",
+        "url": "https://github.com/boostorg/int128",
+        "full_name": "boostorg/int128",
+        "html_url": "https://github.com/boostorg/int128",
+        "description": "Portable and Performant 128-bit integers for CPU and GPU",
+        "created_at": "2025-03-17T15:31:18Z",
+        "updated_at": "2026-09-25T01:16:46Z",
+        "clone_url": "https://github.com/boostorg/int128.git",
+        "homepage": "https://develop.int128.cpp.al",
+        "size": 72906,
+        "stargazers_count": 22,
+        "watchers_count": 22,
+        "language": "C++",
+        "open_issues_count": 1,
+        "license": {
+            "key": "bsl-1.0",
+            "name": "Boost Software License 1.0",
+            "spdx_id": "BSL-1.0",
+            "url": "https://api.github.com/licenses/bsl-1.0",
+            "node_id": "MDc6TGljZW5zZTI4"
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/boostorg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3170529?v=4",
+            "login": "boostorg",
+            "type": "Organization"
+        },
+        "topics": [
+            "128-bit",
+            "cpp14",
+            "cpp14-library",
+            "cuda",
+            "sycl"
+        ],
+        "timestamp": "2026-09-27 02:19:46.790689",
+        "avatar": "https://avatars.githubusercontent.com/u/3170529?v=4"
+    }
+}

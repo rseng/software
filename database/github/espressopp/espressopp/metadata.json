@@ -1,0 +1,51 @@
+{
+    "parser": "github",
+    "uid": "github/espressopp/espressopp",
+    "url": "https://github.com/espressopp/espressopp",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22151265",
+        "name": "espressopp",
+        "url": "https://github.com/espressopp/espressopp",
+        "full_name": "espressopp/espressopp",
+        "html_url": "https://github.com/espressopp/espressopp",
+        "description": "Main ESPResSo++ repository",
+        "created_at": "2014-10-07T12:44:28Z",
+        "updated_at": "2026-09-24T18:34:01Z",
+        "clone_url": "https://github.com/espressopp/espressopp.git",
+        "homepage": "http://www.espresso-pp.de/",
+        "size": 74104,
+        "stargazers_count": 45,
+        "watchers_count": 45,
+        "language": "C++",
+        "open_issues_count": 38,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 13,
+        "owner": {
+            "html_url": "https://github.com/espressopp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9050876?v=4",
+            "login": "espressopp",
+            "type": "Organization"
+        },
+        "topics": [
+            "python",
+            "espresso",
+            "adress",
+            "hpc-applications",
+            "algorithm-challenges",
+            "algorithmic",
+            "method",
+            "devtools",
+            "c-plus-plus",
+            "analysis",
+            "lattice-boltzmann"
+        ],
+        "timestamp": "2026-09-27 02:19:50.400643",
+        "avatar": "https://avatars.githubusercontent.com/u/9050876?v=4"
+    }
+}
