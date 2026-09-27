@@ -1,0 +1,48 @@
+{
+    "parser": "github",
+    "uid": "github/patrick-kidger/equinox",
+    "url": "https://github.com/patrick-kidger/equinox",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026ApJ..1002L..47K",
+            "https://scixplorer.org/abs/2021arXiv211100254K",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft08026K/abstract"
+        ],
+        "title": "Equinox: Neural networks and scientific computing in JAX",
+        "url": "https://github.com/patrick-kidger/equinox",
+        "name": "equinox",
+        "full_name": "patrick-kidger/equinox",
+        "html_url": "https://github.com/patrick-kidger/equinox",
+        "description": "Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/",
+        "created_at": "2021-07-29T02:21:39Z",
+        "updated_at": "2026-09-26T11:40:32Z",
+        "clone_url": "https://github.com/patrick-kidger/equinox.git",
+        "size": 41125,
+        "stargazers_count": 2978,
+        "watchers_count": 2978,
+        "language": "Python",
+        "open_issues_count": 252,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 23,
+        "owner": {
+            "html_url": "https://github.com/patrick-kidger",
+            "avatar_url": "https://avatars.githubusercontent.com/u/33688385?v=4",
+            "login": "patrick-kidger",
+            "type": "User"
+        },
+        "topics": [
+            "deep-learning",
+            "jax",
+            "neural-networks",
+            "equinox"
+        ],
+        "timestamp": "2026-09-27 02:18:44.613900",
+        "avatar": "https://avatars.githubusercontent.com/u/33688385?v=4"
+    }
+}
