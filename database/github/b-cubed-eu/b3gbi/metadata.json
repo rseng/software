@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/b-cubed-eu/b3gbi",
+    "url": "https://github.com/b-cubed-eu/b3gbi",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22746470",
+        "name": "b3gbi",
+        "url": "https://github.com/b-cubed-eu/b3gbi",
+        "full_name": "b-cubed-eu/b3gbi",
+        "html_url": "https://github.com/b-cubed-eu/b3gbi",
+        "description": "B-Cubed General Biodiversity Indicators",
+        "created_at": "2023-09-18T15:17:15Z",
+        "updated_at": "2026-09-27T02:55:39Z",
+        "clone_url": "https://github.com/b-cubed-eu/b3gbi.git",
+        "homepage": "https://b-cubed-eu.github.io/b3gbi/",
+        "size": 106138,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "R",
+        "open_issues_count": 1,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/b-cubed-eu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/114525527?v=4",
+            "login": "b-cubed-eu",
+            "type": "Organization"
+        },
+        "topics": [
+            "biodiversity-indicators",
+            "data-cubes"
+        ],
+        "timestamp": "2026-10-04 03:16:05.209858",
+        "avatar": "https://avatars.githubusercontent.com/u/114525527?v=4"
+    }
+}
