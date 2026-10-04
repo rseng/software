@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/zwang154/lys_instr",
+    "url": "https://github.com/zwang154/lys_instr",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22240213",
+        "name": "lys_instr",
+        "url": "https://github.com/zwang154/lys_instr",
+        "full_name": "zwang154/lys_instr",
+        "html_url": "https://github.com/zwang154/lys_instr",
+        "description": "A Python package for automating scientific measurements.",
+        "created_at": "2025-09-02T01:17:27Z",
+        "updated_at": "2026-08-19T02:11:27Z",
+        "clone_url": "https://github.com/zwang154/lys_instr.git",
+        "size": 29206,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "open_issues_count": 3,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "owner": {
+            "html_url": "https://github.com/zwang154",
+            "avatar_url": "https://avatars.githubusercontent.com/u/213392109?v=4",
+            "login": "zwang154",
+            "type": "User"
+        },
+        "timestamp": "2026-10-04 03:16:01.517020",
+        "avatar": "https://avatars.githubusercontent.com/u/213392109?v=4"
+    }
+}

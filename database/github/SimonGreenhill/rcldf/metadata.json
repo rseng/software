@@ -1,0 +1,41 @@
+{
+    "parser": "github",
+    "uid": "github/SimonGreenhill/rcldf",
+    "url": "https://github.com/SimonGreenhill/rcldf",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22019003",
+        "name": "rcldf",
+        "url": "https://github.com/SimonGreenhill/rcldf",
+        "full_name": "SimonGreenhill/rcldf",
+        "html_url": "https://github.com/SimonGreenhill/rcldf",
+        "description": "rcldf - The R library for reading CLDF files",
+        "created_at": "2019-06-17T08:04:59Z",
+        "updated_at": "2026-09-25T07:46:23Z",
+        "clone_url": "https://github.com/SimonGreenhill/rcldf.git",
+        "size": 706,
+        "stargazers_count": 16,
+        "watchers_count": 16,
+        "language": "R",
+        "open_issues_count": 1,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 8,
+        "owner": {
+            "html_url": "https://github.com/SimonGreenhill",
+            "avatar_url": "https://avatars.githubusercontent.com/u/220169?v=4",
+            "login": "SimonGreenhill",
+            "type": "User"
+        },
+        "topics": [
+            "r",
+            "cldf"
+        ],
+        "timestamp": "2026-10-04 03:16:07.059366",
+        "avatar": "https://avatars.githubusercontent.com/u/220169?v=4"
+    }
+}
