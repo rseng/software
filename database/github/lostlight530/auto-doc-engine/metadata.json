@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/lostlight530/auto-doc-engine",
+    "url": "https://github.com/lostlight530/auto-doc-engine",
+    "data": {
+        "name": "auto-doc-engine",
+        "url": "https://github.com/lostlight530/auto-doc-engine",
+        "full_name": "lostlight530/auto-doc-engine",
+        "html_url": "https://github.com/lostlight530/auto-doc-engine",
+        "private": false,
+        "description": "AST-driven research-document compiler for typed Markdown, structural-change evidence, diagnostics, artifact records and lineage, SARIF interchange, multi-format synchronization, and RO-Crate packaging.",
+        "created_at": "2026-06-19T08:29:12Z",
+        "updated_at": "2026-10-07T07:28:59Z",
+        "clone_url": "https://github.com/lostlight530/auto-doc-engine.git",
+        "homepage": "",
+        "size": 1223,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/lostlight530",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189435331?v=4",
+            "login": "lostlight530",
+            "type": "User"
+        },
+        "topics": [
+            "artifact-lineage",
+            "ast",
+            "document-automation",
+            "document-generation",
+            "evidence-engineering",
+            "markdown-ast",
+            "multi-format",
+            "open-research",
+            "open-source",
+            "pandoc",
+            "provenance",
+            "python",
+            "reproducibility",
+            "research-documents",
+            "research-engineering",
+            "research-objects",
+            "research-software",
+            "ro-crate",
+            "sarif",
+            "artifact-metadata"
+        ],
+        "timestamp": "2026-10-07 20:58:27.176078",
+        "avatar": "https://avatars.githubusercontent.com/u/189435331?v=4"
+    }
+}
