@@ -5149,3 +5149,14 @@ github/moranegg/deposit-template
 github/moranegg/AffectationRO
 github/cbrnr/sigviewer
 github/ajwheeler/korg.jl
+github/lostlight530/welcome-to-github
+github/lostlight530/zero-entropy-lab
+github/lostlight530/Axiom-0
+github/lostlight530/reflective-continuum
+github/lostlight530/agent-foundations
+github/lostlight530/auto-doc-engine
+github/lostlight530/epistemic-pipeline
+github/lostlight530/sci-render-kit
+github/lostlight530/china-agentic-observatory
+github/lostlight530/agentic-frontier-observatory
+github/lostlight530/research-software-identity-audit

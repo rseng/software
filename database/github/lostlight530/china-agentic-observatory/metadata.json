@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/lostlight530/china-agentic-observatory",
+    "url": "https://github.com/lostlight530/china-agentic-observatory",
+    "data": {
+        "name": "china-agentic-observatory",
+        "url": "https://github.com/lostlight530/china-agentic-observatory",
+        "full_name": "lostlight530/china-agentic-observatory",
+        "html_url": "https://github.com/lostlight530/china-agentic-observatory",
+        "private": false,
+        "description": "Bilingual, source-grounded observatory of China's AI and agent ecosystem across history, policy, standards, research, open source, infrastructure, industry, applications, evaluation, safety, and governance.",
+        "created_at": "2026-08-07T03:34:17Z",
+        "updated_at": "2026-10-07T07:29:36Z",
+        "clone_url": "https://github.com/lostlight530/china-agentic-observatory.git",
+        "homepage": null,
+        "size": 1300,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": null,
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/lostlight530",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189435331?v=4",
+            "login": "lostlight530",
+            "type": "User"
+        },
+        "topics": [
+            "ai-agents",
+            "ai-policy",
+            "ai-research",
+            "artificial-intelligence",
+            "china-ai",
+            "daily-research",
+            "agent-protocols",
+            "agentic-ai",
+            "ai-governance",
+            "ai-industry",
+            "ai-infrastructure",
+            "ai-safety",
+            "ai-standards",
+            "bilingual",
+            "evidence-based-research",
+            "foundation-models",
+            "open-research",
+            "open-source-ai",
+            "research-observatory",
+            "technology-policy"
+        ],
+        "timestamp": "2026-10-07 20:58:37.454087",
+        "avatar": "https://avatars.githubusercontent.com/u/189435331?v=4"
+    }
+}

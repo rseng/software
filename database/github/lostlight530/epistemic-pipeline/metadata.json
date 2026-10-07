@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/lostlight530/epistemic-pipeline",
+    "url": "https://github.com/lostlight530/epistemic-pipeline",
+    "data": {
+        "name": "epistemic-pipeline",
+        "url": "https://github.com/lostlight530/epistemic-pipeline",
+        "full_name": "lostlight530/epistemic-pipeline",
+        "html_url": "https://github.com/lostlight530/epistemic-pipeline",
+        "private": false,
+        "description": "Evidence-aware state-machine framework for research workflows with explicit claims, evidence, conflicts, runtime policy, checkpoints, provenance, claim verification, bounded transfer, and portable evidence handoff.",
+        "created_at": "2026-06-19T08:29:46Z",
+        "updated_at": "2026-10-07T07:29:14Z",
+        "clone_url": "https://github.com/lostlight530/epistemic-pipeline.git",
+        "homepage": "",
+        "size": 1779,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/lostlight530",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189435331?v=4",
+            "login": "lostlight530",
+            "type": "User"
+        },
+        "topics": [
+            "agent-systems",
+            "checkpoints",
+            "claim-evidence",
+            "claim-verification",
+            "conflict-tracking",
+            "dag",
+            "knowledge-graphs",
+            "open-research",
+            "open-source",
+            "provenance",
+            "python",
+            "reproducibility",
+            "research-engineering",
+            "research-software",
+            "research-workflows",
+            "runtime-policy",
+            "state-machines",
+            "verification",
+            "evidence-handoff",
+            "evidence-engineering"
+        ],
+        "timestamp": "2026-10-07 20:58:30.414948",
+        "avatar": "https://avatars.githubusercontent.com/u/189435331?v=4"
+    }
+}
