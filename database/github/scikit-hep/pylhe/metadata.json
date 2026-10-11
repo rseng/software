@@ -1,0 +1,44 @@
+{
+    "parser": "github",
+    "uid": "github/scikit-hep/pylhe",
+    "url": "https://github.com/scikit-hep/pylhe",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.23082467",
+        "name": "pylhe",
+        "url": "https://github.com/scikit-hep/pylhe",
+        "full_name": "scikit-hep/pylhe",
+        "html_url": "https://github.com/scikit-hep/pylhe",
+        "description": "Lightweight Python interface to read and write Les Houches Event (LHE) files",
+        "created_at": "2015-05-02T23:13:39Z",
+        "updated_at": "2026-10-06T09:35:03Z",
+        "clone_url": "https://github.com/scikit-hep/pylhe.git",
+        "homepage": "https://scikit-hep.org/pylhe/",
+        "size": 2448,
+        "stargazers_count": 49,
+        "watchers_count": 49,
+        "language": "Python",
+        "open_issues_count": 6,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 4,
+        "owner": {
+            "html_url": "https://github.com/scikit-hep",
+            "avatar_url": "https://avatars.githubusercontent.com/u/23454624?v=4",
+            "login": "scikit-hep",
+            "type": "Organization"
+        },
+        "topics": [
+            "scikit-hep",
+            "particle-physics",
+            "lhe",
+            "hep"
+        ],
+        "timestamp": "2026-10-11 02:42:36.048461",
+        "avatar": "https://avatars.githubusercontent.com/u/23454624?v=4"
+    }
+}
