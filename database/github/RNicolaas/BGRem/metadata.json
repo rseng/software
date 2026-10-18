@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/RNicolaas/BGRem",
+    "url": "https://github.com/RNicolaas/BGRem",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026A%26A...710A.131N",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft09003N/abstract"
+        ],
+        "title": "BGRem: Diffusion-based background removal for astronomical images",
+        "url": "https://github.com/RNicolaas/BGRem",
+        "name": "BGRem",
+        "full_name": "RNicolaas/BGRem",
+        "html_url": "https://github.com/RNicolaas/BGRem",
+        "description": "A machine learning based background removal tool for astronomical images.",
+        "created_at": "2025-07-29T17:12:48Z",
+        "updated_at": "2026-06-18T06:27:41Z",
+        "clone_url": "https://github.com/RNicolaas/BGRem.git",
+        "size": 24761,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/RNicolaas",
+            "avatar_url": "https://avatars.githubusercontent.com/u/157496053?v=4",
+            "login": "RNicolaas",
+            "type": "User"
+        },
+        "timestamp": "2026-10-18 01:57:02.696078",
+        "avatar": "https://avatars.githubusercontent.com/u/157496053?v=4"
+    }
+}
