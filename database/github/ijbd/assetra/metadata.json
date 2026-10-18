@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/ijbd/assetra",
+    "url": "https://github.com/ijbd/assetra",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22664698",
+        "name": "assetra",
+        "url": "https://github.com/ijbd/assetra",
+        "full_name": "ijbd/assetra",
+        "html_url": "https://github.com/ijbd/assetra",
+        "description": "An open-source resource adequacy package for energy systems.",
+        "created_at": "2022-09-02T13:13:49Z",
+        "updated_at": "2026-10-05T12:16:16Z",
+        "clone_url": "https://github.com/ijbd/assetra.git",
+        "size": 79333,
+        "stargazers_count": 10,
+        "watchers_count": 10,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/ijbd",
+            "avatar_url": "https://avatars.githubusercontent.com/u/60828810?v=4",
+            "login": "ijbd",
+            "type": "User"
+        },
+        "timestamp": "2026-10-18 01:58:40.622471",
+        "avatar": "https://avatars.githubusercontent.com/u/60828810?v=4"
+    }
+}
