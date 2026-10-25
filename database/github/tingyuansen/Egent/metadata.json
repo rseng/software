@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/tingyuansen/Egent",
+    "url": "https://github.com/tingyuansen/Egent",
+    "data": {
+        "doi": [
+            "https://scixplorer.org/abs/2026ApJ..1001..193G",
+            "https://scixplorer.org/abs/2026OJAp....961879T",
+            "https://ui.adsabs.harvard.edu/abs/2026ascl.soft09005T/abstract"
+        ],
+        "title": "Egent: Equivalent-width measurements from stellar spectra",
+        "url": "https://github.com/tingyuansen/Egent",
+        "name": "Egent",
+        "full_name": "tingyuansen/Egent",
+        "html_url": "https://github.com/tingyuansen/Egent",
+        "created_at": "2025-12-01T06:18:52Z",
+        "updated_at": "2026-09-18T13:45:33Z",
+        "clone_url": "https://github.com/tingyuansen/Egent.git",
+        "size": 6272,
+        "stargazers_count": 8,
+        "watchers_count": 8,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 1,
+        "owner": {
+            "html_url": "https://github.com/tingyuansen",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1833554?v=4",
+            "login": "tingyuansen",
+            "type": "User"
+        },
+        "timestamp": "2026-10-25 02:07:06.902948",
+        "avatar": "https://avatars.githubusercontent.com/u/1833554?v=4"
+    }
+}

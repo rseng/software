@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/qupath/qupath-extension-omero",
+    "url": "https://github.com/qupath/qupath-extension-omero",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.23043089",
+        "name": "qupath-extension-omero",
+        "url": "https://github.com/qupath/qupath-extension-omero",
+        "full_name": "qupath/qupath-extension-omero",
+        "html_url": "https://github.com/qupath/qupath-extension-omero",
+        "description": "QuPath extension to work with images through OMERO's APIs ",
+        "created_at": "2024-02-07T13:37:41Z",
+        "updated_at": "2026-09-29T13:39:11Z",
+        "clone_url": "https://github.com/qupath/qupath-extension-omero.git",
+        "size": 4450,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "Java",
+        "open_issues_count": 4,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/qupath",
+            "avatar_url": "https://avatars.githubusercontent.com/u/21292410?v=4",
+            "login": "qupath",
+            "type": "Organization"
+        },
+        "timestamp": "2026-10-25 02:08:08.459602",
+        "avatar": "https://avatars.githubusercontent.com/u/21292410?v=4"
+    }
+}

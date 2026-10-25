@@ -1,0 +1,38 @@
+{
+    "parser": "github",
+    "uid": "github/mauro3/WhereTheWaterFlows.jl",
+    "url": "https://github.com/mauro3/WhereTheWaterFlows.jl",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.23221090",
+        "name": "WhereTheWaterFlows.jl",
+        "url": "https://github.com/mauro3/WhereTheWaterFlows.jl",
+        "full_name": "mauro3/WhereTheWaterFlows.jl",
+        "html_url": "https://github.com/mauro3/WhereTheWaterFlows.jl",
+        "description": "Hydrolocial water flow routing on digital elevation models",
+        "created_at": "2019-10-30T10:42:57Z",
+        "updated_at": "2026-10-23T09:11:45Z",
+        "clone_url": "https://github.com/mauro3/WhereTheWaterFlows.jl.git",
+        "homepage": "https://mauro3.github.io/WhereTheWaterFlows.jl",
+        "size": 8091,
+        "stargazers_count": 25,
+        "watchers_count": 25,
+        "language": "Julia",
+        "open_issues_count": 10,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/mauro3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4098145?v=4",
+            "login": "mauro3",
+            "type": "User"
+        },
+        "timestamp": "2026-10-25 02:08:12.360968",
+        "avatar": "https://avatars.githubusercontent.com/u/4098145?v=4"
+    }
+}

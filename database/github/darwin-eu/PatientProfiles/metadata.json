@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/darwin-eu/PatientProfiles",
+    "url": "https://github.com/darwin-eu/PatientProfiles",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22898848",
+        "name": "PatientProfiles",
+        "url": "https://github.com/darwin-eu/PatientProfiles",
+        "full_name": "darwin-eu/PatientProfiles",
+        "html_url": "https://github.com/darwin-eu/PatientProfiles",
+        "created_at": "2024-11-14T16:10:20Z",
+        "updated_at": "2026-09-22T13:40:34Z",
+        "clone_url": "https://github.com/darwin-eu/PatientProfiles.git",
+        "homepage": "https://darwin-eu.github.io/PatientProfiles/",
+        "size": 35227,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "R",
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/darwin-eu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/120334168?v=4",
+            "login": "darwin-eu",
+            "type": "Organization"
+        },
+        "timestamp": "2026-10-25 02:08:07.416740",
+        "avatar": "https://avatars.githubusercontent.com/u/120334168?v=4"
+    }
+}
