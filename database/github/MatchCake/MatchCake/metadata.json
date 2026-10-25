@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/MatchCake/MatchCake",
+    "url": "https://github.com/MatchCake/MatchCake",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.22917737",
+        "name": "MatchCake",
+        "url": "https://github.com/MatchCake/MatchCake",
+        "full_name": "MatchCake/MatchCake",
+        "html_url": "https://github.com/MatchCake/MatchCake",
+        "description": "Fermionic Machine Learning python package built on PennyLane",
+        "created_at": "2023-10-02T20:57:26Z",
+        "updated_at": "2026-10-24T19:14:43Z",
+        "clone_url": "https://github.com/MatchCake/MatchCake.git",
+        "homepage": "https://matchcake.github.io/MatchCake/",
+        "size": 15231,
+        "stargazers_count": 22,
+        "watchers_count": 22,
+        "language": "Python",
+        "open_issues_count": 15,
+        "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/MatchCake",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163304843?v=4",
+            "login": "MatchCake",
+            "type": "Organization"
+        },
+        "topics": [
+            "quantum-circuit-simulator",
+            "quantum-computing",
+            "quantum-machine-learning"
+        ],
+        "timestamp": "2026-10-25 02:08:03.686471",
+        "avatar": "https://avatars.githubusercontent.com/u/163304843?v=4"
+    }
+}
