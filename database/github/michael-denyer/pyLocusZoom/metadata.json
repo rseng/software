@@ -1,0 +1,57 @@
+{
+    "parser": "github",
+    "uid": "github/michael-denyer/pyLocusZoom",
+    "url": "https://github.com/michael-denyer/pyLocusZoom",
+    "data": {
+        "name": "pyLocusZoom",
+        "url": "https://github.com/michael-denyer/pyLocusZoom",
+        "full_name": "michael-denyer/pyLocusZoom",
+        "html_url": "https://github.com/michael-denyer/pyLocusZoom",
+        "private": false,
+        "description": "pyLocusZoom -- publication-ready GWAS visualization in Python: LocusZoom-style regional association plots with LD coloring, gene tracks and recombination overlays, plus Manhattan, QQ, Miami, eQTL, fine-mapping, PheWAS and forest plots. Dog and cat genomes built in.",
+        "created_at": "2026-01-26T10:31:33Z",
+        "updated_at": "2026-10-28T15:15:09Z",
+        "clone_url": "https://github.com/michael-denyer/pyLocusZoom.git",
+        "homepage": "https://pypi.org/project/pylocuszoom/",
+        "size": 61889,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/michael-denyer",
+            "avatar_url": "https://avatars.githubusercontent.com/u/97485362?v=4",
+            "login": "michael-denyer",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "eqtl",
+            "fine-mapping",
+            "genomics",
+            "gwas",
+            "linkage-disequilibrium",
+            "locuszoom",
+            "manhattan-plot",
+            "phewas",
+            "statistical-genetics",
+            "visualization",
+            "colocalization",
+            "forest-plot",
+            "ld-heatmap",
+            "miami-plot",
+            "qq-plot",
+            "regional-plot"
+        ],
+        "timestamp": "2026-11-01 03:00:08.701619",
+        "avatar": "https://avatars.githubusercontent.com/u/97485362?v=4"
+    }
+}

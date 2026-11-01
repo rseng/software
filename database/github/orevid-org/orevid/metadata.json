@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/orevid-org/orevid",
+    "url": "https://github.com/orevid-org/orevid",
+    "data": {
+        "doi": "10.20944/preprints202610.1918.v2",
+        "name": "orevid",
+        "url": "https://github.com/orevid-org/orevid",
+        "full_name": "orevid-org/orevid",
+        "html_url": "https://github.com/orevid-org/orevid",
+        "description": "Open, evidence-based drug repurposing: a biomedical knowledge graph that ranks existing drugs for each disease and shows the evidence behind every candidate. Research use only, not medical advice.",
+        "created_at": "2026-10-12T15:24:16Z",
+        "updated_at": "2026-10-30T19:42:56Z",
+        "clone_url": "https://github.com/orevid-org/orevid.git",
+        "size": 37346,
+        "language": "Python",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/orevid-org",
+            "avatar_url": "https://avatars.githubusercontent.com/u/341552064?v=4",
+            "login": "orevid-org",
+            "type": "Organization"
+        },
+        "timestamp": "2026-11-01 03:00:12.031243",
+        "avatar": "https://avatars.githubusercontent.com/u/341552064?v=4"
+    }
+}
