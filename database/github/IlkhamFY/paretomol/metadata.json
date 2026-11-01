@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/IlkhamFY/paretomol",
+    "url": "https://github.com/IlkhamFY/paretomol",
+    "data": {
+        "doi": "10.1039/d6dd00366d",
+        "name": "paretomol",
+        "url": "https://github.com/IlkhamFY/paretomol",
+        "full_name": "IlkhamFY/paretomol",
+        "html_url": "https://github.com/IlkhamFY/paretomol",
+        "description": "Multi-objective Pareto analysis of drug-like molecules. Paste SMILES, get instant Pareto analysis. 100% client-side.",
+        "created_at": "2026-04-09T23:35:17Z",
+        "updated_at": "2026-10-31T06:55:10Z",
+        "clone_url": "https://github.com/IlkhamFY/paretomol.git",
+        "homepage": "https://paretomol.com",
+        "size": 2429,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "TypeScript",
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/IlkhamFY",
+            "avatar_url": "https://avatars.githubusercontent.com/u/122471854?v=4",
+            "login": "IlkhamFY",
+            "type": "User"
+        },
+        "topics": [
+            "admet",
+            "cheminformatics",
+            "drug-discovery",
+            "multi-objective-optimization",
+            "pareto",
+            "rdkit",
+            "web-app"
+        ],
+        "timestamp": "2026-11-01 03:00:08.194591",
+        "avatar": "https://avatars.githubusercontent.com/u/122471854?v=4"
+    }
+}

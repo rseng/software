@@ -1,0 +1,32 @@
+{
+    "parser": "github",
+    "uid": "github/bogdanoancea/RADAR",
+    "url": "https://github.com/bogdanoancea/RADAR",
+    "data": {
+        "doi": "10.1002/adom.202500736",
+        "name": "RADAR",
+        "url": "https://github.com/bogdanoancea/RADAR",
+        "full_name": "bogdanoancea/RADAR",
+        "html_url": "https://github.com/bogdanoancea/RADAR",
+        "created_at": "2026-10-29T08:39:53Z",
+        "updated_at": "2026-10-30T06:47:47Z",
+        "clone_url": "https://github.com/bogdanoancea/RADAR.git",
+        "size": 3750,
+        "language": "Python",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "owner": {
+            "html_url": "https://github.com/bogdanoancea",
+            "avatar_url": "https://avatars.githubusercontent.com/u/9313914?v=4",
+            "login": "bogdanoancea",
+            "type": "User"
+        },
+        "timestamp": "2026-11-01 03:00:05.857760",
+        "avatar": "https://avatars.githubusercontent.com/u/9313914?v=4"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "parser": "github",
+    "uid": "github/VectorInstitute/fairsense-agentix",
+    "url": "https://github.com/VectorInstitute/fairsense-agentix",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.23106857",
+        "name": "fairsense-agentix",
+        "url": "https://github.com/VectorInstitute/fairsense-agentix",
+        "full_name": "VectorInstitute/fairsense-agentix",
+        "html_url": "https://github.com/VectorInstitute/fairsense-agentix",
+        "description": "An agentic fairness and AI-risk analysis platform: bias detection for text, images, and datasets.",
+        "created_at": "2025-09-25T17:46:20Z",
+        "updated_at": "2026-10-02T16:35:20Z",
+        "clone_url": "https://github.com/VectorInstitute/fairsense-agentix.git",
+        "homepage": "https://vectorinstitute.github.io/fairsense-agentix/",
+        "size": 10263,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "Python",
+        "open_issues_count": 5,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/VectorInstitute",
+            "avatar_url": "https://avatars.githubusercontent.com/u/40637123?v=4",
+            "login": "VectorInstitute",
+            "type": "Organization"
+        },
+        "topics": [
+            "agentic-ai",
+            "ai-safety",
+            "bias-detection",
+            "fairness"
+        ],
+        "timestamp": "2026-11-01 02:59:43.749422",
+        "avatar": "https://avatars.githubusercontent.com/u/40637123?v=4"
+    }
+}
