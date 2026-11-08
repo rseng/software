@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/lostlight530/agent-foundations",
+    "url": "https://github.com/lostlight530/agent-foundations",
+    "data": {
+        "name": "agent-foundations",
+        "url": "https://github.com/lostlight530/agent-foundations",
+        "full_name": "lostlight530/agent-foundations",
+        "html_url": "https://github.com/lostlight530/agent-foundations",
+        "private": false,
+        "description": "Bilingual theory, evidence, and architecture-decision foundation for agent systems, with canonical sources, explicit claim states, implementation boundaries, validation states, and reproducibility discipline.",
+        "created_at": "2026-05-19T14:13:43Z",
+        "updated_at": "2026-10-07T07:28:51Z",
+        "clone_url": "https://github.com/lostlight530/agent-foundations.git",
+        "homepage": "https://lostlight530.github.io/agent-foundations/",
+        "size": 2454,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "HTML",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/lostlight530",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189435331?v=4",
+            "login": "lostlight530",
+            "type": "User"
+        },
+        "topics": [
+            "agent-architecture",
+            "agent-collaboration",
+            "agent-memory",
+            "agent-systems",
+            "ai-agents",
+            "ai-research",
+            "architecture-decisions",
+            "bilingual",
+            "evidence-engineering",
+            "multi-agent-systems",
+            "open-research",
+            "open-source",
+            "provenance",
+            "reproducibility",
+            "research-methodology",
+            "research-software",
+            "source-registry",
+            "tool-use",
+            "agent-theory",
+            "claim-mapping"
+        ],
+        "timestamp": "2026-10-07 20:58:23.512302",
+        "avatar": "https://avatars.githubusercontent.com/u/189435331?v=4"
+    }
+}

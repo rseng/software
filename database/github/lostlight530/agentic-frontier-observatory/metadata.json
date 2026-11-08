@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/lostlight530/agentic-frontier-observatory",
+    "url": "https://github.com/lostlight530/agentic-frontier-observatory",
+    "data": {
+        "name": "agentic-frontier-observatory",
+        "url": "https://github.com/lostlight530/agentic-frontier-observatory",
+        "full_name": "lostlight530/agentic-frontier-observatory",
+        "html_url": "https://github.com/lostlight530/agentic-frontier-observatory",
+        "private": false,
+        "description": "Bilingual, source-grounded observatory tracing global AI from its intellectual and computational roots to the agentic frontier across models, protocols, runtimes, evaluation, safety, governance, and ecosystems.",
+        "created_at": "2026-08-07T03:34:19Z",
+        "updated_at": "2026-10-07T07:29:29Z",
+        "clone_url": "https://github.com/lostlight530/agentic-frontier-observatory.git",
+        "homepage": null,
+        "size": 1469,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": null,
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/lostlight530",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189435331?v=4",
+            "login": "lostlight530",
+            "type": "User"
+        },
+        "topics": [
+            "ai-agents",
+            "ai-research",
+            "artificial-intelligence",
+            "frontier-ai",
+            "daily-research",
+            "agent-protocols",
+            "agent-runtimes",
+            "agent-to-agent",
+            "agentic-ai",
+            "ai-evaluation",
+            "ai-governance",
+            "ai-infrastructure",
+            "ai-safety",
+            "bilingual",
+            "evidence-based-research",
+            "foundation-models",
+            "model-context-protocol",
+            "multi-agent-systems",
+            "open-research",
+            "research-observatory"
+        ],
+        "timestamp": "2026-10-07 20:58:41.966416",
+        "avatar": "https://avatars.githubusercontent.com/u/189435331?v=4"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/lostlight530/sci-render-kit",
+    "url": "https://github.com/lostlight530/sci-render-kit",
+    "data": {
+        "name": "sci-render-kit",
+        "url": "https://github.com/lostlight530/sci-render-kit",
+        "full_name": "lostlight530/sci-render-kit",
+        "html_url": "https://github.com/lostlight530/sci-render-kit",
+        "private": false,
+        "description": "Declarative scientific-figure compiler with explicit uncertainty semantics, accessibility intent, communication audits, provenance sidecars, portable figure evidence, and publisher-target boundaries.",
+        "created_at": "2026-06-19T08:30:33Z",
+        "updated_at": "2026-10-07T07:29:21Z",
+        "clone_url": "https://github.com/lostlight530/sci-render-kit.git",
+        "homepage": "",
+        "size": 1018,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 0,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/lostlight530",
+            "avatar_url": "https://avatars.githubusercontent.com/u/189435331?v=4",
+            "login": "lostlight530",
+            "type": "User"
+        },
+        "topics": [
+            "matplotlib",
+            "reproducibility",
+            "accessibility",
+            "data-visualization",
+            "declarative-visualization",
+            "evidence-engineering",
+            "ggplot2",
+            "open-research",
+            "open-source",
+            "provenance",
+            "python",
+            "quality-gates",
+            "research-engineering",
+            "research-software",
+            "scientific-communication",
+            "scientific-figures",
+            "scientific-visualization",
+            "uncertainty",
+            "figure-evidence",
+            "publisher-workflows"
+        ],
+        "timestamp": "2026-10-07 20:58:33.252266",
+        "avatar": "https://avatars.githubusercontent.com/u/189435331?v=4"
+    }
+}
