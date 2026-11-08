@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/onera/paradigm",
+    "url": "https://github.com/onera/paradigm",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.23534059",
+        "name": "paradigm",
+        "url": "https://github.com/onera/paradigm",
+        "full_name": "onera/paradigm",
+        "html_url": "https://github.com/onera/paradigm",
+        "description": "Library for managing meshes in a massively parallel distributed environment",
+        "created_at": "2024-07-24T08:03:37Z",
+        "updated_at": "2026-10-19T09:45:33Z",
+        "clone_url": "https://github.com/onera/paradigm.git",
+        "size": 40272,
+        "stargazers_count": 13,
+        "watchers_count": 13,
+        "language": "C",
+        "open_issues_count": 3,
+        "license": {
+            "key": "lgpl-3.0",
+            "name": "GNU Lesser General Public License v3.0",
+            "spdx_id": "LGPL-3.0",
+            "url": "https://api.github.com/licenses/lgpl-3.0",
+            "node_id": "MDc6TGljZW5zZTEy"
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/onera",
+            "avatar_url": "https://avatars.githubusercontent.com/u/118024617?v=4",
+            "login": "onera",
+            "type": "Organization"
+        },
+        "timestamp": "2026-11-08 03:05:46.763257",
+        "avatar": "https://avatars.githubusercontent.com/u/118024617?v=4"
+    }
+}

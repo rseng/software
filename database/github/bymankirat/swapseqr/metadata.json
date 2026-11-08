@@ -1,0 +1,33 @@
+{
+    "parser": "github",
+    "uid": "github/bymankirat/swapseqr",
+    "url": "https://github.com/bymankirat/swapseqr",
+    "data": {
+        "doi": "10.5281/zenodo.23963612",
+        "name": "swapseqr",
+        "url": "https://github.com/bymankirat/swapseqr",
+        "full_name": "bymankirat/swapseqr",
+        "html_url": "https://github.com/bymankirat/swapseqr",
+        "description": "Detect Swapped and Mislabelled Samples in Longitudinal Microbiome Studies",
+        "created_at": "2026-11-05T21:23:34Z",
+        "updated_at": "2026-11-07T23:59:17Z",
+        "clone_url": "https://github.com/bymankirat/swapseqr.git",
+        "size": 57,
+        "language": "JavaScript",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "owner": {
+            "html_url": "https://github.com/bymankirat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/173464799?v=4",
+            "login": "bymankirat",
+            "type": "User"
+        },
+        "timestamp": "2026-11-08 03:06:12.478981",
+        "avatar": "https://avatars.githubusercontent.com/u/173464799?v=4"
+    }
+}
