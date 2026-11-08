@@ -1,0 +1,50 @@
+{
+    "parser": "github",
+    "uid": "github/SCAI-BIO/syndat",
+    "url": "https://github.com/SCAI-BIO/syndat",
+    "data": {
+        "doi": "10.3233/shti240834",
+        "name": "syndat",
+        "url": "https://github.com/SCAI-BIO/syndat",
+        "full_name": "SCAI-BIO/syndat",
+        "html_url": "https://github.com/SCAI-BIO/syndat",
+        "description": "Python library to evaluate and visualize the quality of synthetic patient and clinical trial data",
+        "created_at": "2023-12-21T15:05:08Z",
+        "updated_at": "2026-11-06T17:11:31Z",
+        "clone_url": "https://github.com/SCAI-BIO/syndat.git",
+        "homepage": "https://syndat.readthedocs.io",
+        "size": 2178,
+        "stargazers_count": 14,
+        "watchers_count": 14,
+        "language": "Python",
+        "open_issues_count": 16,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/SCAI-BIO",
+            "avatar_url": "https://avatars.githubusercontent.com/u/87079995?v=4",
+            "login": "SCAI-BIO",
+            "type": "Organization"
+        },
+        "topics": [
+            "data-quality",
+            "data-visualization",
+            "synthetic-data",
+            "bioinformatics",
+            "python",
+            "clinical-data",
+            "data-fidelity",
+            "health-informatics",
+            "synthetic-data-evaluation",
+            "synthetic-patient-data"
+        ],
+        "timestamp": "2026-11-08 03:06:10.180347",
+        "avatar": "https://avatars.githubusercontent.com/u/87079995?v=4"
+    }
+}

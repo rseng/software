@@ -1,0 +1,52 @@
+{
+    "parser": "github",
+    "uid": "github/EinarOlafsson/spacr",
+    "url": "https://github.com/EinarOlafsson/spacr",
+    "data": {
+        "doi": "10.5281/zenodo.21343316",
+        "name": "spacr",
+        "url": "https://github.com/EinarOlafsson/spacr",
+        "full_name": "EinarOlafsson/spacr",
+        "html_url": "https://github.com/EinarOlafsson/spacr",
+        "description": " spaCR Spatial phenotype analysis of CRISPR\u2013Cas9 screens (spaCR)",
+        "created_at": "2024-03-08T16:18:52Z",
+        "updated_at": "2026-11-05T16:27:14Z",
+        "clone_url": "https://github.com/EinarOlafsson/spacr.git",
+        "homepage": "https://einarolafsson.github.io/spacr/",
+        "size": 12988569,
+        "stargazers_count": 9,
+        "watchers_count": 9,
+        "language": "Python",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/EinarOlafsson",
+            "avatar_url": "https://avatars.githubusercontent.com/u/36156211?v=4",
+            "login": "EinarOlafsson",
+            "type": "User"
+        },
+        "topics": [
+            "crispr",
+            "deep-learning",
+            "feature-engineering",
+            "feature-extraction",
+            "image-processing",
+            "machine-learning",
+            "measurements",
+            "morphological-profiling",
+            "python",
+            "regression",
+            "segmentation",
+            "sequencing",
+            "single-cell-analysis"
+        ],
+        "timestamp": "2026-11-08 03:06:13.018065",
+        "avatar": "https://avatars.githubusercontent.com/u/36156211?v=4"
+    }
+}

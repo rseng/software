@@ -1,0 +1,35 @@
+{
+    "parser": "github",
+    "uid": "github/MilanKlausz/mcstas_gisans",
+    "url": "https://github.com/MilanKlausz/mcstas_gisans",
+    "data": {
+        "doi": "10.1107/S160057672600213X",
+        "name": "mcstas_gisans",
+        "url": "https://github.com/MilanKlausz/mcstas_gisans",
+        "full_name": "MilanKlausz/mcstas_gisans",
+        "html_url": "https://github.com/MilanKlausz/mcstas_gisans",
+        "description": "Project to model GISANS samples within McStas",
+        "created_at": "2023-11-02T13:51:33Z",
+        "updated_at": "2026-10-11T18:59:07Z",
+        "clone_url": "https://github.com/MilanKlausz/mcstas_gisans.git",
+        "homepage": "https://milanklausz.github.io/mcstas_gisans/",
+        "size": 13501,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "owner": {
+            "html_url": "https://github.com/MilanKlausz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32518760?v=4",
+            "login": "MilanKlausz",
+            "type": "User"
+        },
+        "timestamp": "2026-11-08 03:06:16.452979",
+        "avatar": "https://avatars.githubusercontent.com/u/32518760?v=4"
+    }
+}

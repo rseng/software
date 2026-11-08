@@ -1,0 +1,36 @@
+{
+    "parser": "github",
+    "uid": "github/a2iEditing/CEI",
+    "url": "https://github.com/a2iEditing/CEI",
+    "data": {
+        "doi": "10.1186/S13059-026-04154-3",
+        "name": "CEI",
+        "url": "https://github.com/a2iEditing/CEI",
+        "full_name": "a2iEditing/CEI",
+        "html_url": "https://github.com/a2iEditing/CEI",
+        "description": "A Cytoplasmic Index for Quantifying Immune-Related A-to-I RNA Editing",
+        "created_at": "2025-10-29T12:10:08Z",
+        "updated_at": "2026-06-30T14:36:20Z",
+        "clone_url": "https://github.com/a2iEditing/CEI.git",
+        "size": 709,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "language": "R",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/a2iEditing",
+            "avatar_url": "https://avatars.githubusercontent.com/u/51383997?v=4",
+            "login": "a2iEditing",
+            "type": "User"
+        },
+        "timestamp": "2026-11-08 03:06:20.638721",
+        "avatar": "https://avatars.githubusercontent.com/u/51383997?v=4"
+    }
+}
