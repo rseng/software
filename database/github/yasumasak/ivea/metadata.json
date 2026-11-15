@@ -1,0 +1,34 @@
+{
+    "parser": "github",
+    "uid": "github/yasumasak/ivea",
+    "url": "https://github.com/yasumasak/ivea",
+    "data": {
+        "doi": "10.1038/s41467-025-61579-3",
+        "name": "ivea",
+        "url": "https://github.com/yasumasak/ivea",
+        "full_name": "yasumasak/ivea",
+        "html_url": "https://github.com/yasumasak/ivea",
+        "description": "IVEA : Integrative variational Bayesian inference of regulatory element activity for predicting enhancer\u2013gene regulatory interactions",
+        "created_at": "2023-03-16T02:19:45Z",
+        "updated_at": "2026-10-01T14:53:54Z",
+        "clone_url": "https://github.com/yasumasak/ivea.git",
+        "size": 113876,
+        "language": "R",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/yasumasak",
+            "avatar_url": "https://avatars.githubusercontent.com/u/13405523?v=4",
+            "login": "yasumasak",
+            "type": "User"
+        },
+        "timestamp": "2026-11-15 03:38:08.544309",
+        "avatar": "https://avatars.githubusercontent.com/u/13405523?v=4"
+    }
+}
