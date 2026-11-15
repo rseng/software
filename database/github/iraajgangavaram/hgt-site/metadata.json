@@ -1,0 +1,54 @@
+{
+    "parser": "github",
+    "uid": "github/iraajgangavaram/hgt-site",
+    "url": "https://github.com/iraajgangavaram/hgt-site",
+    "data": {
+        "name": "hgt-site",
+        "url": "https://github.com/iraajgangavaram/hgt-site",
+        "full_name": "iraajgangavaram/hgt-site",
+        "html_url": "https://github.com/iraajgangavaram/hgt-site",
+        "private": false,
+        "description": "The fastest tool to find where foreign DNA has been inserted into a genome, built to ignore contamination and lab artefacts.",
+        "created_at": "2026-10-31T15:49:16Z",
+        "updated_at": "2026-11-13T20:50:28Z",
+        "clone_url": "https://github.com/iraajgangavaram/hgt-site.git",
+        "homepage": "https://iraajgangavaram.github.io/hgt-site/",
+        "size": 884,
+        "stargazers_count": 11,
+        "watchers_count": 11,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/iraajgangavaram",
+            "avatar_url": "https://avatars.githubusercontent.com/u/98648540?v=4",
+            "login": "iraajgangavaram",
+            "type": "User"
+        },
+        "topics": [
+            "bioinformatics",
+            "genomics",
+            "horizontal-gene-transfer",
+            "metagenomics",
+            "microbiology",
+            "python",
+            "sequencing",
+            "structural-variants",
+            "centrifuge",
+            "contamination",
+            "kaiju",
+            "kraken2",
+            "ngs",
+            "viral-integration"
+        ],
+        "timestamp": "2026-11-15 03:37:59.855125",
+        "avatar": "https://avatars.githubusercontent.com/u/98648540?v=4"
+    }
+}
