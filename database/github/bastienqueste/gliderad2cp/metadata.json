@@ -1,0 +1,37 @@
+{
+    "parser": "github",
+    "uid": "github/bastienqueste/gliderad2cp",
+    "url": "https://github.com/bastienqueste/gliderad2cp",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.23010182",
+        "name": "gliderad2cp",
+        "url": "https://github.com/bastienqueste/gliderad2cp",
+        "full_name": "bastienqueste/gliderad2cp",
+        "html_url": "https://github.com/bastienqueste/gliderad2cp",
+        "description": "Processing toolchain for AD2CP data collected from autonomous underwater gliders. Processes from raw data to shear values ready for referencing.",
+        "created_at": "2023-10-09T14:25:33Z",
+        "updated_at": "2026-09-30T07:54:12Z",
+        "clone_url": "https://github.com/bastienqueste/gliderad2cp.git",
+        "size": 22223,
+        "stargazers_count": 6,
+        "watchers_count": 6,
+        "language": "Jupyter Notebook",
+        "open_issues_count": 6,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 3,
+        "owner": {
+            "html_url": "https://github.com/bastienqueste",
+            "avatar_url": "https://avatars.githubusercontent.com/u/161546?v=4",
+            "login": "bastienqueste",
+            "type": "User"
+        },
+        "timestamp": "2026-11-22 03:53:07.382475",
+        "avatar": "https://avatars.githubusercontent.com/u/161546?v=4"
+    }
+}
