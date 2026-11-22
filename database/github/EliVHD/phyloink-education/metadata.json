@@ -1,0 +1,39 @@
+{
+    "parser": "github",
+    "uid": "github/EliVHD/phyloink-education",
+    "url": "https://github.com/EliVHD/phyloink-education",
+    "data": {
+        "name": "phyloink-education",
+        "url": "https://github.com/EliVHD/phyloink-education",
+        "full_name": "EliVHD/phyloink-education",
+        "html_url": "https://github.com/EliVHD/phyloink-education",
+        "private": false,
+        "description": "A finite showcase of adaptable teaching examples, printable materials and Newick sources for PhyloInk.",
+        "created_at": "2026-11-11T13:29:07Z",
+        "updated_at": "2026-11-17T16:04:25Z",
+        "clone_url": "https://github.com/EliVHD/phyloink-education.git",
+        "homepage": "https://github.com/EliVHD/phyloink",
+        "size": 4932,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "HTML",
+        "open_issues_count": 0,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/EliVHD",
+            "avatar_url": "https://avatars.githubusercontent.com/u/120323411?v=4",
+            "login": "EliVHD",
+            "type": "User"
+        },
+        "topics": [],
+        "timestamp": "2026-11-22 03:53:36.543445",
+        "avatar": "https://avatars.githubusercontent.com/u/120323411?v=4"
+    }
+}

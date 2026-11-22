@@ -1,0 +1,45 @@
+{
+    "parser": "github",
+    "uid": "github/EricMarcon/divent",
+    "url": "https://github.com/EricMarcon/divent",
+    "data": {
+        "doi": "https://doi.org/10.5281/zenodo.24057629",
+        "name": "divent",
+        "url": "https://github.com/EricMarcon/divent",
+        "full_name": "EricMarcon/divent",
+        "html_url": "https://github.com/EricMarcon/divent",
+        "description": "Diversity measures based on Entropy",
+        "created_at": "2022-10-09T22:09:21Z",
+        "updated_at": "2026-11-07T19:00:33Z",
+        "clone_url": "https://github.com/EricMarcon/divent.git",
+        "homepage": "https://ericmarcon.github.io/divent/",
+        "size": 19380,
+        "stargazers_count": 3,
+        "watchers_count": 3,
+        "language": "R",
+        "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+        },
+        "subscribers_count": 2,
+        "owner": {
+            "html_url": "https://github.com/EricMarcon",
+            "avatar_url": "https://avatars.githubusercontent.com/u/29632125?v=4",
+            "login": "EricMarcon",
+            "type": "User"
+        },
+        "topics": [
+            "biodiversity",
+            "diversity",
+            "entropy-partitioning",
+            "estimator",
+            "measure",
+            "species"
+        ],
+        "timestamp": "2026-11-22 03:53:09.248293",
+        "avatar": "https://avatars.githubusercontent.com/u/29632125?v=4"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "parser": "github",
+    "uid": "github/StevenLShafer/stanpumpR",
+    "url": "https://github.com/StevenLShafer/stanpumpR",
+    "data": {
+        "name": "stanpumpR",
+        "url": "https://github.com/StevenLShafer/stanpumpR",
+        "full_name": "StevenLShafer/stanpumpR",
+        "html_url": "https://github.com/StevenLShafer/stanpumpR",
+        "private": false,
+        "description": "stanpumpR, and PK/PD simulation program",
+        "created_at": "2019-09-15T22:22:07Z",
+        "updated_at": "2026-11-10T23:42:59Z",
+        "clone_url": "https://github.com/StevenLShafer/stanpumpR.git",
+        "homepage": "https://steveshafer.shinyapps.io/stanpumpr/",
+        "size": 266300,
+        "stargazers_count": 26,
+        "watchers_count": 26,
+        "language": "R",
+        "open_issues_count": 35,
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "subscribers_count": 5,
+        "owner": {
+            "html_url": "https://github.com/StevenLShafer",
+            "avatar_url": "https://avatars.githubusercontent.com/u/21980367?v=4",
+            "login": "StevenLShafer",
+            "type": "User"
+        },
+        "topics": [
+            "pharmacokinetics",
+            "simulation"
+        ],
+        "timestamp": "2026-11-22 03:53:37.419345",
+        "avatar": "https://avatars.githubusercontent.com/u/21980367?v=4"
+    }
+}

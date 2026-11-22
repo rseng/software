@@ -1,0 +1,60 @@
+{
+    "parser": "github",
+    "uid": "github/JoshuaDuq/planumatlas",
+    "url": "https://github.com/JoshuaDuq/planumatlas",
+    "data": {
+        "name": "planumatlas",
+        "url": "https://github.com/JoshuaDuq/planumatlas",
+        "full_name": "JoshuaDuq/planumatlas",
+        "html_url": "https://github.com/JoshuaDuq/planumatlas",
+        "private": false,
+        "description": "Planum Atlas: an interactive, browser-based atlas of one real human brain (MRI, FreeSurfer, diffusion tractography), with cortical atlases and published evidence traceable to their sources.",
+        "created_at": "2026-09-10T19:42:10Z",
+        "updated_at": "2026-11-21T23:20:29Z",
+        "clone_url": "https://github.com/JoshuaDuq/planumatlas.git",
+        "homepage": "https://planumatlas.com/",
+        "size": 1108410,
+        "stargazers_count": 2,
+        "watchers_count": 2,
+        "language": "TypeScript",
+        "open_issues_count": 8,
+        "license": {
+            "key": "agpl-3.0",
+            "name": "GNU Affero General Public License v3.0",
+            "spdx_id": "AGPL-3.0",
+            "url": "https://api.github.com/licenses/agpl-3.0",
+            "node_id": "MDc6TGljZW5zZTE="
+        },
+        "subscribers_count": 1,
+        "owner": {
+            "html_url": "https://github.com/JoshuaDuq",
+            "avatar_url": "https://avatars.githubusercontent.com/u/215416972?v=4",
+            "login": "JoshuaDuq",
+            "type": "User"
+        },
+        "topics": [
+            "brain-atlas",
+            "brain-visualization",
+            "diffusion-mri",
+            "freesurfer",
+            "mri",
+            "neuroanatomy",
+            "neuroimaging",
+            "neuroscience",
+            "tractography",
+            "webgl",
+            "brain-mapping",
+            "cerebral-cortex",
+            "education",
+            "medical-imaging",
+            "neuroinformatics",
+            "nifti",
+            "parcellation",
+            "anatomy",
+            "interactive-visualization",
+            "threejs"
+        ],
+        "timestamp": "2026-11-22 03:53:31.913525",
+        "avatar": "https://avatars.githubusercontent.com/u/215416972?v=4"
+    }
+}
