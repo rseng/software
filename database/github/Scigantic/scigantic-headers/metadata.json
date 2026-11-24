@@ -1,0 +1,50 @@
+{
+    "parser": "github",
+    "uid": "github/Scigantic/scigantic-headers",
+    "url": "https://github.com/Scigantic/scigantic-headers",
+    "data": {
+        "name": "scigantic-headers",
+        "url": "https://github.com/Scigantic/scigantic-headers",
+        "full_name": "Scigantic/scigantic-headers",
+        "html_url": "https://github.com/Scigantic/scigantic-headers",
+        "private": false,
+        "description": "Decode scientific file headers (cryo-EM, imaging, tabular, flow cytometry, mass spec, sequencing, structural biology) into typed fields. Pure, zero-dependency, with bounded parallel readers.",
+        "created_at": "2026-07-16T17:02:42Z",
+        "updated_at": "2026-11-21T21:26:34Z",
+        "clone_url": "https://github.com/Scigantic/scigantic-headers.git",
+        "homepage": "https://pypi.org/project/scigantic-headers/",
+        "size": 1657,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": "Python",
+        "open_issues_count": 1,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "subscribers_count": 0,
+        "owner": {
+            "html_url": "https://github.com/Scigantic",
+            "avatar_url": "https://avatars.githubusercontent.com/u/301751622?v=4",
+            "login": "Scigantic",
+            "type": "Organization"
+        },
+        "topics": [
+            "bioinformatics",
+            "cryo-em",
+            "file-formats",
+            "parser",
+            "scientific-computing",
+            "hdf5",
+            "mrc",
+            "nifti",
+            "ome-tiff",
+            "zarr"
+        ],
+        "timestamp": "2026-11-23 13:59:32.144702",
+        "avatar": "https://avatars.githubusercontent.com/u/301751622?v=4"
+    }
+}
